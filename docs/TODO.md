@@ -1,23 +1,23 @@
-# 未実装機能リスト
+# 開発状況
 
 最終更新: 2026-01-19
 
 ## ✅ 実装完了
 
-以下の機能は実装済みです：
-
 | 機能 | ファイル | 備考 |
 |------|----------|------|
 | 検索機能 | `site/src/pages/[lang]/search.astro` | Fuse.js使用 |
 | ブラウズページ | `site/src/pages/[lang]/browse.astro` | ピンイン順一覧 |
-| タイ語対応 | `site/src/layouts/Layout.astro` | 言語スイッチャーに含む |
-| 全カテゴリ動的生成 | `site/src/pages/[lang]/category/[category].astro` | getAllCategories()使用 |
+| 4言語対応 | `site/src/layouts/Layout.astro` | en/ja/ko/th |
+| 全カテゴリ動的生成 | `site/src/pages/[lang]/category/[category].astro` | 29カテゴリ |
+| サイドバー動的化 | `site/src/layouts/Layout.astro` | categories.jsonから生成 |
 | 多言語UIテキスト | `site/src/i18n/*.json` | en/ja/ko/th |
 | OGP画像 | `site/public/og-default.svg` | デフォルト画像 |
 | Sitemap | `astro.config.mjs` | @astrojs/sitemap |
 | robots.txt | `site/public/robots.txt` | 設定済み |
-| GitHub Actions CI | `.github/workflows/ci.yml` | lint, build |
+| GitHub Actions CI | `.github/workflows/ci.yml` | lint, format, build（厳格モード） |
 | Cloudflare Pages | Cloudflareダッシュボード | 自動デプロイ設定済み |
+| ESLint/Prettier | `eslint.config.mjs` | TypeScript + Astro対応 |
 
 **デプロイ済みURL:** https://chinese-dictionary-site.pages.dev/
 
@@ -36,35 +36,25 @@
 2. **Cloudflare Pagesでドメイン追加**
    - Cloudflareダッシュボード → Workers & Pages → chinese-dictionary-site
    - Custom domains → Add custom domain
-   - ドメイン入力 → DNS設定が自動追加される
 
-3. **robots.txt / sitemap更新**
-   - `site/public/robots.txt` のSitemap URLを更新
-   - `site/astro.config.mjs` の `site` 設定を更新
+3. **コード内のURL更新**（一括置換: `chinesedict.com` → 新ドメイン）
+   - `site/astro.config.mjs:9` - site設定
+   - `site/public/robots.txt:5` - Sitemap URL
+   - `site/src/layouts/Layout.astro:26-27, 79-99` - OG/hreflang URLs
 
 ---
 
 ## 🟡 将来的な改善（優先度：低）
 
-### 動的OG画像生成
-- 各単語ごとにOG画像を自動生成
-- `satori` または `@vercel/og` を使用
-
-### サイドバーのカテゴリ動的化
-- 現在 Layout.astro でハードコード（4カテゴリ）
-- categories.json から動的に生成に変更
-
-### ESLint警告の修正
-- `site/src/lib/i18n.ts:28` の `any` 型を修正
+| 項目 | 内容 |
+|------|------|
+| 動的OG画像生成 | 各単語ごとにOG画像を自動生成（satori使用） |
 
 ---
 
 ## 📊 ビルド情報
 
-- 総ページ数: 1,678ページ
-- ビルド時間: 約14秒
-- データ件数:
-  - ja: 536件
-  - en: 532件
-  - ko: 534件
-  - th: 528件
+- 総ページ数: **2,237ページ**
+- ビルド時間: 約40秒
+- カテゴリ数: 29
+- データ件数: 約530件/言語 × 4言語

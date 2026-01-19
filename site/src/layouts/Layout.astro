@@ -1,5 +1,6 @@
 ---
 import '../styles/global.css';
+import { getAllCategories, getCategoryName, getCategoryIcon } from '../lib/data';
 
 interface Props {
   title: string;
@@ -171,39 +172,20 @@ const languages = [
           <aside class="w-64 hidden lg:block flex-shrink-0">
             <nav class="sticky top-24">
               <h3 class="font-semibold text-gray-900 mb-4">Categories</h3>
-              <ul class="space-y-2">
-                <li>
-                  <a
-                    href={`/${lang}/category/net`}
-                    class="flex items-center gap-2 text-gray-600 hover:text-red-600 py-1"
-                  >
-                    <span>💬</span> Internet Slang
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href={`/${lang}/category/jinrong`}
-                    class="flex items-center gap-2 text-gray-600 hover:text-red-600 py-1"
-                  >
-                    <span>💰</span> Finance
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href={`/${lang}/category/sns`}
-                    class="flex items-center gap-2 text-gray-600 hover:text-red-600 py-1"
-                  >
-                    <span>📱</span> Social Media
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href={`/${lang}/category/tanci`}
-                    class="flex items-center gap-2 text-gray-600 hover:text-red-600 py-1"
-                  >
-                    <span>😮</span> Interjections
-                  </a>
-                </li>
+              <ul class="space-y-1 max-h-[60vh] overflow-y-auto pr-2">
+                {
+                  getAllCategories().map((category) => (
+                    <li>
+                      <a
+                        href={`/${lang}/category/${category.id}`}
+                        class="flex items-center gap-2 text-gray-600 hover:text-red-600 py-1 text-sm"
+                      >
+                        <span>{getCategoryIcon(category.id)}</span>
+                        <span class="truncate">{getCategoryName(category, lang)}</span>
+                      </a>
+                    </li>
+                  ))
+                }
               </ul>
 
               <!-- Ad Space (Sidebar) -->
