@@ -1,0 +1,30 @@
+{
+  "slug": "hongdouni",
+  "chinese": "红豆泥",
+  "pinyin": "hóng dòu ní",
+  "meaning": "Really / Hontou ni",
+  "description": "Phonetic transliteration of the Japanese word \"Hontou ni\" (Really/Truly).",
+  "examples": [
+    {
+      "chinese": "红豆泥斯米马赛",
+      "translation": "Really sorry (Hontou ni sumimasen)."
+    },
+    {
+      "chinese": "红豆泥卡哇伊得斯内",
+      "translation": "Really cute (Hontou ni kawaii desu ne)."
+    },
+    {
+      "chinese": "红豆泥果咩那塞",
+      "translation": "Really sorry (Hontou ni gomenasai)."
+    }
+  ],
+  "category": "wailaiyu",
+  "categoryName": "Loanwords / Transliteration",
+  "relatedWords": [
+    "sumimasai",
+    "kawayi",
+    "diesinei",
+    "guomienasai"
+  ],
+  "sourceUrl": "https://chineself.com/hongdouni/"
+}

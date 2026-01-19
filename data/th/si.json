@@ -1,0 +1,36 @@
+{
+    "slug": "si",
+    "chinese": "亖",
+    "pinyin": "sì",
+    "meaning": "① เลข 4 ② ตาย",
+    "description": "วิธีเขียนเลข 4 แบบโบราณ ในเน็ตใช้แทนคำว่า ตาย (Si) ในความหมายว่า \"...จะตายอยู่แล้ว\"",
+    "category": "net",
+    "categoryName": "ศัพท์อินเทอร์เน็ต",
+    "relatedWords": [
+        "housile",
+        "kecp"
+    ],
+    "sourceUrl": "https://chineself.com/si/",
+    "examples": [
+        {
+            "chinese": "你别把我吓亖",
+            "translation": "อย่าทำให้ฉันตกใจแทบตาย"
+        },
+        {
+            "chinese": "齁死了,嗑亖我了",
+            "translation": "หวานจนจะตาย จิ้นจนจะตายอยู่แล้ว"
+        },
+        {
+            "chinese": "累亖了这几天",
+            "translation": "เหนื่อยจะตายอยู่แล้วช่วงนี้"
+        },
+        {
+            "chinese": "真的会被你俩笑亖",
+            "translation": "ขำพวกเธอสองคนแทบตาย"
+        },
+        {
+            "chinese": "有点美的想亖了",
+            "translation": "สวยจนอยากจะตาย"
+        }
+    ]
+}

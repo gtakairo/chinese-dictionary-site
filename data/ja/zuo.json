@@ -1,0 +1,25 @@
+{
+  "slug": "zuo",
+  "chinese": "坐标",
+  "pinyin": "zuò biāo",
+  "meaning": "①座標 ②場所、地点",
+  "description": "一般的には座標の意味で、纵坐标（y坐标）「縦座標（y座標）」、横坐标（x坐标）「横座標（x座標）」。SNSでは「場所、地点」として定位と同じ意味となる。坐标点でも同じ。坐标符号「現在位置マーク」。",
+  "examples": [
+    {
+      "chinese": "在上海哪里买到特大码鞋子啊,求坐标",
+      "translation": "上海のどこで特大サイズの靴が買えるの？場所を教えて"
+    },
+    {
+      "chinese": "本人坐标青岛,想在附近的城市（高铁5h之内）求城市推荐及攻略",
+      "translation": "本人は青島にいて、近くの都市（高速鉄道で5時間内）お薦めの都市と攻略を教えて"
+    },
+    {
+      "chinese": "评论区留下你的坐标,找个同城搭子",
+      "translation": "コメント欄にあなたの住んでる地点を残しておいて、近くに住む友達を探している"
+    }
+  ],
+  "category": "sns",
+  "categoryName": "Web・SNS用語",
+  "relatedWords": ["tongcheng", "dazi"],
+  "sourceUrl": "https://chineself.com/zuo/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "dingdan",
+  "chinese": "定档",
+  "pinyin": "dìng dàng",
+  "meaning": "（映画、ドラマなどの）上映・放映・公開時期が決まる",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "官宣定档了！看完预告片期待值达到巅峰",
+      "translation": "上映日時が公式発表された、予告篇を見たが期待が最高潮に達している"
+    },
+    {
+      "chinese": "定档了！这预告悬疑氛围拉满了诶,大银幕见",
+      "translation": "公開が決まった、この予告のスリルの雰囲気が最高、映画館で会おう"
+    },
+    {
+      "chinese": "期待很久终于定档了,下月一起,锁定CCTV-8",
+      "translation": "長く待っていたがとうとう日程が決まった、来月からCCTV-8で"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "未分類",
+  "relatedWords": ["guanxuan", "laman", "dayingping"],
+  "sourceUrl": "https://chineself.com/dingdan/"
+}

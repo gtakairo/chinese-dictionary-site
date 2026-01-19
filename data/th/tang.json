@@ -1,0 +1,25 @@
+{
+    "slug": "tang",
+    "chinese": "糖醋肉",
+    "pinyin": "táng cù ròu",
+    "meaning": "หมูผัดเปรี้ยวหวาน (ทังซูยุก)",
+    "description": "หมูผัดเปรี้ยวหวานแบบร้านจีนในญี่ปุ่นหรือเกาหลี ที่มีแต่เนื้อไม่มีผัก",
+    "category": "liaoli",
+    "categoryName": "อาหาร",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/tang/",
+    "examples": [
+        {
+            "chinese": "点一份糖醋肉配米饭",
+            "translation": "สั่งหมูผัดเปรี้ยวหวานกับข้าวสวย"
+        },
+        {
+            "chinese": "这道糖醋肉偏甜",
+            "translation": "หมูผัดเปรี้ยวหวานจานนี้ออกหวาน"
+        },
+        {
+            "chinese": "糖醋肉没有青椒",
+            "translation": "หมูผัดเปรี้ยวหวานนี้ไม่มีพริกหยวก"
+        }
+    ]
+}

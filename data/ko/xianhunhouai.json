@@ -1,0 +1,23 @@
+{
+  "slug": "xianhunhouai",
+  "chinese": "先婚后爱",
+  "pinyin": "xiān hūn hòu ài",
+  "meaning": "선결혼 후연애",
+  "description": "결혼 먼저 하고 나서 나중에 사랑을 키워가는 것.",
+  "examples": [
+    {
+      "chinese": "先婚后爱,虽然很土,但是很上头",
+      "translation": "선결혼 후연애, 촌스럽지만 완전 꽂힌다."
+    },
+    {
+      "chinese": "先婚后爱,先爱后婚,有大的区别",
+      "translation": "선결혼 후연애와 연애 결혼은 큰 차이가 있다."
+    }
+  ],
+  "category": "nannv",
+  "categoryName": "연애 / 결혼",
+  "relatedWords": [
+    "baobanhunyin"
+  ],
+  "sourceUrl": "https://chineself.com/xianhunhouai/"
+}

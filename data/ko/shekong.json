@@ -1,0 +1,25 @@
+{
+  "slug": "shekong",
+  "chinese": "社恐",
+  "pinyin": "shè kǒng",
+  "meaning": "대인기피증 / 사회공포증",
+  "description": "사회공포증(대인기피증)의 줄임말. 반대말은 사교의 달인을 뜻하는 '셔뉴(社牛)'. 관련어: 셔자(社杂), 셔렁(社冷).",
+  "examples": [
+    {
+      "chinese": "人越多越局促,见的人越多越社恐",
+      "translation": "사람이 많을수록 위축되고, 만나는 사람이 많을수록 대인기피증이 심해진다."
+    },
+    {
+      "chinese": "啥时候可以面试不紧张呢,社恐人哭哭",
+      "translation": "언제쯤 면접에서 긴장하지 않을 수 있을까? 대인기피증이라 눈물 난다."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어 / 속어",
+  "relatedWords": [
+    "sheniu",
+    "sheza",
+    "sheleng"
+  ],
+  "sourceUrl": "https://chineself.com/shekong/"
+}

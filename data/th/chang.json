@@ -1,0 +1,16 @@
+{
+  "slug": "chang",
+  "chinese": "长草区",
+  "pinyin": "cháng cǎo qū",
+  "meaning": "รัฟ (กอล์ฟ)",
+  "description": "พื้นที่หญ้ายาวข้างแฟร์เวย์ ลูกตกแล้วตีออกยาก (รัฟ)",
+  "examples": [
+    { "chinese": "球落在长草区很难打", "translation": "ลูกตกในรัฟแล้วตีออกยาก" },
+    { "chinese": "从长草区切回球道", "translation": "ชิพจากรัฟกลับเข้าฟেয়ร์เวย์" },
+    { "chinese": "长草区的草很深", "translation": "หญ้าในรัฟยาวมาก" }
+  ],
+  "category": "sports",
+  "categoryName": "กีฬา",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/chang/"
+}

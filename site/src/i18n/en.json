@@ -1,0 +1,51 @@
+{
+  "common": {
+    "search": "Search",
+    "categories": "Categories",
+    "relatedWords": "Related Words",
+    "examples": "Example Sentences",
+    "home": "Home",
+    "browse": "Browse",
+    "viewAll": "View all",
+    "backToHome": "Back to Home",
+    "viewCategory": "View Category",
+    "words": "words",
+    "total": "total"
+  },
+  "word": {
+    "meaning": "Meaning",
+    "pronunciation": "Pronunciation",
+    "etymology": "Etymology",
+    "usage": "Usage",
+    "description": "Description",
+    "related": "Related Words"
+  },
+  "search": {
+    "title": "Search",
+    "placeholder": "Search Chinese words, pinyin, or meaning...",
+    "noResults": "No results found. Try different keywords.",
+    "searchTips": "Search by Chinese characters, pinyin, or English meaning",
+    "enterKeywords": "Enter search keywords"
+  },
+  "browse": {
+    "title": "Browse All Words",
+    "subtitle": "Browse words alphabetically by pinyin",
+    "totalWords": "words total"
+  },
+  "category": {
+    "title": "Categories",
+    "viewAll": "View all words in this category"
+  },
+  "home": {
+    "title": "Chinese Dictionary - Learn Modern Chinese",
+    "subtitle": "Discover Chinese slang, internet terms, and modern expressions",
+    "latestWords": "Latest Words",
+    "featuredWords": "Featured Words"
+  },
+  "footer": {
+    "about": "About",
+    "privacy": "Privacy",
+    "contact": "Contact",
+    "copyright": "All rights reserved"
+  }
+}

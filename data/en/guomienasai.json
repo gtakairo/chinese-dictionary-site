@@ -1,0 +1,20 @@
+{
+  "slug": "guomienasai",
+  "chinese": "果咩那塞",
+  "pinyin": "guǒ miē nà sāi",
+  "meaning": "Sorry / Gomenasai",
+  "description": "Phonetic transliteration of the Japanese \"Gomenasai\" (I'm sorry). \"Guò miē nà sāi\" and \"Guǒ miē lā sāi\" are variations.",
+  "examples": [
+    {
+      "chinese": "再麻烦一次果咩那塞",
+      "translation": "Sorry to trouble you again."
+    }
+  ],
+  "category": "wailaiyu",
+  "categoryName": "Loanwords / Transliteration",
+  "relatedWords": [
+    "sumimasai",
+    "hongdouni"
+  ],
+  "sourceUrl": "https://chineself.com/guomienasai/"
+}

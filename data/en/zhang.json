@@ -1,0 +1,29 @@
+{
+  "slug": "zhang",
+  "chinese": "张弛有度",
+  "pinyin": "zhāng chí yǒu dù",
+  "meaning": "Well-balanced / Paced",
+  "description": "Appropriate balance between tension and relaxation.",
+  "examples": [
+    {
+      "chinese": "他是刚柔并济张弛有度的",
+      "translation": "He combines hardness and softness, well-balanced"
+    },
+    {
+      "chinese": "故事节奏非常好,张弛有度",
+      "translation": "Story pacing is very good, well-balanced"
+    },
+    {
+      "chinese": "不要太忙,也不要太闲,张弛有度",
+      "translation": "Not too busy, not too free, well-balanced"
+    },
+    {
+      "chinese": "只有放松自己的心情,张弛有度,才能应对生活中的各种难题",
+      "translation": "Only by relaxing and being well-balanced can you handle life's problems"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "Idioms",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/zhang/"
+}

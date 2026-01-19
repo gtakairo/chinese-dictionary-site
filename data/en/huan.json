@@ -1,0 +1,25 @@
+{
+  "slug": "huan",
+  "chinese": "缓冲存储器",
+  "pinyin": "huǎn chōng cún chú qì",
+  "meaning": "Buffer memory",
+  "description": "Storage area for temporary data retention and transfer efficiency.",
+  "examples": [
+    {
+      "chinese": "优化缓冲存储器策略",
+      "translation": "Optimize buffer memory strategy"
+    },
+    {
+      "chinese": "缓冲存储器能提高吞吐量",
+      "translation": "Buffer memory can increase throughput"
+    },
+    {
+      "chinese": "检查缓冲存储器溢出问题",
+      "translation": "Check for buffer memory overflow issues"
+    }
+  ],
+  "category": "technology",
+  "categoryName": "Technology",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/huan/"
+}

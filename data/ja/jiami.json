@@ -1,0 +1,16 @@
+{
+  "slug": "jiami",
+  "chinese": "加密货币",
+  "pinyin": "jiā mì huò bì",
+  "meaning": "暗号通貨（=仮想通貨）",
+  "description": "「加密」の意味は「暗号化する」。",
+  "examples": [
+    {"chinese": "加密货币价格波动很大", "japanese": "暗号資産は価格変動が大きい"},
+    {"chinese": "他开始定投加密货币", "japanese": "彼は暗号通貨の積立投資を始めた"},
+    {"chinese": "监管政策影响加密货币市场", "japanese": "規制政策が暗号資産市場に影響する"}
+  ],
+  "category": "jinrong",
+  "categoryName": "金融・投資",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/jiami/"
+}

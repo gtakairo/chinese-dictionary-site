@@ -1,0 +1,25 @@
+{
+  "slug": "shan",
+  "chinese": "闪崩",
+  "pinyin": "shǎn bēng",
+  "meaning": "突然の大暴落",
+  "description": "2016年10月7日に英ポンドが対ドルで1ポンド=1.26ドル前後の相場が、一瞬で1.18ドル台と売り込まれ突然急落した。それを\"闪崩\"と表現したことから。",
+  "examples": [
+    {
+      "chinese": "深夜闪崩！知名巨头股价大跌",
+      "translation": "深夜に突然の暴落、有名主要株が大幅下落"
+    },
+    {
+      "chinese": "重磅!闪崩暴跌50%",
+      "translation": "ビッグニュース、突然の50％大暴落"
+    },
+    {
+      "chinese": "比特币闪崩,单日暴跌29%",
+      "translation": "ビットコインが突然の大暴落、一日で29％急落"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "金融・投資",
+  "relatedWords": ["zhongbang"],
+  "sourceUrl": "https://chineself.com/shan/"
+}

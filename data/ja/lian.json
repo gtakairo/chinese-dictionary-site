@@ -1,0 +1,25 @@
+{
+  "slug": "lian",
+  "chinese": "连吃带拿",
+  "pinyin": "lián chī dài ná",
+  "meaning": "その場で食べた物を更に持ち帰る",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "大学生吃50块钱自助餐,吃超时了,还连吃带拿",
+      "japanese": "大学生が50元のバイキングで時間超過となり食材を持ち帰る"
+    },
+    {
+      "chinese": "在好友家做客,连吃带拿的,回家后感到不好意思",
+      "japanese": "親友の家でご馳走になり持ち帰り、帰宅したあと申し訳なく感じる"
+    },
+    {
+      "chinese": "第一次去贵宾休息室,连吃带拿大包小包上飞机",
+      "japanese": "初めてラウンジに行き食べてたくさん詰めて飛行機に乗る"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "未分類",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/lian/"
+}

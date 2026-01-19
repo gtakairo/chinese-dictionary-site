@@ -1,0 +1,25 @@
+{
+  "slug": "bei",
+  "chinese": "背包袱",
+  "pinyin": "bèi bāo fú",
+  "meaning": "重荷を背負う",
+  "description": "包袱は「①ふろしき ②ふろしき包み ③（精神的な）負担、悩みの種」の意味。放下包袱「肩の荷を下ろす」。",
+  "examples": [
+    {
+      "chinese": "不要背包袱,你只需要对自己负责就好啦",
+      "translation": "重荷を背負うな、あなたは自分の責任を果たせばよい"
+    },
+    {
+      "chinese": "工作尊滴很辛苦,有谁愿意背包袱",
+      "translation": "仕事は本当に骨が折れる、誰が精神的負担を背負いたいというのか"
+    },
+    {
+      "chinese": "不给孩子背包袱,轻装往前走才是给孩子正能量",
+      "translation": "子供に精神的な負担をかけるな、身軽に進んでこそ子供はポジティブになれる"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "未分類",
+  "relatedWords": ["zundima", "zhengnengliang"],
+  "sourceUrl": "https://chineself.com/bei/"
+}

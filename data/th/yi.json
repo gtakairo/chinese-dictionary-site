@@ -1,0 +1,25 @@
+{
+  "slug": "yi",
+  "chinese": "一白遮百丑",
+  "pinyin": "yī bái zhē bǎi chǒu",
+  "meaning": "ผิวขาวกลบทุกจุดด้อย",
+  "description": "คนผิวขาวมักดูดีแม้จะมีข้อบกพร่องอื่น",
+  "examples": [
+    {
+      "chinese": "一白真的遮百丑吗",
+      "translation": "ขาวแล้วดูดีขึ้นจริงเหรอ"
+    },
+    {
+      "chinese": "一白遮百丑,牙白更靓丽",
+      "translation": "ผิวขาวกลบจุดด้อย ฟันขาวยิ่งสวยเด่น"
+    },
+    {
+      "chinese": "俗话说一白遮百丑,皮肤黑不可怕",
+      "translation": "โบราณว่าผิวขาวกลบทุกจุดด้อย แต่ผิวเข้มก็น่ากลัวหรอก"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "สำนวน / สุภาษิตจีน",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/yi/"
+}

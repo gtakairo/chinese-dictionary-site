@@ -1,0 +1,25 @@
+{
+  "slug": "fen",
+  "chinese": "粉",
+  "pinyin": "fěn",
+  "meaning": "Very / Extremely",
+  "description": "Same meaning as \"hen\" (很).",
+  "examples": [
+    {
+      "chinese": "粉开心",
+      "translation": "Very happy"
+    },
+    {
+      "chinese": "粉可爱",
+      "translation": "Very cute"
+    },
+    {
+      "chinese": "粉高兴",
+      "translation": "Very glad"
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/fen/"
+}

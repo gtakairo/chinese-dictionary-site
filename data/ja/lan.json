@@ -1,0 +1,16 @@
+{
+  "slug": "lan",
+  "chinese": "蓝筹股",
+  "pinyin": "lán chóu gǔ",
+  "meaning": "優良株式銘柄（ブルーチップ）",
+  "description": "業績・財務が堅調な優良銘柄。長期保有の投資対象として語られることが多い。",
+  "examples": [
+    {"chinese": "我更偏好蓝筹股", "japanese": "私は優良株を好む"},
+    {"chinese": "蓝筹股估值相对稳定", "japanese": "優良株は相対的にバリュエーションが安定している"},
+    {"chinese": "把资金转到蓝筹股", "japanese": "資金を優良株へ移した"}
+  ],
+  "category": "jinrong",
+  "categoryName": "金融・投資",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/lan/"
+}

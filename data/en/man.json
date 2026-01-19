@@ -1,0 +1,35 @@
+{
+  "slug": "man",
+  "chinese": "慢半拍",
+  "pinyin": "màn bàn pāi",
+  "meaning": "Slow to react / A beat behind",
+  "description": "1. Half a beat slow, slow reaction. 2. Being behind, lagging behind.",
+  "examples": [
+    {
+      "chinese": "她跳舞又开始慢半拍的节奏",
+      "translation": "Her dancing is getting off-beat again."
+    },
+    {
+      "chinese": "我不管做什么,都比别人慢半拍",
+      "translation": "Whatever I do, I'm always a beat slower than others."
+    },
+    {
+      "chinese": "这踏马手机一连WIFI网络反应总是慢半拍",
+      "translation": "This damn phone always reacts slowly when connected to WiFi."
+    },
+    {
+      "chinese": "公共政策不能总是慢半拍",
+      "translation": "Public policy cannot always be lagging behind."
+    },
+    {
+      "chinese": "速度时代苹果汽车开发慢半拍",
+      "translation": "In the age of speed, Apple Car development is lagging behind."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [
+    "tama"
+  ],
+  "sourceUrl": "https://chineself.com/man/"
+}

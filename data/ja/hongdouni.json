@@ -1,0 +1,16 @@
+{
+  "slug": "hongdouni",
+  "chinese": "红豆泥",
+  "pinyin": "hóng dòu ní",
+  "meaning": "ほんとうに",
+  "description": "日本語の「ほんとうに」の音訳。",
+  "examples": [
+    {"chinese": "红豆泥斯米马赛", "japanese": "ほんとうにすいません"},
+    {"chinese": "红豆泥卡哇伊得斯内", "japanese": "ほんとうにかわいいですね"},
+    {"chinese": "红豆泥果咩那塞", "japanese": "ほんとうにごめんなさい"}
+  ],
+  "category": "wailaiyu",
+  "categoryName": "外来語・音訳",
+  "relatedWords": ["sumimasai", "kawayi", "diesinei", "guomienasai"],
+  "sourceUrl": "https://chineself.com/hongdouni/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "guanli",
+  "chinese": "管理层收购",
+  "pinyin": "guǎn lǐ céng shōu gòu",
+  "meaning": "Management Buyout (MBO)",
+  "description": "An MBO where the management team purchases the company. It is used as a method for taking a company private or restructuring.",
+  "examples": [
+    {
+      "chinese": "公司计划进行管理层收购",
+      "translation": "The company plans to conduct a management buyout."
+    },
+    {
+      "chinese": "管理层收购后公司将退市",
+      "translation": "The company will be delisted after the management buyout."
+    },
+    {
+      "chinese": "投资者关注管理层收购的估值",
+      "translation": "Investors are paying attention to the valuation of the management buyout."
+    }
+  ],
+  "category": "jingji",
+  "categoryName": "Economics & Business",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/guanli/"
+}

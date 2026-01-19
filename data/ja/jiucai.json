@@ -1,0 +1,25 @@
+{
+  "slug": "jiucai",
+  "chinese": "韭菜",
+  "pinyin": "jiǔ cài",
+  "meaning": "（投資での）カモ、（資本主義で）搾取されるものたち",
+  "description": "割韭菜「①（投資などで）カモにすること ②巧妙な詐欺で搾取すること」の意味。韭菜（ニラ）は痩せた土でも育つ生命力があり、刈り取ってもすぐに生えてくる。そのため、投資の世界で次々に参入してくるカモにされる人らを「韭菜（ニラ）」にたとえている。",
+  "examples": [
+    {
+      "chinese": "市场上骗子太多,韭菜们不够了",
+      "translation": "市場には詐欺野郎が多すぎ、カモにされる人らは足りてない"
+    },
+    {
+      "chinese": "牛市来了,韭菜们看见一根大阳线就兴奋得不行",
+      "translation": "強気市場だ、搾取されるものたちが大陽線を見て興奮している"
+    },
+    {
+      "chinese": "股东是尼玛的冤大头,求求韭菜们早点醒悟吧",
+      "translation": "株主はクソおめでたい人たちだ、カモたち早く目を醒ませ"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "金融・投資",
+  "relatedWords": ["gejiucai", "nima"],
+  "sourceUrl": "https://chineself.com/jiucaimen/"
+}

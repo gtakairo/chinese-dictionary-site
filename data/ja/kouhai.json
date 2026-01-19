@@ -1,0 +1,14 @@
+{
+  "slug": "kouhai",
+  "chinese": "口嗨",
+  "pinyin": "kǒu hāi",
+  "meaning": "口だけ／ネットでイキる",
+  "description": "現実では行動しないのに、口では大きく言うこと。",
+  "examples": [
+    {"chinese": "别在网上口嗨了", "japanese": "ネットで口だけにならないで"}
+  ],
+  "category": "net",
+  "categoryName": "ネットスラング",
+  "relatedWords": ["gangjing"],
+  "sourceUrl": "https://chineself.com/kouhai/"
+}

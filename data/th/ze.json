@@ -1,0 +1,29 @@
+{
+  "slug": "ze",
+  "chinese": "贼",
+  "pinyin": "zéi",
+  "meaning": "โคตร / มาก",
+  "description": "ภาษาถิ่นใช้ขยายคำเพื่อบอกระดับว่า 'มาก' หรือ 'สุดๆ'",
+  "examples": [
+    {
+      "chinese": "今天孩子们睡得贼香",
+      "translation": "วันนี้เด็กๆ หลับสนิทมาก"
+    },
+    {
+      "chinese": "这件拉链卫衣贼好穿",
+      "translation": "เสื้อฮู้ดตัวนี้ใส่สบายโคตร"
+    },
+    {
+      "chinese": "熊孩子一进厕所开始疯狂放炮,声贼大",
+      "translation": "เด็กเปรตเข้าไปจุดประทัดในห้องน้ำ เสียงดังโคตรๆ"
+    },
+    {
+      "chinese": "心态已经好成贼贼歪了",
+      "translation": "ทัศนคติเบี้ยวไปหมดแล้ว"
+    }
+  ],
+  "category": "fangyan",
+  "categoryName": "ภาษาถิ่น",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/ze/"
+}

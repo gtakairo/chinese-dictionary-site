@@ -1,0 +1,20 @@
+{
+  "slug": "dagongren",
+  "chinese": "打工人",
+  "pinyin": "dǎ gōng rén",
+  "meaning": "ทาสบริษัท / พนักงานออฟฟิศ (พูดประชดตัวเอง)",
+  "description": "ศัพท์อินเทอร์เน็ตที่ใช้เรียกคนทำงานหนักแบบประชดประชัน",
+  "examples": [
+    {
+      "chinese": "打工人，打工魂",
+      "translation": "คนทำงาน จิตวิญญาณคนทำงาน"
+    }
+  ],
+  "category": "net",
+  "categoryName": "สแลงอินเทอร์เน็ต",
+  "relatedWords": [
+    "neijuan",
+    "bailan"
+  ],
+  "sourceUrl": "https://chineself.com/dagongren/"
+}

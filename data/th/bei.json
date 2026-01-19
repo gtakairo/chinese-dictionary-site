@@ -1,0 +1,28 @@
+{
+  "slug": "bei",
+  "chinese": "背包袱",
+  "pinyin": "bèi bāo fú",
+  "meaning": "แบกรับภาระ / มีภาระทางใจ",
+  "description": "「Baofu」 หมายถึง 1. ผ้าห่อของ 2. ห่อผ้า 3. ภาระทางใจ/ความกังวล 「Fangxia baofu」 หมายถึง 「วางภาระลง」",
+  "examples": [
+    {
+      "chinese": "不要背包袱,你只需要对自己负责就好啦",
+      "translation": "ไม่ต้องแบกรับภาระ แค่รับผิดชอบตัวเองให้ดีก็พอแล้ว"
+    },
+    {
+      "chinese": "工作尊滴很辛苦,有谁愿意背包袱",
+      "translation": "งานเหนื่อยจริงๆ ใครจะไปอยากแบกรับภาระไว้ล่ะ"
+    },
+    {
+      "chinese": "不给孩子背包袱,轻装往前走才是给孩子正能量",
+      "translation": "อย่าเพิ่มภาระให้เด็ก ให้เขาเดินหน้าไปอย่างตัวเบา ๆ นั่นแหละคือพลังบวกให้ลูก"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "ไม่หมวดหมู่",
+  "relatedWords": [
+    "zundima",
+    "zhengnengliang"
+  ],
+  "sourceUrl": "https://chineself.com/bei/"
+}

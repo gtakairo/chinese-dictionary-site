@@ -1,0 +1,25 @@
+{
+  "slug": "huo",
+  "chinese": "火币",
+  "pinyin": "huǒ bì",
+  "meaning": "Huobi",
+  "description": "ชื่อภาษาจีนของ Huobi แพลตฟอร์มแลกเปลี่ยนสกุลเงินดิจิทัลที่มีต้นกำเนิดจากจีน",
+  "examples": [
+    {
+      "chinese": "在火币完成KYC",
+      "translation": "ทำ KYC บน Huobi ให้เสร็จ"
+    },
+    {
+      "chinese": "火币上线新币种",
+      "translation": "Huobi ลิสต์เหรียญใหม่"
+    },
+    {
+      "chinese": "查询火币的交易手续费",
+      "translation": "ตรวจสอบค่าธรรมเนียมการทำธุรกรรมของ Huobi"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "การเงิน/การลงทุน",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/huo/"
+}

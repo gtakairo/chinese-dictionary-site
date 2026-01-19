@@ -1,0 +1,25 @@
+{
+  "slug": "huo",
+  "chinese": "火币",
+  "pinyin": "huǒ bì",
+  "meaning": "Huobi",
+  "description": "Chinese notation for Huobi, a cryptocurrency exchange originating from China.",
+  "examples": [
+    {
+      "chinese": "在火币完成KYC",
+      "translation": "Complete KYC on Huobi"
+    },
+    {
+      "chinese": "火币上线新币种",
+      "translation": "Huobi listed a new coin"
+    },
+    {
+      "chinese": "查询火币的交易手续费",
+      "translation": "Check Huobi's transaction fees"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "Finance/Investment",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/huo/"
+}

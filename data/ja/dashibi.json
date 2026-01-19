@@ -1,0 +1,16 @@
+{
+  "slug": "dashibi",
+  "chinese": "达世币",
+  "pinyin": "dá shì bì",
+  "meaning": "ダッシュ（Dash）",
+  "description": "プライバシー性や即時性に特徴を持つ暗号資産Dashの中国語名。",
+  "examples": [
+    {"chinese": "达世币价格波动很大", "japanese": "Dashの価格変動は大きい"},
+    {"chinese": "了解达世币的隐私特性", "japanese": "Dashのプライバシー機能を理解する"},
+    {"chinese": "交易所新增达世币交易对", "japanese": "取引所にDashの新しいペアが追加された"}
+  ],
+  "category": "jinrong",
+  "categoryName": "金融・投資",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/dashibi/"
+}

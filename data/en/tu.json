@@ -1,0 +1,25 @@
+{
+    "slug": "tu",
+    "chinese": "团播",
+    "pinyin": "tuán bō",
+    "meaning": "Group Live Streaming",
+    "description": "Multiple streamers performing together to get gifts/votes.",
+    "category": "sns",
+    "categoryName": "Web/SNS Terms",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/tu/",
+    "examples": [
+        {
+            "chinese": "一晚人数1000万,擦边团播",
+            "translation": "10 million viewers in one night, borderline risky group stream"
+        },
+        {
+            "chinese": "直播新风口,团播何以成年轻人新宠",
+            "translation": "New trend in live streaming, why group stream is new favorite of young people"
+        },
+        {
+            "chinese": "单场千万打赏,打PK,输了奖金给对方吗？",
+            "translation": "Ten million tips in single session, PK battle, does loser give prize money to winner?"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "rong",
+  "chinese": "容错机制",
+  "pinyin": "róng cuò jī zhì",
+  "meaning": "กลไกความทนทานต่อความเสียหาย (Fault Tolerance)",
+  "description": "ระบบที่สามารถทำงานต่อไปได้แม้จะเกิดความเสียหายในบางส่วน",
+  "examples": [
+    {
+      "chinese": "设计容错机制提高可靠性",
+      "translation": "ออกแบบกลไกความทนทานต่อความเสียหายเพื่อเพิ่มความน่าเชื่อถือ"
+    },
+    {
+      "chinese": "系统具备故障转移能力",
+      "translation": "ระบบมีความสามารถในการ Failover"
+    },
+    {
+      "chinese": "通过冗余实现容错",
+      "translation": "ใช้ระบบสำรอง (Redundancy) เพื่อสร้างความทนทานต่อความเสียหาย"
+    }
+  ],
+  "category": "jingji",
+  "categoryName": "เศรษฐกิจ/ธุรกิจ",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/rong/"
+}

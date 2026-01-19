@@ -1,0 +1,25 @@
+{
+  "slug": "xi",
+  "chinese": "下半场",
+  "pinyin": "xià bàn chǎng",
+  "meaning": "Second Half",
+  "description": "Refers to the second half of a sports game.",
+  "examples": [
+    {
+      "chinese": "下半场球队反超比分",
+      "translation": "The team turned the score around in the second half."
+    },
+    {
+      "chinese": "下半场体能很关键",
+      "translation": "Stamina is key in the second half."
+    },
+    {
+      "chinese": "调整战术迎接下半场",
+      "translation": "Adjust tactics for the second half."
+    }
+  ],
+  "category": "sports",
+  "categoryName": "Sports",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/xi/"
+}

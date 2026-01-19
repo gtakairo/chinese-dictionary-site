@@ -1,0 +1,28 @@
+{
+  "slug": "fuwu",
+  "chinese": "福无双至,祸不单行",
+  "pinyin": "fú wú shuāng zhì, huò bù dān xíng",
+  "meaning": "화불단행(禍不單行) / 복은 쌍으로 오지 않고 화는 홀로 다니지 않는다",
+  "description": "유향(劉向)의 「설원(説苑)」에서 유래했다. 행운은 잇따라 오는 법이 없지만, 불행한 일은 겹쳐서 온다는 뜻이다.",
+  "examples": [
+    {
+      "chinese": "福无双至祸不单行,越缺钱用钱的地方越多",
+      "translation": "화불단행이라고, 돈이 없을수록 돈 쓸 곳이 많아진다."
+    },
+    {
+      "chinese": "时运不济,命途多舛,福无双至,祸不单行",
+      "translation": "운수가 사납고 팔자가 기구하니, 복은 쌍으로 오지 않고 화는 겹쳐서 온다."
+    },
+    {
+      "chinese": "人生哪有那么多幸运的事,福无双至,祸不单行",
+      "translation": "인생에 그리 많은 행운이 있을까, 복은 겹쳐 오지 않고 화는 홀로 오지 않는다."
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "성어/사자숙어",
+  "relatedWords": [
+    "shiyunbuji",
+    "mingtuduochuan"
+  ],
+  "sourceUrl": "https://chineself.com/fuwu/"
+}

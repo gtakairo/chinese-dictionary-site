@@ -1,0 +1,25 @@
+{
+  "slug": "jiaoshi",
+  "chinese": "搅屎棍",
+  "pinyin": "jiǎo shǐ gùn",
+  "meaning": "トラブルメーカー、厄介者、問題児",
+  "description": "混乱や不和をもたらすトラブルメーカー、人を攪乱させる問題児などの意味。",
+  "examples": [
+    {
+      "chinese": "这帮小孩儿太能闹腾了,一群搅屎棍",
+      "translation": "これらの子供たちは騒がしすぎ、トラブルメーカーだ"
+    },
+    {
+      "chinese": "领导休假半个月,搅屎棍不在之后工作效率up",
+      "translation": "リーダーが半月休暇を取る、厄介者がいないので仕事効率アップ"
+    },
+    {
+      "chinese": "家暴的爸,抑郁症的妈,搅屎棍的弟弟,不想回家",
+      "translation": "暴力を振るう父、うつ病の母、問題児の弟、家に帰りたくない"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/jiaoshi/"
+}

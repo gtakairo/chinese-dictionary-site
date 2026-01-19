@@ -1,0 +1,35 @@
+{
+  "slug": "guanzhu",
+  "chinese": "关注",
+  "pinyin": "guān zhù",
+  "meaning": "1. ให้ความสนใจ, ติดตาม (ข่าวสาร) 2. กดติดตาม (Follow/Subscribe)",
+  "description": "ใช้ในความหมายว่า \"ติดตาม\" หรือ \"Subscribe\" ในโซเชียลมีเดีย เช่น \"请关注\" (กรุณากดติดตาม)",
+  "examples": [
+    {
+      "chinese": "聊聊最近大家关注的事件",
+      "translation": "มาคุยเรื่องที่ทุกคนกำลังสนใจช่วงนี้กันหน่อย"
+    },
+    {
+      "chinese": "令人震惊的爆料在网络上引发广泛关注",
+      "translation": "การแฉที่น่าตกใจทำให้เกิดความสนใจอย่างกว้างขวางบนโลกออนไลน์"
+    },
+    {
+      "chinese": "喜欢就关注一下,谢谢!",
+      "translation": "ถ้าชอบก็กดติดตามหน่อยนะ ขอบคุณครับ/ค่ะ!"
+    },
+    {
+      "chinese": "球球了,点个赞,关注我",
+      "translation": "พลีสสส กดไลก์ กดติดตามให้หนูหน่อย"
+    }
+  ],
+  "category": "sns",
+  "categoryName": "ศัพท์โซเชียล/อินเทอร์เน็ต",
+  "relatedWords": [
+    "huguan",
+    "huiguan",
+    "baoliao",
+    "qiuqiule",
+    "dianzan"
+  ],
+  "sourceUrl": "https://chineself.com/guanzhu/"
+}

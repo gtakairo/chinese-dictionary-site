@@ -1,0 +1,25 @@
+{
+  "slug": "shabi",
+  "chinese": "煞笔",
+  "pinyin": "shā bǐ",
+  "meaning": "アホ、バカ",
+  "description": "一般的には「①（文章・書簡などを）書き終わる、筆をおく ②文章の最後の結び」という意味。ネット用語としては傻逼、傻B、傻x、傻鸟、傻屌などと同じ意味となる。罵倒語。",
+  "examples": [
+    {
+      "chinese": "看看这个煞笔视频",
+      "translation": "このアホな動画見て"
+    },
+    {
+      "chinese": "我真是个大煞笔呀",
+      "translation": "俺ってほんと大バカだよな"
+    },
+    {
+      "chinese": "你怎么那么煞笔呢",
+      "translation": "お前はどうしてそんなアホなんだ"
+    }
+  ],
+  "category": "ma",
+  "categoryName": "挑発・罵倒語",
+  "relatedWords": ["sb", "gunyuandian"],
+  "sourceUrl": "https://chineself.com/shabi/"
+}

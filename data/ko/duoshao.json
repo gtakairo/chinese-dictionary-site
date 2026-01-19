@@ -1,0 +1,25 @@
+{
+  "slug": "duoshao",
+  "chinese": "多少米",
+  "pinyin": "duō shǎo mǐ",
+  "meaning": "(금액이) 얼마?",
+  "description": "'얼마예요(多少钱)?'라는 뜻. 옛날에 돈 대신 쌀을 거래 수단으로 사용했던 것에서 유래했다. 가격을 직설적으로 묻기 꺼려질 때 사용하는 완곡한 표현이다.",
+  "examples": [
+    {
+      "chinese": "做美甲要多少米",
+      "translation": "네일 받는 데 얼마예요?"
+    },
+    {
+      "chinese": "不知道赔了多少米",
+      "translation": "얼마나 배상했는지 모르겠다"
+    },
+    {
+      "chinese": "礼貌问价,你们的婚礼费用花了多少米",
+      "translation": "실례지만 결혼식 비용 얼마나 드셨나요?"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어·은어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/duoshao/"
+}

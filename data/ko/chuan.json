@@ -1,0 +1,21 @@
+{
+  "slug": "chuan",
+  "chinese": "传播途径",
+  "pinyin": "chuán bò tú jìng",
+  "meaning": "감염 경로",
+  "description": "전염경로(chuan ran tu jing)라고도 부름.",
+  "examples": [
+    {
+      "chinese": "一个多月了,连个传播途径都没有搞清楚",
+      "translation": "한 달이 지났는데 감염 경로조차 밝혀지지 않았다"
+    },
+    {
+      "chinese": "性接触是梅毒的主要传播途径,比例占95%",
+      "translation": "성적 접촉이 매독의 주요 감염 경로로 95%를 차지한다"
+    }
+  ],
+  "category": "yiliao",
+  "categoryName": "의료/질병",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/chuan/"
+}

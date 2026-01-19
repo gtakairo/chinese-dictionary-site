@@ -1,0 +1,20 @@
+{
+  "slug": "nitian",
+  "chinese": "逆天",
+  "pinyin": "nì tiān",
+  "meaning": "역천(하늘을 거스름); 사기급; 엄청나다",
+  "description": "상식을 벗어나게 뛰어난 모습을 칭찬함.",
+  "examples": [
+    {
+      "chinese": "这波操作逆天了",
+      "translation": "이 플레이 진짜 미쳤다(신들렸다)."
+    }
+  ],
+  "category": "net",
+  "categoryName": "평가/칭찬",
+  "relatedWords": [
+    "yyds",
+    "juejuezi"
+  ],
+  "sourceUrl": "https://chineself.com/nitian/"
+}

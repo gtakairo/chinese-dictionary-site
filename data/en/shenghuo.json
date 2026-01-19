@@ -1,0 +1,27 @@
+{
+  "slug": "shenghuo",
+  "chinese": "牲活",
+  "pinyin": "shēng huó",
+  "meaning": "Livestock-like life / Life of a beast",
+  "description": "'Sheng' means livestock. Refers to a life of just eating and sleeping like a pig.",
+  "examples": [
+    {
+      "chinese": "该死的一天从这里开始牲活",
+      "translation": "A damn livestock-like day starts here."
+    },
+    {
+      "chinese": "放假归来,继续大学牲活",
+      "translation": "Back from vacation, the livestock-like university life continues."
+    },
+    {
+      "chinese": "牲活枯燥无味,疲倦的牲活",
+      "translation": "Livestock-like life is dull and tiring."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [
+    "gaiside"
+  ],
+  "sourceUrl": "https://chineself.com/shenghuo/"
+}

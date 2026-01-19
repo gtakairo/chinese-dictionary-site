@@ -1,0 +1,29 @@
+{
+  "slug": "jin",
+  "chinese": "金榜题名",
+  "pinyin": "jīn bǎng tí míng",
+  "meaning": "Pass an exam / Succeed in the examination",
+  "description": "In ancient imperial examinations, the list of successful candidates (Bang) was written on a golden placard (Jin Bang).",
+  "examples": [
+    {
+      "chinese": "愿今天一切顺顺利利,锦鲤护体,金榜题名",
+      "translation": "Wish everything goes smoothly today, lucky koi protects you, and you pass the exam"
+    },
+    {
+      "chinese": "一起为高考加油！祝莘莘学子,金榜题名,前程似锦",
+      "translation": "Cheer for Gaokao together! Wish all students pass the exam and have a bright future"
+    },
+    {
+      "chinese": "祝看见这条的朋友们金榜题名,顺利上岸,高考必胜",
+      "translation": "Wish friends seeing this pass the exam, successfully land ashore, and win the Gaokao"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "Idiom",
+  "relatedWords": [
+    "jinli",
+    "qianchengsijin",
+    "shangan"
+  ],
+  "sourceUrl": "https://chineself.com/jin/"
+}

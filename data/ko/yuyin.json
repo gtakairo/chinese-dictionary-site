@@ -1,0 +1,27 @@
+{
+  "slug": "yuyin",
+  "chinese": "欲迎还拒",
+  "pinyin": "yù yíng huán jù",
+  "meaning": "밀당하다 / 거절하는 척하다",
+  "description": "속으로는 좋으면서 겉으로는 거절하는 태도.",
+  "examples": [
+    {
+      "chinese": "如何识破女生的欲迎还拒",
+      "translation": "여자가 밀당하는 것을 어떻게 간파하나"
+    },
+    {
+      "chinese": "拴住男人心,有一个技巧:欲迎还拒约会",
+      "translation": "남자를 사로잡는 팁: 데이트에서 밀당하기"
+    },
+    {
+      "chinese": "当别人送你礼物时不要欲迎还拒",
+      "translation": "선물을 줄 때 거절하는 척하지 마라"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "성어/사자성어",
+  "relatedWords": [
+    "yujuhuanying"
+  ],
+  "sourceUrl": "https://chineself.com/yuyin/"
+}

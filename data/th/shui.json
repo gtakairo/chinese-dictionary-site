@@ -1,0 +1,25 @@
+{
+    "slug": "shui",
+    "chinese": "水泵",
+    "pinyin": "Shuǐ bèng",
+    "meaning": "ปั๊มน้ำ",
+    "description": "ปั๊มที่ใช้หมุนเวียนน้ำในระบบระบายความร้อนเครื่องยนต์",
+    "category": "car",
+    "categoryName": "ยานยนต์",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/shui/",
+    "examples": [
+        {
+            "chinese": "检查水泵是否漏水",
+            "translation": "เช็คว่าปั๊มน้ำรั่วไหม"
+        },
+        {
+            "chinese": "水泵驱动皮带需要更换",
+            "translation": "สายพานปั๊มน้ำต้องเปลี่ยนแล้ว"
+        },
+        {
+            "chinese": "更换水泵后散热改善",
+            "translation": "เปลี่ยนปั๊มน้ำแล้วระบายความร้อนดีขึ้น"
+        }
+    ]
+}

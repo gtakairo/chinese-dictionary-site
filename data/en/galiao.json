@@ -1,0 +1,19 @@
+{
+  "slug": "galiao",
+  "chinese": "尬聊",
+  "pinyin": "gà liáo",
+  "meaning": "Awkward conversation / Forced chat",
+  "description": "A chat or conversation that doesn't flow well and feels awkward or embarrassing.",
+  "examples": [
+    {
+      "chinese": "和他聊天总是尬聊",
+      "translation": "Chatting with him is always awkward."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Communication",
+  "relatedWords": [
+    "gawu"
+  ],
+  "sourceUrl": "https://chineself.com/galiao/"
+}

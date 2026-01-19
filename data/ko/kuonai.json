@@ -1,0 +1,23 @@
+{
+  "slug": "kuonai",
+  "chinese": "阔耐",
+  "pinyin": "kuò nài",
+  "meaning": "귀엽다",
+  "description": "「귀엽다(可愛)」의 인터넷 용어입니다. 「可耐」와 같은 의미입니다.",
+  "examples": [
+    {
+      "chinese": "这颜表情真的好阔耐啊",
+      "translation": "이 이모티콘 정말 귀엽다"
+    },
+    {
+      "chinese": "索吻亲亲,太阔耐啦",
+      "translation": "뽀뽀해달라니, 너무 귀엽다!"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어/은어",
+  "relatedWords": [
+    "kenai"
+  ],
+  "sourceUrl": "https://chineself.com/kuonai/"
+}

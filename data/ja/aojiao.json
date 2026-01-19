@@ -1,0 +1,25 @@
+{
+  "slug": "aojiao",
+  "chinese": "傲娇",
+  "pinyin": "ào jiāo",
+  "meaning": "ツンデレ",
+  "description": "娇蛮、蹭的累も同じ。傲（ツンツン）と娇（デレデレ）。普段は敵対的な態度ツンツンなのに、二人っきりの時は急にしおらしくなって過度に好意的な態度デレデレといちゃついてくるようなタイプの人物。",
+  "examples": [
+    {
+      "chinese": "他家里的小傲娇,外边的边角料",
+      "translation": "彼は家ではちょっとツンデレだが、外では使い物にならない"
+    },
+    {
+      "chinese": "女人带着些许傲娇,男人越爱女的",
+      "translation": "女性がツンデレになればなるほど男性は女性を好きになる"
+    },
+    {
+      "chinese": "最近发现自己好喜欢带点傲娇属性的男生",
+      "translation": "最近自分はちょっとツンデレ気質のある男性に引かれることに気づいた"
+    }
+  ],
+  "category": "sub",
+  "categoryName": "サブカルチャー",
+  "relatedWords": ["shehuibianjiaoliao"],
+  "sourceUrl": "https://chineself.com/aojiao/"
+}

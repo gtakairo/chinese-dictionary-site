@@ -1,0 +1,29 @@
+{
+  "slug": "dao",
+  "chinese": "倒逼",
+  "pinyin": "dào bī",
+  "meaning": "Force, compel, reverse pressure",
+  "description": "To force a change or action through pressure or circumstances.",
+  "examples": [
+    {
+      "chinese": "明天有事早起倒逼早睡",
+      "translation": "Having something to do tomorrow morning forces me to sleep early."
+    },
+    {
+      "chinese": "遇到逆境时倒逼自己接受现实",
+      "translation": "When facing adversity, force yourself to accept reality."
+    },
+    {
+      "chinese": "当下经济下行困境,倒逼创新转型",
+      "translation": "The current economic downturn forces innovation and transformation."
+    },
+    {
+      "chinese": "双碳目标倒逼新型电力系统建设提速",
+      "translation": "Carbon peaking goals force the acceleration of new power system construction."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/dao/"
+}

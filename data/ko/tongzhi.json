@@ -1,0 +1,39 @@
+{
+    "slug": "tongzhi",
+    "chinese": "同志剧",
+    "pinyin": "tóng zhì jù",
+    "meaning": "동지극 (BL 드라마, 게이 드라마)",
+    "description": "동지영화. BL드라마, 탐미극 등과 같음.",
+    "category": "lgbtq",
+    "categoryName": "LGBTQ",
+    "relatedWords": [
+        "blju",
+        "danmeiwenxue",
+        "xiahaiju",
+        "fuju",
+        "geiju",
+        "jilao",
+        "wannan",
+        "fentao",
+        "duanbei"
+    ],
+    "sourceUrl": "https://chineself.com/tongzhi/",
+    "examples": [
+        {
+            "chinese": "同志腐剧（＝腐剧）",
+            "translation": "동지 부극 (=부극)"
+        },
+        {
+            "chinese": "同志新剧",
+            "translation": "동지 신작 드라마"
+        },
+        {
+            "chinese": "同志美剧",
+            "translation": "미국 게이 드라마"
+        },
+        {
+            "chinese": "泰国同志剧",
+            "translation": "태국 게이 드라마"
+        }
+    ]
+}

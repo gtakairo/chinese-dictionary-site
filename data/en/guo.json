@@ -1,0 +1,25 @@
+{
+  "slug": "guo",
+  "chinese": "国补",
+  "pinyin": "guó bǔ",
+  "meaning": "National Subsidy / State Subsidy",
+  "description": "Short for \"Guójiā bǔtiē\" (State Subsidy). It refers to government subsidies for industries or consumers, such as EV purchase subsidies or trade-in subsidies.",
+  "examples": [
+    {
+      "chinese": "最近国补非常香,你都领了吗",
+      "translation": "The recent national subsidies are very attractive, have you claimed them?"
+    },
+    {
+      "chinese": "这些手机值得买,可以享受国补政策",
+      "translation": "These phones are worth buying, you can enjoy the national subsidy policy."
+    },
+    {
+      "chinese": "自2023年汽车\"以旧换新\"等购车补贴政策推行,今年也国补政策出炉",
+      "translation": "Since 2023, car purchase subsidy policies such as \"trade-in\" have been implemented, and this year the national subsidy policy has also been released."
+    }
+  ],
+  "category": "zhengzhi",
+  "categoryName": "Politics",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/guo/"
+}

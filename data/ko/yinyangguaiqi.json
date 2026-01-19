@@ -1,0 +1,19 @@
+{
+  "slug": "yinyangguaiqi",
+  "chinese": "阴阳怪气",
+  "pinyin": "yīn yáng guài qì",
+  "meaning": "비꼬다 / 빈정거리다",
+  "description": "겉으로는 칭찬하는 척하며 은근히 깎아내리는 화법.",
+  "examples": [
+    {
+      "chinese": "他说话阴阳怪气的",
+      "translation": "그는 말을 아주 비꼬듯이 한다"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 은어",
+  "relatedWords": [
+    "gangjing"
+  ],
+  "sourceUrl": "https://chineself.com/yinyangguaiqi/"
+}

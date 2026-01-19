@@ -1,0 +1,25 @@
+{
+    "slug": "softfork",
+    "chinese": "软分叉",
+    "pinyin": "ruǎn fēn chā",
+    "meaning": "Soft Fork",
+    "description": "การแยกสาย Blockchain แบบที่ยังทำงานร่วมกับเวอร์ชั่นเก่าได้",
+    "category": "jinrong",
+    "categoryName": "การเงิน/การลงทุน",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/softfork/",
+    "examples": [
+        {
+            "chinese": "通过软分叉升级协议",
+            "translation": "อัปเกรดโปรโตคอลผ่าน Soft Fork"
+        },
+        {
+            "chinese": "矿工需配合软分叉规则",
+            "translation": "นักขุดต้องปรับตามกฎ Soft Fork"
+        },
+        {
+            "chinese": "软分叉不会造成链分裂",
+            "translation": "Soft Fork จะไม่ทำให้เกิดการแยก Chain"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "shenme",
+  "chinese": "什么鬼",
+  "pinyin": "shén me guǐ",
+  "meaning": "What the heck / What is this / What on earth",
+  "description": "Originally a southern dialect with the same meaning as 'what is going on', it gradually became widely used on the internet. An exclamation often used when confused or frustrated.",
+  "examples": [
+    {
+      "chinese": "这是什么鬼天气,没见过这么大的雨",
+      "translation": "What the heck is this weather? I've never seen such heavy rain."
+    },
+    {
+      "chinese": "昨天才吃的火锅现在又想吃了是什么鬼",
+      "translation": "I just had hot pot yesterday and want it again, what the heck."
+    },
+    {
+      "chinese": "真的没有一件顺心的事情,我是什么倒霉鬼",
+      "translation": "Nothing is going right, what kind of bad luck is this?"
+    }
+  ],
+  "category": "tanci",
+  "categoryName": "Interjection",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/shenme/"
+}

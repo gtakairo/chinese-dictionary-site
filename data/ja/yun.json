@@ -1,0 +1,33 @@
+{
+  "slug": "yun",
+  "chinese": "晕菜",
+  "pinyin": "yūn cài",
+  "meaning": "クラクラする、ぼうっとなる、気絶する",
+  "description": "瞎菜、完菜とも言う。",
+  "examples": [
+    {
+      "chinese": "今日累晕菜",
+      "japanese": "今日は疲れてクラクラする"
+    },
+    {
+      "chinese": "大热天,我晕菜了",
+      "japanese": "本当に暑い、ぼうっとなる"
+    },
+    {
+      "chinese": "这个人真的给我笑晕菜了",
+      "japanese": "この人は本当に気絶するほど笑かしてくれる"
+    },
+    {
+      "chinese": "感冒…浑浑噩噩睡了一天,晕菜",
+      "japanese": "風邪だ、ぼっとしながら一日寝てた、クラクラする"
+    },
+    {
+      "chinese": "为啥还要想方案啊,真的晕菜",
+      "japanese": "なぜまだプランを考えないといけないの、本当にクラクラする"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語・スラング",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/yun/"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "dakai",
+  "chinese": "打开天窗说亮话",
+  "pinyin": "dǎ kāi tiān chuāng liàng huà",
+  "meaning": "พูดแบบเปิดอก, พูดตรงไปตรงมา",
+  "description": "การพูดคุยอย่างเปิดเผยโดยไม่มีการปิดบัง",
+  "examples": [
+    {
+      "chinese": "咱们就打开天窗说亮话吧",
+      "translation": "พวกเรามาพูดกันแบบเปิดอกเถอะ"
+    },
+    {
+      "chinese": "有些事不妨打开天窗说亮话吧",
+      "translation": "บางเรื่องพูดกันตรงๆ ไปเลยจะดีกว่า"
+    },
+    {
+      "chinese": "打开天窗说亮话,我喜欢你",
+      "translation": "พูดตรงๆ เลยนะ ฉันชอบเธอ"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "สำนวน/สุภาษิต",
+  "relatedWords": [
+    "lanwei"
+  ],
+  "sourceUrl": "https://chineself.com/dakai/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "ming",
+  "chinese": "敏感词",
+  "pinyin": "mǐn gǎn cí",
+  "meaning": "민감어 / 금기어 / 검열 단어",
+  "description": "검열에 걸리는 용어, 금지 단어. 동의어로는 차단어(屏蔽词), 위반어(违禁词) 등이 있다. 물론 일상적으로 민감한 문제를 건드리는 금기어란 뜻으로도 쓰인다.",
+  "examples": [
+    {
+      "chinese": "emmm～敏感词查这么严",
+      "translation": "음~ 민감어 검사가 이렇게 엄격하다니."
+    },
+    {
+      "chinese": "不知道碰到哪个敏感词了,发不出来",
+      "translation": "어떤 금지어에 걸렸는지 모르겠는데, 전송이 안 돼."
+    },
+    {
+      "chinese": "发个讨论都直接ban,有什么敏感词吗",
+      "translation": "토론 글을 올리자마자 바로 밴(ban)당했는데, 무슨 민감어라도 있었나?"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "미분류",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/ming/"
+}

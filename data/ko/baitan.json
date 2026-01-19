@@ -1,0 +1,19 @@
+{
+  "slug": "baitan",
+  "chinese": "摆摊",
+  "pinyin": "bǎi tān",
+  "meaning": "노점을 열다, 좌판을 벌이다",
+  "description": "길거리나 시장에서 임시로 노점을 열어 장사하는 행위.",
+  "examples": [
+    {
+      "chinese": "周末去夜市摆摊",
+      "translation": "주말에 야시장에 가서 노점을 연다"
+    }
+  ],
+  "category": "jingji",
+  "categoryName": "경제/생활",
+  "relatedWords": [
+    "shangxin"
+  ],
+  "sourceUrl": "https://chineself.com/baitan/"
+}

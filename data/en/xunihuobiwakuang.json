@@ -1,0 +1,25 @@
+{
+  "slug": "xunihuobiwakuang",
+  "chinese": "虚拟货币挖矿",
+  "pinyin": "xū nǐ huò bì wā kuàng",
+  "meaning": "Cryptocurrency Mining",
+  "description": "Using computing power to validate blockchain transactions and earn rewards.",
+  "examples": [
+    {
+      "chinese": "虚拟货币挖矿需要显卡",
+      "translation": "Cryptocurrency mining requires GPUs."
+    },
+    {
+      "chinese": "挖矿收益受币价影响",
+      "translation": "Mining profits are affected by coin prices."
+    },
+    {
+      "chinese": "矿场电费是大头",
+      "translation": "Electricity is the biggest cost for mining farms."
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "Finance / Investment",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/xunihuobiwakuang/"
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "si",
+  "chinese": "亖",
+  "pinyin": "sì",
+  "meaning": "①数字の4 ②死",
+  "description": "古代の数字の「4」の書き方。大写（大字）では「肆」。②はネット用語で、死了の「～過ぎる」の使い方と同じ。",
+  "examples": [
+    {
+      "chinese": "你别把我吓亖",
+      "translation": "あなた私を驚かせないで"
+    },
+    {
+      "chinese": "齁死了,嗑亖我了",
+      "translation": "鼻に付く、イチャイチャしすぎ"
+    },
+    {
+      "chinese": "累亖了这几天",
+      "translation": "この数日疲れすぎ"
+    },
+    {
+      "chinese": "真的会被你俩笑亖",
+      "translation": "ホントあんたらには笑わされるよ"
+    },
+    {
+      "chinese": "有点美的想亖了",
+      "translation": "ちょっと美しすぎて気になってしょうがない"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": ["housile", "kecp"],
+  "sourceUrl": "https://chineself.com/si/"
+}

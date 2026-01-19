@@ -1,0 +1,20 @@
+{
+  "slug": "dbq",
+  "chinese": "DBQ",
+  "pinyin": "d b q",
+  "meaning": "Sorry (Abbreviation of 「duì bù qǐ」)",
+  "description": "Acronym for 「duì bù qǐ」 (I'm sorry), used for light apologies.",
+  "examples": [
+    {
+      "chinese": "今天迟到了DBQ",
+      "translation": "Sorry I'm late today."
+    }
+  ],
+  "category": "wailaiyu",
+  "categoryName": "Abbreviations/Acronyms",
+  "relatedWords": [
+    "awsl",
+    "xswl"
+  ],
+  "sourceUrl": "https://chineself.com/dbq/"
+}

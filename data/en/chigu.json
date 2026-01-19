@@ -1,0 +1,27 @@
+{
+  "slug": "chigu",
+  "chinese": "吃谷",
+  "pinyin": "chī gǔ",
+  "meaning": "To buy (character/merchandise) goods",
+  "description": "Terminology from the 「Goods Circle」 (character goods community). 「Guzi」 is a transliteration of 「goods」. 「Qiagu」 means the same thing.",
+  "examples": [
+    {
+      "chinese": "从今天开始吃谷只买特别喜欢的",
+      "translation": "Starting today, I will only buy character goods that I especially like"
+    },
+    {
+      "chinese": "昨天吃谷好像花了一千多块有点罪恶",
+      "translation": "I feel a bit guilty for spending over 1000 yuan on goods yesterday"
+    },
+    {
+      "chinese": "特么的,不是必需品,但是不能不吃谷啊",
+      "translation": "Damn it, it's not a necessity, but I can't stop buying goods"
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [
+    "guzi"
+  ],
+  "sourceUrl": "https://chineself.com/chigu/"
+}

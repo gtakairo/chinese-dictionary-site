@@ -1,0 +1,19 @@
+{
+  "slug": "gaoleng",
+  "chinese": "高冷",
+  "pinyin": "gāo lěng",
+  "meaning": "시크하다 / 도도하다 / 차도남(녀)",
+  "description": "차가운 것은 아니지만, 다가가기 힘든 쿨함.",
+  "examples": [
+    {
+      "chinese": "她气质高冷",
+      "translation": "그녀는 분위기가 도도하다(시크하다)."
+    }
+  ],
+  "category": "net",
+  "categoryName": "성격・분위기",
+  "relatedWords": [
+    "oumeifaner"
+  ],
+  "sourceUrl": "https://chineself.com/gaoleng/"
+}

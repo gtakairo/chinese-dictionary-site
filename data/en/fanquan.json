@@ -1,0 +1,19 @@
+{
+  "slug": "fanquan",
+  "chinese": "饭圈",
+  "pinyin": "fàn quān",
+  "meaning": "Fandom circle; idol fan community",
+  "description": "Communities and culture of idol/series fandoms, including their practices and norms.",
+  "examples": [
+    { "chinese": "她是饭圈资深粉", "translation": "She's a veteran in the fandom circle." },
+    { "chinese": "饭圈用语", "translation": "Fandom lingo." },
+    { "chinese": "饭圈打投", "translation": "Fandom mass voting activities." }
+  ],
+  "category": "net",
+  "categoryName": "推し文化・界隈",
+  "relatedWords": [
+    "fensi",
+    "poquan"
+  ],
+  "sourceUrl": "https://chineself.com/fanquan/"
+}

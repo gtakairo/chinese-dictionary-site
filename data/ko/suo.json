@@ -1,0 +1,25 @@
+{
+    "slug": "suo",
+    "chinese": "所爱隔山海,山海皆可平",
+    "pinyin": "suǒ ài gé shān hǎi, shān hǎi jiē kě píng",
+    "meaning": "사랑은 산과 바다도 넘는다",
+    "description": "산과 바다의 거리도 평평하게 만들 수 있다는 뜻. 남녀의 사랑을 산과 바다에 비유한 인터넷 용어.",
+    "category": "nannv",
+    "categoryName": "연애/결혼",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/suo/",
+    "examples": [
+        {
+            "chinese": "所爱隔山海,山海皆可平,难平是人心",
+            "translation": "사랑은 산과 바다도 넘지만, 사람 마음은 평평하게 하기 어렵다"
+        },
+        {
+            "chinese": "所爱隔山海,山海皆可平,海有舟可渡,山有路可行",
+            "translation": "사랑은 산과 바다도 넘고, 바다는 배로 건너고 산은 길로 가면 된다"
+        },
+        {
+            "chinese": "所爱隔山海,山海皆可平,生不遇你,世无如此欢喜",
+            "translation": "사랑은 산과 바다도 넘는다. 살면서 너를 만나지 못했다면, 세상에 이런 기쁨은 없었을 거야"
+        }
+    ]
+}

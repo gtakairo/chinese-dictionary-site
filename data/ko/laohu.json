@@ -1,0 +1,25 @@
+{
+  "slug": "laohu",
+  "chinese": "虎口拔牙",
+  "pinyin": "hǔ kǒu bá yá",
+  "meaning": "호랑이 입에서 이빨 뽑기 (매우 위험함)",
+  "description": "호랑이의 꼬리를 밟거나 호랑이 굴에 들어가는 것과 같은 의미입니다. 매우 위험한 일을 하는 것을 비유합니다.",
+  "examples": [
+    {
+      "chinese": "这项工作犹如老虎拔牙",
+      "translation": "이 일은 마치 호랑이 이빨을 뽑는 것과 같다"
+    },
+    {
+      "chinese": "虎口拔牙任务怎么完成",
+      "translation": "호랑이 입에서 이빨 뽑는 임무를 어떻게 완수하나"
+    },
+    {
+      "chinese": "炒股赚钱真难,难似虎口拔牙",
+      "translation": "주식으로 돈 벌기 정말 어렵다, 호랑이 입에서 이빨 뽑는 것처럼 위험하다"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "사자성어/관용구",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/laohu/"
+}

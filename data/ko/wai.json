@@ -1,0 +1,30 @@
+{
+  "slug": "wai",
+  "chinese": "外搭",
+  "pinyin": "wài dā",
+  "meaning": "아우터 / 겉옷",
+  "description": "겉에 걸쳐 입는 것. 'Neida'는 이너를 뜻함.",
+  "examples": [
+    {
+      "chinese": "外搭一件粉色的连帽卫衣,轻盈减龄",
+      "translation": "핑크색 후드티를 아우터로 걸치니 산뜻하고 어려 보인다."
+    },
+    {
+      "chinese": "今天买了漏锁骨的T,外搭衫",
+      "translation": "오늘 쇄골이 보이는 티셔츠와 아우터 셔츠를 샀다."
+    },
+    {
+      "chinese": "这件短袖夏天也可以当外搭搭配哦",
+      "translation": "이 반팔은 여름에 아우터로 코디해도 된다."
+    }
+  ],
+  "category": "fashion",
+  "categoryName": "패션 / 뷰티",
+  "relatedWords": [
+    "neida",
+    "lianmaoweiyi",
+    "jianling",
+    "chuanda"
+  ],
+  "sourceUrl": "https://chineself.com/wai/"
+}

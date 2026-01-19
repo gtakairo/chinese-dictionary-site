@@ -1,0 +1,16 @@
+{
+  "slug": "softfork",
+  "chinese": "软分叉",
+  "pinyin": "ruǎn fēn chā",
+  "meaning": "ソフトフォーク（soft fork）",
+  "description": "後方互換性を保ちながらプロトコルを変更する分岐。",
+  "examples": [
+    {"chinese": "通过软分叉升级协议", "japanese": "ソフトフォークでプロトコルをアップグレードする"},
+    {"chinese": "矿工需配合软分叉规则", "japanese": "マイナーはソフトフォークのルールに従う必要がある"},
+    {"chinese": "软分叉不会造成链分裂", "japanese": "ソフトフォークはチェーンの分裂を招かない"}
+  ],
+  "category": "jinrong",
+  "categoryName": "金融・投資",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/softfork/"
+}

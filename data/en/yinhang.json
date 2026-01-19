@@ -1,0 +1,25 @@
+{
+  "slug": "yinhang",
+  "chinese": "银行不良资产",
+  "pinyin": "yín háng bù liáng zī chǎn",
+  "meaning": "Non-performing loan (NPL)",
+  "description": "Loans that are in default or close to being in default.",
+  "examples": [
+    {
+      "chinese": "银行不良资产率上升",
+      "translation": "Bank NPL ratio rising"
+    },
+    {
+      "chinese": "处置不良资产需要时间",
+      "translation": "Disposing of NPLs takes time"
+    },
+    {
+      "chinese": "监管要求披露不良资产情况",
+      "translation": "Regulators require disclosure of NPL details"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "Finance/Investment",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/yinhang/"
+}

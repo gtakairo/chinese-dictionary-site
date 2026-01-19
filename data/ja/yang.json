@@ -1,0 +1,25 @@
+{
+  "slug": "yang",
+  "chinese": "养膘",
+  "pinyin": "yǎng biāo",
+  "meaning": "太って（贅肉・脂肪）が増える",
+  "description": "膘は「①肥える、肉がつく、太る ②肉、脂身」の意味。养膘「家畜を肥えさせて育てる」、蹲膘「家畜を運動させないで肥えさせる」の意味だが、人間に対しても自嘲して使われる。",
+  "examples": [
+    {
+      "chinese": "春节回家养膘了",
+      "japanese": "旧正月に実家に帰り脂肪が増えた"
+    },
+    {
+      "chinese": "肉眼可见地变胖了,养膘过头了",
+      "japanese": "目で見てわかるほど太った、贅肉がつきすぎた"
+    },
+    {
+      "chinese": "熬这几天都成养膘加烂脸了",
+      "japanese": "数日徹夜して太ったうえに顔に吹き出物の症状が出た"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語・スラング",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/yang/"
+}

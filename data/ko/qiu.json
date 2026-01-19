@@ -1,0 +1,25 @@
+{
+  "slug": "qiu",
+  "chinese": "球场通道",
+  "pinyin": "qiú chǎng tōng dào",
+  "meaning": "스루 더 그린 (Through the green)",
+  "description": "골프 코스의 플레이 가능 구역.",
+  "examples": [
+    {
+      "chinese": "球在球场通道内可击",
+      "translation": "스루 더 그린 내의 공은 칠 수 있다"
+    },
+    {
+      "chinese": "从球场通道推进果岭",
+      "translation": "스루 더 그린에서 그린으로 퍼팅"
+    },
+    {
+      "chinese": "了解球场通道的规则",
+      "translation": "스루 더 그린 규칙 이해하기"
+    }
+  ],
+  "category": "sport",
+  "categoryName": "스포츠",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/qiu/"
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "da",
+  "chinese": "大Ⅴ",
+  "pinyin": "dà Ⅴ",
+  "meaning": "คนดังในโลกอินเทอร์เน็ต / อินฟลูเอนเซอร์",
+  "description": "บุคคลที่มีชื่อเสียงบนอินเทอร์เน็ต \"V\" ย่อมาจาก Verified (ยืนยันตัวตนแล้ว) ถือเป็นฉายาที่มอบให้กับอินฟลูเอนเซอร์ ในบล็อก Weibo หรือ Douyin (TikTok) เมื่อมีผู้ติดตามมากกว่า 500,000 คน จะได้รับเครื่องหมาย \"V\" ข้างไอคอนบัญชี",
+  "examples": [
+    {
+      "chinese": "微博粉丝多少才算大Ｖ",
+      "translation": "ต้องมีผู้ติดตาม Weibo เท่าไหร่ถึงจะนับว่าเป็น Big V"
+    },
+    {
+      "chinese": "抖音大V网红人气排行",
+      "translation": "อันดับความนิยมของอินฟลูเอนเซอร์ Big V ใน TikTok"
+    }
+  ],
+  "category": "sns",
+  "categoryName": "ศัพท์เว็บ/โซเชียล",
+  "relatedWords": [
+    "wanghong"
+  ],
+  "sourceUrl": "https://chineself.com/da/"
+}

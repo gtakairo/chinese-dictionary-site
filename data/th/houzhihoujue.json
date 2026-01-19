@@ -1,0 +1,27 @@
+{
+  "slug": "houzhihoujue",
+  "chinese": "后知后觉",
+  "pinyin": "hòu zhī hòu jué",
+  "meaning": "รู้สึกตัวช้า / มารู้ทีหลัง",
+  "description": "คำตรงข้ามกับ 先知先觉 (รู้ล่วงหน้า)",
+  "examples": [
+    {
+      "chinese": "出来才后知后觉书包都没带",
+      "translation": "พอออกมาแล้วถึงได้รู้ตัวว่าไม่ได้เอากระเป๋ามา"
+    },
+    {
+      "chinese": "父母的爱,我现在才后知后觉",
+      "translation": "ฉันเพิ่งจะมารู้ซึ้งถึงความรักของพ่อแม่ในตอนนี้"
+    },
+    {
+      "chinese": "别后知后觉,高考落榜才去后悔",
+      "translation": "อย่ามารู้ตัวช้า รอให้สอบไม่ติดแล้วค่อยไปเสียใจ"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "สำนวน/สุภาษิต",
+  "relatedWords": [
+    "xianzhixianjue"
+  ],
+  "sourceUrl": "https://chineself.com/houzhihoujue/"
+}

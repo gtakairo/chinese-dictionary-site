@@ -1,0 +1,20 @@
+{
+    "slug": "shuanq",
+    "chinese": "栓Q",
+    "pinyin": "shuān Q",
+    "meaning": "ซวนคิว (แต๊งกิ้ว)",
+    "description": "มีมที่เลียนเสียง \"Thank you\" ในภาษาอังกฤษด้วยสำเนียงจีน",
+    "category": "wailaiyu",
+    "categoryName": "คำทับศัพท์/มีม",
+    "relatedWords": [
+        "diesinei",
+        "kawayi"
+    ],
+    "sourceUrl": "https://chineself.com/shuanq/",
+    "examples": [
+        {
+            "chinese": "谢谢你，栓Q",
+            "translation": "ขอบใจนะ ซวนคิว"
+        }
+    ]
+}

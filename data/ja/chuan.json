@@ -1,0 +1,21 @@
+{
+  "slug": "chuan",
+  "chinese": "传播途径",
+  "pinyin": "chuán bò tú jìng",
+  "meaning": "感染経路",
+  "description": "传染途径とも呼ぶ。",
+  "examples": [
+    {
+      "chinese": "一个多月了,连个传播途径都没有搞清楚",
+      "japanese": "1カ月以上経ったが、感染経路さえはっきりしていない"
+    },
+    {
+      "chinese": "性接触是梅毒的主要传播途径,比例占95%",
+      "japanese": "性接触が梅毒の主要感染経路だ、95％を占めている"
+    }
+  ],
+  "category": "yiliao",
+  "categoryName": "医療・病気",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/chuan/"
+}

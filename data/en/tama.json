@@ -1,0 +1,25 @@
+{
+    "slug": "tama",
+    "chinese": "踏马",
+    "pinyin": "tà mǎ",
+    "meaning": "Damn it / WTF",
+    "description": "Same meaning as \"Ta ma\". Used as a curse word.",
+    "category": "tanci",
+    "categoryName": "Interjection",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/tama/",
+    "examples": [
+        {
+            "chinese": "真踏马离谱",
+            "translation": "Truly damn ridiculous"
+        },
+        {
+            "chinese": "踏马的,现在才来",
+            "translation": "Damn it, coming only now"
+        },
+        {
+            "chinese": "这种事谁踏马知道呢",
+            "translation": "Who the hell knows about this kind of thing"
+        }
+    ]
+}

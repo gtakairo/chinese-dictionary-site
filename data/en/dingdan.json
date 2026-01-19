@@ -1,0 +1,29 @@
+{
+  "slug": "dingdan",
+  "chinese": "定档",
+  "pinyin": "dìng dàng",
+  "meaning": "Scheduled for release / Release date confirmed",
+  "description": "Refers to the confirmation of the release date for movies, dramas, etc.",
+  "examples": [
+    {
+      "chinese": "官宣定档了！看完预告片期待值达到巅峰",
+      "translation": "Officially scheduled! After watching the trailer, expectations reached the peak."
+    },
+    {
+      "chinese": "定档了！这预告悬疑氛围拉满了诶,大银幕见",
+      "translation": "Release date confirmed! The suspense atmosphere in this trailer is maxed out, see you on the big screen."
+    },
+    {
+      "chinese": "期待很久终于定档了,下月一起,锁定CCTV-8",
+      "translation": "Been waiting for a long time and it's finally scheduled, let's watch together next month on CCTV-8."
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "Uncategorized",
+  "relatedWords": [
+    "guanxuan",
+    "laman",
+    "dayingping"
+  ],
+  "sourceUrl": "https://chineself.com/dingdan/"
+}

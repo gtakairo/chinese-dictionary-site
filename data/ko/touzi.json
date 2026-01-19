@@ -1,0 +1,25 @@
+{
+    "slug": "touzi",
+    "chinese": "投资组合",
+    "pinyin": "tóu zī zǔ hé",
+    "meaning": "포트폴리오 (투자 조합)",
+    "description": "보유 자산의 배분이나 펀드의 조합.",
+    "category": "jinrong",
+    "categoryName": "금융/투자",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/touzi/",
+    "examples": [
+        {
+            "chinese": "优化投资组合的风险收益",
+            "translation": "포트폴리오의 리스크 수익 최적화"
+        },
+        {
+            "chinese": "定期再平衡投资组合",
+            "translation": "정기적인 포트폴리오 리밸런싱"
+        },
+        {
+            "chinese": "多元化投资组合配置",
+            "translation": "다각화된 포트폴리오 배치"
+        }
+    ]
+}

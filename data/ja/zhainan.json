@@ -1,0 +1,12 @@
+{
+  "slug": "zhainan",
+  "chinese": "宅男",
+  "pinyin": "zhái nán",
+  "meaning": "オタク男子（インドア派）",
+  "description": "家にいるのが好きなインドア派の男性。",
+  "examples": [{"chinese": "他是典型宅男", "japanese": "彼は典型的なオタク男子だ"}],
+  "category": "net",
+  "categoryName": "ライフスタイル",
+  "relatedWords": ["nvshen"],
+  "sourceUrl": "https://chineself.com/zhainan/"
+}

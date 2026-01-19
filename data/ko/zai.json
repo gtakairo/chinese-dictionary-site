@@ -1,0 +1,25 @@
+{
+  "slug": "zai",
+  "chinese": "再保险",
+  "pinyin": "zài bǎo xiǎn",
+  "meaning": "재보험",
+  "description": "보험 회사가 리스크를 분산하기 위해 드는 보험.",
+  "examples": [
+    {
+      "chinese": "签订再保险合同分散风险",
+      "translation": "재보험 계약 체결로 리스크 분산"
+    },
+    {
+      "chinese": "再保险覆盖巨灾风险",
+      "translation": "재보험은 거대 재해 리스크를 커버한다"
+    },
+    {
+      "chinese": "与多家再保险公司合作",
+      "translation": "여러 재보험사와 협력하다"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "금융/투자",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/zai/"
+}

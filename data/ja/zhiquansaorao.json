@@ -1,0 +1,25 @@
+{
+  "slug": "zhiquansaorao",
+  "chinese": "职权骚扰",
+  "pinyin": "zhí quán sāo rǎo",
+  "meaning": "パワハラ（パワーハラスメント）",
+  "description": "上司PUA、老板PUAが同義語。职场霸凌は「職場いじめ」。反职权骚扰は「逆パワハラ」の意味。性骚扰は「セクハラ（セクシャルハラスメント）」、职场色狼「職場でのセクハラ」。",
+  "examples": [
+    {
+      "chinese": "你有遭遇过职权骚扰吗",
+      "translation": "あなたはパワハラに遭ったことありますか"
+    },
+    {
+      "chinese": "领导滥用职权骚扰,必须严办",
+      "translation": "リーダーがやたらパワハラしてくる、厳重に処分されるべきだ"
+    },
+    {
+      "chinese": "我在公司遭受了非常厉害的职权骚扰",
+      "translation": "わたしは会社で非常にひどいパワハラを受けた"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語・スラング",
+  "relatedWords": ["pua", "gukesaorao", "daodebangjia"],
+  "sourceUrl": "https://chineself.com/zhiquansaorao/"
+}

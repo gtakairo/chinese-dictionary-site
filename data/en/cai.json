@@ -1,0 +1,25 @@
+{
+  "slug": "cai",
+  "chinese": "才八点",
+  "pinyin": "cái bā diǎn",
+  "meaning": "Ending so soon? / Don't stop streaming yet. (Lit. \"It's only 8 o'clock\")",
+  "description": "Common in live streams. When a streamer ends early, viewers joke \"It's only 8 o'clock\" regardless of the actual time.",
+  "examples": [
+    {
+      "chinese": "主播要直播了吗！才八点",
+      "translation": "Is the streamer ending? It's way too early!"
+    },
+    {
+      "chinese": "才八点嘛,球球了",
+      "translation": "It's still early, please don't stop."
+    },
+    {
+      "chinese": "亚达哟！才八点！你不要下播啊",
+      "translation": "No way! It's too early! Don't go offline."
+    }
+  ],
+  "category": "sns",
+  "categoryName": "Web & SNS Terms",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/cai/"
+}

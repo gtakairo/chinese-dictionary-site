@@ -1,0 +1,29 @@
+{
+  "slug": "zhiquansaorao",
+  "chinese": "职权骚扰",
+  "pinyin": "zhí quán sāo rǎo",
+  "meaning": "갑질 / 직장 내 괴롭힘 / 권력형 성희롱",
+  "description": "직위나 권한을 남용하여 괴롭히는 행위.",
+  "examples": [
+    {
+      "chinese": "你有遭遇过职权骚扰吗",
+      "translation": "갑질(직권 남용 괴롭힘)을 당한 적 있나요?"
+    },
+    {
+      "chinese": "领导滥用职权骚扰,必须严办",
+      "translation": "상사의 직권 남용 괴롭힘은 엄벌해야 한다"
+    },
+    {
+      "chinese": "我在公司遭受了非常厉害的职权骚扰",
+      "translation": "나는 회사에서 심각한 갑질을 당했다"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 은어",
+  "relatedWords": [
+    "pua",
+    "gukesaorao",
+    "daodebangjia"
+  ],
+  "sourceUrl": "https://chineself.com/zhiquansaorao/"
+}

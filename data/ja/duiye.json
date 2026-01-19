@@ -1,0 +1,14 @@
+{
+  "slug": "duiye",
+  "chinese": "对耶",
+  "pinyin": "duì ye",
+  "meaning": "だよね／そうだよね",
+  "description": "同意・相槌で使う軽い表現。",
+  "examples": [
+    {"chinese": "这部剧很好看，对耶", "japanese": "このドラマ面白いよね、だよね"}
+  ],
+  "category": "net",
+  "categoryName": "ネットスラング",
+  "relatedWords": ["diesinei", "sodiesinei"],
+  "sourceUrl": "https://chineself.com/duiye/"
+}

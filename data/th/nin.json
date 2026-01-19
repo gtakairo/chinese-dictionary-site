@@ -1,0 +1,29 @@
+{
+  "slug": "nin",
+  "chinese": "你奶奶的",
+  "pinyin": "nǐ nǎi nai de",
+  "meaning": "เวรเอ๊ย; แม่ง",
+  "description": "บางครั้งย่อว่า 'nnnd' (ตามพินอิน) มีความหมายเหมือนกัน",
+  "examples": [
+    {
+      "chinese": "我吃你奶奶的苦",
+      "translation": "ทำไมข้าต้องมาลำบากด้วยวะ"
+    },
+    {
+      "chinese": "你奶奶的,真的会很难过",
+      "translation": "เวรเอ๊ย เสียใจจริงๆ นะเนี่ย"
+    },
+    {
+      "chinese": "真的有必要吗？nnnd",
+      "translation": "จำเป็นจริงๆ เหรอ? แม่งเอ๊ย"
+    },
+    {
+      "chinese": "这东西真NNND贵",
+      "translation": "ไอ้นี่แม่งแพงฉิบหาย"
+    }
+  ],
+  "category": "tanci",
+  "categoryName": "คำอุทาน",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/nin/"
+}

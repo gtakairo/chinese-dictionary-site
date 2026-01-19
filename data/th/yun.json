@@ -1,0 +1,33 @@
+{
+  "slug": "yun",
+  "chinese": "晕菜",
+  "pinyin": "yūn cài",
+  "meaning": "มึนงง / หน้ามืด / จะเป็นลม",
+  "description": "รู้สึกเวียนหัวหรือสับสน",
+  "examples": [
+    {
+      "chinese": "今日累晕菜",
+      "translation": "วันนี้เหนื่อยจนจะเป็นลม"
+    },
+    {
+      "chinese": "大热天,我晕菜了",
+      "translation": "อากาศร้อน ฉันหน้ามืดแล้ว"
+    },
+    {
+      "chinese": "这个人真的给我笑晕菜了",
+      "translation": "คนนี้ทำฉันขำจนจะเกร็ง"
+    },
+    {
+      "chinese": "感冒…浑浑噩噩睡了一天,晕菜",
+      "translation": "เป็นหวัด... นอนซึมทั้งวัน มึนหัว"
+    },
+    {
+      "chinese": "为啥还要想方案啊,真的晕菜",
+      "translation": "ทำไมต้องคิดแผนอีก? ปวดหัวจะตายอยู่แล้ว"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์สแลงเน็ต",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/yun/"
+}

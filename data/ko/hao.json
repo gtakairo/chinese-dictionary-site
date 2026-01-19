@@ -1,0 +1,27 @@
+{
+  "slug": "hao",
+  "chinese": "好不到哪去",
+  "pinyin": "hǎo bù dào nǎ qù",
+  "meaning": "별로 좋지 않다, 도긴개긴이다, 거기서 거기다",
+  "description": "사물이나 사람, 물건이 일정 수준에 미치지 못한다는 의미이다. \"그다지 좋지 않다\", \"대단할 것 없다\"라는 뜻.",
+  "examples": [
+    {
+      "chinese": "言而无信的人,人品好不到哪去",
+      "translation": "말에 신용이 없는 사람은 인품도 별 볼 일 없다."
+    },
+    {
+      "chinese": "狗血剧情好不到哪去,完了眼泪还哗哗流,眼睛都肿了",
+      "translation": "막장 드라마 내용이 거기서 거기지 뭐, 근데 다 보고 나서 눈물 펑펑 쏟아서 눈이 퉁퉁 부었어."
+    },
+    {
+      "chinese": "一个常常看别人缺点的人,那么自己本身也是好不到哪里去",
+      "translation": "남의 단점만 보는 사람은 자기 자신도 별로 나을 게 없다."
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "미분류",
+  "relatedWords": [
+    "gouxie"
+  ],
+  "sourceUrl": "https://chineself.com/hao/"
+}

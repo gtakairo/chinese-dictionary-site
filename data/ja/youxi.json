@@ -1,0 +1,25 @@
+{
+  "slug": "youxi",
+  "chinese": "忧心忡忡",
+  "pinyin": "yōu xīn chōng chōng",
+  "meaning": "気が気でない、心配で仕方ない、気持ちが落ち着かない",
+  "description": "心事重重が同義語。",
+  "examples": [
+    {
+      "chinese": "我忧心忡忡的看着未来",
+      "translation": "私は未来を思うと気持ちが落ち着かない"
+    },
+    {
+      "chinese": "双减政策,对于学生成绩是否影响?家长忧心忡忡",
+      "translation": "双減政策、学生の成績に悪影響がないか父兄は気が気でない"
+    },
+    {
+      "chinese": "好多事情细细一想,就会变得忧心忡忡",
+      "translation": "多くの事柄を細かく考えていたら、心配で仕方なくなってきた"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "成語・四字熟語",
+  "relatedWords": ["shuangjian"],
+  "sourceUrl": "https://chineself.com/youxi/"
+}

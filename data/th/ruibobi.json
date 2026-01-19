@@ -1,0 +1,25 @@
+{
+  "slug": "ruibobi",
+  "chinese": "瑞波币",
+  "pinyin": "ruì bō bì",
+  "meaning": "เหรียญริปเปิล (Ripple)",
+  "description": "สินทรัพย์ดิจิทัลที่เกี่ยวข้องกับเครือข่ายการชำระเงินของ Ripple มีชื่อย่อทางการซื้อขายว่า XRP",
+  "examples": [
+    {
+      "chinese": "使用瑞波币跨境汇款",
+      "translation": "ใช้ XRP ในการโอนเงินระหว่างประเทศ"
+    },
+    {
+      "chinese": "瑞波相关的监管消息",
+      "translation": "ข่าวเกี่ยวกับกฎระเบียบที่เกี่ยวข้องกับ Ripple"
+    },
+    {
+      "chinese": "持有一部分XRP",
+      "translation": "ถือครอง XRP บางส่วน"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "การเงิน/การลงทุน",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/ruibobi/"
+}

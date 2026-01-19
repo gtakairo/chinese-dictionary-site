@@ -1,0 +1,16 @@
+{
+  "slug": "lin",
+  "chinese": "淋巴瘤",
+  "pinyin": "lín bā liú",
+  "meaning": "リンパ腫",
+  "description": "リンパ系の細胞由来の悪性腫瘍。治療には化学療法や放射線療法などが用いられる。",
+  "examples": [
+    {"chinese": "医生怀疑是淋巴瘤", "japanese": "医師はリンパ腫を疑っている"},
+    {"chinese": "淋巴瘤需要规范化治疗", "japanese": "リンパ腫には標準治療が必要だ"},
+    {"chinese": "定期复查淋巴瘤指标", "japanese": "リンパ腫の指標を定期的に再検査する"}
+  ],
+  "category": "yiliao",
+  "categoryName": "医療・病気",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/lin/"
+}

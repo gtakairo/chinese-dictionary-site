@@ -1,0 +1,25 @@
+{
+  "slug": "yitaifang",
+  "chinese": "以太坊",
+  "pinyin": "yǐ tài fang",
+  "meaning": "이더리움",
+  "description": "스마트 계약 기능을 갖춘 분산형 플랫폼. 통화는 ETH.",
+  "examples": [
+    {
+      "chinese": "以太坊升级提高了效率",
+      "translation": "이더리움 업그레이드로 효율성이 향상되었다"
+    },
+    {
+      "chinese": "在以太坊上部署智能合约",
+      "translation": "이더리움에 스마트 계약을 배포하다"
+    },
+    {
+      "chinese": "ETH的手续费下降了",
+      "translation": "이더리움 수수료가 내려갔다"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "금융/투자",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/yitaifang/"
+}

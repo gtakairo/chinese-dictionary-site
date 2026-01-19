@@ -1,0 +1,14 @@
+{
+  "slug": "sodiesinei",
+  "chinese": "搜跌死内",
+  "pinyin": "sōu diē sǐ nèi",
+  "meaning": "そうですね",
+  "description": "日本語「そうですね」の音訳。" ,
+  "examples": [
+    {"chinese": "今天挺热的搜跌死内", "japanese": "今日は暑いですね"}
+  ],
+  "category": "wailaiyu",
+  "categoryName": "外来語・音訳",
+  "relatedWords": ["diesinei"],
+  "sourceUrl": "https://chineself.com/sodiesinei/"
+}

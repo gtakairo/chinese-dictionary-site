@@ -1,0 +1,25 @@
+{
+  "slug": "lan",
+  "chinese": "蓝筹股",
+  "pinyin": "lán chóu gǔ",
+  "meaning": "블루칩 (우량주)",
+  "description": "실적과 재무가 건전한 우량 종목입니다. 장기 보유 투자 대상으로 자주 언급됩니다.",
+  "examples": [
+    {
+      "chinese": "我更偏好蓝筹股",
+      "translation": "나는 우량주를 더 선호한다"
+    },
+    {
+      "chinese": "蓝筹股估值相对稳定",
+      "translation": "우량주의 밸류에이션은 상대적으로 안정적이다"
+    },
+    {
+      "chinese": "把资金转到蓝筹股",
+      "translation": "자금을 우량주로 이동시켰다"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "금융/투자",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/lan/"
+}

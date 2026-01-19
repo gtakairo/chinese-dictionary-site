@@ -1,0 +1,19 @@
+{
+  "slug": "fanquan",
+  "chinese": "饭圈",
+  "pinyin": "fàn quān",
+  "meaning": "วงการแฟน/คอมมูนิตี้แฟนคลับ",
+  "description": "ชุมชนและวัฒนธรรมของแฟนคลับที่มีกฎและขนบของตัวเอง",
+  "examples": [
+    { "chinese": "她是饭圈资深粉", "translation": "เธอเป็นแฟนคลับรุ่นเก๋าในวงการแฟน" },
+    { "chinese": "饭圈用语很多", "translation": "ศัพท์วงการแฟนเยอะมาก" },
+    { "chinese": "他混饭圈多年", "translation": "เขาคลุกวงแฟนคลับมาหลายปี" }
+  ],
+  "category": "net",
+  "categoryName": "推し文化・界隈",
+  "relatedWords": [
+    "fensi",
+    "poquan"
+  ],
+  "sourceUrl": "https://chineself.com/fanquan/"
+}

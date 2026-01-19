@@ -1,0 +1,15 @@
+{
+  "slug": "kuonai",
+  "chinese": "阔耐",
+  "pinyin": "kuò nài",
+  "meaning": "可愛い",
+  "description": "可爱のネット用語。可耐も同じ。",
+  "examples": [
+    {"chinese": "这颜表情真的好阔耐啊", "japanese": "この表情は本当に可愛い"},
+    {"chinese": "索吻亲亲,太阔耐啦", "japanese": "チュッチュッ、可愛すぎる"}
+  ],
+  "category": "net",
+  "categoryName": "ネット用語・スラング",
+  "relatedWords": ["kenai"],
+  "sourceUrl": "https://chineself.com/kuonai/"
+}

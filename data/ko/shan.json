@@ -1,0 +1,27 @@
+{
+  "slug": "shan",
+  "chinese": "闪崩",
+  "pinyin": "shǎn bēng",
+  "meaning": "플래시 크래시 / 급락",
+  "description": "가격의 갑작스러운 폭락을 의미. 2016년 10월 7일 영국 파운드화의 플래시 크래시에서 유래.",
+  "examples": [
+    {
+      "chinese": "深夜闪崩！知名巨头股价大跌",
+      "translation": "심야의 플래시 크래시! 유명 거대 기업 주가 대폭락"
+    },
+    {
+      "chinese": "重磅!闪崩暴跌50%",
+      "translation": "속보! 플래시 크래시로 50% 폭락"
+    },
+    {
+      "chinese": "比特币闪崩,单日暴跌29%",
+      "translation": "비트코인 플래시 크래시, 하루 만에 29% 급락"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "금융 및 투자",
+  "relatedWords": [
+    "zhongbang"
+  ],
+  "sourceUrl": "https://chineself.com/shan/"
+}

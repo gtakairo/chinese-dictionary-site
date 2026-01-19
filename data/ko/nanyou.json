@@ -1,0 +1,29 @@
+{
+  "slug": "nanyou",
+  "chinese": "男友力",
+  "pinyin": "nán yǒu lì",
+  "meaning": "남자친구력; 남성미; 듬직함",
+  "description": "일본어의 '여자력(조시료쿠)'이 유행하면서 그 남성판으로 사용되게 되었다. 남자다운 남자를 의미함.",
+  "examples": [
+    {
+      "chinese": "你的老公满满的男友力",
+      "translation": "남편분이 남자친구력이 넘치시네요."
+    },
+    {
+      "chinese": "他太苏了吧,男友力爆棚",
+      "translation": "그 사람 너무 설렌다, 남자친구력 폭발이야."
+    },
+    {
+      "chinese": "一间亲手完成的DIY地下室,尊嘟男友力MAX!",
+      "translation": "직접 완성한 DIY 지하실이라니, 진짜 남자친구력 MAX!"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [
+    "tailiaotaisu",
+    "baopeng",
+    "zundujiadu"
+  ],
+  "sourceUrl": "https://chineself.com/nanyou/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "pin",
+  "chinese": "平标准杆",
+  "pinyin": "píng biāo zhǔn gān",
+  "meaning": "파 (골프)",
+  "description": "'Biaozhungan'이라고도 함.",
+  "examples": [
+    {
+      "chinese": "这一洞我打到了平标准杆",
+      "translation": "이 홀에서 파를 기록했다"
+    },
+    {
+      "chinese": "保持平标准杆已经不错了",
+      "translation": "파만 유지해도 괜찮은 거다"
+    },
+    {
+      "chinese": "平标准杆是该洞的标准成绩",
+      "translation": "파는 이 홀의 기준 타수다"
+    }
+  ],
+  "category": "sports",
+  "categoryName": "스포츠",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/pin/"
+}

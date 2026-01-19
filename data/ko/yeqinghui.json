@@ -1,0 +1,19 @@
+{
+  "slug": "yeqinghui",
+  "chinese": "爷青回",
+  "pinyin": "yé qīng huí",
+  "meaning": "내 청춘이 돌아왔다 / 추억 소환",
+  "description": "추억의 콘텐츠를 보고 청춘 시절로 돌아간 느낌.",
+  "examples": [
+    {
+      "chinese": "童年动画重播，爷青回",
+      "translation": "어릴 적 애니메이션 재방송, 내 청춘이 돌아왔다!"
+    }
+  ],
+  "category": "net",
+  "categoryName": "감정 / 추억",
+  "relatedWords": [
+    "awsl"
+  ],
+  "sourceUrl": "https://chineself.com/yeqinghui/"
+}

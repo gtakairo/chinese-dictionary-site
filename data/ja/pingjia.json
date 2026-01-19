@@ -1,0 +1,25 @@
+{
+  "slug": "pingjia",
+  "chinese": "平价不廉价",
+  "pinyin": "píng jià bù lián jià",
+  "meaning": "手頃だが安っぽくない",
+  "description": "価格は手頃であるが、コスパの面からも安物には見えないということ。",
+  "examples": [
+    {
+      "chinese": "平价不廉价,闭眼入",
+      "translation": "手頃だが安っぽくない、絶対にオススメできる"
+    },
+    {
+      "chinese": "平价不廉价,绝对物超所值",
+      "translation": "手頃だが安っぽくない、絶対に超お買い得"
+    },
+    {
+      "chinese": "不愧是价格便宜,效果好!平价不廉价",
+      "translation": "さすが価格は安く効果もよい、手頃だが安物には見えない"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "未分類",
+  "relatedWords": ["biyanru", "wuchaosuozhi"],
+  "sourceUrl": "https://chineself.com/pingjia/"
+}

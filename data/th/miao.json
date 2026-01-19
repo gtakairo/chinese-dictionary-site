@@ -1,0 +1,25 @@
+{
+  "slug": "miao",
+  "chinese": "妙啊",
+  "pinyin": "miào a",
+  "meaning": "เยี่ยม / สุดยอด / เจ๋งเป้ง / ล้ำเลิศ",
+  "description": "ศัพท์แสลงอินเทอร์เน็ตใช้สำหรับชื่นชม ความหมายเดียวกับ \"เมี่ยวไซ\" (妙哉)",
+  "examples": [
+    {
+      "chinese": "妙啊,实在是妙啊",
+      "translation": "เยี่ยม จริงๆ เยี่ยมไปเลย"
+    },
+    {
+      "chinese": "还有这种操作,妙啊太妙了",
+      "translation": "มีวิธีแบบนี้ด้วยเหรอเนี่ย เจ๋งเป้ง สุดยอดไปเลย"
+    },
+    {
+      "chinese": "你才真是yyds,真妙啊",
+      "translation": "คุณคือพระเจ้าจริงๆ สุดยอดมาก"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์แสลงทางอินเทอร์เน็ต",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/miao/"
+}

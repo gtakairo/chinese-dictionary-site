@@ -1,0 +1,20 @@
+{
+  "slug": "xianyu",
+  "chinese": "咸鱼",
+  "pinyin": "xián yú",
+  "meaning": "Salted Fish / Slacker",
+  "description": "Self-mockery describing a person with no motivation or ambition.",
+  "examples": [
+    {
+      "chinese": "我就是个咸鱼",
+      "translation": "I am just a salted fish (slacker)."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Lifestyle",
+  "relatedWords": [
+    "tangping",
+    "moyu"
+  ],
+  "sourceUrl": "https://chineself.com/xianyu/"
+}

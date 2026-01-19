@@ -1,0 +1,25 @@
+{
+  "slug": "fan",
+  "chinese": "反败为胜",
+  "pinyin": "fǎn bài wéi shèng",
+  "meaning": "Turn defeat into victory",
+  "description": "To reverse a losing situation and turn it into a victory.",
+  "examples": [
+    {
+      "chinese": "最终日本4比3反败为胜",
+      "translation": "In the end, Japan turned defeat into victory with a score of 4 to 3."
+    },
+    {
+      "chinese": "没想到最后居然反败为胜了",
+      "translation": "I didn't expect to actually turn defeat into victory in the end."
+    },
+    {
+      "chinese": "人生还有反败为胜的机会",
+      "translation": "Life still has opportunities to turn defeat into victory."
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "Uncategorized",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/fan/"
+}

@@ -1,0 +1,20 @@
+{
+    "slug": "shuanq",
+    "chinese": "栓Q",
+    "pinyin": "shuān Q",
+    "meaning": "Thank you (accented)",
+    "description": "A meme expression of the English \"Thank you\" with a Chinese accent.",
+    "category": "wailaiyu",
+    "categoryName": "Loanwords/Memes",
+    "relatedWords": [
+        "diesinei",
+        "kawayi"
+    ],
+    "sourceUrl": "https://chineself.com/shuanq/",
+    "examples": [
+        {
+            "chinese": "谢谢你，栓Q",
+            "translation": "Thanks completely, Shuan Q"
+        }
+    ]
+}

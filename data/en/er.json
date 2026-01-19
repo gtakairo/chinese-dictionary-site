@@ -1,0 +1,21 @@
+{
+  "slug": "er",
+  "chinese": "二八定律",
+  "pinyin": "èr bā dìng lǜ",
+  "meaning": "Pareto Principle / 80-20 Rule",
+  "description": "Also called the 80/20 rule or Pareto's law.",
+  "examples": [
+    {
+      "chinese": "根据二八定律,世界上80%的钱掌握在20%人的手",
+      "translation": "According to the Pareto Principle, 80% of the world's money is in the hands of 20% of the people."
+    },
+    {
+      "chinese": "很多行业有二八定律,即20%的人挣了80%的钱",
+      "translation": "Many industries follow the Pareto Principle, meaning 20% of people earn 80% of the money."
+    }
+  ],
+  "category": "jingji",
+  "categoryName": "Economics & Business",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/er/"
+}

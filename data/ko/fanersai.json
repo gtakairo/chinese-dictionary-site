@@ -1,0 +1,19 @@
+{
+  "slug": "fanersai",
+  "chinese": "凡尔赛",
+  "pinyin": "fán ěr sài",
+  "meaning": "베르사유(겸손한 척 자랑)",
+  "description": "일명 \"베르사유 문학\" — 겉으로는 겸손한 척하지만 사실은 자랑하는 화법.",
+  "examples": [
+    { "chinese": "她的发言很凡尔赛", "translation": "그녀의 발언은 전형적인 베르사유다." },
+    { "chinese": "别凡尔赛了", "translation": "그만 겸손한 척 자랑해." },
+    { "chinese": "这就是凡尔赛文学", "translation": "이게 바로 베르사유 문학이다." }
+  ],
+  "category": "net",
+  "categoryName": "ミーム・言語スタイル",
+  "relatedWords": [
+    "yinyangguaiqi",
+    "poquan"
+  ],
+  "sourceUrl": "https://chineself.com/fanersai/"
+}

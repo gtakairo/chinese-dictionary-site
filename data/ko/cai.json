@@ -1,0 +1,25 @@
+{
+  "slug": "cai",
+  "chinese": "才八点",
+  "pinyin": "cái bā diǎn",
+  "meaning": "벌써 방송 끄려고? 아직 끄지 마. (직역: 고작 8시인데)",
+  "description": "라이브 방송 등에서 자주 사용됨. 평소 밤샘 방송하던 사람이 일찍 종료하려 할 때 시청자들이 \"고작 8시인데(才八点)\"라고 말한 것에서 유래.",
+  "examples": [
+    {
+      "chinese": "主播要直播了吗！才八点",
+      "translation": "스트리머 방송 끄려고? 벌써 끄면 어떡해!"
+    },
+    {
+      "chinese": "才八点嘛,球球了",
+      "translation": "아직 시간 이르잖아, 제발 (끄지 마)."
+    },
+    {
+      "chinese": "亚达哟！才八点！你不要下播啊",
+      "translation": "안 돼! 아직 이르잖아! 방송 끄지 마."
+    }
+  ],
+  "category": "sns",
+  "categoryName": "웹/SNS 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/cai/"
+}

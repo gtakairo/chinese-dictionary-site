@@ -1,0 +1,25 @@
+{
+  "slug": "ruibobi",
+  "chinese": "瑞波币",
+  "pinyin": "ruì bō bì",
+  "meaning": "Ripple (XRP)",
+  "description": "Asset related to Ripple Labs' payment network. Ticker is XRP.",
+  "examples": [
+    {
+      "chinese": "使用瑞波币跨境汇款",
+      "translation": "Use XRP for cross-border remittances."
+    },
+    {
+      "chinese": "瑞波相关的监管消息",
+      "translation": "Regulatory news related to Ripple."
+    },
+    {
+      "chinese": "持有一部分XRP",
+      "translation": "Hold some XRP."
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "Finance/Investment",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/ruibobi/"
+}

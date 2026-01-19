@@ -1,0 +1,33 @@
+{
+  "slug": "tou",
+  "chinese": "头部",
+  "pinyin": "tóu bù",
+  "meaning": "①頭部 ②トップの、最も優れた",
+  "description": "头部は「頭部」の意味だが、日本語の先頭のようにトップというようにも使われる。",
+  "examples": [
+    {
+      "chinese": "头部企业（龙头企业）",
+      "translation": "トップ企業"
+    },
+    {
+      "chinese": "头部品牌",
+      "translation": "トップブランド"
+    },
+    {
+      "chinese": "头部客户",
+      "translation": "上客、お得意客、常連客"
+    },
+    {
+      "chinese": "头部主播",
+      "translation": "トップキャスター"
+    },
+    {
+      "chinese": "头部网红",
+      "translation": "メガインフルエンサー（トップインフルエンサー）"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": ["wanghong"],
+  "sourceUrl": "https://chineself.com/tou/"
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "er",
+  "chinese": "二八定律",
+  "pinyin": "èr bā dìng lǜ",
+  "meaning": "กฎของพาเรโต / กฎ 80/20",
+  "description": "เรียกว่ากฎ 80/20 หรือกฎของพาเรโต",
+  "examples": [
+    {
+      "chinese": "根据二八定律,世界上80%的钱掌握在20%人的手",
+      "translation": "ตามกฎของพาเรโต เงิน 80% ของโลกอยู่ในมือของคนเพียง 20%"
+    },
+    {
+      "chinese": "很多行业有二八定律,即20%的人挣了80%的钱",
+      "translation": "หลายอุตสาหกรรมเป็นไปตามกฎของพาเรโต คือคน 20% ทำเงินได้ 80%"
+    }
+  ],
+  "category": "jingji",
+  "categoryName": "เศรษฐกิจและธุรกิจ",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/er/"
+}

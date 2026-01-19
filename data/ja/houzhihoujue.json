@@ -1,0 +1,16 @@
+{
+  "slug": "houzhihoujue",
+  "chinese": "后知后觉",
+  "pinyin": "hòu zhī hòu jué",
+  "meaning": "あとで気づく、あとから悟る",
+  "description": "先知先觉（事前に理解・洞察する）が反義語。",
+  "examples": [
+    {"chinese": "出来才后知后觉书包都没带", "japanese": "出て来たあとにカバンを持って来なかったことに気づく"},
+    {"chinese": "父母的爱,我现在才后知后觉", "japanese": "父母の愛を今さらながらに感じている"},
+    {"chinese": "别后知后觉,高考落榜才去后悔", "japanese": "終わってから悟ってはならない、高考に落ちてから後悔することになる"}
+  ],
+  "category": "chengyu",
+  "categoryName": "成語・四字熟語",
+  "relatedWords": ["xianzhixianjue"],
+  "sourceUrl": "https://chineself.com/houzhihoujue/"
+}

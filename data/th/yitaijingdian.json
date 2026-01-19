@@ -1,0 +1,25 @@
+{
+  "slug": "yitaijingdian",
+  "chinese": "以太经典",
+  "pinyin": "yǐ tài jīng diǎn",
+  "meaning": "อีเธอเรียมคลาสสิก",
+  "description": "บล็อกเชนที่แยกตัวออกมาจากการ Hard Fork ของอีเธอเรียม (ETH)",
+  "examples": [
+    {
+      "chinese": "以太经典价格上涨",
+      "translation": "อีเธอเรียมคลาสสิกราคาขึ้น"
+    },
+    {
+      "chinese": "讨论以太经典的挖矿难度",
+      "translation": "พูดคุยเกี่ยวกับความยากในการขุด ETC"
+    },
+    {
+      "chinese": "交易所上线以太经典",
+      "translation": "กระดานเทรดลิสต์อีเธอเรียมคลาสสิก"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "การเงิน/การลงทุน",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/yitaijingdian/"
+}

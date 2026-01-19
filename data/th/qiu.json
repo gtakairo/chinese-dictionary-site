@@ -1,0 +1,25 @@
+{
+  "slug": "qiu",
+  "chinese": "球场通道",
+  "pinyin": "qiú chǎng tōng dào",
+  "meaning": "ทรูเดอะกรีน (Through the green)",
+  "description": "ศัพท์กอล์ฟ พื้นที่ในสนามที่เล่นได้",
+  "examples": [
+    {
+      "chinese": "球在球场通道内可击",
+      "translation": "ลูกอยู่ในทรูเดอะกรีนตีต่อได้"
+    },
+    {
+      "chinese": "从球场通道推进果岭",
+      "translation": "พัตต์จากทรูเดอะกรีนขึ้นกรีน"
+    },
+    {
+      "chinese": "了解球场通道的规则",
+      "translation": "เข้าใจกฎของทรูเดอะกรีน"
+    }
+  ],
+  "category": "sport",
+  "categoryName": "กีฬา",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/qiu/"
+}

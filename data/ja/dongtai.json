@@ -1,0 +1,25 @@
+{
+  "slug": "dongtai",
+  "chinese": "动态定价",
+  "pinyin": "dòng tài dìng jià",
+  "meaning": "ダイナミックプライシング（変動価格制）",
+  "description": "商品やサービスの価格を需要と供給の状況に合わせて変動させる価格戦略のこと。大数据杀熟は「パーソナルプライシング」の意味。",
+  "examples": [
+    {
+      "chinese": "这个动态定价,不一定啥时候便宜",
+      "translation": "このダイナミックプライシング、いつ安くなるかはっきりしない"
+    },
+    {
+      "chinese": "买车票机票酒店都可以搞动态定价",
+      "translation": "電車や飛行機のチケット、ホテルすべてがダイナミックプライシングが可能だ"
+    },
+    {
+      "chinese": "动态定价是一种根据市场需求和供应情况实时调整价格的策略",
+      "translation": "ダイナミックプライシングは市場の需要と供給の状況に合わせ価格を調整する戦略のこと"
+    }
+  ],
+  "category": "jingji",
+  "categoryName": "経済・ビジネス",
+  "relatedWords": ["dashujushashu"],
+  "sourceUrl": "https://chineself.com/dongtai/"
+}

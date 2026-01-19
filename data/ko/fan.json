@@ -1,0 +1,25 @@
+{
+  "slug": "fan",
+  "chinese": "反败为胜",
+  "pinyin": "fǎn bài wéi shèng",
+  "meaning": "패배를 승리로 바꾸다 / 역전승",
+  "description": "패색이 짙은 상황을 뒤집어 승리하다.",
+  "examples": [
+    {
+      "chinese": "最终日本4比3反败为胜",
+      "translation": "결국 일본은 4대 3으로 역전승했다"
+    },
+    {
+      "chinese": "没想到最后居然反败为胜了",
+      "translation": "마지막에 정말로 역전승할 줄은 몰랐다"
+    },
+    {
+      "chinese": "人生还有反败为胜的机会",
+      "translation": "인생에는 아직 역전승할 기회가 있다"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "미분류",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/fan/"
+}

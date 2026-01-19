@@ -1,0 +1,19 @@
+{
+  "slug": "shangan",
+  "chinese": "上岸",
+  "pinyin": "shàng àn",
+  "meaning": "สอบผ่าน / ได้งาน (หลุดพ้นจากความยากลำบาก)",
+  "description": "สอบผ่านหรือได้งานทำและหลุดพ้นจากความยากลำบาก",
+  "examples": [
+    {
+      "chinese": "希望今年能上岸",
+      "translation": "หวังว่าจะ 'ขึ้นฝั่ง' (สอบผ่าน) ได้ในปีนี้"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์สแลงอินเทอร์เน็ต",
+  "relatedWords": [
+    "rukeng"
+  ],
+  "sourceUrl": "https://chineself.com/shangan/"
+}

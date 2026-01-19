@@ -1,0 +1,25 @@
+{
+  "slug": "jie",
+  "chinese": "节哀顺变",
+  "pinyin": "jié ai shùn biàn",
+  "meaning": "삼가 조의를 표합니다 / 슬픔을 거두고 순리에 따르다",
+  "description": "한나라 학자 대성이 편찬한 「예기」 단궁하에 나오는 말. 「장례는 슬픔이 지극한 것이고, 절애는 슬픔을 절제하고 순리에 따르는 것이다」. 유족에게 조의를 표할 때 사용됨.",
+  "examples": [
+    {
+      "chinese": "希望你节哀顺变,保重身体",
+      "translation": "슬픔을 거두고 부디 몸조심하시길 바랍니다"
+    },
+    {
+      "chinese": "这件事很惋惜,节哀顺变",
+      "translation": "정말 안타까운 일입니다, 삼가 조의를 표합니다"
+    },
+    {
+      "chinese": "看到真的不知道说什么,家人节哀顺变吧",
+      "translation": "정말 뭐라 할 말이 없네요, 가족분들께 위로의 말씀을 전합니다"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "성어/사자성어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/jie/"
+}

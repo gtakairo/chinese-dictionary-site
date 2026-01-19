@@ -1,0 +1,33 @@
+{
+  "slug": "wang",
+  "chinese": "望采纳",
+  "pinyin": "wàng cǎi nà",
+  "meaning": "채택 바람 / 받아들여지길 바람",
+  "description": "의견, 제안, 요구가 받아들여지기를 정중히 바랄 때 사용.",
+  "examples": [
+    {
+      "chinese": "绞尽脑汁,望采纳",
+      "translation": "머리를 짜냈습니다, 채택 부탁드립니다."
+    },
+    {
+      "chinese": "这是我们给你提出的建议,望采纳",
+      "translation": "이것은 저희의 제안입니다, 받아들여지길 바랍니다."
+    },
+    {
+      "chinese": "能不能在公园设置公厕,望采纳",
+      "translation": "조언에 공중화장실을 설치할 수 없을까요, 받아들여졌으면 좋겠습니다."
+    },
+    {
+      "chinese": "我想公司提出以下几点建议,望采纳",
+      "translation": "회사에 다음 몇 가지를 제안합니다, 채택되기를 바랍니다."
+    },
+    {
+      "chinese": "上述仅为个人意见望采纳",
+      "translation": "앞서 말한 것은 개인적인 의견일 뿐이니 참고하시기 바랍니다."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/wang/"
+}

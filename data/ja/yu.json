@@ -1,0 +1,25 @@
+{
+  "slug": "yu",
+  "chinese": "原版原漆",
+  "pinyin": "yuán bǎn yuán qī",
+  "meaning": "（中古車で）修理歴・修復歴なし",
+  "description": "オリジナルの外装と塗装の状態、すなわち修理歴・修復歴・事故歴がなく損傷のための部品交換歴もないこと。原板原漆とも言う。",
+  "examples": [
+    {
+      "chinese": "全车原版原漆,无事故现在9万多开走",
+      "translation": "修理歴・部品交換歴なし、無事故、9万キロ走行"
+    },
+    {
+      "chinese": "卖车,2020款,2020年1月上牌,原版原漆",
+      "translation": "車譲ります、2020年型、2020年1月登録、修理歴・修復歴なし"
+    },
+    {
+      "chinese": "4.3万公里实表原车轮胎,原版原漆,个人一手车",
+      "translation": "4.3万キロメーター戻しなし、純正タイヤ、修理歴・修復歴なし、ワンオーナー"
+    }
+  ],
+  "category": "car",
+  "categoryName": "自動車",
+  "relatedWords": ["gerenyishouche"],
+  "sourceUrl": "https://chineself.com/yu/"
+}

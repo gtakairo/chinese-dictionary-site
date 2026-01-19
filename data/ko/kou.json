@@ -1,0 +1,25 @@
+{
+  "slug": "kou",
+  "chinese": "口碑",
+  "pinyin": "kǒu bēi",
+  "meaning": "입소문 / 평판",
+  "description": "「코우베이(口碑)」라는 앱이 있는데, 리뷰를 볼 수 있는 서비스이다.",
+  "examples": [
+    {
+      "chinese": "想问问集美们这个女生口碑怎么样啊",
+      "translation": "자매님들, 이 여자 평판이 어떤지 묻고 싶어요"
+    },
+    {
+      "chinese": "这部电影口碑不错,我想去影院看看",
+      "translation": "이 영화 평판이 괜찮네, 영화관 가서 보고 싶다"
+    },
+    {
+      "chinese": "访日游客实施了分析谷歌地图上的评分和口碑",
+      "translation": "방일 관광객들은 구글 지도의 평점과 리뷰를 분석했다"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "미분류",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/kou/"
+}

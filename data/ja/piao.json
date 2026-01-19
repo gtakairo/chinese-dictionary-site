@@ -1,0 +1,29 @@
+{
+  "slug": "piao",
+  "chinese": "飘忽不定",
+  "pinyin": "piāo hū bù dìng",
+  "meaning": "揺れ動き定着しない、しっかりと安定しない",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "眼神飘忽不定,看起来有很迷离",
+      "japanese": "眼差しがゆらゆら定まらず、見るからに朦朧としている"
+    },
+    {
+      "chinese": "我注意力难以集中,思绪飘忽不定,一句话也没听进去",
+      "japanese": "注意力が散漫で、気分が落ち着かず話が全く入ってこない"
+    },
+    {
+      "chinese": "血压飘忽不定,未必就是高血压",
+      "japanese": "血圧がいつも安定しないからと言って必ず高血圧という訳ではない"
+    },
+    {
+      "chinese": "因为我真的成绩飘忽不定,考试可咋办",
+      "japanese": "息子の成績が上がったり下がったり安定せず、テストはどうしよう"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "成語・四字熟語",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/piao/"
+}

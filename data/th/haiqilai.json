@@ -1,0 +1,28 @@
+{
+  "slug": "haiqilai",
+  "chinese": "嗨起来",
+  "pinyin": "hāi qǐ lái",
+  "meaning": "สนุกสุดเหวี่ยง, คึกคัก, มันส์",
+  "description": "\"Hai\" (嗨) มาจากคำว่า \"High\" ในภาษาอังกฤษ หมายถึงตื่นเต้น ดีใจ หรือสนุกสุดเหวี่ยง เช่น \"Tai hai le\" (มันส์มาก), \"Wan hai\" (เที่ยวเพลินจนลืมตัว)",
+  "examples": [
+    {
+      "chinese": "我已经开始嗨起来了",
+      "translation": "ฉันเริ่มจะคึกแล้วนะ"
+    },
+    {
+      "chinese": "嗨起来啊,气氛搞起来",
+      "translation": "มาสนุกกันเถอะ สร้างบรรยากาศหน่อย"
+    },
+    {
+      "chinese": "早点下班回家嗨起来吧",
+      "translation": "เลิกงานเร็วๆ กลับไปฉลองที่บ้านกันเถอะ"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์แสลงอินเทอร์เน็ต",
+  "relatedWords": [
+    "taihaile",
+    "wanhai"
+  ],
+  "sourceUrl": "https://chineself.com/haiqilai/"
+}

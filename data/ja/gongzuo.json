@@ -1,0 +1,16 @@
+{
+  "slug": "gongzuo",
+  "chinese": "工作假期",
+  "pinyin": "gōng zuò jià qī",
+  "meaning": "ワーキングホリデー",
+  "description": "一定期間、働きながら滞在できる制度やビザ。",
+  "examples": [
+    {"chinese": "我打算去澳洲工作假期", "japanese": "オーストラリアにワーホリで行く予定だ"},
+    {"chinese": "申请工作假期签证", "japanese": "ワーキングホリデーのビザを申請する"},
+    {"chinese": "在工作假期中学习语言", "japanese": "ワーホリ中に語学を学ぶ"}
+  ],
+  "category": "uncategorized",
+  "categoryName": "未分類",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/gongzuo/"
+}

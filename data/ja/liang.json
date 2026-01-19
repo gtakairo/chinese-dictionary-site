@@ -1,0 +1,16 @@
+{
+  "slug": "liang",
+  "chinese": "连杆",
+  "pinyin": "lián gān",
+  "meaning": "コネクティングロッド",
+  "description": "往復運動を回転運動に変換する機械要素（コンロッド）。",
+  "examples": [
+    {"chinese": "检查发动机的连杆磨损", "japanese": "エンジンのコンロッドの摩耗を点検する"},
+    {"chinese": "更换损坏的连杆", "japanese": "損傷したコンロッドを交換する"},
+    {"chinese": "连杆连接活塞与曲轴", "japanese": "コンロッドはピストンとクランクシャフトを繋ぐ"}
+  ],
+  "category": "car",
+  "categoryName": "自動車",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/liang/"
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "renqi",
+  "chinese": "人前一套人后一套",
+  "pinyin": "rén qián yī tào, rén hòu yī tào",
+  "meaning": "Two-faced / Hypocritical",
+  "description": "Acting one way in front of people and another way behind their back. Same as 'dang mian yi tao, bei hou yi tao'. Changing one's attitude depending on whether people are present.",
+  "examples": [
+    {
+      "chinese": "我觉得女人都是人前一套人后一套的",
+      "translation": "I feel like all women are two-faced."
+    },
+    {
+      "chinese": "请不要给我人前一套人后一套",
+      "translation": "Please don't be two-faced with me."
+    },
+    {
+      "chinese": "后知后觉,原来又被人背刺了,当面一套背后一套真有你的呢",
+      "translation": "Realized too late that I was stabbed in the back again; you really are two-faced."
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "Idiom",
+  "relatedWords": [
+    "dangminayitaobeihouyitao",
+    "houzhihoujue",
+    "beici",
+    "jiaoshegen"
+  ],
+  "sourceUrl": "https://chineself.com/renqi/"
+}

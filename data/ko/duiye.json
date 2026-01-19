@@ -1,0 +1,20 @@
+{
+  "slug": "duiye",
+  "chinese": "对耶",
+  "pinyin": "duì ye",
+  "meaning": "맞아 / 그렇네",
+  "description": "동의나 맞장구칠 때 사용하는 가벼운 표현.",
+  "examples": [
+    {
+      "chinese": "这部剧很好看，对耶",
+      "translation": "이 드라마 재밌네, 그치"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 신조어",
+  "relatedWords": [
+    "diesinei",
+    "sodiesinei"
+  ],
+  "sourceUrl": "https://chineself.com/duiye/"
+}

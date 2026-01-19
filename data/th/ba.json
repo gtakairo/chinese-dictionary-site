@@ -1,0 +1,25 @@
+{
+  "slug": "ba",
+  "chinese": "叭叭叭叭",
+  "pinyin": "bā bā bā bā",
+  "meaning": "พูดมาก, บ่นพึมพำ, พูดไม่หยุด",
+  "description": "เสียงเลียนแบบการพูดจาไม่หยุด ปากหอยปากปู หรือขี้บ่น",
+  "examples": [
+    {
+      "chinese": "这嘴叭叭叭叭叭个不停",
+      "translation": "ปากนี่พูดไม่หยุดเลยนะ"
+    },
+    {
+      "chinese": "别叭叭那么多",
+      "translation": "อย่าบ่นนักเลย"
+    },
+    {
+      "chinese": "喝醉了的人都会叭叭叭叭的",
+      "translation": "คนเมาก็ชอบพล่ามไปเรื่อยแหละ"
+    }
+  ],
+  "category": "net",
+  "categoryName": "สแลงอินเทอร์เน็ต",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/ba/"
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "xianzhixianjue",
+  "chinese": "先知先觉",
+  "pinyin": "xiān zhī xiān jué",
+  "meaning": "선견지명 / 미리 깨닫다",
+  "description": "사전에 미리 짐작하고 깨닫는 능력.",
+  "examples": [
+    {
+      "chinese": "投资高手们都是先知先觉的人",
+      "translation": "투자의 고수들은 모두 선견지명이 있는 사람들이다."
+    },
+    {
+      "chinese": "女人先知先觉,男人后知后觉",
+      "translation": "여자는 미리 눈치채고, 남자는 나중에야 깨닫는다."
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "성어 / 사자성어",
+  "relatedWords": [
+    "houzhihoujue"
+  ],
+  "sourceUrl": "https://chineself.com/xianzhixianjue/"
+}

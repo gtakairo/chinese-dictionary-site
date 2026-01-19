@@ -1,0 +1,25 @@
+{
+  "slug": "xia",
+  "chinese": "下半场",
+  "pinyin": "xià bàn chǎng",
+  "meaning": "Second Half",
+  "description": "Refers to the second half of matches etc.",
+  "examples": [
+    {
+      "chinese": "比赛进入下半场",
+      "translation": "The match enters the second half."
+    },
+    {
+      "chinese": "下半场表现更稳定",
+      "translation": "Performance was more stable in the second half."
+    },
+    {
+      "chinese": "下半场战术调整奏效",
+      "translation": "Tactical adjustments in the second half worked."
+    }
+  ],
+  "category": "sports",
+  "categoryName": "Sports",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/xia/"
+}

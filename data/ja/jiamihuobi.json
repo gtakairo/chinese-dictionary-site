@@ -1,0 +1,16 @@
+{
+  "slug": "jiamihuobi",
+  "chinese": "加密货币",
+  "pinyin": "jīamìhuòbì",
+  "meaning": "暗号通貨（=仮想通貨）",
+  "description": "「加密」の意味は「暗号化する」。",
+  "examples": [
+    {"chinese": "加密货币波动较大", "japanese": "暗号通貨はボラティリティが高い"},
+    {"chinese": "如何购买加密货币", "japanese": "暗号通貨の買い方は？"},
+    {"chinese": "学习加密货币安全知识", "japanese": "暗号資産のセキュリティ知識を学ぶ"}
+  ],
+  "category": "jinrong",
+  "categoryName": "金融・投資",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/jiamihuobi/"
+}

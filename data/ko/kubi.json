@@ -1,0 +1,25 @@
+{
+  "slug": "kubi",
+  "chinese": "库币",
+  "pinyin": "kù bì",
+  "meaning": "쿠코인 (KuCoin) [가상화폐 거래소]",
+  "description": "암호화폐 거래소 KuCoin의 중국어 표기입니다.",
+  "examples": [
+    {
+      "chinese": "在库币开通账户",
+      "translation": "쿠코인에서 계좌를 개설하다"
+    },
+    {
+      "chinese": "库币支持现货和合约",
+      "translation": "쿠코인은 현물과 선물 거래를 지원한다"
+    },
+    {
+      "chinese": "库币上线新项目",
+      "translation": "쿠코인에 새로운 프로젝트가 상장되다"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "금융/투자",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/kubi/"
+}

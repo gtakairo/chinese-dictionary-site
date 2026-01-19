@@ -1,0 +1,29 @@
+{
+  "slug": "nin",
+  "chinese": "你奶奶的",
+  "pinyin": "nǐ nǎi nai de",
+  "meaning": "クソッ、こん畜生、なんてこった",
+  "description": "ピンインの頭文字で「nnnd」と言うこともある。你奶奶滴も同じ。",
+  "examples": [
+    {
+      "chinese": "我吃你奶奶的苦",
+      "japanese": "俺がなんで苦しまないといけないんだ"
+    },
+    {
+      "chinese": "你奶奶的,真的会很难过",
+      "japanese": "クソッ、本当にやりきれない"
+    },
+    {
+      "chinese": "真的有必要吗？nnnd",
+      "japanese": "本当に必要？なんてこった"
+    },
+    {
+      "chinese": "这东西真NNND贵",
+      "japanese": "これは本当にくそ高い"
+    }
+  ],
+  "category": "tanci",
+  "categoryName": "感嘆詞",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/nin/"
+}

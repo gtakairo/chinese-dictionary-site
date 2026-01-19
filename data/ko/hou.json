@@ -1,0 +1,25 @@
+{
+  "slug": "hou",
+  "chinese": "后备箱",
+  "pinyin": "hòu bèi xiāng",
+  "meaning": "자동차 트렁크",
+  "description": "자동차 뒷부분에 짐을 싣는 공간.",
+  "examples": [
+    {
+      "chinese": "把行李放进后备箱",
+      "translation": "짐을 트렁크에 넣다"
+    },
+    {
+      "chinese": "后备箱开关在哪",
+      "translation": "트렁크 여는 스위치는 어디에 있나요?"
+    },
+    {
+      "chinese": "检查后备箱密封条",
+      "translation": "트렁크 고무패킹을 점검하다"
+    }
+  ],
+  "category": "car",
+  "categoryName": "자동차",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/hou/"
+}

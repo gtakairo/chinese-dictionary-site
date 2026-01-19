@@ -1,0 +1,25 @@
+{
+    "slug": "sun",
+    "chinese": "损坏事故",
+    "pinyin": "sǔn huài shì gù",
+    "meaning": "Property damage accident",
+    "description": "Accident causing only property damage, no personal injury.",
+    "category": "car",
+    "categoryName": "Automobile",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/sun/",
+    "examples": [
+        {
+            "chinese": "发生了车辆物损事故",
+            "translation": "A vehicle property damage accident occurred"
+        },
+        {
+            "chinese": "报案处理物损事故",
+            "translation": "Report a property damage accident"
+        },
+        {
+            "chinese": "保险公司核定物损事故",
+            "translation": "Insurance company assesses property damage accident"
+        }
+    ]
+}

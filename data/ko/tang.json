@@ -1,0 +1,25 @@
+{
+    "slug": "tang",
+    "chinese": "糖醋肉",
+    "pinyin": "táng cù ròu",
+    "meaning": "탕수육",
+    "description": "일본 중화요리의 탕수육이나 한국식 탕수육처럼 피망 등 야채 없이 고기만 있는 것.",
+    "category": "liaoli",
+    "categoryName": "요리",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/tang/",
+    "examples": [
+        {
+            "chinese": "点一份糖醋肉配米饭",
+            "translation": "탕수육 하나랑 밥 주세요"
+        },
+        {
+            "chinese": "这道糖醋肉偏甜",
+            "translation": "이 탕수육은 좀 단 편이다"
+        },
+        {
+            "chinese": "糖醋肉没有青椒",
+            "translation": "탕수육에 피망이 없다"
+        }
+    ]
+}

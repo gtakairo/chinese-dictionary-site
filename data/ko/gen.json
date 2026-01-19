@@ -1,0 +1,25 @@
+{
+  "slug": "gen",
+  "chinese": "搁哪",
+  "pinyin": "gē nǎ",
+  "meaning": "어디야 / 어디에",
+  "description": "중국 동북 지방 사투리.",
+  "examples": [
+    {
+      "chinese": "搁哪呢,我找不到啊",
+      "translation": "어디 있어? 못 찾겠네."
+    },
+    {
+      "chinese": "天天搁哪吹牛,没实力别瞎bb",
+      "translation": "매일 어디서 허풍이나 떨고, 실력 없으면 헛소리하지 마."
+    },
+    {
+      "chinese": "天啦噜,我充电器搁那放着",
+      "translation": "맙소사, 내 충전기 어디다 뒀더라."
+    }
+  ],
+  "category": "fangyan",
+  "categoryName": "방언(사투리)",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/gen/"
+}

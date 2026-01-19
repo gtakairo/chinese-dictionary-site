@@ -1,0 +1,25 @@
+{
+  "slug": "kubi",
+  "chinese": "库币",
+  "pinyin": "kù bì",
+  "meaning": "KuCoin (แพลตฟอร์มแลกเปลี่ยนสกุลเงินดิจิทัล)",
+  "description": "ชื่อภาษาจีนของกระดานเทรดคริปโทเคอร์เรนซี KuCoin",
+  "examples": [
+    {
+      "chinese": "在库币开通账户",
+      "translation": "เปิดบัญชีที่ KuCoin"
+    },
+    {
+      "chinese": "库币支持现货和合约",
+      "translation": "KuCoin รองรับการซื้อขายแบบสปอตและฟิวเจอร์ส"
+    },
+    {
+      "chinese": "库币上线新项目",
+      "translation": "โครงการใหม่เปิดตัวบน KuCoin"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "การเงิน/การลงทุน",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/kubi/"
+}

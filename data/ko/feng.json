@@ -1,0 +1,27 @@
+{
+  "slug": "feng",
+  "chinese": "粉感",
+  "pinyin": "fěn gǎn",
+  "meaning": "화장이 뜸 / 파우더리한 느낌",
+  "description": "메이크업 베이스나 파운데이션이 피부에 밀착되지 않고 겉돌아 가루가 뜬 것처럼 보이는 상태.",
+  "examples": [
+    {
+      "chinese": "粉霜贼拉细腻,上脸真的看不出一点粉感",
+      "translation": "크림 파운데이션이 엄청 고와서 얼굴에 발라도 뜬 느낌이 전혀 안 난다"
+    },
+    {
+      "chinese": "定妆喷雾按了一层以后妆面太持久还可以降低粉感",
+      "translation": "픽서를 한 겹 뿌리면 화장이 오래 지속되고 파우더리한 느낌도 줄여준다"
+    },
+    {
+      "chinese": "超级好用的散粉,不是明显粉感,和肌肤融合的非常自然",
+      "translation": "완전 좋은 파우더, 가루 날림 없이 피부에 아주 자연스럽게 밀착된다"
+    }
+  ],
+  "category": "fashion",
+  "categoryName": "패션·미용",
+  "relatedWords": [
+    "zeila"
+  ],
+  "sourceUrl": "https://chineself.com/feng/"
+}

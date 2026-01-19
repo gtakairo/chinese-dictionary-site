@@ -1,0 +1,27 @@
+{
+  "slug": "zhichi",
+  "chinese": "知耻而后勇",
+  "pinyin": "zhī chǐ ér hòu yǒng",
+  "meaning": "รู้ละอายจึงกล้าหาญ",
+  "description": "การรู้จุดด้อยของตนแล้วปรับปรุงคือความกล้าหาญ",
+  "examples": [
+    {
+      "chinese": "要懂得知耻而后勇,知错能改,善莫大焉",
+      "translation": "ต้องรู้จักว่าความละอายนำมาซึ่งความกล้าหาญ ผิดแล้วแก้ตัวเป็นเรื่องประเสริฐ"
+    },
+    {
+      "chinese": "学生成绩不好就应该知耻而后勇吧",
+      "translation": "นักเรียนที่เกรดไม่ดีควรรู้จักละอายแล้วฮึดสู้"
+    },
+    {
+      "chinese": "知耻而后勇,终于拿到了世界杯的首胜",
+      "translation": "รู้ละอายจึงฮึดสู้ จนคว้าชัยชนะนัดแรกในบอลโลกได้สำเร็จ"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "สำนวน",
+  "relatedWords": [
+    "zhicuonenggaishanmodayan"
+  ],
+  "sourceUrl": "https://chineself.com/zhichi/"
+}

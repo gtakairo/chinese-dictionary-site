@@ -1,0 +1,25 @@
+{
+  "slug": "yinsi",
+  "chinese": "隐私可言",
+  "pinyin": "yǐn sī kě yán",
+  "meaning": "Privacy / Expectation of privacy",
+  "description": "Usually used to describe a lack of privacy.",
+  "examples": [
+    {
+      "chinese": "大数据时代,个人毫无隐私可言",
+      "translation": "In the big data era, individuals have no privacy at all"
+    },
+    {
+      "chinese": "办公室安装了摄像头,太可怕了,哪有什么隐私可言",
+      "translation": "Cameras in the office? Too scary, where is the privacy?"
+    },
+    {
+      "chinese": "手机支付没有一点隐私可言,每一笔消费都会记录的清清楚楚",
+      "translation": "Mobile payments leave no privacy, every expense is clearly recorded"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "Uncategorized",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/yinsi/"
+}

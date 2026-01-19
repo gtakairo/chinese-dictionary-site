@@ -1,0 +1,16 @@
+{
+  "slug": "kuansongshidai",
+  "chinese": "宽松世代",
+  "pinyin": "kuān sōng shì dài",
+  "meaning": "ゆとり世代",
+  "description": "2002年-2011年の間に義務教育を受けた世代。1989年-2019年の平成生まれの人は、中国語で「平成豚」と呼ばれる。",
+  "examples": [
+    {"chinese": "他是宽松世代的学生", "japanese": "彼はゆとり世代の学生だ"},
+    {"chinese": "讨论宽松世代的教育改革", "japanese": "ゆとり世代の教育改革について議論する"},
+    {"chinese": "宽松世代进入职场", "japanese": "ゆとり世代が社会に出始めた"}
+  ],
+  "category": "jiaoyu",
+  "categoryName": "教育・学校",
+  "relatedWords": ["zhejuzu-2", "nitezu"],
+  "sourceUrl": "https://chineself.com/kuansongshidai/"
+}

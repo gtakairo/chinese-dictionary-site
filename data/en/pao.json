@@ -1,0 +1,28 @@
+{
+  "slug": "pao",
+  "chinese": "跑杯",
+  "pinyin": "pǎo bēi",
+  "meaning": "Bra slipping / Cup spillage",
+  "description": "When the breast slips out of the bra cup.",
+  "examples": [
+    {
+      "chinese": "求推荐内衣,不空杯不跑杯不勒肉",
+      "translation": "Looking for bra recommendations, no gap, no slipping, no digging in"
+    },
+    {
+      "chinese": "运动锻炼的时候穿也不容易跑杯,入股不亏",
+      "translation": "Doesn't slip easily even when exercising, worth buying"
+    },
+    {
+      "chinese": "特别好穿内衣,固定杯垫,不移位不跑杯",
+      "translation": "Very comfortable underwear, fixed pads, doesn't shift or slip"
+    }
+  ],
+  "category": "fashion",
+  "categoryName": "Fashion & Beauty",
+  "relatedWords": [
+    "bukongbei",
+    "rugubukui"
+  ],
+  "sourceUrl": "https://chineself.com/pao/"
+}

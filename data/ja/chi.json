@@ -1,0 +1,29 @@
+{
+  "slug": "chi",
+  "chinese": "翅膀硬了",
+  "pinyin": "chì bǎng yìng le",
+  "meaning": "（技術・能力がつき）独立する、一人前になる ②（子供が）大人になる、自立する",
+  "description": "翅膀は「羽、翼」の意味。生まれたばかりの小鳥の羽は柔らかいが、硬くなるころには自分で飛ぶことができる。そこから自立や独立するという意味になる。",
+  "examples": [
+    {
+      "chinese": "辞职原因,翅膀硬了",
+      "translation": "退職の原因は独立である"
+    },
+    {
+      "chinese": "辛苦培养的人才,翅膀硬了就飞",
+      "translation": "苦労して育成した人材が一人前になり独立していく"
+    },
+    {
+      "chinese": "孩子翅膀硬了,不听父母的话了",
+      "translation": "子供が大人になる、父母の話を聞かなくなった"
+    },
+    {
+      "chinese": "控制欲特别强的父母会害怕孩子某天「翅膀硬了」",
+      "translation": "支配欲が強すぎる父母は子供がいつか自立することを恐れる"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "未分類",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/chi/"
+}

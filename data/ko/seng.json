@@ -1,0 +1,25 @@
+{
+  "slug": "seng",
+  "chinese": "僧多粥少",
+  "pinyin": "sēng duō zhōu shǎo",
+  "meaning": "수요가 공급보다 많다 (승려는 많고 죽은 적다)",
+  "description": "직역하면 '중은 많은데 죽은 적다'는 뜻. 사람(수요)은 많은데 물건(공급)이 부족하여 돌아갈 몫이 적음을 의미.",
+  "examples": [
+    {
+      "chinese": "僧多粥少,买新能源汽车容易充电难",
+      "translation": "수요는 많은데 공급이 부족해서, 신에너지 자동차를 사기는 쉬워도 충전하기는 어렵다"
+    },
+    {
+      "chinese": "现在缺钱开发商太多了,政府钱也不多,僧多粥少不够分",
+      "translation": "지금 돈 없는 개발상은 너무 많은데 정부 돈도 많지 않아, 나눠줄 게 턱없이 부족하다"
+    },
+    {
+      "chinese": "天然气供应紧张,僧多粥少怎么破",
+      "translation": "천연가스 공급이 긴장 상태인데, 공급 부족을 어떻게 해결하나"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "사자성어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/seng/"
+}

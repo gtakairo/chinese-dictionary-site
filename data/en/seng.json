@@ -1,0 +1,25 @@
+{
+  "slug": "seng",
+  "chinese": "僧多粥少",
+  "pinyin": "sēng duō zhōu shǎo",
+  "meaning": "Not enough to go around / Too many monks, too little gruel",
+  "description": "Literally 'many monks, little gruel'. Means demand exceeds supply, or there are too many people sharing too few resources.",
+  "examples": [
+    {
+      "chinese": "僧多粥少,买新能源汽车容易充电难",
+      "translation": "Not enough to go around; buying NEVs is easy but charging is hard."
+    },
+    {
+      "chinese": "现在缺钱开发商太多了,政府钱也不多,僧多粥少不够分",
+      "translation": "Too many cash-strapped developers and not enough government funds; simply not enough to go around."
+    },
+    {
+      "chinese": "天然气供应紧张,僧多粥少怎么破",
+      "translation": "Natural gas supply is tight; how to solve the shortage?"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "Idiom",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/seng/"
+}

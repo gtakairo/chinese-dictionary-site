@@ -1,0 +1,25 @@
+{
+    "slug": "shuaiguo",
+    "chinese": "甩锅",
+    "pinyin": "shuǎi guō",
+    "meaning": "Shift the blame, pass the buck",
+    "description": "Same as \"rang bieren lai bei heiguo\". \"Bei heiguo\" means to bear someone else's blame. \"Shuai\" means to throw.",
+    "category": "net",
+    "categoryName": "Internet Slang",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/shuaiguo/",
+    "examples": [
+        {
+            "chinese": "他真的爱甩锅",
+            "translation": "He really loves shifting the blame"
+        },
+        {
+            "chinese": "不要甩锅给我",
+            "translation": "Don't shift the blame to me"
+        },
+        {
+            "chinese": "一出问题就甩锅,要脸不要啊",
+            "translation": "Shifting blame as soon as there's a problem, have you no shame?"
+        }
+    ]
+}

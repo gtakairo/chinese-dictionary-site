@@ -1,0 +1,25 @@
+{
+  "slug": "hun",
+  "chinese": "婚变",
+  "pinyin": "hūn biàn",
+  "meaning": "혼변 / 이혼 위기",
+  "description": "혼인 관계의 변화.",
+  "examples": [
+    {
+      "chinese": "俩人越看越有夫妻相,没有婚变传闻",
+      "translation": "두 사람은 볼수록 부부의 모습이 보이고, 이혼 위기 소문도 없다"
+    },
+    {
+      "chinese": "双方婚变或许已分居,七年之痒亮红灯",
+      "translation": "쌍방이 혼변으로 이미 별거했을 수도 있다, 7년 권태기에 적신호"
+    },
+    {
+      "chinese": "明星情侣都好坎坷啊,屡次传出婚变",
+      "translation": "연예인 커플은 참 기구하다, 몇 번이고 이혼 위기설이 나돈다"
+    }
+  ],
+  "category": "nannv",
+  "categoryName": "연애/결혼",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/hun/"
+}

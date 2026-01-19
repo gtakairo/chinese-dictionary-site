@@ -1,0 +1,12 @@
+{
+  "slug": "xianyu",
+  "chinese": "咸鱼",
+  "pinyin": "xián yú",
+  "meaning": "やる気ない人／寝そべりがち",
+  "description": "意欲が低く積極的に動かない人を自嘲的に指す。",
+  "examples": [{"chinese": "我就是个咸鱼", "japanese": "私はただの咸鱼（やる気ない人）だ"}],
+  "category": "net",
+  "categoryName": "ライフスタイル",
+  "relatedWords": ["tangping", "moyu"],
+  "sourceUrl": "https://chineself.com/xianyu/"
+}

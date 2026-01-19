@@ -1,0 +1,21 @@
+{
+  "slug": "yuzhaizu",
+  "chinese": "御宅族",
+  "pinyin": "yù zhái zú",
+  "meaning": "オタク",
+  "description": "日本語のオタクが語源。宅男（zhái nán）宅女（zhái nǚ）もオタクの意味で使われる。",
+  "examples": [
+    {
+      "chinese": "秋叶原御宅族文化",
+      "translation": "秋葉原のオタク文化"
+    },
+    {
+      "chinese": "我就是个宅男",
+      "translation": "私はほんとオタクだ"
+    }
+  ],
+  "category": "sub",
+  "categoryName": "サブカルチャー",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/yuzhaizu/"
+}

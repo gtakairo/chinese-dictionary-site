@@ -1,0 +1,28 @@
+{
+  "slug": "shabi",
+  "chinese": "煞笔",
+  "pinyin": "shā bǐ",
+  "meaning": "병신, 바보",
+  "description": "일반적으로는 '붓을 놓다(글을 마치다)'는 뜻이나, 인터넷 용어로는 'Sha Bi'(병신)와 같은 의미로 쓰이는 욕설.",
+  "examples": [
+    {
+      "chinese": "看看这个煞笔视频",
+      "translation": "이 병신 같은 영상 좀 봐"
+    },
+    {
+      "chinese": "我真是个大煞笔呀",
+      "translation": "난 정말 천하의 멍청이야"
+    },
+    {
+      "chinese": "你怎么那么煞笔呢",
+      "translation": "넌 왜 그렇게 멍청하니"
+    }
+  ],
+  "category": "ma",
+  "categoryName": "도발/욕설",
+  "relatedWords": [
+    "sb",
+    "gunyuandian"
+  ],
+  "sourceUrl": "https://chineself.com/shabi/"
+}

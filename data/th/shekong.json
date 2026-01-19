@@ -1,0 +1,25 @@
+{
+  "slug": "shekong",
+  "chinese": "社恐",
+  "pinyin": "shè kǒng",
+  "meaning": "โรคกลัวการเข้าสังคม",
+  "description": "คำย่อของโรคกลัวการเข้าสังคม (Social Phobia) ตรงข้ามกับ เช่อนิว (She Niu - คนที่เข้าสังคมเก่งมาก) คำที่เกี่ยวข้อง: เช่อจ๋า, เช่อเหลิง",
+  "examples": [
+    {
+      "chinese": "人越多越局促,见的人越多越社恐",
+      "translation": "ยิ่งคนเยอะยิ่งอึดอัด ยิ่งเจอคนเยอะยิ่งกลัวการเข้าสังคม"
+    },
+    {
+      "chinese": "啥时候可以面试不紧张呢,社恐人哭哭",
+      "translation": "เมื่อไหร่จะเลิกตื่นเต้นตอนสัมภาษณ์สักทีนะ เป็นโรคกลัวสังคมนี่มันน่าเศร้าจริงๆ"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์สแลงอินเทอร์เน็ต",
+  "relatedWords": [
+    "sheniu",
+    "sheza",
+    "sheleng"
+  ],
+  "sourceUrl": "https://chineself.com/shekong/"
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "lacai",
+  "chinese": "拉踩",
+  "pinyin": "lā cǎi",
+  "meaning": "他を下げて相対的に上げる（比較落とし）",
+  "description": "他者を引き合いに出して貶し、自分や推しを引き立てる行為。",
+  "examples": [{"chinese": "别拉踩其他艺人", "japanese": "他の芸能人を引き合いに出して落とさないで"}],
+  "category": "net",
+  "categoryName": "推し文化・対立",
+  "relatedWords": ["heizi", "fanquan"],
+  "sourceUrl": "https://chineself.com/lacai/"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "shangresou",
+  "chinese": "上热搜",
+  "pinyin": "shàng rè sōu",
+  "meaning": "인기 검색어 / 트렌드",
+  "description": "SNS 인기 검색어 순위에 오르는 것.",
+  "examples": [
+    {
+      "chinese": "这条新闻上热搜了",
+      "translation": "이 뉴스가 실시간 검색어에 올랐다."
+    }
+  ],
+  "category": "net",
+  "categoryName": "SNS 및 트렌드",
+  "relatedWords": [
+    "poquan"
+  ],
+  "sourceUrl": "https://chineself.com/shangresou/"
+}

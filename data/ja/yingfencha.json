@@ -1,0 +1,16 @@
+{
+  "slug": "yingfencha",
+  "chinese": "硬分叉",
+  "pinyin": "yìng fēn chā",
+  "meaning": "ハードフォーク（hard fork）",
+  "description": "互換性のない仕様変更によりチェーンが分岐する現象。アップグレード後は旧ルールと新ルールが共存できない。",
+  "examples": [
+    {"chinese": "社区投票决定硬分叉", "japanese": "コミュニティ投票でハードフォークが決まった"},
+    {"chinese": "硬分叉后链分成两条", "japanese": "ハードフォーク後にチェーンが二つに分かれた"},
+    {"chinese": "准备升级以避免硬分叉", "japanese": "ハードフォーク回避のためアップグレードを準備する"}
+  ],
+  "category": "jinrong",
+  "categoryName": "金融・投資",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/yingfencha/"
+}

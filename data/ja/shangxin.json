@@ -1,0 +1,14 @@
+{
+  "slug": "shangxin",
+  "chinese": "上新",
+  "pinyin": "shàng xīn",
+  "meaning": "新作入荷／新商品追加",
+  "description": "新しい商品やコンテンツが追加されること。",
+  "examples": [
+    {"chinese": "店里今天上新了", "japanese": "店に今日は新作が入荷した"}
+  ],
+  "category": "fashion",
+  "categoryName": "ファッション・商品",
+  "relatedWords": ["zhongcao"],
+  "sourceUrl": "https://chineself.com/shangxin/"
+}

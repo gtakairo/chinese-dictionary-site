@@ -1,0 +1,27 @@
+{
+  "slug": "na",
+  "chinese": "拿不起放不下",
+  "pinyin": "ná bù qǐ fàng bù xià",
+  "meaning": "우유부단하다 / 맺고 끊음이 확실하지 않다",
+  "description": "반의어는 「나득기방득하(拿得起放得下, 결단력 있다, 융통성 있다)」.",
+  "examples": [
+    {
+      "chinese": "为什么他会是一个拿不起放不下的人",
+      "translation": "그는 왜 우유부단한 사람일까?"
+    },
+    {
+      "chinese": "如何改变拿不起,放不下的心态",
+      "translation": "우유부단하고 맺고 끊음이 확실하지 않은 태도를 어떻게 바꿀까?"
+    },
+    {
+      "chinese": "好讨厌自己的思维,好讨厌自己拿不起放不下的性格",
+      "translation": "나의 사고방식이 싫고, 우유부단한 내 성격이 너무 싫다."
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "미분류",
+  "relatedWords": [
+    "nadeqifangdexia"
+  ],
+  "sourceUrl": "https://chineself.com/na/"
+}

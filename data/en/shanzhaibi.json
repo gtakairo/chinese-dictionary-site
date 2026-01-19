@@ -1,0 +1,25 @@
+{
+  "slug": "shanzhaibi",
+  "chinese": "山寨币",
+  "pinyin": "shān zhài bì",
+  "meaning": "Altcoin",
+  "description": "General term for cryptocurrencies other than Bitcoin. Depending on the context, it may refer to low-quality coins.",
+  "examples": [
+    {
+      "chinese": "市场上有很多山寨币",
+      "translation": "There are many altcoins in the market."
+    },
+    {
+      "chinese": "谨慎投资小众山寨币",
+      "translation": "Invest cautiously in niche altcoins."
+    },
+    {
+      "chinese": "关注山寨币赛道的机会",
+      "translation": "Focus on opportunities in the altcoin sector."
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "Finance & Investment",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/shanzhaibi/"
+}

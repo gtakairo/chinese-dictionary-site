@@ -1,0 +1,27 @@
+{
+  "slug": "ren",
+  "chinese": "人比山高,脚比路长",
+  "pinyin": "rén bǐ shān gāo, jiǎo bǐ lù zhǎng",
+  "meaning": "산보다 높은 기개, 길보다 긴 발걸음 (뜻을 크게 품어라)",
+  "description": "뜻과 신념이 클수록 더 멀리 갈 수 있다는 의미. '소년이여 야망을 가져라'와 비슷함. 길림대학 교가에 있는 구절.",
+  "examples": [
+    {
+      "chinese": "要永远记得呀,人比山高,脚比路长",
+      "translation": "영원히 기억해, 뜻을 크게 품어야 해"
+    },
+    {
+      "chinese": "一生念念不忘,人比山高,脚比路长",
+      "translation": "평생 잊지 마, 뜻을 크게 품어야 해"
+    },
+    {
+      "chinese": "来日方长,继续前行,人比山高,脚比路长",
+      "translation": "앞날이 창창하니 계속 전진해, 뜻을 크게 품어야 해"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "미분류",
+  "relatedWords": [
+    "lairifangchang"
+  ],
+  "sourceUrl": "https://chineself.com/ren/"
+}

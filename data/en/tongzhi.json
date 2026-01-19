@@ -1,0 +1,39 @@
+{
+    "slug": "tongzhi",
+    "chinese": "同志剧",
+    "pinyin": "tóng zhì jù",
+    "meaning": "Gay drama (BL drama)",
+    "description": "Tongzhi means comrade but also gay.",
+    "category": "lgbtq",
+    "categoryName": "LGBTQ",
+    "relatedWords": [
+        "blju",
+        "danmeiwenxue",
+        "xiahaiju",
+        "fuju",
+        "geiju",
+        "jilao",
+        "wannan",
+        "fentao",
+        "duanbei"
+    ],
+    "sourceUrl": "https://chineself.com/tongzhi/",
+    "examples": [
+        {
+            "chinese": "同志腐剧（＝腐剧）",
+            "translation": "Gay drama (BL drama)"
+        },
+        {
+            "chinese": "同志新剧",
+            "translation": "New gay drama"
+        },
+        {
+            "chinese": "同志美剧",
+            "translation": "American gay drama"
+        },
+        {
+            "chinese": "泰国同志剧",
+            "translation": "Thai gay drama"
+        }
+    ]
+}

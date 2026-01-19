@@ -1,0 +1,25 @@
+{
+  "slug": "yin",
+  "chinese": "银",
+  "pinyin": "yín",
+  "meaning": "คน (สำเนียงถิ่น)",
+  "description": "คำว่า 'คน' ในสำเนียงท้องถิ่น (ตงเป่ย/ซานตง)",
+  "examples": [
+    {
+      "chinese": "我真的是一个好银",
+      "translation": "ฉันเป็นคนดีจริงๆ นะ (สำเนียงถิ่น)"
+    },
+    {
+      "chinese": "你真是好银啊",
+      "translation": "เธอเป็นคนดีจริงๆ"
+    },
+    {
+      "chinese": "什么样的男银算是好男银？",
+      "translation": "ผู้ชายแบบไหนถึงเรียกว่าผู้ชายที่ดี"
+    }
+  ],
+  "category": "fangyan",
+  "categoryName": "ภาษาถิ่น",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/yin/"
+}

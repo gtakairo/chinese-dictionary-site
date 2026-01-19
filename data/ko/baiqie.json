@@ -1,0 +1,27 @@
+{
+  "slug": "baiqie",
+  "chinese": "白切黑",
+  "pinyin": "bái qiē hēi",
+  "meaning": "하라구로 (겉과 속이 다름), 겉은 천사 속은 악마",
+  "description": "겉모습(白)은 착해 보이지만 속(黑)은 시커멓다는 뜻. 반전 매력으로 쓰이기도 함.",
+  "examples": [
+    {
+      "chinese": "表面上纯良,实际上傲娇白切黑",
+      "translation": "겉으로는 순진해 보이지만, 실제로는 츤데레에 하라구로다"
+    },
+    {
+      "chinese": "我以为你是个白切黑实际上只是个白切白",
+      "translation": "난 네가 겉다르고 속다른 줄 알았는데 그냥 순둥이였구나"
+    },
+    {
+      "chinese": "一个白切黑一个黑切黑一个黑切白",
+      "translation": "한 명은 하라구로, 한 명은 그냥 악당, 한 명은 겉은 무서운데 속은 착함"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 슬랭",
+  "relatedWords": [
+    "aojiao"
+  ],
+  "sourceUrl": "https://chineself.com/baiqie/"
+}

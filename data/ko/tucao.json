@@ -1,0 +1,35 @@
+{
+    "slug": "tucao",
+    "chinese": "吐槽",
+    "pinyin": "tǔ cáo",
+    "meaning": "① 태클 걸다, 딴지 걸다 (츠코미) ② 푸념하다, 불평하다",
+    "description": "일본의 만담 츠코미의 의미. 대만에서 쓰이다 대륙으로 넘어옴.",
+    "category": "net",
+    "categoryName": "인터넷 용어",
+    "relatedWords": [
+        "dingbuzhu"
+    ],
+    "sourceUrl": "https://chineself.com/tucao/",
+    "examples": [
+        {
+            "chinese": "外国人吐槽中文难学",
+            "translation": "외국인들은 중국어 배우기 어렵다고 푸념한다"
+        },
+        {
+            "chinese": "互相吐槽人生不满,家庭不好的地方,互相安慰",
+            "translation": "서로 인생의 불만, 가정의 안 좋은 점을 토로하며 서로 위로한다"
+        },
+        {
+            "chinese": "每天都在断电!民众吐槽不断",
+            "translation": "매일 정전이야! 사람들 불평이 끊이지 않아"
+        },
+        {
+            "chinese": "为什么没人吐槽我!!!",
+            "translation": "왜 아무도 나한테 태클 안 걸어줘!!!"
+        },
+        {
+            "chinese": "顶不住,还是想吐槽一句",
+            "translation": "못 참겠다, 역시 한마디 딴지 걸고 싶어"
+        }
+    ]
+}

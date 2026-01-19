@@ -1,0 +1,27 @@
+{
+  "slug": "dongtai",
+  "chinese": "动态定价",
+  "pinyin": "dòng tài dìng jià",
+  "meaning": "Dynamic Pricing",
+  "description": "A pricing strategy where prices of goods or services fluctuate based on supply and demand conditions. 「Dashuju shashu」 (Big data killing familiar customers) refers to discriminatory pricing / personalized pricing.",
+  "examples": [
+    {
+      "chinese": "这个动态定价,不一定啥时候便宜",
+      "translation": "With this dynamic pricing, it's not certain when it will be cheap."
+    },
+    {
+      "chinese": "买车票机票酒店都可以搞动态定价",
+      "translation": "Buying train tickets, plane tickets, and hotels can all involve dynamic pricing."
+    },
+    {
+      "chinese": "动态定价是一种根据市场需求和供应情况实时调整价格的策略",
+      "translation": "Dynamic pricing is a strategy of adjusting prices in real-time according to market demand and supply."
+    }
+  ],
+  "category": "jingji",
+  "categoryName": "Economics/Business",
+  "relatedWords": [
+    "dashujushashu"
+  ],
+  "sourceUrl": "https://chineself.com/dongtai/"
+}

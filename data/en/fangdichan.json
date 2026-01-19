@@ -1,0 +1,25 @@
+{
+  "slug": "fangdichan",
+  "chinese": "房地产信托基金",
+  "pinyin": "fáng dì chǎn xìn tuō jī jīn",
+  "meaning": "Real Estate Investment Trust (REIT)",
+  "description": "An investment trust composed mainly of real estate assets. It distributes rental income and profits from property sales to investors.",
+  "examples": [
+    {
+      "chinese": "我准备配置一点房地产信托基金",
+      "translation": "I plan to allocate some funds to Real Estate Investment Trusts."
+    },
+    {
+      "chinese": "房地产信托基金收益比较稳定",
+      "translation": "Real Estate Investment Trust returns are relatively stable."
+    },
+    {
+      "chinese": "他通过房地产信托基金分散风险",
+      "translation": "He diversifies risk through Real Estate Investment Trusts."
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "Finance & Investment",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/fangdichan/"
+}

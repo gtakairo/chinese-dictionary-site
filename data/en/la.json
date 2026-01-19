@@ -1,0 +1,25 @@
+{
+  "slug": "la",
+  "chinese": "喇叭",
+  "pinyin": "lǎ ba",
+  "meaning": "Car horn (Klaxon)",
+  "description": "When used outside the context of cars, it means \"trumpet\" or \"loudspeaker\".",
+  "examples": [
+    {
+      "chinese": "喇叭声音过大会扰民",
+      "translation": "Honking too loudly disturbs the residents"
+    },
+    {
+      "chinese": "检查喇叭是否工作正常",
+      "translation": "Check if the horn is working properly"
+    },
+    {
+      "chinese": "他拿起喇叭指挥交通",
+      "translation": "He picked up a loudspeaker (horn) to direct traffic"
+    }
+  ],
+  "category": "car",
+  "categoryName": "Automobile",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/la/"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "kouhai",
+  "chinese": "口嗨",
+  "pinyin": "kǒu hāi",
+  "meaning": "말만 앞섬 / 인터넷 여포",
+  "description": "현실에서는 행동하지 않으면서 입으로만 거창하게 말하는 것.",
+  "examples": [
+    {
+      "chinese": "别在网上口嗨了",
+      "translation": "인터넷에서 입만 털지 마라"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [
+    "gangjing"
+  ],
+  "sourceUrl": "https://chineself.com/kouhai/"
+}

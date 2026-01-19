@@ -1,0 +1,19 @@
+{
+  "slug": "xiaozuowen",
+  "chinese": "小作文",
+  "pinyin": "xiǎo zuòwén",
+  "meaning": "장문의 글 / 소작문",
+  "description": "SNS에 쓰는 긴 감상이나 해명글.",
+  "examples": [
+    {
+      "chinese": "他又发小作文了",
+      "translation": "걔 또 장문 썼네."
+    }
+  ],
+  "category": "net",
+  "categoryName": "SNS / 발신",
+  "relatedWords": [
+    "zqsg"
+  ],
+  "sourceUrl": "https://chineself.com/xiaozuowen/"
+}

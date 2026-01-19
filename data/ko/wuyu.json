@@ -1,0 +1,37 @@
+{
+  "slug": "wuyu",
+  "chinese": "无语",
+  "pinyin": "wú yǔ",
+  "meaning": "말이 안 통함 / 어이없음 / 할 말 잃음",
+  "description": "기가 막혀서 말이 안 나올 때 사용.",
+  "examples": [
+    {
+      "chinese": "他每天迟到,真的很无语",
+      "translation": "걔 매일 지각해, 진짜 어이없어."
+    },
+    {
+      "chinese": "该说不说,有时候我对你真的挺无语的",
+      "translation": "솔직히 말해서, 가끔 너 보면 진짜 할 말이 없다."
+    },
+    {
+      "chinese": "怎么突然涨费用了呢,蛮无语",
+      "translation": "왜 갑자기 비용이 올라? 참 어처구니없네."
+    },
+    {
+      "chinese": "这个人的各种行为,真的太让人无语了",
+      "translation": "이 사람의 모든 행동, 진짜 사람 질리게 하네."
+    },
+    {
+      "chinese": "你的态度,无语死啦！气死耶",
+      "translation": "니 태도 진짜 말도 안 나와! 열받네."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [
+    "wuhuakeshuo",
+    "wulegedayu",
+    "gaishuobushuo"
+  ],
+  "sourceUrl": "https://chineself.com/wuyu/"
+}

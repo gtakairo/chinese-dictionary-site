@@ -1,0 +1,25 @@
+{
+  "slug": "dama-2",
+  "chinese": "打码",
+  "pinyin": "dǎ mǎ",
+  "meaning": "Mosaic, blurring, censoring (masking)",
+  "description": "Originally referred to CAPTCHA authentication used to prove that the person accessing is a human by selecting distorted characters or images saying 「I am not a robot」. Based on that technology, it is now used to mean facial mosaic processing or processing to hide parts you want to conceal. It has the same meaning as 「mosaic processing」 (马赛克处理) and 「mosaic graffiti」 (马赛克涂鸦).",
+  "examples": [
+    {
+      "chinese": "别人发的打码图片能不能还原",
+      "translation": "Can mosaiced images sent by others be restored?"
+    },
+    {
+      "chinese": "苹果手机照片怎么打马赛克涂鸦?",
+      "translation": "How to add mosaic to photos on iPhone?"
+    },
+    {
+      "chinese": "怎样给视频打码?轻松保护隐私,超简单方法",
+      "translation": "How to blur specific parts of a video? Simple way to protect privacy easily"
+    }
+  ],
+  "category": "sns",
+  "categoryName": "Web/SNS Terms",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/dama-2/"
+}

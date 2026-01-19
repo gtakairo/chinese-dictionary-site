@@ -1,0 +1,28 @@
+{
+  "slug": "jidong",
+  "chinese": "鸡冻",
+  "pinyin": "jī dòng",
+  "meaning": "흥분하다 / 설레다 (지동)",
+  "description": "지동(激动, jī dòng)의 인터넷 용어.",
+  "examples": [
+    {
+      "chinese": "帅气酷盖！好鸡冻啊啊啊",
+      "translation": "멋진 쿨가이! 너무 설렌다 아아아"
+    },
+    {
+      "chinese": "重磅好消息,我很鸡冻",
+      "translation": "초대박 뉴스, 나 완전 흥분됨"
+    },
+    {
+      "chinese": "要冷静要冷静！怎么办还是很鸡冻",
+      "translation": "진정해 진정해! 어떡해 그래도 너무 설레"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [
+    "kugai",
+    "zhongbang"
+  ],
+  "sourceUrl": "https://chineself.com/jidong/"
+}

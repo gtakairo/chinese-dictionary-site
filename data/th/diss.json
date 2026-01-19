@@ -1,0 +1,20 @@
+{
+  "slug": "diss",
+  "chinese": "diss",
+  "pinyin": "d i s s",
+  "meaning": "ดิส (Diss), แขวะ, ด่าทอ",
+  "description": "มาจากภาษาอังกฤษ หมายถึงการดูถูกหรือเหน็บแนมผู้อื่น",
+  "examples": [
+    {
+      "chinese": "别在评论区diss人",
+      "translation": "อย่ามาดิสคนอื่นในช่องคอมเมนต์"
+    }
+  ],
+  "category": "wailaiyu",
+  "categoryName": "คำยืม/ศัพท์สแลงอินเทอร์เน็ต",
+  "relatedWords": [
+    "yinyangguaiqi",
+    "shuangbiao"
+  ],
+  "sourceUrl": "https://chineself.com/diss/"
+}

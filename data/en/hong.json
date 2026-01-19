@@ -1,0 +1,25 @@
+{
+  "slug": "hong",
+  "chinese": "红扒鱼翅",
+  "pinyin": "hóng bā yú chì",
+  "meaning": "Braised Shark Fin in Brown Sauce",
+  "description": "A dish where shark fin is braised in a soy sauce-based gravy.",
+  "examples": [
+    {
+      "chinese": "点了一份红扒鱼翅",
+      "translation": "Ordered a portion of braised shark fin in brown sauce."
+    },
+    {
+      "chinese": "这家店的红扒鱼翅很有名",
+      "translation": "This restaurant's braised shark fin is very famous."
+    },
+    {
+      "chinese": "红扒鱼翅口感很细腻",
+      "translation": "The texture of the braised shark fin is very delicate."
+    }
+  ],
+  "category": "liaoli",
+  "categoryName": "Cuisine",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/hong/"
+}

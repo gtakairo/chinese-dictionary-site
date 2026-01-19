@@ -1,0 +1,20 @@
+{
+  "slug": "gaoqian",
+  "chinese": "搞钱",
+  "pinyin": "gǎo qián",
+  "meaning": "หาเงิน / ปั๊มเงิน / กอบโกย",
+  "description": "ขยันทำมาหากินเพื่อหาเงิน",
+  "examples": [
+    {
+      "chinese": "今年要好好搞钱",
+      "translation": "ปีนี้ต้องตั้งใจหาเงิน"
+    }
+  ],
+  "category": "jingji",
+  "categoryName": "เศรษฐกิจ/ชีวิต",
+  "relatedWords": [
+    "bailan",
+    "dagongren"
+  ],
+  "sourceUrl": "https://chineself.com/gaoqian/"
+}

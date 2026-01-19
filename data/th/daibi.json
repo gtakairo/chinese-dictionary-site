@@ -1,0 +1,16 @@
+{
+  "slug": "daibi",
+  "chinese": "代币",
+  "pinyin": "dài bì",
+  "meaning": "โทเค็น (token)",
+  "description": "คำเรียกโทเค็นดิจิทอลที่ออกบนบล็อกเชน",
+  "examples": [
+    { "chinese": "发行平台代币", "translation": "ออกโทเค็นของแพลตฟอร์ม" },
+    { "chinese": "持有治理代币参与投票", "translation": "ถือโทเค็นกำกับดูแลเพื่อร่วมโหวต" },
+    { "chinese": "代币在交易所上市", "translation": "โทเค็นขึ้นซื้อขายในตลาด" }
+  ],
+  "category": "jinrong",
+  "categoryName": "การเงิน/การลงทุน",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/daibi/"
+}

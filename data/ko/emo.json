@@ -1,0 +1,28 @@
+{
+  "slug": "emo",
+  "chinese": "emo动车",
+  "pinyin": "emo dòng chē",
+  "meaning": "우울한 고속열차",
+  "description": "긴 연휴가 끝나고 학교로 돌아가기 싫어하는 대학생이 고향에서 학교가 있는 도시로 돌아가기 위해 타는 고속열차를 의미한다. emo는 emotional의 약자로 '우울하다, 기분이 가라앉다'라는 뜻으로 쓰인다.",
+  "examples": [
+    {
+      "chinese": "明天开学,要坐上emo动车了",
+      "translation": "내일 개학이라 우울한 고속열차를 타야 해"
+    },
+    {
+      "chinese": "坐上emo动车,心如死灰",
+      "translation": "우울한 고속열차를 타니 마음이 죽은 재와 같다"
+    },
+    {
+      "chinese": "下午要坐上emo动车了,有点坐立不安",
+      "translation": "오후에 우울한 고속열차를 타야 해서 좀 초조하다"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 신조어",
+  "relatedWords": [
+    "emole",
+    "xinrusihui"
+  ],
+  "sourceUrl": "https://chineself.com/emo/"
+}

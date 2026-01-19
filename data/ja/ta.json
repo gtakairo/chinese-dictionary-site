@@ -1,0 +1,29 @@
+{
+  "slug": "ta",
+  "chinese": "它不香吗",
+  "pinyin": "tā bù xiāng ma",
+  "meaning": "する価値がある？割に合う？",
+  "description": "不香吗は意味が違ってくる。「香」は魅力的、価値があるという意味で使われる。",
+  "examples": [
+    {
+      "chinese": "新产品来了,这价格它不香吗",
+      "translation": "新製品が販売された、この価格は適正ですか"
+    },
+    {
+      "chinese": "那么努力上大学它不香吗?",
+      "translation": "そんなに努力して大学に行って割に合う？"
+    },
+    {
+      "chinese": "1000-2000平价手机它不香吗?",
+      "translation": "1000-2000元の価格帯に抑えたスマホってお買い得？"
+    },
+    {
+      "chinese": "迪士尼一个冰淇淋50块,它不香吗",
+      "translation": "ディズニーランドのアイス50元、買う価値ある？"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": ["buxiangma-2"],
+  "sourceUrl": "https://chineself.com/ta/"
+}

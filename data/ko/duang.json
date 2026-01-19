@@ -1,0 +1,27 @@
+{
+  "slug": "duang",
+  "chinese": "断更",
+  "pinyin": "duàn gèng",
+  "meaning": "연재 중단, 업데이트 중단",
+  "description": "소설, 만화, 드라마 등의 연재가 중단되는 것을 의미합니다. 중국에서는 인터넷에 개인이 소설을 연재하는 경우가 많은데, 자유롭게 쓰다 보니 중단하는 경우도 많습니다.",
+  "examples": [
+    {
+      "chinese": "为什么每次我追的小说都断更啊",
+      "translation": "왜 내가 챙겨 보는 소설은 매번 연재가 중단되는 거야."
+    },
+    {
+      "chinese": "之前喜欢的作者断更蛮久了",
+      "translation": "예전에 좋아했던 작가는 연재 중단한 지 꽤 오래됐다."
+    },
+    {
+      "chinese": "这个微博断更了一次后就不想再发了",
+      "translation": "이 웨이보는 한 번 업데이트를 멈추니 다시 올리기 싫어졌다."
+    }
+  ],
+  "category": "sub",
+  "categoryName": "서브컬처",
+  "relatedWords": [
+    "lanwei"
+  ],
+  "sourceUrl": "https://chineself.com/duang/"
+}

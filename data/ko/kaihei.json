@@ -1,0 +1,19 @@
+{
+  "slug": "kaihei",
+  "chinese": "开黑",
+  "pinyin": "kāi hēi",
+  "meaning": "(음성 채팅 등을 하며) 친구와 같이 게임하기",
+  "description": "친구끼리 통화하면서 게임하는 것을 말한다.",
+  "examples": [
+    {
+      "chinese": "今晚一起开黑吗",
+      "translation": "오늘 밤에 보이스톡 하면서 게임 할래?"
+    }
+  ],
+  "category": "net",
+  "categoryName": "게임/인터넷 용어",
+  "relatedWords": [
+    "xswl"
+  ],
+  "sourceUrl": "https://chineself.com/kaihei/"
+}

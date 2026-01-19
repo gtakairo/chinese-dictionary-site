@@ -1,0 +1,24 @@
+{
+  "slug": "youdiaodiao",
+  "chinese": "有调调",
+  "pinyin": "yǒu diàodiào",
+  "meaning": "มีสไตล์ / มีรสนิยม / มีบรรยากาศ",
+  "description": "มีโทนหรือสไตล์ที่ดี มักใช้ชมการแต่งตัวหรือตกแต่ง",
+  "examples": [
+    {
+      "chinese": "这家咖啡店很有调调",
+      "translation": "คาเฟ่นี้มีสไตล์มาก"
+    },
+    {
+      "chinese": "她穿衣很有调调",
+      "translation": "เธอแต่งตัวมีสไตล์มาก"
+    }
+  ],
+  "category": "fashion",
+  "categoryName": "แฟชั่น/บรรยากาศ",
+  "relatedWords": [
+    "oumeifaner",
+    "baida"
+  ],
+  "sourceUrl": "https://chineself.com/youdiaodiao/"
+}

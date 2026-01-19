@@ -1,0 +1,20 @@
+{
+  "slug": "dayuanzhong",
+  "chinese": "大冤种",
+  "pinyin": "dà yuān zhǒng",
+  "meaning": "คนโง่ที่ถูกหลอกง่าย, หมูในอวย",
+  "description": "ศัพท์สแลงอินเทอร์เน็ตที่ใช้เยาะเย้ยตัวเองว่าเป็นคนที่ถูกเอาเปรียบหรือถูกหลอกได้ง่าย",
+  "examples": [
+    {
+      "chinese": "买理财成了大冤种",
+      "translation": "ซื้อกองทุนแล้วกลายเป็นหมูให้เขาเชือด"
+    }
+  ],
+  "category": "net",
+  "categoryName": "การเยาะเย้ยตัวเอง/การประเมิน",
+  "relatedWords": [
+    "jiucai",
+    "baipiao"
+  ],
+  "sourceUrl": "https://chineself.com/dayuanzhong/"
+}

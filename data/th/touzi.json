@@ -1,0 +1,25 @@
+{
+    "slug": "touzi",
+    "chinese": "投资组合",
+    "pinyin": "tóu zī zǔ hé",
+    "meaning": "พอร์ตการลงทุน",
+    "description": "การจัดสรรสินทรัพย์หรือกองทุน",
+    "category": "jinrong",
+    "categoryName": "การเงิน/การลงทุน",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/touzi/",
+    "examples": [
+        {
+            "chinese": "优化投资组合的风险收益",
+            "translation": "ปรับความเสี่ยงและผลตอบแทนของพอร์ตให้เหมาะสม"
+        },
+        {
+            "chinese": "定期再平衡投资组合",
+            "translation": "ปรับสมดุลพอร์ตลงทุนอย่างสม่ำเสมอ"
+        },
+        {
+            "chinese": "多元化投资组合配置",
+            "translation": "กระจายการลงทุนในพอร์ต"
+        }
+    ]
+}

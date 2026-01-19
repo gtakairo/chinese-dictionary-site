@@ -1,0 +1,20 @@
+{
+  "slug": "weikuanren",
+  "chinese": "尾款人",
+  "pinyin": "wěi kuǎn rén",
+  "meaning": "잔금의 노예 / 잔금 내는 사람",
+  "description": "할인 행사 후 잔금 지불에 쫓기는 소비자를 자조적으로 이르는 말.",
+  "examples": [
+    {
+      "chinese": "双11后成了尾款人",
+      "translation": "광군제 끝나고 잔금의 노예가 되었다."
+    }
+  ],
+  "category": "net",
+  "categoryName": "소비 / 자조",
+  "relatedWords": [
+    "zhongcao",
+    "bacao"
+  ],
+  "sourceUrl": "https://chineself.com/weikuanren/"
+}

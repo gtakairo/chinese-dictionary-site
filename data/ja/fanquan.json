@@ -1,0 +1,12 @@
+{
+  "slug": "fanquan",
+  "chinese": "饭圈",
+  "pinyin": "fàn quān",
+  "meaning": "ファン界隈／推し文化コミュニティ",
+  "description": "アイドル・作品を推すファンの界隈、文化やルールを含む。",
+  "examples": [{"chinese": "她是饭圈资深粉", "japanese": "彼女はファン界隈の古参だ"}],
+  "category": "net",
+  "categoryName": "推し文化・界隈",
+  "relatedWords": ["fensi", "poquan"],
+  "sourceUrl": "https://chineself.com/fanquan/"
+}

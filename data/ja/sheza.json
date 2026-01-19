@@ -1,0 +1,15 @@
+{
+  "slug": "sheza",
+  "chinese": "社杂",
+  "pinyin": "shè zá",
+  "meaning": "外見は冷たいが話してみると社交的な人、人見知りするが実は付き合いやすい人",
+  "description": "社交牛杂症の略語。社牛（人付き合いが上手い）と社恐（社交恐怖症）の中間。",
+  "examples": [
+    {"chinese": "他是社杂呀,熟悉了就开始疯狂活泼", "japanese": "彼はとっつきにくく感じたけど話してみると話しやすい、親しくなるととても明るい"},
+    {"chinese": "我是网络社牛,现实社杂", "japanese": "私はネット空間では社交的だが、現実生活ではちょっと人見知りする"}
+  ],
+  "category": "net",
+  "categoryName": "ネット用語・スラング",
+  "relatedWords": ["sheniu", "shekong", "sheleng"],
+  "sourceUrl": "https://chineself.com/sheza/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "dagong",
+  "chinese": "打工狗",
+  "pinyin": "dǎ gōng gǒu",
+  "meaning": "雇われ労働者",
+  "description": "无效打工人「報われない労働者」と同じように自嘲した表現。",
+  "examples": [
+    {
+      "chinese": "周六还在工作的打工狗",
+      "translation": "土曜日にまだ仕事している雇われ労働者"
+    },
+    {
+      "chinese": "我们打工狗没有休息,真是太摆烂了",
+      "translation": "我々雇われ労働者は休みがない、本当にやけっぱちになる"
+    },
+    {
+      "chinese": "哪个打工狗初一回单位上班,哦,原来是我自己",
+      "translation": "どこのやつが正月から会社に出勤しているんだ、おっ、それは俺だった"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": ["wuxiaodagongren", "bailan"],
+  "sourceUrl": "https://chineself.com/dagong/"
+}

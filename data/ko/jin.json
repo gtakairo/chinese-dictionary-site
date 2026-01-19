@@ -1,0 +1,29 @@
+{
+  "slug": "jin",
+  "chinese": "金榜题名",
+  "pinyin": "jīn bǎng tí míng",
+  "meaning": "시험에 합격하다 / 금방제명",
+  "description": "고대 관리 등용 시험인 「과거」에서 합격 발표 방(榜)이 금방(金榜, 황금 게시판)에 이름이 적혀 있었던 것에서 유래.",
+  "examples": [
+    {
+      "chinese": "愿今天一切顺顺利利,锦鲤护体,金榜题名",
+      "translation": "오늘 모든 일이 순조롭고, 행운이 따르며, 시험에 합격하기를"
+    },
+    {
+      "chinese": "一起为高考加油！祝莘莘学子,金榜题名,前程似锦",
+      "translation": "함께 수능 대박 기원! 수험생 여러분 합격하고 앞날이 창창하기를 빕니다"
+    },
+    {
+      "chinese": "祝看见这条的朋友们金榜题名,顺利上岸,高考必胜",
+      "translation": "이 글을 보는 친구들 모두 합격하고, 무사히 목표 달성하며, 수능 필승하기를"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "성어/사자성어",
+  "relatedWords": [
+    "jinli",
+    "qianchengsijin",
+    "shangan"
+  ],
+  "sourceUrl": "https://chineself.com/jin/"
+}

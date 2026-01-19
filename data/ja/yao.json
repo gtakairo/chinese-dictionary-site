@@ -1,0 +1,25 @@
+{
+  "slug": "yao",
+  "chinese": "遥不可及",
+  "pinyin": "yáo bù kě jí",
+  "meaning": "遥か遠く及ばない、達成するには程遠い、手の届かない",
+  "description": "目標や夢などが遥かに遠く、到達することが非常に困難であることを表す成語。",
+  "examples": [
+    {
+      "chinese": "你是我的遥不可及的白月光,也是我的死心塌地",
+      "translation": "あなたは私には遥か遠く及ばない高嶺の花だが私は決して諦めない"
+    },
+    {
+      "chinese": "买房的目标其实并不是那么遥不可及",
+      "translation": "家の購入は、実際は決して程遠い目標ではない"
+    },
+    {
+      "chinese": "要有遥不可及的梦想,也要有脚踏实地的本事",
+      "translation": "遥か遠く及ばない夢を持つなら、足が地についている能力も持つべきだ"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "成語・四字熟語",
+  "relatedWords": ["baiyueguang"],
+  "sourceUrl": "https://chineself.com/yao/"
+}

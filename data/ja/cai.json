@@ -1,0 +1,25 @@
+{
+  "slug": "cai",
+  "chinese": "才八点",
+  "pinyin": "cái bā diǎn",
+  "meaning": "もう放送終了しちゃうの、まだ放送やめないでよ",
+  "description": "ライブ配信などでよく使用される。ある配信でいつもは夜通しライブしている人が、早めに終了していようとしているとユーザーらが「才八点」（まだ8時なのに）とつぶやいたことから。",
+  "examples": [
+    {
+      "chinese": "主播要直播了吗！才八点",
+      "japanese": "ライバーさんライブ配信する？もう放送終了しちゃうの"
+    },
+    {
+      "chinese": "才八点嘛,球球了",
+      "japanese": "まだ放送やめないでよ、お願い"
+    },
+    {
+      "chinese": "亚达哟！才八点！你不要下播啊",
+      "japanese": "やだよ、もう放送終了しちゃうの、まだ放送やめないでよ"
+    }
+  ],
+  "category": "sns",
+  "categoryName": "Web・SNS用語",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/cai/"
+}

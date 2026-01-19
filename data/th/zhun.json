@@ -1,0 +1,25 @@
+{
+  "slug": "zhun",
+  "chinese": "准备药检",
+  "pinyin": "zhǔn bèi yào jiǎn",
+  "meaning": "ไปตรวจฉี่ม่วงไหม / บ้าหรือเปล่า",
+  "description": "ใช้ประชดคนที่ทำตัวบ้าๆ บอๆ เหมือนคนเมายา",
+  "examples": [
+    {
+      "chinese": "是不是脑子短路了,准备药检吧你",
+      "translation": "สมองรวนเหรอ? ไปตรวจฉี่หน่อยไหม"
+    },
+    {
+      "chinese": "这个人真的准备药检吧",
+      "translation": "คนนี้บ้าไปแล้วมั้ง"
+    },
+    {
+      "chinese": "我怀疑你们精神状态,准备药检",
+      "translation": "สงสัยสภาพจิตพวกนายจริงๆ ไปตรวจหน่อยไป"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์สแลงเน็ต",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/zhun/"
+}

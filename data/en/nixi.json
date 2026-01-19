@@ -1,0 +1,19 @@
+{
+  "slug": "nixi",
+  "chinese": "逆袭",
+  "pinyin": "nì xí",
+  "meaning": "Counterattack; Comeback; Turn the tables",
+  "description": "Successfully coming back from a disadvantageous position.",
+  "examples": [
+    {
+      "chinese": "他从小公司逆袭到了名企",
+      "translation": "He made a comeback from a small company to a famous enterprise."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [
+    "neijuan"
+  ],
+  "sourceUrl": "https://chineself.com/nixi/"
+}

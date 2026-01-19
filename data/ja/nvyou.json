@@ -1,0 +1,25 @@
+{
+  "slug": "nvyou",
+  "chinese": "女友粉",
+  "pinyin": "nǚ yǒu fěn",
+  "meaning": "リアコ女子",
+  "description": "リアコは「リアルに恋してる」の略語。推しに本気で恋愛感情を抱いている女性のこと。男友粉は「リアコ男子」。",
+  "examples": [
+    {
+      "chinese": "嘿嘿～当一秒女友粉",
+      "translation": "へっへっ、すぐにリアコ女性になった"
+    },
+    {
+      "chinese": "大家滚开！！我是他的女友粉",
+      "translation": "みんなどいて、私は彼のリアコ女子なの"
+    },
+    {
+      "chinese": "应该属于妈粉和女友粉随意切换",
+      "translation": "母親ファンからリアコ女子はすぐに変われるはず"
+    }
+  ],
+  "category": "sub",
+  "categoryName": "サブカルチャー",
+  "relatedWords": ["heiheihei", "mafen"],
+  "sourceUrl": "https://chineself.com/nvyou/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "jiong",
+  "chinese": "囧",
+  "pinyin": "jiǒng",
+  "meaning": "Embarrassed / Depressed / Awkward",
+  "description": "The character 囧 looks like a sad face. Widely used as an emoticon in internet slang...",
+  "examples": [
+    {
+      "chinese": "囧事",
+      "translation": "Embarrassing situation"
+    },
+    {
+      "chinese": "这两天我真囧了",
+      "translation": "I「ve been really depressed these past two days"
+    },
+    {
+      "chinese": "突然停电了,人在囧途",
+      "translation": "Power went out suddenly, people are in an awkward situation"
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/jiong/"
+}

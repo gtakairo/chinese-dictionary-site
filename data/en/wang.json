@@ -1,0 +1,33 @@
+{
+  "slug": "wang",
+  "chinese": "望采纳",
+  "pinyin": "wàng cǎi nà",
+  "meaning": "Hope for adoption (Please accept)",
+  "description": "Used to politely ask for an opinion or suggestion to be accepted.",
+  "examples": [
+    {
+      "chinese": "绞尽脑汁,望采纳",
+      "translation": "Racked my brains, hope you accept my answer."
+    },
+    {
+      "chinese": "这是我们给你提出的建议,望采纳",
+      "translation": "This is our suggestion for you, hope you accept it."
+    },
+    {
+      "chinese": "能不能在公园设置公厕,望采纳",
+      "translation": "Can we install public toilets in the park? Hope you accept this suggestion."
+    },
+    {
+      "chinese": "我想公司提出以下几点建议,望采纳",
+      "translation": "I suggest the following points to the company, hope they are accepted."
+    },
+    {
+      "chinese": "上述仅为个人意见望采纳",
+      "translation": "The above is just my personal opinion, hope it helps/is accepted."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/wang/"
+}

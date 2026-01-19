@@ -1,0 +1,16 @@
+{
+  "slug": "anquan",
+  "chinese": "安全气囊",
+  "pinyin": "ān quán qì náng",
+  "meaning": "エアバック",
+  "description": "衝突時に乗員を保護するために作動する車両用安全装置。",
+  "examples": [
+    {"chinese": "安全气囊在碰撞时展开", "japanese": "衝突時にエアバッグが展開する"},
+    {"chinese": "检查安全气囊是否正常", "japanese": "エアバッグの正常作動を点検する"},
+    {"chinese": "更换安全气囊模块", "japanese": "エアバッグモジュールを交換する"}
+  ],
+  "category": "car",
+  "categoryName": "自動車",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/anquan/"
+}

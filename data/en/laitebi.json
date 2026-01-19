@@ -1,0 +1,25 @@
+{
+  "slug": "laitebi",
+  "chinese": "莱特币",
+  "pinyin": "lái tè bì",
+  "meaning": "Litecoin",
+  "description": "A cryptocurrency similar to Bitcoin, characterized by faster transaction speeds.",
+  "examples": [
+    {
+      "chinese": "莱特币转账速度更快",
+      "translation": "Litecoin transaction speed is faster"
+    },
+    {
+      "chinese": "他在挖莱特币",
+      "translation": "He is mining Litecoin"
+    },
+    {
+      "chinese": "配置一部分莱特币",
+      "translation": "Allocate a part of the portfolio to Litecoin"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "Finance/Investment",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/laitebi/"
+}

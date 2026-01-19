@@ -1,0 +1,27 @@
+{
+  "slug": "kuai",
+  "chinese": "快动眼睡眠",
+  "pinyin": "kuài dòng yǎn shuì mián",
+  "meaning": "렘수면",
+  "description": "쾌속동안수면, REM 수면이라고도 불린다. 非快动眼睡眠은 「비렘수면」이다. 얕은 수면이기 때문에 꿈을 많이 꾸는 시기라고도 한다.",
+  "examples": [
+    {
+      "chinese": "昨晚我进入快动眼睡眠",
+      "translation": "어젯밤 나는 렘수면에 들어갔다"
+    },
+    {
+      "chinese": "快动眼睡眠阶段容易做梦",
+      "translation": "렘수면 단계에서는 꿈을 꾸기 쉽다"
+    },
+    {
+      "chinese": "非快动眼睡眠与快动眼睡眠交替出现",
+      "translation": "비렘수면과 렘수면이 교대로 나타난다"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "미분류",
+  "relatedWords": [
+    "feikuaidongyanshuimian"
+  ],
+  "sourceUrl": "https://chineself.com/kuai/"
+}

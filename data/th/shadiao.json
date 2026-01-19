@@ -1,0 +1,19 @@
+{
+  "slug": "shadiao",
+  "chinese": "沙雕",
+  "pinyin": "shā diāo",
+  "meaning": "บ้าบอ / ตลก",
+  "description": "หมายถึงคนโง่แต่ก็น่ารัก คนบ้าๆ บอๆ ที่ตลก",
+  "examples": [
+    {
+      "chinese": "你真沙雕",
+      "translation": "เธอนี่บ้าจังเลยนะ (แบบน่ารัก)"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์สแลงอินเทอร์เน็ต",
+  "relatedWords": [
+    "xswl"
+  ],
+  "sourceUrl": "https://chineself.com/shadiao/"
+}

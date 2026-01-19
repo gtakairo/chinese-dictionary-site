@@ -1,0 +1,25 @@
+{
+  "slug": "xiu",
+  "chinese": "秀才遇见兵,有理讲不清",
+  "pinyin": "xiù cái yù jiàn bīng, yǒu lǐ jiǎng bù qīng",
+  "meaning": "Reasoning with the unreasonable is impossible",
+  "description": "Literally: 'When a scholar meets a soldier, reasoning is unclear'. Meaning it's useless to talk sense to someone who uses force or won't listen.",
+  "examples": [
+    {
+      "chinese": "没素质的人很多,跟这种人讲道理就是秀才遇见兵,有理讲不清",
+      "translation": "There are many uncultured people; reasoning with them is like a scholar meeting a soldier."
+    },
+    {
+      "chinese": "咋说不听,真的无语,秀才遇见兵，有理讲不清",
+      "translation": "Why won't they listen? Speechless. It's like a scholar meeting a soldier."
+    },
+    {
+      "chinese": "秀才遇见了盗贼,连理都没有地方说去,秀才遇见兵,有理讲不清",
+      "translation": "A scholar meets a thief and can't explain; a scholar meets a soldier and logic fails."
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "Idioms",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/xiu/"
+}

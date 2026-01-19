@@ -1,0 +1,16 @@
+{
+  "slug": "ouye",
+  "chinese": "欧耶",
+  "pinyin": "ōu yé",
+  "meaning": "やったー、オーイェー",
+  "description": "oh yeah の音訳。噢耶、哦也、欧yeahも同じ。",
+  "examples": [
+    {"chinese": "一起嗨起来,欧耶耶耶", "japanese": "一緒に盛り上がろう、オーイェーー"},
+    {"chinese": "太爽了明天没课,不用早起了欧耶", "japanese": "気分爽快、明日は授業なし、早く起きなくて良い、やったー"},
+    {"chinese": "欧耶,下班了奖励自己,打算大买特买", "japanese": "オー イェー、退社後に自分へのご褒美で好きなだけ買い物するつもり"}
+  ],
+  "category": "tanci",
+  "categoryName": "感嘆詞",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/ouye/"
+}

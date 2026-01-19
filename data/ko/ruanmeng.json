@@ -1,0 +1,20 @@
+{
+  "slug": "ruanmeng",
+  "chinese": "软萌",
+  "pinyin": "ruǎn méng",
+  "meaning": "부드럽고 귀여움 (말랑콩떡)",
+  "description": "부드럽고 귀여운 분위기나 캐릭터.",
+  "examples": [
+    {
+      "chinese": "她走软萌风",
+      "translation": "그녀는 부드럽고 귀여운 스타일이다"
+    }
+  ],
+  "category": "fashion",
+  "categoryName": "패션/분위기",
+  "relatedWords": [
+    "mengmengda",
+    "qmeng"
+  ],
+  "sourceUrl": "https://chineself.com/ruanmeng/"
+}

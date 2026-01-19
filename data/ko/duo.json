@@ -1,0 +1,28 @@
+{
+  "slug": "duo",
+  "chinese": "多巴胺穿搭",
+  "pinyin": "duō bā àn chuān dā",
+  "meaning": "도파민 룩 / 도파민 코디",
+  "description": "밝은 색상을 도파민 컬러라고 하며, 선명한 색상의 코디네이트를 의미한다. 밝은 색 옷을 입으면 도파민이 방출되어 기분이 좋아지고 행복감을 느끼며 자신감이 높아진다고 한다. 'chuanda(穿搭)'는 코디를 뜻한다. 캔디 컬러(糖果色系)도 동의어로 쓰인다.",
+  "examples": [
+    {
+      "chinese": "多巴胺穿搭,减龄又有活力",
+      "translation": "도파민 룩은 어려 보이고 활력이 넘친다"
+    },
+    {
+      "chinese": "多巴胺穿搭真的好有朝气的感觉",
+      "translation": "도파민 룩은 정말 생기 넘치는 느낌이다"
+    },
+    {
+      "chinese": "多巴胺穿搭好好看,家人陪伴也是相当幸福",
+      "translation": "도파민 룩이 정말 예쁘고, 가족과 함께하는 것도 상당히 행복하다"
+    }
+  ],
+  "category": "fashion",
+  "categoryName": "패션·미용",
+  "relatedWords": [
+    "chuanda",
+    "jianling"
+  ],
+  "sourceUrl": "https://chineself.com/duo/"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "li",
+  "chinese": "寥寥数语",
+  "pinyin": "liáo liáo shù yǔ",
+  "meaning": "A few words",
+  "description": "寥寥 means \"very few\". 寥寥数人 means \"very few people\". Refers to concise or brief words.",
+  "examples": [
+    {
+      "chinese": "虽然只有寥寥数语,但是每一句都气势磅礴",
+      "translation": "Although only a few words, every sentence is majestic"
+    },
+    {
+      "chinese": "如何用寥寥数语,就能轻易撩动人的情绪",
+      "translation": "How to easily stir people's emotions with just a few words"
+    },
+    {
+      "chinese": "寥寥数语,语短情长",
+      "translation": "A few words, short in length but deep in meaning"
+    },
+    {
+      "chinese": "这篇文章仅用寥寥数语就令人茅塞顿开",
+      "translation": "This article brings enlightenment with just a few words"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "Idiom",
+  "relatedWords": [
+    "liaoliaoshuren",
+    "yuduanqingchang"
+  ],
+  "sourceUrl": "https://chineself.com/li/"
+}

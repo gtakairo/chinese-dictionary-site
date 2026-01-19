@@ -1,0 +1,25 @@
+{
+  "slug": "rou",
+  "chinese": "肉包铁",
+  "pinyin": "ròu bāo tiě",
+  "meaning": "Two-wheeler (Motorcycle, E-bike, Bicycle)",
+  "description": "Literally 'flesh wrapping iron'. Used in the context of accidents. 'Rou bao tie' refers to two-wheelers, while 'tie bao rou' (iron wrapping flesh) refers to cars. Cars protect the body with iron, but on a two-wheeler, the body takes the direct impact.",
+  "examples": [
+    {
+      "chinese": "肉包铁出去都一定要小心",
+      "translation": "You must be very careful when going out on a two-wheeler."
+    },
+    {
+      "chinese": "现在自行车速度不是一般的快,自行车肉包铁很危险",
+      "translation": "Bicycles are unusually fast nowadays; riding a bicycle is very dangerous."
+    },
+    {
+      "chinese": "开车是铁包肉，你骑车是肉包铁,安全意识都没有,真的是不要命",
+      "translation": "Driving represents iron wrapping flesh, but you are riding flesh wrapping iron. You have no safety awareness, truly risking your life."
+    }
+  ],
+  "category": "car",
+  "categoryName": "Automotive",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/rou/"
+}

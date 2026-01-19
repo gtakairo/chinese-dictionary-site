@@ -1,0 +1,35 @@
+{
+    "slug": "tucao",
+    "chinese": "吐槽",
+    "pinyin": "tǔ cáo",
+    "meaning": "① Complain/Whine ② Tsukkomi (Retort)",
+    "description": "From Japanese \"Tsukkomi\". Meaning to retort or complain.",
+    "category": "net",
+    "categoryName": "Internet Slang",
+    "relatedWords": [
+        "dingbuzhu"
+    ],
+    "sourceUrl": "https://chineself.com/tucao/",
+    "examples": [
+        {
+            "chinese": "外国人吐槽中文难学",
+            "translation": "Foreigners complain that Chinese is hard to learn"
+        },
+        {
+            "chinese": "互相吐槽人生不满,家庭不好的地方,互相安慰",
+            "translation": "Complaining to each other about life dissatisfaction and family issues, comforting each other"
+        },
+        {
+            "chinese": "每天都在断电!民众吐槽不断",
+            "translation": "Power outage every day! People complain endlessly"
+        },
+        {
+            "chinese": "为什么没人吐槽我!!!",
+            "translation": "Why is no one retorting to me!!!"
+        },
+        {
+            "chinese": "顶不住,还是想吐槽一句",
+            "translation": "Can't hold it in, still want to make a retort"
+        }
+    ]
+}

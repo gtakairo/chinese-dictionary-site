@@ -1,0 +1,16 @@
+{
+  "slug": "xiaoyi",
+  "chinese": "小蚁",
+  "pinyin": "xiǎo yǐ",
+  "meaning": "ネオ（NEO）",
+  "description": "中国版のイーサリアム。",
+  "examples": [
+    {"chinese": "小蚁后来更名为NEO", "japanese": "小蚁は後にNEOと改名した"},
+    {"chinese": "研究小蚁智能合约", "japanese": "NEOのスマートコントラクトを研究する"},
+    {"chinese": "小蚁生态在发展", "japanese": "NEOエコシステムが発展している"}
+  ],
+  "category": "jinrong",
+  "categoryName": "金融・投資",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/xiaoyi/"
+}

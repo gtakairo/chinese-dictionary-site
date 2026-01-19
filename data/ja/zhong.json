@@ -1,0 +1,37 @@
+{
+  "slug": "zhong",
+  "chinese": "重磅",
+  "pinyin": "zhòng bàng",
+  "meaning": "①とても重大な、最重要の、センセーショナルな ②ビッグニュース",
+  "description": "非常に重要で大きな影響力を持つニュースや情報を表す言葉。",
+  "examples": [
+    {
+      "chinese": "市场有重磅的利好消息",
+      "translation": "市場にとても重要な好材料なニュース"
+    },
+    {
+      "chinese": "央视重磅发声！",
+      "translation": "中央電視台がとても重大な声明を発表"
+    },
+    {
+      "chinese": "今天教育部发布了重磅消息!",
+      "translation": "今日教育部がビッグニュースを発表した"
+    },
+    {
+      "chinese": "「新能源」是车市最重磅的关键词之一",
+      "translation": "\"新エネルギー\"は自動車市場の最重要なキーワードの一つだ"
+    },
+    {
+      "chinese": "重磅标题：台湾问题显危险信号",
+      "translation": "センセーショナルなタイトル：台湾問題が危険信号"
+    },
+    {
+      "chinese": "重磅！美联储要提前开始降息了",
+      "translation": "ビッグニュース！米連邦準備制度が早期に利下げを開始"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "未分類",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/zhong/"
+}

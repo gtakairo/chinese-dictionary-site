@@ -1,0 +1,19 @@
+{
+  "slug": "ruanwen",
+  "chinese": "软文",
+  "pinyin": "ruǎn wén",
+  "meaning": "Sponsored content / Soft advertisement",
+  "description": "An article or post that promotes something but attempts to appear neutral or informative; native advertising.",
+  "examples": [
+    {
+      "chinese": "这篇是软文吧",
+      "translation": "This is a sponsored article, isn't it?"
+    }
+  ],
+  "category": "net",
+  "categoryName": "Media/Advertising",
+  "relatedWords": [
+    "kongping"
+  ],
+  "sourceUrl": "https://chineself.com/ruanwen/"
+}

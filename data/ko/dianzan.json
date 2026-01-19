@@ -1,0 +1,27 @@
+{
+  "slug": "dianzan",
+  "chinese": "点赞",
+  "pinyin": "diǎn zàn",
+  "meaning": "좋아요 (누르기)",
+  "description": "「좋아요」 버튼을 누르는 것을 의미합니다. 점개찬(点个赞)도 같은 뜻입니다.",
+  "examples": [
+    {
+      "chinese": "请点赞！点赞吧！",
+      "translation": "좋아요 눌러주세요! 좋아요!"
+    },
+    {
+      "chinese": "网友纷纷点赞",
+      "translation": "네티즌들이 잇따라 좋아요를 눌렀다."
+    },
+    {
+      "chinese": "麻烦您关注一下,点个赞",
+      "translation": "팔로우와 좋아요 부탁드립니다."
+    }
+  ],
+  "category": "sns",
+  "categoryName": "웹/SNS 용어",
+  "relatedWords": [
+    "guanzhu"
+  ],
+  "sourceUrl": "https://chineself.com/dianzan/"
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "zhiquansaorao",
+  "chinese": "职权骚扰",
+  "pinyin": "zhí quán sāo rǎo",
+  "meaning": "Power harassment",
+  "description": "Harassment by someone in a position of power (boss, superior).",
+  "examples": [
+    {
+      "chinese": "你有遭遇过职权骚扰吗",
+      "translation": "Have you encountered power harassment?"
+    },
+    {
+      "chinese": "领导滥用职权骚扰,必须严办",
+      "translation": "Leader abusing power must be punished severely"
+    },
+    {
+      "chinese": "我在公司遭受了非常厉害的职权骚扰",
+      "translation": "I suffered severe power harassment at the company"
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [
+    "pua",
+    "gukesaorao",
+    "daodebangjia"
+  ],
+  "sourceUrl": "https://chineself.com/zhiquansaorao/"
+}

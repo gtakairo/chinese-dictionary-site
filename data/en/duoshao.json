@@ -1,0 +1,25 @@
+{
+  "slug": "duoshao",
+  "chinese": "多少米",
+  "pinyin": "duō shǎo mǐ",
+  "meaning": "How much (money)?",
+  "description": "Means \"How much money?\" (\"多少钱\"). Derived from the fact that rice was used instead of money for transactions in the past. It is a euphemism used because asking for the price directly might feel awkward.",
+  "examples": [
+    {
+      "chinese": "做美甲要多少米",
+      "translation": "How much does it cost to get a manicure?"
+    },
+    {
+      "chinese": "不知道赔了多少米",
+      "translation": "I don't know how much was paid in compensation."
+    },
+    {
+      "chinese": "礼貌问价,你们的婚礼费用花了多少米",
+      "translation": "Asking politely, how much did you spend on your wedding?"
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/duoshao/"
+}

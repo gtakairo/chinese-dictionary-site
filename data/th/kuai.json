@@ -1,0 +1,27 @@
+{
+  "slug": "kuai",
+  "chinese": "快动眼睡眠",
+  "pinyin": "kuài dòng yǎn shuì mián",
+  "meaning": "การนอนหลับช่วงหลับฝัน (REM sleep)",
+  "description": "เรียกอีกอย่างว่า การนอนหลับที่มีการกลอกตาอย่างรวดเร็ว หรือ REM sleep ส่วน 非快动眼睡眠 คือ \"Non-REM sleep\" เนื่องจากเป็นการหลับตื้น จึงเรียกว่าเป็นช่วงเวลาแห่งการฝัน",
+  "examples": [
+    {
+      "chinese": "昨晚我进入快动眼睡眠",
+      "translation": "เมื่อคืนฉันเข้าสู่ช่วง REM sleep"
+    },
+    {
+      "chinese": "快动眼睡眠阶段容易做梦",
+      "translation": "ช่วง REM sleep มักจะฝันง่าย"
+    },
+    {
+      "chinese": "非快动眼睡眠与快动眼睡眠交替出现",
+      "translation": "การนอนหลับแบบ Non-REM และ REM จะสลับกันไปมา"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "ไม่ระบุหมวดหมู่",
+  "relatedWords": [
+    "feikuaidongyanshuimian"
+  ],
+  "sourceUrl": "https://chineself.com/kuai/"
+}

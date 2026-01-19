@@ -1,0 +1,29 @@
+{
+  "slug": "zhiquansaorao",
+  "chinese": "职权骚扰",
+  "pinyin": "zhí quán sāo rǎo",
+  "meaning": "การใช้อำนาจคุกคาม / บ้าอำนาจ",
+  "description": "การใช้อำนาจหน้าที่รังแกหรือคุกคามผู้อื่น (Power Harassment)",
+  "examples": [
+    {
+      "chinese": "你有遭遇过职权骚扰吗",
+      "translation": "คุณเคยเจอการใช้อำนาจคุกคามไหม?"
+    },
+    {
+      "chinese": "领导滥用职权骚扰,必须严办",
+      "translation": "หัวหน้าใช้อำนาจคุกคามต้องถูกลงโทษอย่างหนัก"
+    },
+    {
+      "chinese": "我在公司遭受了非常厉害的职权骚扰",
+      "translation": "ฉันโดนใช้อำนาจคุกคามอย่างหนักในบริษัท"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์สแลงเน็ต",
+  "relatedWords": [
+    "pua",
+    "gukesaorao",
+    "daodebangjia"
+  ],
+  "sourceUrl": "https://chineself.com/zhiquansaorao/"
+}

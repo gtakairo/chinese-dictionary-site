@@ -1,0 +1,16 @@
+{
+  "slug": "shoucidaibifaxing",
+  "chinese": "首次代币发行",
+  "pinyin": "shǒu cì dài bì fā xíng",
+  "meaning": "ICO（Initial Coin Offering）",
+  "description": "プロジェクトがトークンを発行し資金調達する手段。",
+  "examples": [
+    {"chinese": "通过ICO募集资金", "japanese": "ICOで資金を調達する"},
+    {"chinese": "投资ICO需注意风险", "japanese": "ICO投資にはリスクに注意が必要だ"},
+    {"chinese": "阅读白皮书了解项目", "japanese": "ホワイトペーパーを読んでプロジェクトを理解する"}
+  ],
+  "category": "jinrong",
+  "categoryName": "金融・投資",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/shoucidaibifaxing/"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "pua",
+  "chinese": "PUA",
+  "pinyin": "p u a",
+  "meaning": "Manipulation / Gaslighting",
+  "description": "Techniques to psychologically manipulate others. Used in negative context.",
+  "examples": [
+    {
+      "chinese": "小心PUA",
+      "translation": "Be careful of PUA"
+    }
+  ],
+  "category": "net",
+  "categoryName": "Net Slang",
+  "relatedWords": [
+    "gangjing"
+  ],
+  "sourceUrl": "https://chineself.com/pua/"
+}

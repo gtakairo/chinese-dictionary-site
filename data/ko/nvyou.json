@@ -1,0 +1,28 @@
+{
+  "slug": "nvyou",
+  "chinese": "女友粉",
+  "pinyin": "nǚ yǒu fěn",
+  "meaning": "여자친구 팬 (유사 연애)",
+  "description": "연예인이나 아이돌을 진짜 남자친구처럼 좋아하는 여성 팬. '남우분(男友粉)'은 남자친구 팬.",
+  "examples": [
+    {
+      "chinese": "嘿嘿～当一秒女友粉",
+      "translation": "헤헤~ 1초 동안 여자친구 팬 할래."
+    },
+    {
+      "chinese": "大家滚开！！我是他的女友粉",
+      "translation": "다들 비켜!! 내가 그의 여자친구 팬이야."
+    },
+    {
+      "chinese": "应该属于妈粉和女友粉随意切换",
+      "translation": "엄마 팬이랑 여자친구 팬 사이를 자유자재로 오가는 듯."
+    }
+  ],
+  "category": "sub",
+  "categoryName": "서브컬처",
+  "relatedWords": [
+    "heiheihei",
+    "mafen"
+  ],
+  "sourceUrl": "https://chineself.com/nvyou/"
+}

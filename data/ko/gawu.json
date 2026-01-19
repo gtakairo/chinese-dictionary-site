@@ -1,0 +1,19 @@
+{
+  "slug": "gawu",
+  "chinese": "尬舞",
+  "pinyin": "gà wǔ",
+  "meaning": "막춤 / 갑분싸 댄스 / 배틀 댄스",
+  "description": "리듬이 안 맞거나 보기에 민망한 춤.",
+  "examples": [
+    {
+      "chinese": "他在现场尬舞",
+      "translation": "그는 현장에서 뻘쭘한 춤을 췄다."
+    }
+  ],
+  "category": "net",
+  "categoryName": "커뮤니케이션",
+  "relatedWords": [
+    "galiao"
+  ],
+  "sourceUrl": "https://chineself.com/gawu/"
+}

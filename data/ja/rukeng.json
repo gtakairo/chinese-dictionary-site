@@ -1,0 +1,14 @@
+{
+  "slug": "rukeng",
+  "chinese": "入坑",
+  "pinyin": "rù kēng",
+  "meaning": "沼にハマる（新たな趣味に没入）",
+  "description": "作品や趣味にハマり始めること。",
+  "examples": [
+    {"chinese": "我最近入坑了模型", "japanese": "最近模型にハマり始めた"}
+  ],
+  "category": "net",
+  "categoryName": "ネットスラング",
+  "relatedWords": ["shangan"],
+  "sourceUrl": "https://chineself.com/rukeng/"
+}

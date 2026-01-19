@@ -1,0 +1,36 @@
+{
+  "slug": "jueju",
+  "chinese": "绝绝子",
+  "pinyin": "jué jué zi",
+  "meaning": "1. 대박이다, 진짜 최고다, 쩐다 2. 최악이다, 노답이다",
+  "description": "「Jue(绝)」는 「유일무이하다, 대단하다」는 뜻이 있다. 「Juejuezi(绝绝子)」는 「완전 좋다」 또는 「완전 별로다」라는 양극단의 의미를 형용하므로 문맥에 따라 판단해야 한다. 「Jue le(绝了)」는 「1. 굉장히 ~하다, 대단하다, 최고다 2. 싫다, 짜증난다, 최악이다」라는 뜻이다.",
+  "examples": [
+    {
+      "chinese": "这个创意真的绝绝子",
+      "translation": "이 아이디어 진짜 대박이다"
+    },
+    {
+      "chinese": "试下来真的绝绝子",
+      "translation": "써보니 진짜 최고다"
+    },
+    {
+      "chinese": "你的演技绝绝子,继续加油",
+      "translation": "너 연기 진짜 쩐다, 계속 화이팅해"
+    },
+    {
+      "chinese": "这个电影一下子就被吸引了,尊嘟素绝绝子",
+      "translation": "이 영화 순식간에 빠져들었다, 진짜 존잼이다"
+    },
+    {
+      "chinese": "北京的温差绝绝子,穿短裤被冻坏了",
+      "translation": "베이징 일교차 진짜 최악이다, 반바지 입었다가 얼어 죽을 뻔했다"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [
+    "juele",
+    "zundusu"
+  ],
+  "sourceUrl": "https://chineself.com/jueju/"
+}

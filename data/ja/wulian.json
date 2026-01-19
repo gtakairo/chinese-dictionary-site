@@ -1,0 +1,16 @@
+{
+  "slug": "wulian",
+  "chinese": "物联网",
+  "pinyin": "wù lián wǎng",
+  "meaning": "モノのインターネット（IoT）",
+  "description": "モノ同士がネット接続されデータ連携する仕組み。",
+  "examples": [
+    {"chinese": "物联网设备接入平台", "japanese": "IoTデバイスをプラットフォームに接続する"},
+    {"chinese": "通过物联网监控能耗", "japanese": "IoTでエネルギー消費を監視する"},
+    {"chinese": "布设城市物联网传感器", "japanese": "都市にIoTセンサーを設置する"}
+  ],
+  "category": "technology",
+  "categoryName": "テクノロジー",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/wulian/"
+}

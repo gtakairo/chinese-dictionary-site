@@ -1,0 +1,25 @@
+{
+  "slug": "jiamihuobi",
+  "chinese": "加密货币",
+  "pinyin": "jīamìhuòbì",
+  "meaning": "암호화폐",
+  "description": "「Jiami(가밀)」는 「암호화하다」는 뜻.",
+  "examples": [
+    {
+      "chinese": "加密货币波动较大",
+      "translation": "암호화폐는 변동성이 크다"
+    },
+    {
+      "chinese": "如何购买加密货币",
+      "translation": "암호화폐 구매 방법"
+    },
+    {
+      "chinese": "学习加密货币安全知识",
+      "translation": "암호화폐 보안 지식을 배우다"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "금융/투자",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/jiamihuobi/"
+}

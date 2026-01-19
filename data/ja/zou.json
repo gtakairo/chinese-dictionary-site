@@ -1,0 +1,25 @@
+{
+  "slug": "zou",
+  "chinese": "揍扁",
+  "pinyin": "zòu biǎn",
+  "meaning": "ぶん殴る",
+  "description": "相手を殴る、叩くという意味の表現。",
+  "examples": [
+    {
+      "chinese": "我焯,我来揍扁你了",
+      "translation": "クソッ、俺がお前を殴ってやる"
+    },
+    {
+      "chinese": "再说我就揍扁你!",
+      "translation": "もう一度言ったらぶん殴る"
+    },
+    {
+      "chinese": "想揍扁电梯里抽烟的人",
+      "translation": "エレベーターでタバコを吸っているやつはぶん殴りたい"
+    }
+  ],
+  "category": "ma",
+  "categoryName": "挑発・罵倒語",
+  "relatedWords": ["wochao-2"],
+  "sourceUrl": "https://chineself.com/zou/"
+}

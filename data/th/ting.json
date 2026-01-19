@@ -1,0 +1,28 @@
+{
+    "slug": "ting",
+    "chinese": "听岔了",
+    "pinyin": "tīng chà le",
+    "meaning": "ฟังผิด, เข้าใจผิด",
+    "description": "ฟังเพี้ยนไป ฟังไม่ได้ศัพท์",
+    "category": "uncategorized",
+    "categoryName": "ไม่หมวดหมู่",
+    "relatedWords": [
+        "youhe",
+        "zundujiadu"
+    ],
+    "sourceUrl": "https://chineself.com/ting/",
+    "examples": [
+        {
+            "chinese": "哟呵,他结婚了也不知道是不是我听岔了",
+            "translation": "อ้าว เขาแต่งงานแล้วเหรอ หรือฉันฟังผิด"
+        },
+        {
+            "chinese": "尊嘟假嘟,我以为我耳朵听岔了",
+            "translation": "จริงหรือหลอกเนี่ย นึกว่าหูฝาด"
+        },
+        {
+            "chinese": "别听岔了,我不是喜欢你",
+            "translation": "อย่าเข้าใจผิด ฉันไม่ได้ชอบเธอ"
+        }
+    ]
+}

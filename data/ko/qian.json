@@ -1,0 +1,25 @@
+{
+  "slug": "qian",
+  "chinese": "牵绊",
+  "pinyin": "qiān bàn",
+  "meaning": "얽매임, 인연, 굴레",
+  "description": "무엇인가가 마음에 엉겨 붙어 떨어지지 않고 계속 생각나는 상태.",
+  "examples": [
+    {
+      "chinese": "儿时不好的记忆牵绊我至今",
+      "translation": "어릴 적 안 좋은 기억이 지금까지 나를 옭아맨다"
+    },
+    {
+      "chinese": "牵绊不多,但却依然牵挂",
+      "translation": "인연은 많지 않지만 여전히 마음이 쓰인다"
+    },
+    {
+      "chinese": "琐碎的牵绊滋长不满",
+      "translation": "사소한 얽매임이 불만을 키운다"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "미분류",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/qian/"
+}

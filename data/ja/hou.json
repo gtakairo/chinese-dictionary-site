@@ -1,0 +1,16 @@
+{
+  "slug": "hou",
+  "chinese": "后备箱",
+  "pinyin": "hòu bèi xiāng",
+  "meaning": "トランクルーム",
+  "description": "自動車の後部にある荷物を入れるスペース。",
+  "examples": [
+    {"chinese": "把行李放进后备箱", "japanese": "荷物をトランクに入れる"},
+    {"chinese": "后备箱开关在哪", "japanese": "トランクの開閉スイッチはどこ？"},
+    {"chinese": "检查后备箱密封条", "japanese": "トランクのシールを点検する"}
+  ],
+  "category": "car",
+  "categoryName": "自動車",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/hou/"
+}

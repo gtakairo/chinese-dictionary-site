@@ -1,0 +1,27 @@
+{
+  "slug": "hao",
+  "chinese": "好不到哪去",
+  "pinyin": "hǎo bù dào nǎ qù",
+  "meaning": "Not much better / Nothing to write home about",
+  "description": "Implies that something or someone is below a certain standard or expectation. It means \"not that good\" or \"pretty bad\".",
+  "examples": [
+    {
+      "chinese": "言而无信的人,人品好不到哪去",
+      "translation": "People who are untrustworthy have poor character."
+    },
+    {
+      "chinese": "狗血剧情好不到哪去,完了眼泪还哗哗流,眼睛都肿了",
+      "translation": "The melodramatic plot wasn't that good, but after watching it, tears were still streaming down and my eyes were swollen."
+    },
+    {
+      "chinese": "一个常常看别人缺点的人,那么自己本身也是好不到哪里去",
+      "translation": "A person who often looks at other people's faults is not much better themselves."
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "Uncategorized",
+  "relatedWords": [
+    "gouxie"
+  ],
+  "sourceUrl": "https://chineself.com/hao/"
+}

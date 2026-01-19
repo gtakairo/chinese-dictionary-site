@@ -1,0 +1,51 @@
+{
+  "common": {
+    "search": "검색",
+    "categories": "카테고리",
+    "relatedWords": "관련 단어",
+    "examples": "예문",
+    "home": "홈",
+    "browse": "찾아보기",
+    "viewAll": "모두 보기",
+    "backToHome": "홈으로 돌아가기",
+    "viewCategory": "카테고리 보기",
+    "words": "개의 단어",
+    "total": "전체"
+  },
+  "word": {
+    "meaning": "의미",
+    "pronunciation": "발음",
+    "etymology": "어원",
+    "usage": "사용법",
+    "description": "설명",
+    "related": "관련 단어"
+  },
+  "search": {
+    "title": "검색",
+    "placeholder": "중국어 단어, 병음, 의미 검색...",
+    "noResults": "검색 결과가 없습니다. 다른 키워드를 시도해보세요.",
+    "searchTips": "중국어 한자, 병음 또는 한국어 의미로 검색하세요",
+    "enterKeywords": "검색어를 입력하세요"
+  },
+  "browse": {
+    "title": "모든 단어 보기",
+    "subtitle": "병음 알파벳순으로 단어 찾아보기",
+    "totalWords": "개 단어"
+  },
+  "category": {
+    "title": "카테고리",
+    "viewAll": "이 카테고리의 모든 단어 보기"
+  },
+  "home": {
+    "title": "중국어 사전 - 현대 중국어 배우기",
+    "subtitle": "중국어 속어, 인터넷 용어, 현대 표현을 알아보세요",
+    "latestWords": "최신 단어",
+    "featuredWords": "주목 단어"
+  },
+  "footer": {
+    "about": "소개",
+    "privacy": "개인정보",
+    "contact": "문의",
+    "copyright": "All rights reserved"
+  }
+}

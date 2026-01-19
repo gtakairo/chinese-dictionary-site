@@ -1,0 +1,25 @@
+{
+  "slug": "wen",
+  "chinese": "问东问西",
+  "pinyin": "wèn dōng wèn xī",
+  "meaning": "꼬치꼬치 묻다 / 이것저것 묻다",
+  "description": "이유 없이 이것저것 물어보는 것.",
+  "examples": [
+    {
+      "chinese": "好烦别人问东问西,为啥要干涉别人的生活啊",
+      "translation": "남들이 꼬치꼬치 묻는 거 너무 짜증 나, 왜 남의 인생에 간섭해?"
+    },
+    {
+      "chinese": "她一直插嘴问东问西,烦死了",
+      "translation": "그녀가 계속 끼어들어서 이것저것 물어보니 짜증 나 죽겠다."
+    },
+    {
+      "chinese": "太讨厌一些亲戚们了,每次一大堆问东问西",
+      "translation": "어떤 친척들은 정말 싫다, 매번 이것저것 엄청 물어본다."
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "미분류",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/wen/"
+}

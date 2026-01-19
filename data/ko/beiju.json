@@ -1,0 +1,28 @@
+{
+  "slug": "beiju",
+  "chinese": "杯具",
+  "pinyin": "bēi jù",
+  "meaning": "1. 컵/식기 2. 비극 (인터넷 용어)",
+  "description": "일반적으로는 컵, 그릇류를 뜻하지만, 인터넷 용어로 비극(bēijù)의 의미로도 사용된다. 반대로 희극(xǐjù)은 세구(xǐjù, 씻는 도구)가 된다.",
+  "examples": [
+    {
+      "chinese": "太水逆了,为什么会发生这种杯具呢",
+      "translation": "너무 재수가 없어, 왜 이런 비극이 일어나는 거지?"
+    },
+    {
+      "chinese": "夫妻关系不好,就是最大的杯具",
+      "translation": "부부 관계가 좋지 않은 것이 가장 큰 비극이다"
+    },
+    {
+      "chinese": "太杯具了,简直是天降横祸",
+      "translation": "너무 비극적이야, 그야말로 마른하늘에 날벼락이다"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [
+    "shuini",
+    "tianjianghenghuo"
+  ],
+  "sourceUrl": "https://chineself.com/beiju/"
+}

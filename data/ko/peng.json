@@ -1,0 +1,29 @@
+{
+  "slug": "peng",
+  "chinese": "捧场",
+  "pinyin": "pěng chǎng",
+  "meaning": "자리를 빛내다, 응원하다, 비위를 맞추다",
+  "description": "원래 극장에 가서 배우에게 박수갈채를 보내는 것을 의미했으나, 널리 타인의 활동에 참여하여 지지하는 것에 쓰임.",
+  "examples": [
+    {
+      "chinese": "各位大家请来捧场呀",
+      "translation": "여러분 와서 자리를 빛내주세요"
+    },
+    {
+      "chinese": "谢谢朋友们抽时间来捧场",
+      "translation": "시간 내서 와주시고 응원해주신 친구들 고마워요"
+    },
+    {
+      "chinese": "新店开业欢迎兄弟们来捧场",
+      "translation": "새 가게 오픈했으니 형제들 와서 팔아줘"
+    },
+    {
+      "chinese": "有无论什么都会捧场的好朋友真的好幸福",
+      "translation": "무얼 하든 응원해주는 좋은 친구가 있어서 정말 행복해"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "미분류",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/peng/"
+}

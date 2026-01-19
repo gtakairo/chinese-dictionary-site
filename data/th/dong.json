@@ -1,0 +1,31 @@
+{
+  "slug": "dong",
+  "chinese": "东百",
+  "pinyin": "dōng bǎi",
+  "meaning": "ตะวันออกเฉียงเหนือ (ตงเป่ย)",
+  "description": "หมายถึงภาคตะวันออกเฉียงเหนือ (东北 - dōng běi) เป็นการเลียนเสียงพูดแบบตลกๆ เช่นเดียวกับ Baijing = ปักกิ่ง, Shadong = ซานตง",
+  "examples": [
+    {
+      "chinese": "就是东百这天太冷了",
+      "translation": "อากาศทางตะวันออกเฉียงเหนือหนาวเกินไปจริงๆ"
+    },
+    {
+      "chinese": "东百话好带劲",
+      "translation": "ภาษาถิ่นตงเป่ยฟังดูมีพลังมาก"
+    },
+    {
+      "chinese": "我爱东百菜,真的套吃",
+      "translation": "ฉันชอบอาหารตงเป่ย อร่อยจริงๆ"
+    },
+    {
+      "chinese": "吃饭时候旁边坐东百人喝酒太多",
+      "translation": "ตอนกินข้าว คนตงเป่ยที่นั่งข้างๆ ดื่มหนักมาก"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์สแลงอินเทอร์เน็ต",
+  "relatedWords": [
+    "taochi"
+  ],
+  "sourceUrl": "https://chineself.com/dong/"
+}

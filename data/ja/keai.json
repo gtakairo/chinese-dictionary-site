@@ -1,0 +1,29 @@
+{
+  "slug": "keai",
+  "chinese": "可爱本爱",
+  "pinyin": "kě ài běn ài",
+  "meaning": "超カワイイ、とってもカワイイ",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "你就是可爱本爱!",
+      "translation": "あなたはとってもカワイイ"
+    },
+    {
+      "chinese": "比个心,嘟嘟嘴,是可爱本爱",
+      "translation": "両手でハートをつくり、口を尖らせ、可愛すぎる"
+    },
+    {
+      "chinese": "软妹风,真的是可爱本爱了",
+      "translation": "おっとり癒し系、ホントに超カワイイ"
+    },
+    {
+      "chinese": "我家的宝贝是可爱本爱",
+      "translation": "うちの子は超カワイイ"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": ["bxin", "duzui", "ruanmei"],
+  "sourceUrl": "https://chineself.com/keai/"
+}

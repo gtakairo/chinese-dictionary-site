@@ -1,0 +1,36 @@
+{
+  "slug": "gan",
+  "chinese": "淦",
+  "pinyin": "gàn",
+  "meaning": "แม่ง / เวรเอ๊ย / ชิบหาย",
+  "description": "คำสแลงอินเทอร์เน็ต ใช้แทนคำหยาบ (干) ใช้เมื่อรู้สึกหงุดหงิดหรือซวย",
+  "examples": [
+    {
+      "chinese": "淦…后知后觉",
+      "translation": "เวรเอ๊ย... เพิ่งจะมารู้ตัว"
+    },
+    {
+      "chinese": "淦了,我的脑子进屎",
+      "translation": "ชิบหายละ สมองฉันมีแต่ขี้เลื่อย"
+    },
+    {
+      "chinese": "真的淦了,又喝大了",
+      "translation": "แม่งเอ๊ย เมาหนักอีกแล้ว"
+    },
+    {
+      "chinese": "一大早起来就肚子痛,淦",
+      "translation": "ตื่นเช้ามาก็ปวดท้องเลย แม่ง"
+    },
+    {
+      "chinese": "妈的一下雨就堵车淦啊",
+      "translation": "พอฝนตกก็รถติดเลย เวรเอ๊ย"
+    }
+  ],
+  "category": "tanci",
+  "categoryName": "คำอุทาน",
+  "relatedWords": [
+    "houzhihoujue",
+    "naozijinshi"
+  ],
+  "sourceUrl": "https://chineself.com/gan/"
+}

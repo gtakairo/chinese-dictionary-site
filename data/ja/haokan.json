@@ -1,0 +1,33 @@
+{
+  "slug": "haokan",
+  "chinese": "好康",
+  "pinyin": "hǎo kāng",
+  "meaning": "①良い、幸せな ②オススメ、お得な",
+  "description": "①は閩南語で頻繁で使われる言葉。②はもともとは台湾語だったが大陸でもよく使用するようになっている。店や商品の「オススメ」や、買い物で景品などがついて「お得な」のように用いる。",
+  "examples": [
+    {
+      "chinese": "这么好康",
+      "translation": "なんとも素晴らしく良い"
+    },
+    {
+      "chinese": "穿西装的好康",
+      "translation": "スーツが良く似合う"
+    },
+    {
+      "chinese": "这对cp太好康了",
+      "translation": "このカップルはホント幸せだ"
+    },
+    {
+      "chinese": "新买的耳机好康",
+      "translation": "新しく購入したイヤホン、オススメ"
+    },
+    {
+      "chinese": "这本杂志赠品太好康",
+      "translation": "この雑誌の付録お得感がすごい"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": ["cp"],
+  "sourceUrl": "https://chineself.com/haokan/"
+}

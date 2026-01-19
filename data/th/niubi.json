@@ -1,0 +1,32 @@
+{
+  "slug": "niubi",
+  "chinese": "牛逼",
+  "pinyin": "niú bī",
+  "meaning": "เจ๋งเป้ง; โคตรเก่ง; สุดยอด",
+  "description": "คำหยาบแต่ใช้บ่อยมาก แปลว่า 'สุดยอด' มีคำพ้องเช่น NB, Niubai, NiuX",
+  "examples": [
+    {
+      "chinese": "你这么牛逼！",
+      "translation": "นายแม่งโคตรเจ๋ง!"
+    },
+    {
+      "chinese": "我牛逼大了",
+      "translation": "ฉันนี่โคตรยิ่งใหญ่เลย"
+    },
+    {
+      "chinese": "勇敢很牛逼",
+      "translation": "ความกล้าหาญนี่มันสุดยอดไปเลย"
+    }
+  ],
+  "category": "tanci",
+  "categoryName": "คำอุทาน",
+  "relatedWords": [
+    "tainble",
+    "niubai",
+    "liubi",
+    "niucha",
+    "newbee",
+    "wocao"
+  ],
+  "sourceUrl": "https://chineself.com/niubi/"
+}

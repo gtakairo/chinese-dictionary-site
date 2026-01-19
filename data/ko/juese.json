@@ -1,0 +1,25 @@
+{
+  "slug": "juese",
+  "chinese": "角色扮演",
+  "pinyin": "jué sè bàn yǎn",
+  "meaning": "1. 역할극 (롤플레잉) 2. 코스프레",
+  "description": "직역하면 \"역할 연기\"이다.",
+  "examples": [
+    {
+      "chinese": "角色扮演游戏",
+      "translation": "롤플레잉 게임 (RPG)"
+    },
+    {
+      "chinese": "如何通过角色扮演提高学习能力",
+      "translation": "역할극 학습을 통해 능력을 향상시키는 방법"
+    },
+    {
+      "chinese": "万圣节角色扮演角色服",
+      "translation": "할로윈 코스프레 의상"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "미분류",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/juese/"
+}

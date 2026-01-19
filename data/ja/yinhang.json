@@ -1,0 +1,16 @@
+{
+  "slug": "yinhang",
+  "chinese": "银行不良资产",
+  "pinyin": "yín háng bù liáng zī chǎn",
+  "meaning": "不良債権",
+  "description": "銀行が保有する回収困難な貸出資産（不良債権）。",
+  "examples": [
+    {"chinese": "银行不良资产率上升", "japanese": "銀行の不良債権比率が上昇している"},
+    {"chinese": "处置不良资产需要时间", "japanese": "不良債権の処理には時間がかかる"},
+    {"chinese": "监管要求披露不良资产情况", "japanese": "監督当局は不良債権状況の開示を求めている"}
+  ],
+  "category": "jinrong",
+  "categoryName": "金融・投資",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/yinhang/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "shaolai",
+  "chinese": "少来",
+  "pinyin": "shǎo lái",
+  "meaning": "Come on / Give me a break / Stop it / Don't joke",
+  "description": "Dictionary definitions include 'don't come', 'seldom come', 'less'. However, this is an internet slang usage derived from 'less', meaning 'cut it out' or 'give me a break'.",
+  "examples": [
+    {
+      "chinese": "少来这一套甜言蜜语",
+      "translation": "Come on, stop with the sweet talk."
+    },
+    {
+      "chinese": "你少来这套",
+      "translation": "Stop it, give me a break."
+    },
+    {
+      "chinese": "你真的少来啊",
+      "translation": "You really need to stop it."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/shaolai/"
+}

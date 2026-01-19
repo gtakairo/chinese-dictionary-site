@@ -1,0 +1,19 @@
+{
+  "slug": "galiao",
+  "chinese": "尬聊",
+  "pinyin": "gà liáo",
+  "meaning": "คุยแล้วกร่อย / บทสนทนาชวนอึดอัด",
+  "description": "การสนทนาที่ไม่ลื่นไหลและทำให้อึดอัดใจ",
+  "examples": [
+    {
+      "chinese": "和他聊天总是尬聊",
+      "translation": "คุยกับเขาแล้วบรรยากาศมาคุเสมอ"
+    }
+  ],
+  "category": "net",
+  "categoryName": "การสื่อสาร",
+  "relatedWords": [
+    "gawu"
+  ],
+  "sourceUrl": "https://chineself.com/galiao/"
+}

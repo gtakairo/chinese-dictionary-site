@@ -1,0 +1,25 @@
+{
+  "slug": "bu",
+  "chinese": "不谙世事",
+  "pinyin": "bù ān shì shì",
+  "meaning": "社会経験乏しい、世事に疎い",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "那时的我也只是一个不谙世事的小女孩",
+      "japanese": "あの時は私も社会経験が少ない子供にすぎなかった"
+    },
+    {
+      "chinese": "不谙世事的小伙子就这么中了商家的套路",
+      "japanese": "世事に疎い若者がこんな売り手のやり方に嵌められた"
+    },
+    {
+      "chinese": "赚的都是不谙世事的孩子们的钱,亏心么？",
+      "japanese": "儲けた金は何も知らない子供から得たものだ、良心に恥じないの"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "成語・四字熟語",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/bu/"
+}

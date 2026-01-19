@@ -1,0 +1,24 @@
+{
+  "slug": "youdiaodiao",
+  "chinese": "有调调",
+  "pinyin": "yǒu diàodiào",
+  "meaning": "분위기 있다 / 센스 있다",
+  "description": "독특한 느낌이나 좋은 센스를 가지고 있다.",
+  "examples": [
+    {
+      "chinese": "这家咖啡店很有调调",
+      "translation": "이 카페는 분위기가 있다"
+    },
+    {
+      "chinese": "她穿衣很有调调",
+      "translation": "그녀는 옷 입는 센스가 있다"
+    }
+  ],
+  "category": "fashion",
+  "categoryName": "패션/분위기",
+  "relatedWords": [
+    "oumeifaner",
+    "baida"
+  ],
+  "sourceUrl": "https://chineself.com/youdiaodiao/"
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "mengdian",
+  "chinese": "萌点",
+  "pinyin": "méng diǎn",
+  "meaning": "萌え要素（萌えポイント）、チャームポイント",
+  "description": "",
+  "examples": [
+    {"chinese": "怎么会有这么萌的,完全戳我萌点上了", "japanese": "こんなに萌えるのか、完全に私の心に突き刺さる"},
+    {"chinese": "这萌点太击中了,一生钟情你", "japanese": "萌えポイントがど真ん中を捉える、一生あなたを恋い慕う"}
+  ],
+  "category": "net",
+  "categoryName": "ネット用語・スラング",
+  "relatedWords": ["chuosiwole", "kechen"],
+  "sourceUrl": "https://chineself.com/mengdian/"
+}

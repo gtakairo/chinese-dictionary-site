@@ -1,0 +1,25 @@
+{
+  "slug": "jue",
+  "chinese": "蕨饼",
+  "pinyin": "jué bǐng",
+  "meaning": "วาราบิโมจิ",
+  "description": "ขนมเนื้อนุ่มที่ทำจากแป้งรากเฟิร์น เป็นขนมญี่ปุ่นที่ได้รับความนิยมในจีนเช่นกัน",
+  "examples": [
+    {
+      "chinese": "我很喜欢吃蕨饼",
+      "translation": "ฉันชอบกินวาราบิโมจิมาก"
+    },
+    {
+      "chinese": "这家店的蕨饼很Q弹",
+      "translation": "วาราบิโมจิร้านนี้เด้งดึ๋งมาก"
+    },
+    {
+      "chinese": "夏天吃蕨饼清爽不腻",
+      "translation": "กินวาราบิโมจิในหน้าร้อนแล้วสดชื่นไม่เลี่ยนเลย"
+    }
+  ],
+  "category": "liaoli",
+  "categoryName": "อาหาร",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/jue/"
+}

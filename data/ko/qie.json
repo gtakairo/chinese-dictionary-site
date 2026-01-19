@@ -1,0 +1,25 @@
+{
+  "slug": "qie",
+  "chinese": "切拜",
+  "pinyin": "qiè bài",
+  "meaning": "제발",
+  "description": "한국어 '제발'의 음역.",
+  "examples": [
+    {
+      "chinese": "欧尼,切拜切拜,求求你了",
+      "translation": "언니, 제발 제발, 부탁해"
+    },
+    {
+      "chinese": "切拜,让我看看吧",
+      "translation": "제발, 나 좀 보자"
+    },
+    {
+      "chinese": "希望我可以在你家多呆一段时间,切拜",
+      "translation": "너네 집에 좀 더 있어도 되면 좋겠어, 제발"
+    }
+  ],
+  "category": "wailaiyu",
+  "categoryName": "외래어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/qie/"
+}

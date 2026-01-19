@@ -1,0 +1,19 @@
+{
+  "slug": "moyu",
+  "chinese": "摸鱼",
+  "pinyin": "mō yú",
+  "meaning": "Slacking off / Goofing off",
+  "description": "Internet slang for slacking off at work, derived from the idiom 「fishing in troubled waters」 (浑水摸鱼).",
+  "examples": [
+    {
+      "chinese": "上班摸鱼被发现了",
+      "translation": "I was caught slacking off at work."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [
+    "dagongren"
+  ],
+  "sourceUrl": "https://chineself.com/moyu/"
+}

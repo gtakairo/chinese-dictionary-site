@@ -1,0 +1,24 @@
+{
+  "slug": "qmeng",
+  "chinese": "Q萌",
+  "pinyin": "Q méng",
+  "meaning": "น่ารักจิ้มลิ้ม, แบ๊ว",
+  "description": "Q ย่อมาจาก cute (น่ารัก) มักใช้ในรูปประโยคอย่าง 好Q, 太Q了, 很Q, 又A又Q คำว่า Q版 หมายถึงตัวละครแบบจิบิ (SD ตัวเล็กหัวโต)",
+  "examples": [
+    {
+      "chinese": "尊嘟Q萌哦",
+      "translation": "น่ารักจิ้มลิ้มจริงๆ"
+    },
+    {
+      "chinese": "怎么这么很Q萌啊",
+      "translation": "ทำไมถึงได้แบ๊วขนาดนี้"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์แสลงทางอินเทอร์เน็ต",
+  "relatedWords": [
+    "qban",
+    "qdan"
+  ],
+  "sourceUrl": "https://chineself.com/qmeng/"
+}

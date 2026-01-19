@@ -1,0 +1,20 @@
+{
+    "slug": "shuangbiao",
+    "chinese": "双标",
+    "pinyin": "shuāng biāo",
+    "meaning": "이중잣대 (내로남불)",
+    "description": "상황이나 상대에 따라 기준을 바꾸는 것에 대한 비판.",
+    "category": "net",
+    "categoryName": "논의/평가",
+    "relatedWords": [
+        "gangjing",
+        "yinyangguaiqi"
+    ],
+    "sourceUrl": "https://chineself.com/shuangbiao/",
+    "examples": [
+        {
+            "chinese": "别双标了",
+            "translation": "이중잣대 좀 그만해"
+        }
+    ]
+}

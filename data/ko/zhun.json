@@ -1,0 +1,25 @@
+{
+  "slug": "zhun",
+  "chinese": "准备药检",
+  "pinyin": "zhǔn bèi yào jiǎn",
+  "meaning": "약 검사 준비해라 (미쳤냐?)",
+  "description": "상대가 제정신이 아닐 때 비꼬는 말.",
+  "examples": [
+    {
+      "chinese": "是不是脑子短路了,准备药检吧你",
+      "translation": "뇌가 멈췄냐? 약 검사 좀 받아봐라"
+    },
+    {
+      "chinese": "这个人真的准备药检吧",
+      "translation": "이 사람 진짜 제정신 아닌 듯"
+    },
+    {
+      "chinese": "我怀疑你们精神状态,准备药检",
+      "translation": "너희 정신 상태가 의심스럽다, 약 검사 해봐"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 은어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/zhun/"
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "niaodian",
+  "chinese": "尿点",
+  "pinyin": "niào diǎn",
+  "meaning": "（トイレ休憩できるような）退屈な場面",
+  "description": "退屈で予想しやすく離席しても支障ない場面を指す。否定形の无尿点は「面白い、目が離せない」。",
+  "examples": [
+    {"chinese": "这部电影全程毫无尿点", "japanese": "この映画は全体を通して退屈なと思うシーンがなかった"},
+    {"chinese": "反战的战争片三个小时但是节奏很快,没什么尿点", "japanese": "反戦の戦争映画3時間だったがテンポが速くトイレに行く暇もなかった"}
+  ],
+  "category": "net",
+  "categoryName": "ネット用語・スラング",
+  "relatedWords": ["wuniaodian"],
+  "sourceUrl": "https://chineself.com/niaodian/"
+}

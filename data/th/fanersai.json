@@ -1,0 +1,19 @@
+{
+  "slug": "fanersai",
+  "chinese": "凡尔赛",
+  "pinyin": "fán ěr sài",
+  "meaning": "อวดแบบถ่อมตัว (ฮัมเบิลบราก)",
+  "description": "ทำทีถ่อมตัวแต่จริงๆ คือการอวด",
+  "examples": [
+    { "chinese": "她的发言很凡尔赛", "translation": "คำพูดเธอฮัมเบิลบรากมาก" },
+    { "chinese": "朋友圈里全是凡尔赛", "translation": "ไทม์ไลน์มีแต่การอวดแบบถ่อมตัว" },
+    { "chinese": "他又凡尔赛了", "translation": "เขาอวดแบบถ่อมตัวอีกแล้ว" }
+  ],
+  "category": "net",
+  "categoryName": "ミーム・言語スタイル",
+  "relatedWords": [
+    "yinyangguaiqi",
+    "poquan"
+  ],
+  "sourceUrl": "https://chineself.com/fanersai/"
+}

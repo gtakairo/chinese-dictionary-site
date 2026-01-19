@@ -1,0 +1,19 @@
+{
+  "slug": "anpaishang",
+  "chinese": "安排上",
+  "pinyin": "ān pái shàng",
+  "meaning": "จัดการเรียบร้อย/วางแผนเสร็จ",
+  "description": "เรื่องหรือกำหนดการถูกจัดการเรียบร้อยแล้ว",
+  "examples": [
+    { "chinese": "周末的行程都安排上了", "translation": "ตารางสุดสัปดาห์จัดเรียบร้อย" },
+    { "chinese": "票已经安排上", "translation": "ตั๋วจัดการเรียบร้อยแล้ว" },
+    { "chinese": "午饭安排上吗？", "translation": "มื้อกลางวันจัดการไว้หรือยัง?" }
+  ],
+  "category": "net",
+  "categoryName": "การวางแผน",
+  "relatedWords": [
+    "shangxin",
+    "gaoqian"
+  ],
+  "sourceUrl": "https://chineself.com/anpaishang/"
+}

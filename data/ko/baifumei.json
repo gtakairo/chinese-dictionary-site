@@ -1,0 +1,19 @@
+{
+  "slug": "baifumei",
+  "chinese": "白富美",
+  "pinyin": "bái fù měi",
+  "meaning": "백부미 (피부가 희고 부유하며 아름다운 여성)",
+  "description": "이상적인 여성상을 나타내는 인터넷 신조어. 「엄친딸」과 유사.",
+  "examples": [
+    {
+      "chinese": "她是个白富美",
+      "translation": "그녀는 백부미(엄친딸)다"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인물상",
+  "relatedWords": [
+    "gaofushuai"
+  ],
+  "sourceUrl": "https://chineself.com/baifumei/"
+}

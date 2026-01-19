@@ -1,0 +1,25 @@
+{
+  "slug": "sheng",
+  "chinese": "胜败乃兵家常事",
+  "pinyin": "shèng bài nǎi bīng jiā cháng shì",
+  "meaning": "승패는 병가지상사 / 이기고 지는 것은 흔한 일이다",
+  "description": "싸움에는 이길 때도 있고 질 때도 있다. 승패는 흔히 있는 일이니 일희일비하지 말라는 뜻.",
+  "examples": [
+    {
+      "chinese": "胜败乃兵家常事,对待输赢请平常心",
+      "translation": "승패는 병가지상사니, 이기고 지는 것에 평정심을 잃지 마라."
+    },
+    {
+      "chinese": "胜败乃兵家常事,下次比赛加油就是了",
+      "translation": "승패는 흔한 일, 다음 시합 때 힘내면 된다."
+    },
+    {
+      "chinese": "竞技体育没有常胜将军,胜败乃兵家常事啊",
+      "translation": "스포츠 경기에 상승장군은 없다. 승패는 병가지상사다."
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "사자성어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/sheng/"
+}

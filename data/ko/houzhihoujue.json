@@ -1,0 +1,27 @@
+{
+  "slug": "houzhihoujue",
+  "chinese": "后知后觉",
+  "pinyin": "hòu zhī hòu jué",
+  "meaning": "나중에야 깨닫다 / 뒤늦게 알아차리다",
+  "description": "先知先觉(미리 깨닫다)의 반의어.",
+  "examples": [
+    {
+      "chinese": "出来才后知后觉书包都没带",
+      "translation": "나오고 나서야 가방을 안 가져온 걸 깨달았다"
+    },
+    {
+      "chinese": "父母的爱,我现在才后知后觉",
+      "translation": "부모님의 사랑을 이제서야 뒤늦게 깨닫는다"
+    },
+    {
+      "chinese": "别后知后觉,高考落榜才去后悔",
+      "translation": "뒤늦게 깨닫지 마라, 대학 입시에 떨어지고 나서야 후회하게 될 테니"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "성어/사자성어",
+  "relatedWords": [
+    "xianzhixianjue"
+  ],
+  "sourceUrl": "https://chineself.com/houzhihoujue/"
+}

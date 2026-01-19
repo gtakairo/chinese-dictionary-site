@@ -1,0 +1,25 @@
+{
+  "slug": "kubi",
+  "chinese": "库币",
+  "pinyin": "kù bì",
+  "meaning": "KuCoin (Cryptocurrency Exchange)",
+  "description": "Chinese name for the cryptocurrency exchange KuCoin.",
+  "examples": [
+    {
+      "chinese": "在库币开通账户",
+      "translation": "Open an account on KuCoin"
+    },
+    {
+      "chinese": "库币支持现货和合约",
+      "translation": "KuCoin supports spot and futures trading"
+    },
+    {
+      "chinese": "库币上线新项目",
+      "translation": "New projects listed on KuCoin"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "Finance/Investment",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/kubi/"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "dangong",
+  "chinese": "当工",
+  "pinyin": "dāng gōng",
+  "meaning": "Work as an employee (another expression for 「dǎ gōng」)",
+  "description": "Similar to 「dǎ gōng」 (part-time job, working for others). Sometimes used on the internet.",
+  "examples": [
+    {
+      "chinese": "为了生活只能当工",
+      "translation": "I have to work as an employee to make a living."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Work",
+  "relatedWords": [
+    "dagongren"
+  ],
+  "sourceUrl": "https://chineself.com/dangong/"
+}

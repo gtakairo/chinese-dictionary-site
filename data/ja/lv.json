@@ -1,0 +1,29 @@
+{
+  "slug": "lv",
+  "chinese": "屡败屡战",
+  "pinyin": "lǚ bài lǜ zhàn",
+  "meaning": "何度失敗しても挑戦する、失敗しても絶対に諦めない",
+  "description": "屡战屡败は「連戦連敗」の意味。",
+  "examples": [
+    {
+      "chinese": "你是如何屡败屡战坚持下来的？",
+      "japanese": "あなたはどうやって失敗しても挫けずに続けてこれたの"
+    },
+    {
+      "chinese": "屡败屡战才能战无不胜",
+      "japanese": "失敗しても絶対に諦めないことではじめて無敵となる"
+    },
+    {
+      "chinese": "他屡败屡战,获得最后的胜利",
+      "japanese": "彼は何度失敗しても挑戦し、最後には勝利者となった"
+    },
+    {
+      "chinese": "不要再考一次,屡败屡战屡战屡败恶性循环",
+      "japanese": "もう試験を受けないほうがよい、チャレンジし続けるも連戦連敗の悪循環"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "成語・四字熟語",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/lv/"
+}

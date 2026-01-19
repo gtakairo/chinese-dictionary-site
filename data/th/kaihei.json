@@ -1,0 +1,19 @@
+{
+  "slug": "kaihei",
+  "chinese": "开黑",
+  "pinyin": "kāi hēi",
+  "meaning": "เล่นเกมกับเพื่อน (มักเปิดไมค์คุยกัน)",
+  "description": "การเล่นเกมกับเพื่อนพร้อมกับคุยสายกันไปด้วย",
+  "examples": [
+    {
+      "chinese": "今晚一起开黑吗",
+      "translation": "คืนนี้มาเล่นเกมเปิดไมค์คุยกันไหม?"
+    }
+  ],
+  "category": "net",
+  "categoryName": "เกม/ศัพท์สแลงอินเทอร์เน็ต",
+  "relatedWords": [
+    "xswl"
+  ],
+  "sourceUrl": "https://chineself.com/kaihei/"
+}

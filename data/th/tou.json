@@ -1,0 +1,35 @@
+{
+    "slug": "tou",
+    "chinese": "头部",
+    "pinyin": "tóu bù",
+    "meaning": "① ส่วนหัว ② ระดับท็อป, ชั้นนำ",
+    "description": "หมายถึงระดับหัวกะทิ หรือระดับบนสุด",
+    "category": "net",
+    "categoryName": "ศัพท์อินเทอร์เน็ต",
+    "relatedWords": [
+        "wanghong"
+    ],
+    "sourceUrl": "https://chineself.com/tou/",
+    "examples": [
+        {
+            "chinese": "头部企业（龙头企业）",
+            "translation": "องค์กรชั้นนำ"
+        },
+        {
+            "chinese": "头部品牌",
+            "translation": "แบรนด์ชั้นนำ"
+        },
+        {
+            "chinese": "头部客户",
+            "translation": "ลูกค้าชั้นดี"
+        },
+        {
+            "chinese": "头部主播",
+            "translation": "สตรีมเมอร์ตัวท็อป"
+        },
+        {
+            "chinese": "头部网红",
+            "translation": "อินฟลูเอนเซอร์ตัวท็อป"
+        }
+    ]
+}

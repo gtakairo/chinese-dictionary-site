@@ -1,0 +1,27 @@
+{
+  "slug": "biaoqing",
+  "chinese": "表情包轰炸",
+  "pinyin": "biǎo qíng bāo hōng zhà",
+  "meaning": "이모티콘 테러 / 이모티콘 폭격",
+  "description": "채팅에서 이모티콘을 연속으로 대량 전송하는 것.",
+  "examples": [
+    {
+      "chinese": "他又开始对我语音轰炸+表情包轰炸",
+      "translation": "그가 또 나에게 음성 폭탄 + 이모티콘 폭탄을 보내기 시작했다"
+    },
+    {
+      "chinese": "天杀的,给我100多条表情包轰炸",
+      "translation": "젠장, 나한테 100개 넘는 이모티콘 폭탄을 보내다니"
+    },
+    {
+      "chinese": "一打开手机,发现有人给我发了超多炸虾表情包",
+      "translation": "핸드폰을 켜보니, 누군가 나에게 엄청 많은 새우튀김 이모티콘을 보낸 걸 발견했다"
+    }
+  ],
+  "category": "sns",
+  "categoryName": "웹/SNS",
+  "relatedWords": [
+    "tianshade"
+  ],
+  "sourceUrl": "https://chineself.com/biaoqing/"
+}

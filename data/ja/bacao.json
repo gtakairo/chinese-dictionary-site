@@ -1,0 +1,14 @@
+{
+  "slug": "bacao",
+  "chinese": "拔草",
+  "pinyin": "bá cǎo",
+  "meaning": "欲しい気持ちを抜く（購入・試して熱が冷める）",
+  "description": "買って試して満足して落ち着く／興味を失うこと。",
+  "examples": [
+    {"chinese": "试过后我拔草了", "japanese": "試してみて気持ちが冷めた"}
+  ],
+  "category": "net",
+  "categoryName": "ネットスラング",
+  "relatedWords": ["zhongcao"],
+  "sourceUrl": "https://chineself.com/bacao/"
+}

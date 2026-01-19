@@ -1,0 +1,25 @@
+{
+  "slug": "fahuo",
+  "chinese": "发火线圈",
+  "pinyin": "fā huǒ xiàn quān",
+  "meaning": "Ignition Coil",
+  "description": "An automotive coil component that supplies high voltage to the spark plugs.",
+  "examples": [
+    {
+      "chinese": "检查发火线圈的电阻",
+      "translation": "Check the resistance of the ignition coil."
+    },
+    {
+      "chinese": "发火线圈老化会导致点火不良",
+      "translation": "Aging of the ignition coil can lead to ignition failure."
+    },
+    {
+      "chinese": "更换发火线圈后故障消除",
+      "translation": "The fault was eliminated after replacing the ignition coil."
+    }
+  ],
+  "category": "car",
+  "categoryName": "Automotive",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/fahuo/"
+}

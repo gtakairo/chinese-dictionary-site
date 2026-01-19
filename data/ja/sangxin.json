@@ -1,0 +1,25 @@
+{
+  "slug": "sangxin",
+  "chinese": "桑心",
+  "pinyin": "sāng xīn",
+  "meaning": "悲しい、心を痛める",
+  "description": "伤心（shāng xīn）のネット用語。",
+  "examples": [
+    {
+      "chinese": "真是让人桑心",
+      "translation": "ほんと悲しませてくれるな"
+    },
+    {
+      "chinese": "心里有一点点桑心",
+      "translation": "少し心を痛めた"
+    },
+    {
+      "chinese": "我发现头顶一根白发,好桑心",
+      "translation": "私は頭のてっぺんに一本の白髪を発見、とても悲しい"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語・スラング",
+  "relatedWords": ["wokule"],
+  "sourceUrl": "https://chineself.com/sangxin/"
+}

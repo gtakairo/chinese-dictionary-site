@@ -1,0 +1,29 @@
+{
+  "slug": "zenme",
+  "chinese": "怎么肥四",
+  "pinyin": "zěn me féi sì",
+  "meaning": "เกิดอะไรขึ้น / เป็นอะไรไป",
+  "description": "เสียงเพี้ยนแบบน่ารักของคําว่า 'เจิ่นเมอหุยซื่อ'",
+  "examples": [
+    {
+      "chinese": "妈耶,不知道怎么肥四",
+      "translation": "ตายจริง ไม่รู้ว่าเกิดอะไรขึ้น"
+    },
+    {
+      "chinese": "嫩妈,到底怎么肥四啊",
+      "translation": "ให้ตายสิ มันเกิดอะไรขึ้นกันแน่"
+    },
+    {
+      "chinese": "今天头疼怎么肥四",
+      "translation": "วันนี้ปวดหัว เป็นอะไรเนี่ย"
+    },
+    {
+      "chinese": "手机没信号怎么肥四",
+      "translation": "มือถือไม่มีสัญญาณ เกิดอะไรขึ้น"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์สแลงเน็ต",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/zenme/"
+}

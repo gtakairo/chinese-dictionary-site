@@ -1,0 +1,16 @@
+{
+  "slug": "dian",
+  "chinese": "电磁开关",
+  "pinyin": "diàn cí kāi guān",
+  "meaning": "สวิตช์แม่เหล็กไฟฟ้า (Solenoid switch)",
+  "description": "สวิตช์ที่ทำงานด้วยแรงแม่เหล็กไฟฟ้า (โซลินอยด์สวิตช์)",
+  "examples": [
+    { "chinese": "检查电磁开关的连接", "translation": "ตรวจการเชื่อมต่อของสวิตช์แม่เหล็กไฟฟ้า" },
+    { "chinese": "更换故障的电磁开关", "translation": "เปลี่ยนสวิตช์แม่เหล็กไฟฟ้าที่ชำรุด" },
+    { "chinese": "测试电磁开关的通断", "translation": "ทดสอบการเปิด-ปิดวงจรของสวิตช์แม่เหล็กไฟฟ้า" }
+  ],
+  "category": "car",
+  "categoryName": "ยานยนต์",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/dian/"
+}

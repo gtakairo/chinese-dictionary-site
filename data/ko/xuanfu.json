@@ -1,0 +1,19 @@
+{
+  "slug": "xuanfu",
+  "chinese": "炫富",
+  "pinyin": "xuàn fù",
+  "meaning": "돈 자랑 / 플렉스 / 부 과시",
+  "description": "SNS 등에서 부를 과시하는 행위.",
+  "examples": [
+    {
+      "chinese": "他在朋友圈炫富",
+      "translation": "그는 모멘트에서 돈 자랑을 한다."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 속어",
+  "relatedWords": [
+    "youdiaodiao"
+  ],
+  "sourceUrl": "https://chineself.com/xuanfu/"
+}

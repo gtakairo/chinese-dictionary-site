@@ -1,0 +1,20 @@
+{
+    "slug": "tangying",
+    "chinese": "躺赢",
+    "pinyin": "tǎng yíng",
+    "meaning": "누워서 이기다 (버스 타다)",
+    "description": "노력하지 않고 이기는 상황. 게임이나 인터넷 용어.",
+    "category": "net",
+    "categoryName": "게임/인터넷 슬랭",
+    "relatedWords": [
+        "moyu",
+        "tangping"
+    ],
+    "sourceUrl": "https://chineself.com/tangying/",
+    "examples": [
+        {
+            "chinese": "队友太强我躺赢了",
+            "translation": "팀원이 너무 세서 나 그냥 누워서 이겼어 (버스 탔어)"
+        }
+    ]
+}

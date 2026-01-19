@@ -1,0 +1,16 @@
+{
+  "slug": "yitaijingdian",
+  "chinese": "以太经典",
+  "pinyin": "yǐ tài jīng diǎn",
+  "meaning": "イーサリアムクラシック（Ethereum Classic）",
+  "description": "イーサリアム（ETH）からのハードフォークにより分岐したブロックチェーン。独自に維持・運用されている。",
+  "examples": [
+    {"chinese": "以太经典价格上涨", "japanese": "イーサリアムクラシックの価格が上昇した"},
+    {"chinese": "讨论以太经典的挖矿难度", "japanese": "ETCのマイニング難易度について議論する"},
+    {"chinese": "交易所上线以太经典", "japanese": "取引所がETCを上場させた"}
+  ],
+  "category": "jinrong",
+  "categoryName": "金融・投資",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/yitaijingdian/"
+}

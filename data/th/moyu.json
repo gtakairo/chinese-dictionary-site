@@ -1,0 +1,19 @@
+{
+  "slug": "moyu",
+  "chinese": "摸鱼",
+  "pinyin": "mō yú",
+  "meaning": "อู้งาน / จับปลา (อู้)",
+  "description": "ศัพท์แสลงอินเทอร์เน็ตหมายถึงการแอบอู้งานในเวลางาน มาจากสำนวน \"จับปลาในน้ำขุ่น\"",
+  "examples": [
+    {
+      "chinese": "上班摸鱼被发现了",
+      "translation": "อู้งานตอนทำงานแล้วโดนจับได้"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์แสลงทางอินเทอร์เน็ต",
+  "relatedWords": [
+    "dagongren"
+  ],
+  "sourceUrl": "https://chineself.com/moyu/"
+}

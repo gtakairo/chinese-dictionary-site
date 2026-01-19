@@ -1,0 +1,25 @@
+{
+  "slug": "ting",
+  "chinese": "听岔了",
+  "pinyin": "tīng chà le",
+  "meaning": "聞き違いをする、勘違いをする",
+  "description": "岔には「間違い、それる」などの意味がある。听岔劈了も同じ。",
+  "examples": [
+    {
+      "chinese": "哟呵,他结婚了也不知道是不是我听岔了",
+      "translation": "ええっ、彼が結婚したなんて、私が聞き違いをしている？"
+    },
+    {
+      "chinese": "尊嘟假嘟,我以为我耳朵听岔了",
+      "translation": "マジ？私が勘違いしたのかと思った"
+    },
+    {
+      "chinese": "别听岔了,我不是喜欢你",
+      "translation": "勘違いしないで、私はあなたを好きではない"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "未分類",
+  "relatedWords": ["youhe", "zundujiadu"],
+  "sourceUrl": "https://chineself.com/ting/"
+}

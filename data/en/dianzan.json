@@ -1,0 +1,27 @@
+{
+  "slug": "dianzan",
+  "chinese": "点赞",
+  "pinyin": "diǎn zàn",
+  "meaning": "Like / Click 「Like」",
+  "description": "To click the 「like」 button on social media. Same as 「diǎn gè zàn」.",
+  "examples": [
+    {
+      "chinese": "请点赞！点赞吧！",
+      "translation": "Please like! Hit the like button!"
+    },
+    {
+      "chinese": "网友纷纷点赞",
+      "translation": "Netizens liked it one after another."
+    },
+    {
+      "chinese": "麻烦您关注一下,点个赞",
+      "translation": "Please follow and give a like."
+    }
+  ],
+  "category": "sns",
+  "categoryName": "Web/SNS Terms",
+  "relatedWords": [
+    "guanzhu"
+  ],
+  "sourceUrl": "https://chineself.com/dianzan/"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "ruanwen",
+  "chinese": "软文",
+  "pinyin": "ruǎn wén",
+  "meaning": "홍보성 기사 (뒷광고)",
+  "description": "중립적인 척하지만 실제로는 광고 목적인 기사나 게시물.",
+  "examples": [
+    {
+      "chinese": "这篇是软文吧",
+      "translation": "이거 홍보성 글이네"
+    }
+  ],
+  "category": "net",
+  "categoryName": "미디어/광고",
+  "relatedWords": [
+    "kongping"
+  ],
+  "sourceUrl": "https://chineself.com/ruanwen/"
+}

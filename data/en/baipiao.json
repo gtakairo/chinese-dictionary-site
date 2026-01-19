@@ -1,0 +1,19 @@
+{
+  "slug": "baipiao",
+  "chinese": "白嫖",
+  "pinyin": "bái piáo",
+  "meaning": "freeload, enjoy for free (without paying/contributing)",
+  "description": "Originally meant visiting a prostitute without paying. In internet slang, it means consuming content (videos, articles) without liking, sharing, or paying, or deriving benefit without giving anything back.",
+  "examples": [
+    {
+      "chinese": "别白嫖了支持一下",
+      "translation": "Don't just freeload, show some support"
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet/Economics",
+  "relatedWords": [
+    "jiucai"
+  ],
+  "sourceUrl": "https://chineself.com/baipiao/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "laohu",
+  "chinese": "虎口拔牙",
+  "pinyin": "hǔ kǒu bá yá",
+  "meaning": "虎の口から歯を抜く〈喩〉危険極まりない",
+  "description": "日本語のことわざの「虎の尾を踏む」「虎穴を探る」と同じ意味。ちなみに、大象口里拔生牙は「手におえない、逆らえない」となる。",
+  "examples": [
+    {
+      "chinese": "这项工作犹如老虎拔牙",
+      "translation": "この仕事はまるで虎の歯を抜くようなものだ（危険で難しい）"
+    },
+    {
+      "chinese": "虎口拔牙任务怎么完成",
+      "translation": "危険極まりない任務をどのようにするか"
+    },
+    {
+      "chinese": "炒股赚钱真难,难似虎口拔牙",
+      "translation": "株式投資で金儲けはとても難しい、虎の歯を抜くようにリスキーだ"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "成語・四字熟語",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/laohu/"
+}

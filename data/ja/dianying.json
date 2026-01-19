@@ -1,0 +1,25 @@
+{
+  "slug": "dianying",
+  "chinese": "点映",
+  "pinyin": "diǎn yìng",
+  "meaning": "映画試写会、先行上映、ロードショー",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "1日超前点映,5日全国公映",
+      "translation": "1日に先行上映、5日に全国公開"
+    },
+    {
+      "chinese": "电影点映会和正片不一样吗",
+      "translation": "映画の先行上映会のは、正式上映のと違うの？"
+    },
+    {
+      "chinese": "一般每一部影片在正式上映的时候都会先进行点映",
+      "translation": "一般的に映画はどれも正式上映前に映画試写会がある"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "未分類",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/dianying/"
+}

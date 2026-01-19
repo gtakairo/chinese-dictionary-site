@@ -1,0 +1,25 @@
+{
+  "slug": "laotie",
+  "chinese": "老铁",
+  "pinyin": "lǎo tiě",
+  "meaning": "皆さん、親友、兄弟、アニキ、おまえさん",
+  "description": "哥们儿の意味。铁子、铁哥们、铁汁も同義語。鉄のように強固な関係性を長く保っている人たちということ。親しみを込めて親友を呼びかけるときに用いる。",
+  "examples": [
+    {
+      "chinese": "欢迎各位老铁关注",
+      "translation": "皆様方のフォロー大歓迎"
+    },
+    {
+      "chinese": "各位老铁们分享一下",
+      "translation": "兄弟の皆さんと共有しましょう"
+    },
+    {
+      "chinese": "老铁们你们知道吗？",
+      "translation": "おまえたちみんな知ってる？"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": ["tiezhi", "guanzhu", "wao", "zhaxinle"],
+  "sourceUrl": "https://chineself.com/laotie/"
+}

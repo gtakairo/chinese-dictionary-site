@@ -1,0 +1,12 @@
+{
+  "slug": "xiaozuowen",
+  "chinese": "小作文",
+  "pinyin": "xiǎo zuòwén",
+  "meaning": "長文の弁明／感想文",
+  "description": "SNSで長文の感想や弁明を書くこと。",
+  "examples": [{"chinese": "他又发小作文了", "japanese": "彼はまた長文の弁明を書いた"}],
+  "category": "net",
+  "categoryName": "SNS・発信",
+  "relatedWords": ["zqsg"],
+  "sourceUrl": "https://chineself.com/xiaozuowen/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "kongqibi",
+  "chinese": "空气币",
+  "pinyin": "kōng qì bì",
+  "meaning": "스캠 코인 (공기 코인)",
+  "description": "사기에 사용되는 암호화폐. 실체가 없는 코인.",
+  "examples": [
+    {
+      "chinese": "这种项目像空气币",
+      "translation": "이 프로젝트는 스캠 코인 같다"
+    },
+    {
+      "chinese": "别被空气币骗了",
+      "translation": "스캠 코인에 속지 마라"
+    },
+    {
+      "chinese": "空气币没有实际应用",
+      "translation": "스캠 코인은 실제 활용도가 없다"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "금융/투자",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/kongqibi/"
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "biguanjia",
+  "chinese": "币管家",
+  "pinyin": "bì guǎn jiā",
+  "meaning": "bgj.io【仮想通貨の取引所】",
+  "description": "暗号資産取引所の一つ（bjj.io表記あり）。",
+  "examples": [
+    {"chinese": "在币管家注册账户", "japanese": "币管家でアカウント登録する"},
+    {"chinese": "币管家上线新代币", "japanese": "币管家に新しいトークンが上場した"},
+    {"chinese": "查询币管家的手续费", "japanese": "币管家的手数料を確認する"}
+  ],
+  "category": "jinrong",
+  "categoryName": "金融・投資",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/biguanjia/"
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "kongping",
+  "chinese": "控评",
+  "pinyin": "kòng píng",
+  "meaning": "Comment control; shaping the comment section",
+  "description": "Coordinating or manipulating comments to guide public opinion, promote or downplay topics.",
+  "examples": [
+    { "chinese": "有人在控评", "translation": "Someone is controlling the comments." },
+    { "chinese": "别再控评了", "translation": "Stop trying to steer the comments." },
+    { "chinese": "团队在控评洗地", "translation": "The team is controlling comments to do damage control." }
+  ],
+  "category": "net",
+  "categoryName": "SNS & Operations",
+  "relatedWords": [
+    "fanquan"
+  ],
+  "sourceUrl": "https://chineself.com/kongping/"
+}

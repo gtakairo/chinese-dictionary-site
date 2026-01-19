@@ -1,0 +1,20 @@
+{
+  "slug": "yanzhi",
+  "chinese": "颜值",
+  "pinyin": "yán zhí",
+  "meaning": "얼굴값 / 비주얼 / 미모 레벨",
+  "description": "외모의 수준이나 점수.",
+  "examples": [
+    {
+      "chinese": "她的颜值很高",
+      "translation": "그녀는 비주얼이 뛰어나다."
+    }
+  ],
+  "category": "net",
+  "categoryName": "외모 / 평가",
+  "relatedWords": [
+    "yanzhitianhuaban",
+    "yankong"
+  ],
+  "sourceUrl": "https://chineself.com/yanzhi/"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "haokan",
+  "chinese": "好康",
+  "pinyin": "hǎo kāng",
+  "meaning": "1. ดี, เยี่ยม 2. สิทธิพิเศษ, ของดี, ของแถม",
+  "description": "มาจากภาษาหมิ่นหนาน (ฮกเกี้ยน) 1. แปลว่า \"ดี\" หรือ \"สวยงาม\" 2. มักใช้หมายถึง \"โปรโมชั่น\", \"ของแถม\", หรือ \"ดีลเด็ด\"",
+  "examples": [
+    {
+      "chinese": "这么好康",
+      "translation": "ดีขนาดนี้เลยเหรอ"
+    },
+    {
+      "chinese": "穿西装的好康",
+      "translation": "ใส่สูทแล้วดูดีมาก"
+    },
+    {
+      "chinese": "这对cp太好康了",
+      "translation": "คู่จิ้นคู่นี้ดีต่อใจมาก"
+    },
+    {
+      "chinese": "新买的耳机好康",
+      "translation": "หูฟังที่ซื้อมาใหม่โคตรดี"
+    },
+    {
+      "chinese": "这本杂志赠品太好康",
+      "translation": "ของแถมจากนิตยสารเล่มนี้คุ้มมาก"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์แสลงอินเทอร์เน็ต",
+  "relatedWords": [
+    "cp"
+  ],
+  "sourceUrl": "https://chineself.com/haokan/"
+}

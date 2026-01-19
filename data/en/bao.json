@@ -1,0 +1,25 @@
+{
+  "slug": "bao",
+  "chinese": "包办婚姻",
+  "pinyin": "bāo bàn hūn yīn",
+  "meaning": "arranged marriage",
+  "description": "Marriage arranged by parents or third parties, often without the full consent of the individuals involved. Implies a lack of freedom in choosing a partner.",
+  "examples": [
+    {
+      "chinese": "下周估计能到家,希望我的包办婚姻能成功",
+      "translation": "Should be home next week, hope my arranged marriage works out"
+    },
+    {
+      "chinese": "和包办婚姻的老婆在一起一年了",
+      "translation": "Been with my arranged-marriage wife for a year now"
+    },
+    {
+      "chinese": "我现在需要一场包办婚姻,自由恋爱已经谈够了",
+      "translation": "I need an arranged marriage now, I'm done with dating freely"
+    }
+  ],
+  "category": "nannv",
+  "categoryName": "Love/Marriage",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/bao/"
+}

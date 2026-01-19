@@ -1,0 +1,28 @@
+{
+  "slug": "nian",
+  "chinese": "年代久远",
+  "pinyin": "nián dài jiǔ yuǎn",
+  "meaning": "เก่าแก่; โบราณ; วินเทจ",
+  "description": "ถ้อยคำที่ใช้เรียกสิ่งของที่ผ่านกาลเวลามาอย่างยาวนานและมีประวัติศาสตร์",
+  "examples": [
+    {
+      "chinese": "年代久远又罕见的破二手车",
+      "translation": "รถมือสองเก่าๆ ที่หายากและอายุเยอะแล้ว"
+    },
+    {
+      "chinese": "年代久远一条老街,回忆杀",
+      "translation": "ถนนสายเก่าแก่ ชวนให้คิดถึงความหลัง"
+    },
+    {
+      "chinese": "这是一条年代久远的牛仔裤",
+      "translation": "นี่คือกางเกงยีนส์วินเทจ"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "ไม่มีหมวดหมู่",
+  "relatedWords": [
+    "poershouche",
+    "huiyisha"
+  ],
+  "sourceUrl": "https://chineself.com/nian/"
+}

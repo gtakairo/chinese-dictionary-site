@@ -1,0 +1,25 @@
+{
+    "slug": "ti",
+    "chinese": "天崩开局",
+    "pinyin": "tiān bēng kāi jú",
+    "meaning": "Disastrous start",
+    "description": "Starting with a terrible situation. Opposite of \"Tian hu kai ju\" (Perfect start).",
+    "category": "net",
+    "categoryName": "Internet Slang",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/ti/",
+    "examples": [
+        {
+            "chinese": "天崩开局的一次旅行,下飞机行李箱被人拿错了",
+            "translation": "A trip with a disastrous start, suitcase taken by mistake after getting off the plane"
+        },
+        {
+            "chinese": "今年工作第一天,发生交通事故住院,天崩开局",
+            "translation": "First day of work this year, hospitalized due to car accident, disastrous start"
+        },
+        {
+            "chinese": "天崩开局,刚上的火车,车动了,邻座小孩把一杯可乐全洒我腿上了",
+            "translation": "Disastrous start, just got on the train, it moved, and the kid next to me spilled coke all over my legs"
+        }
+    ]
+}

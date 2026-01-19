@@ -1,0 +1,25 @@
+{
+  "slug": "rang",
+  "chinese": "让二追三",
+  "pinyin": "ràng èr zhuī sān",
+  "meaning": "대역전 (패패승승승)",
+  "description": "먼저 2세트를 내준 뒤 3세트를 따내어 역전하는 것. 'rang san zhui si'(크게 뒤지던 상황에서의 대역전)와 같은 의미.",
+  "examples": [
+    {
+      "chinese": "又是一场让二追三的比赛",
+      "translation": "또다시 대역전 경기가 나왔다"
+    },
+    {
+      "chinese": "逆风翻盘,让二追三,惊险的胜利",
+      "translation": "역풍을 뒤집는 대역전, 짜릿한 승리"
+    },
+    {
+      "chinese": "欧冠联赛做客3-2逆转战胜,真的让二追三",
+      "translation": "챔피언스리그 원정에서 3-2로 역전승, 정말 대역전극이다"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 신조어/속어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/rang/"
+}

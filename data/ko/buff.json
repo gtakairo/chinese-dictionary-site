@@ -1,0 +1,19 @@
+{
+  "slug": "buff",
+  "chinese": "BUFF",
+  "pinyin": "b u f f",
+  "meaning": "버프 (능력 상승 효과)",
+  "description": "게임 용어. 강화 효과나 능력 상승을 지칭함.",
+  "examples": [
+    {
+      "chinese": "这个技能能加BUFF",
+      "translation": "이 스킬은 버프를 걸 수 있다."
+    }
+  ],
+  "category": "wailaiyu",
+  "categoryName": "외래어/게임",
+  "relatedWords": [
+    "debuff"
+  ],
+  "sourceUrl": "https://chineself.com/buff/"
+}

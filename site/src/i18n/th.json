@@ -1,0 +1,51 @@
+{
+  "common": {
+    "search": "ค้นหา",
+    "categories": "หมวดหมู่",
+    "relatedWords": "คำที่เกี่ยวข้อง",
+    "examples": "ตัวอย่างประโยค",
+    "home": "หน้าแรก",
+    "browse": "เรียกดู",
+    "viewAll": "ดูทั้งหมด",
+    "backToHome": "กลับสู่หน้าแรก",
+    "viewCategory": "ดูหมวดหมู่",
+    "words": "คำ",
+    "total": "ทั้งหมด"
+  },
+  "word": {
+    "meaning": "ความหมาย",
+    "pronunciation": "การออกเสียง",
+    "etymology": "รากศัพท์",
+    "usage": "การใช้งาน",
+    "description": "คำอธิบาย",
+    "related": "คำที่เกี่ยวข้อง"
+  },
+  "search": {
+    "title": "ค้นหา",
+    "placeholder": "ค้นหาคำภาษาจีน พินอิน หรือความหมาย...",
+    "noResults": "ไม่พบผลลัพธ์ ลองใช้คำค้นหาอื่น",
+    "searchTips": "ค้นหาด้วยตัวอักษรจีน พินอิน หรือความหมายภาษาไทย",
+    "enterKeywords": "กรอกคำค้นหา"
+  },
+  "browse": {
+    "title": "ดูทุกคำ",
+    "subtitle": "เรียงตามพินอิน",
+    "totalWords": "คำทั้งหมด"
+  },
+  "category": {
+    "title": "หมวดหมู่",
+    "viewAll": "ดูคำทั้งหมดในหมวดหมู่นี้"
+  },
+  "home": {
+    "title": "พจนานุกรมจีน - เรียนภาษาจีนสมัยใหม่",
+    "subtitle": "ค้นพบศัพท์สแลง คำในอินเทอร์เน็ต และสำนวนสมัยใหม่",
+    "latestWords": "คำล่าสุด",
+    "featuredWords": "คำแนะนำ"
+  },
+  "footer": {
+    "about": "เกี่ยวกับ",
+    "privacy": "ความเป็นส่วนตัว",
+    "contact": "ติดต่อ",
+    "copyright": "All rights reserved"
+  }
+}

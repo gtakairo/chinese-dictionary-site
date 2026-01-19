@@ -1,0 +1,24 @@
+{
+  "slug": "diesinei",
+  "chinese": "跌死内",
+  "pinyin": "diē sǐ nèi",
+  "meaning": "데스네 (일본어 「~ですね」의 음역)",
+  "description": "일본어 「데스네(~군요/네요)」의 음역입니다. 첩사(跌死)=「데스」, 수첩사내(搜跌死内)=「소데스네(그렇군요)」, 카와이첩사내(卡哇伊跌死内)=「카와이데스네(귀엽네요)」",
+  "examples": [
+    {
+      "chinese": "红豆泥残念跌死内",
+      "translation": "정말 유감이네요 (혼토니 잔넨 데스네)"
+    },
+    {
+      "chinese": "卡哇伊跌死内",
+      "translation": "귀엽네요 (카와이 데스네)"
+    }
+  ],
+  "category": "wailaiyu",
+  "categoryName": "외래어/음역",
+  "relatedWords": [
+    "hongdouni",
+    "kawayi"
+  ],
+  "sourceUrl": "https://chineself.com/diesinei/"
+}

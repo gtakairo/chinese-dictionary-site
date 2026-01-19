@@ -1,0 +1,195 @@
+---
+export const prerender = true;
+
+import Layout from '../../../layouts/Layout.astro';
+import { getAllWords, getWordBySlug, getAvailableLanguages, getCategoryIcon } from '../../../lib/data';
+
+export function getStaticPaths() {
+  const paths: { params: { lang: string; slug: string } }[] = [];
+  
+  for (const lang of getAvailableLanguages()) {
+    const words = getAllWords(lang);
+    for (const word of words) {
+      paths.push({
+        params: { lang, slug: word.slug },
+      });
+    }
+  }
+  
+  return paths;
+}
+
+const { lang, slug } = Astro.params;
+const word = getWordBySlug(lang, slug);
+
+if (!word) {
+  return Astro.redirect(`/${lang}/`);
+}
+
+const labels: Record<string, Record<string, string>> = {
+  meaning: { en: 'Meaning', ko: '의미', ja: '意味' },
+  etymology: { en: 'Etymology', ko: '어원', ja: '語源' },
+  usage: { en: 'Usage', ko: '사용법', ja: '使い方' },
+  examples: { en: 'Examples', ko: '예문', ja: '例文' },
+  related: { en: 'Related Words', ko: '관련 단어', ja: '関連語' },
+};
+
+// SEO metadata
+const pageTitle = `${word.chinese} (${word.pinyin}) - ${word.meaning}`;
+const pageDescription = word.description || word.meaning;
+const keywords = `${word.chinese}, ${word.pinyin}, Chinese slang, ${word.category}, ${word.categoryName || ''}`;
+const canonical = `/${lang}/word/${word.slug}`;
+
+// Structured Data (JSON-LD) for SEO
+const structuredData = {
+  '@context': 'https://schema.org',
+  '@type': 'DefinedTerm',
+  name: word.chinese,
+  description: word.meaning,
+  inDefinedTermSet: {
+    '@type': 'DefinedTermSet',
+    name: word.categoryName || word.category,
+  },
+  termCode: word.pinyin,
+  ...(word.examples && word.examples.length > 0 && {
+    exampleOfUsage: word.examples.map(ex => ({
+      '@type': 'CreativeWork',
+      text: ex.chinese,
+      description: ex.translation,
+    })),
+  }),
+  url: `https://chinesedict.com/${lang}/word/${word.slug}`,
+  inLanguage: lang,
+  ...(word.relatedWords && word.relatedWords.length > 0 && {
+    sameAs: word.relatedWords.map(rw => `https://chinesedict.com/${lang}/word/${rw}`),
+  }),
+};
+---
+
+<Layout 
+  title={pageTitle}
+  description={pageDescription}
+  keywords={keywords}
+  canonical={canonical}
+  lang={lang}
+  ogType="article"
+  structuredData={structuredData}
+>
+  <article class="max-w-3xl">
+    <!-- Breadcrumb -->
+    <nav class="text-sm text-gray-500 mb-6">
+      <a href={`/${lang}/`} class="hover:text-red-600">Home</a>
+      <span class="mx-2">/</span>
+      <a href={`/${lang}/category/${word.category}`} class="hover:text-red-600">
+        {getCategoryIcon(word.category)} {word.category}
+      </a>
+      <span class="mx-2">/</span>
+      <span class="text-gray-900">{word.chinese}</span>
+    </nav>
+
+    <!-- Word Header -->
+    <header class="mb-8">
+      <div class="flex items-center gap-4 mb-4">
+        <h1 class="text-5xl font-bold text-gray-900">{word.chinese}</h1>
+        <span class="px-3 py-1 bg-red-100 text-red-700 text-sm rounded-full">
+          {getCategoryIcon(word.category)} {word.category}
+        </span>
+      </div>
+      <p class="text-2xl text-red-500">{word.pinyin}</p>
+    </header>
+
+    <!-- Ad Space (Top) -->
+    <div class="my-6 p-6 bg-gray-100 rounded-lg text-center text-gray-400 text-sm">
+      Ad Space
+    </div>
+
+    <!-- Meaning -->
+    <section class="mb-8">
+      <h2 class="text-xl font-bold text-gray-900 mb-3 border-l-4 border-red-500 pl-3">
+        {labels.meaning[lang] || labels.meaning.en}
+      </h2>
+      <p class="text-gray-700 text-lg leading-relaxed">{word.meaning}</p>
+    </section>
+
+    <!-- Etymology -->
+    {word.etymology && (
+      <section class="mb-8">
+        <h2 class="text-xl font-bold text-gray-900 mb-3 border-l-4 border-red-500 pl-3">
+          {labels.etymology[lang] || labels.etymology.en}
+        </h2>
+        <p class="text-gray-700 leading-relaxed">{word.etymology}</p>
+      </section>
+    )}
+
+    <!-- Usage -->
+    {word.usage && (
+      <section class="mb-8">
+        <h2 class="text-xl font-bold text-gray-900 mb-3 border-l-4 border-red-500 pl-3">
+          {labels.usage[lang] || labels.usage.en}
+        </h2>
+        <p class="text-gray-700 leading-relaxed">{word.usage}</p>
+      </section>
+    )}
+
+    <!-- Examples -->
+    {word.examples && word.examples.length > 0 && (
+      <section class="mb-8">
+        <h2 class="text-xl font-bold text-gray-900 mb-3 border-l-4 border-red-500 pl-3">
+          {labels.examples[lang] || labels.examples.en}
+        </h2>
+        <div class="space-y-4">
+          {word.examples.map((example) => (
+            <div class="bg-gray-50 rounded-lg p-4 border-l-2 border-gray-200">
+              <p class="text-lg font-medium text-gray-900">{example.chinese}</p>
+              <p class="text-red-500 text-sm mt-1">{example.pinyin}</p>
+              <p class="text-gray-600 mt-2">{example.translation}</p>
+            </div>
+          ))}
+        </div>
+      </section>
+    )}
+
+    <!-- Related Words -->
+    {word.related && word.related.length > 0 && (
+      <section class="mb-8">
+        <h2 class="text-xl font-bold text-gray-900 mb-3 border-l-4 border-red-500 pl-3">
+          {labels.related[lang] || labels.related.en}
+        </h2>
+        <div class="flex flex-wrap gap-2">
+          {word.related.map((relatedWord) => (
+            <span class="px-3 py-1 bg-gray-100 text-gray-700 rounded-full text-sm">
+              {relatedWord}
+            </span>
+          ))}
+        </div>
+      </section>
+    )}
+
+    <!-- Ad Space (Bottom) -->
+    <div class="my-8 p-8 bg-gray-100 rounded-lg text-center text-gray-400">
+      Ad Space
+    </div>
+
+    <!-- Navigation -->
+    <nav class="flex justify-between items-center pt-8 border-t border-gray-200">
+      <a 
+        href={`/${lang}/`}
+        class="flex items-center gap-2 text-gray-600 hover:text-red-600"
+      >
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
+        </svg>
+        {lang === 'ja' ? 'ホームへ戻る' : lang === 'ko' ? '홈으로 돌아가기' : 'Back to Home'}
+      </a>
+      <a 
+        href={`/${lang}/category/${word.category}`}
+        class="flex items-center gap-2 text-gray-600 hover:text-red-600"
+      >
+        {lang === 'ja' ? 'カテゴリを見る' : lang === 'ko' ? '카테고리 보기' : 'View Category'}
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+        </svg>
+      </a>
+    </nav>
+  </article>
+</Layout>

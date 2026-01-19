@@ -1,0 +1,28 @@
+{
+    "slug": "ting",
+    "chinese": "听岔了",
+    "pinyin": "tīng chà le",
+    "meaning": "잘못 듣다, 착각하다",
+    "description": "차(岔)에는 「틀리다, 빗나가다」 등의 의미가 있음.",
+    "category": "uncategorized",
+    "categoryName": "미분류",
+    "relatedWords": [
+        "youhe",
+        "zundujiadu"
+    ],
+    "sourceUrl": "https://chineself.com/ting/",
+    "examples": [
+        {
+            "chinese": "哟呵,他结婚了也不知道是不是我听岔了",
+            "translation": "어라, 걔 결혼했다고? 내가 잘못 들은 건가"
+        },
+        {
+            "chinese": "尊嘟假嘟,我以为我耳朵听岔了",
+            "translation": "진짜야 가짜야, 나 내 귀가 잘못된 줄 알았어"
+        },
+        {
+            "chinese": "别听岔了,我不是喜欢你",
+            "translation": "착각하지 마(잘못 듣지 마), 나 너 안 좋아해"
+        }
+    ]
+}

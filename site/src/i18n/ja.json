@@ -1,0 +1,51 @@
+{
+  "common": {
+    "search": "検索",
+    "categories": "カテゴリ",
+    "relatedWords": "関連語",
+    "examples": "例文",
+    "home": "ホーム",
+    "browse": "一覧",
+    "viewAll": "すべて見る",
+    "backToHome": "ホームへ戻る",
+    "viewCategory": "カテゴリを見る",
+    "words": "件の単語",
+    "total": "全"
+  },
+  "word": {
+    "meaning": "意味",
+    "pronunciation": "発音",
+    "etymology": "語源",
+    "usage": "使い方",
+    "description": "説明",
+    "related": "関連語"
+  },
+  "search": {
+    "title": "検索",
+    "placeholder": "中国語、ピンイン、意味で検索...",
+    "noResults": "検索結果がありません。別のキーワードを試してください。",
+    "searchTips": "中国語の漢字、ピンイン、または日本語の意味で検索できます",
+    "enterKeywords": "検索キーワードを入力してください"
+  },
+  "browse": {
+    "title": "全単語一覧",
+    "subtitle": "ピンイン順で単語を探す",
+    "totalWords": "件の単語"
+  },
+  "category": {
+    "title": "カテゴリ",
+    "viewAll": "このカテゴリの全単語を見る"
+  },
+  "home": {
+    "title": "中国語辞典 - 現代中国語を学ぶ",
+    "subtitle": "中国語のスラング、ネット用語、現代的な表現を学ぼう",
+    "latestWords": "最新の単語",
+    "featuredWords": "注目の単語"
+  },
+  "footer": {
+    "about": "について",
+    "privacy": "プライバシー",
+    "contact": "お問い合わせ",
+    "copyright": "All rights reserved"
+  }
+}

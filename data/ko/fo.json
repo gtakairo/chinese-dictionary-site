@@ -1,0 +1,25 @@
+{
+  "slug": "fo",
+  "chinese": "佛是金装,人是衣装",
+  "pinyin": "fó shì jīn zhuāng, rén shì yī zhuāng",
+  "meaning": "불상은 금장식 덕, 사람은 옷 덕 (옷이 날개다)",
+  "description": "「불고금장, 인고의장(佛靠金装,人靠衣装)」과 같다. 직역하면 「불상은 금박에 의지하고 사람은 옷에 의지한다」는 뜻으로, 내면적인 것보다 외면적인 것이 중시되기 쉽다는 의미다.",
+  "examples": [
+    {
+      "chinese": "佛是金装,人是衣装,世人眼孔浅的多,只看皮相,不看骨相",
+      "translation": "옷이 날개다. 세상 사람들은 얕은 식견으로 겉모습만 보고 본질은 보지 않는다."
+    },
+    {
+      "chinese": "人靠衣装,佛靠金装,真的服装穿着很重要",
+      "translation": "옷이 날개다, 정말 복장이 중요하다."
+    },
+    {
+      "chinese": "佛靠金装,人靠衣装：三分长相,七分打扮",
+      "translation": "옷이 날개다. 3할은 생김새고 7할은 꾸밈이다."
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "성어/사자숙어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/fo/"
+}

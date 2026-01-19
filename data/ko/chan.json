@@ -1,0 +1,29 @@
+{
+  "slug": "chan",
+  "chinese": "缠缠绵绵",
+  "pinyin": "chán chán mián mián",
+  "meaning": "질질 끌다, 끈질기다, 애정이 깊다",
+  "description": "「전면(缠绵)」은 「(병이나 감정이) 얽겨 붙어 떨어지지 않다, 감정이 애틋하다」는 뜻.",
+  "examples": [
+    {
+      "chinese": "这个感冒缠缠绵绵,啥时候才能好",
+      "translation": "이 감기 정말 질길 끄네, 언제쯤 나으려나."
+    },
+    {
+      "chinese": "别缠缠绵绵粘上来甩都甩不掉",
+      "translation": "떨쳐낼 수 없을 정도로 끈질기게 달라붙지 마."
+    },
+    {
+      "chinese": "我在努力的维持这段缠缠绵绵的爱情",
+      "translation": "나는 이 애틋한 사랑을 유지하려고 노력하고 있다."
+    },
+    {
+      "chinese": "缠缠绵绵了5年,还是要拜拜了",
+      "translation": "5년이나 얽히고설켰는데, 결국 헤어지게 되었네."
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "성어/사자성어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/chan/"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "yao",
+  "chinese": "遥不可及",
+  "pinyin": "yáo bù kě jí",
+  "meaning": "아득하다 / 닿을 수 없다",
+  "description": "목표나 꿈이 너무 멀어 도달하기 어렵다.",
+  "examples": [
+    {
+      "chinese": "你是我的遥不可及的白月光,也是我的死心塌地",
+      "translation": "너는 나의 닿을 수 없는 첫사랑이지만, 나의 변치 않는 사랑이기도 해."
+    },
+    {
+      "chinese": "买房的目标其实并不是那么遥不可及",
+      "translation": "내 집 마련이 사실 그렇게 아득한 목표는 아니다."
+    },
+    {
+      "chinese": "要有遥不可及的梦想,也要有脚踏实地的本事",
+      "translation": "원대한 꿈을 꾸되, 현실적인 능력도 갖춰야 한다."
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "성어 / 사자성어",
+  "relatedWords": [
+    "baiyueguang"
+  ],
+  "sourceUrl": "https://chineself.com/yao/"
+}

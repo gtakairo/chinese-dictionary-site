@@ -1,0 +1,25 @@
+{
+  "slug": "bao",
+  "chinese": "包办婚姻",
+  "pinyin": "bāo bàn hūn yīn",
+  "meaning": "중매결혼, 정략결혼",
+  "description": "부모나 제3자가 주도하여 결정한 결혼. 본인의 의사가 반영되지 않은 강제적인 결혼을 의미하기도 함.",
+  "examples": [
+    {
+      "chinese": "下周估计能到家,希望我的包办婚姻能成功",
+      "translation": "다음 주면 집에 도착할 듯, 내 중매결혼이 성공했으면 좋겠다"
+    },
+    {
+      "chinese": "和包办婚姻的老婆在一起一年了",
+      "translation": "중매로 만난 아내와 산 지 1년 됐다"
+    },
+    {
+      "chinese": "我现在需要一场包办婚姻,自由恋爱已经谈够了",
+      "translation": "이제 중매결혼이 필요해, 자유 연애는 할 만큼 했어"
+    }
+  ],
+  "category": "nannv",
+  "categoryName": "연애/결혼",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/bao/"
+}

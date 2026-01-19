@@ -1,0 +1,15 @@
+{
+  "slug": "yinglunfan",
+  "chinese": "英伦范",
+  "pinyin": "yīng lún fàn",
+  "meaning": "ブリティッシュスタイル、イギリス（ロンドン）風",
+  "description": "英伦风、英伦范儿も同じ。范は「貫禄、風格、佇まい」。欧美范儿は「欧米風」。",
+  "examples": [
+    {"chinese": "这样叠穿变得洋气起来,很有英伦范", "japanese": "このような重ね着はオシャレになり、とてもブリティッシュスタイルだ"},
+    {"chinese": "复古英伦范穿搭,有调调,我个人超喜欢", "japanese": "レトロな英国風コーデ、独特感があって個人的には超好み"}
+  ],
+  "category": "fashion",
+  "categoryName": "ファッション・美容",
+  "relatedWords": ["diechuan", "chuanda", "oumeifaner"],
+  "sourceUrl": "https://chineself.com/yinglunfan/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "yin",
+  "chinese": "银",
+  "pinyin": "yín",
+  "meaning": "Person (Dialect)",
+  "description": "Dialect pronunciation of 'ren' (person), mostly Northeast/Shandong.",
+  "examples": [
+    {
+      "chinese": "我真的是一个好银",
+      "translation": "I'm really a good person."
+    },
+    {
+      "chinese": "你真是好银啊",
+      "translation": "You are such a good person."
+    },
+    {
+      "chinese": "什么样的男银算是好男银？",
+      "translation": "What kind of man counts as a good man?"
+    }
+  ],
+  "category": "fangyan",
+  "categoryName": "Dialect",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/yin/"
+}

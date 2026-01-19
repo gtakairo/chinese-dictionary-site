@@ -1,0 +1,27 @@
+{
+  "slug": "shan",
+  "chinese": "闪崩",
+  "pinyin": "shǎn bēng",
+  "meaning": "ร่วงกราวรูด",
+  "description": "หมายถึงราคาที่ร่วงลงอย่างกะทันหัน มาจากเหตุการณ์ค่าเงินปอนด์ของอังกฤษร่วงกราวรูดเมื่อวันที่ 7 ตุลาคม 2016",
+  "examples": [
+    {
+      "chinese": "深夜闪崩！知名巨头股价大跌",
+      "translation": "ร่วงกราวรูดกลางดึก! หุ้นบริษัทยักษ์ใหญ่ร่วงหนัก"
+    },
+    {
+      "chinese": "重磅!闪崩暴跌50%",
+      "translation": "ข่าวด่วน! ร่วงกราวรูด 50%"
+    },
+    {
+      "chinese": "比特币闪崩,单日暴跌29%",
+      "translation": "บิตคอยน์ร่วงกราวรูด ร่วงลง 29% ในวันเดียว"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "การเงินและการลงทุน",
+  "relatedWords": [
+    "zhongbang"
+  ],
+  "sourceUrl": "https://chineself.com/shan/"
+}

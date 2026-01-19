@@ -1,0 +1,27 @@
+{
+  "slug": "sangxin",
+  "chinese": "桑心",
+  "pinyin": "sāng xīn",
+  "meaning": "Sad / Heartbroken",
+  "description": "Internet slang for 'shang xin' (sad/heartbroken).",
+  "examples": [
+    {
+      "chinese": "真是让人桑心",
+      "translation": "Really makes one sad."
+    },
+    {
+      "chinese": "心里有一点点桑心",
+      "translation": "Feeling a little heartbroken."
+    },
+    {
+      "chinese": "我发现头顶一根白发,好桑心",
+      "translation": "Found a white hair on the top of my head, so sad."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [
+    "wokule"
+  ],
+  "sourceUrl": "https://chineself.com/sangxin/"
+}

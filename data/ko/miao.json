@@ -1,0 +1,25 @@
+{
+  "slug": "miao",
+  "chinese": "妙啊",
+  "pinyin": "miào a",
+  "meaning": "훌륭하다 / 기묘하다 / 쩐다 / 절묘하다",
+  "description": "칭찬할 때 쓰는 인터넷 용어. 「묘재(妙哉)」와 같다.",
+  "examples": [
+    {
+      "chinese": "妙啊,实在是妙啊",
+      "translation": "훌륭해, 정말 훌륭해."
+    },
+    {
+      "chinese": "还有这种操作,妙啊太妙了",
+      "translation": "이런 방법도 있다니, 쩐다 진짜 쩔어."
+    },
+    {
+      "chinese": "你才真是yyds,真妙啊",
+      "translation": "너야말로 진짜 신이다(yyds), 정말 대단해."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/miao/"
+}

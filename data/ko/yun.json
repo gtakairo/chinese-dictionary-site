@@ -1,0 +1,33 @@
+{
+  "slug": "yun",
+  "chinese": "晕菜",
+  "pinyin": "yūn cài",
+  "meaning": "어지럽다 / 기절초풍하다",
+  "description": "정신이 없거나 멍한 상태.",
+  "examples": [
+    {
+      "chinese": "今日累晕菜",
+      "translation": "오늘 피곤해서 기절하겠다"
+    },
+    {
+      "chinese": "大热天,我晕菜了",
+      "translation": "날씨 더워서 어지럽다"
+    },
+    {
+      "chinese": "这个人真的给我笑晕菜了",
+      "translation": "이 사람 때문에 웃겨서 기절하겠다"
+    },
+    {
+      "chinese": "感冒…浑浑噩噩睡了一天,晕菜",
+      "translation": "감기... 하루 종일 몽롱하게 잤더니 어지럽다"
+    },
+    {
+      "chinese": "为啥还要想方案啊,真的晕菜",
+      "translation": "왜 아직도 기획안 생각해야 해? 진짜 머리 아프다"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 은어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/yun/"
+}

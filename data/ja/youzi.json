@@ -1,0 +1,16 @@
+{
+  "slug": "youzi",
+  "chinese": "柚子",
+  "pinyin": "yòu zi",
+  "meaning": "EOS（オペレーティングシステム）",
+  "description": "普通は果物のザボンだが、EOS（オペレーティングシステム）の意味で使われることがある。",
+  "examples": [
+    {"chinese": "他在研究柚子生态", "japanese": "彼はEOS（柚子）のエコシステムを研究している"},
+    {"chinese": "柚子钱包怎么用", "japanese": "EOSウォレットの使い方は？"},
+    {"chinese": "柚子价格波动很大", "japanese": "EOSの価格変動は大きい"}
+  ],
+  "category": "jinrong",
+  "categoryName": "金融・投資",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/youzi/"
+}

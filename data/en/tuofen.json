@@ -1,0 +1,20 @@
+{
+    "slug": "tuofen",
+    "chinese": "脱粉",
+    "pinyin": "tuō fěn",
+    "meaning": "Stop being a fan",
+    "description": "Leaving a fandom due to scandal or difference in values.",
+    "category": "net",
+    "categoryName": "Fan Culture",
+    "relatedWords": [
+        "tafang",
+        "poquan"
+    ],
+    "sourceUrl": "https://chineself.com/tuofen/",
+    "examples": [
+        {
+            "chinese": "事件后很多人脱粉",
+            "translation": "Many people stopped being fans after the incident"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "chigu",
+  "chinese": "吃谷",
+  "pinyin": "chī gǔ",
+  "meaning": "(캐릭터 상품/굿즈)를 사다",
+  "description": "굿즈판(캐릭터 굿즈 업계) 용어. 구즈(Guzi)는 goods(굿즈)의 음역. 챠구(Qia gu)와 같은 의미.",
+  "examples": [
+    {
+      "chinese": "从今天开始吃谷只买特别喜欢的",
+      "translation": "오늘부터 굿즈 구매는 특히 마음에 드는 것만 살 거야"
+    },
+    {
+      "chinese": "昨天吃谷好像花了一千多块有点罪恶",
+      "translation": "어제 굿즈 사느라 1000위안 넘게 썼더니 좀 죄책감 드네"
+    },
+    {
+      "chinese": "特么的,不是必需品,但是不能不吃谷啊",
+      "translation": "젠장, 필수품은 아니지만 굿즈질을 안 할 수는 없잖아"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어/속어",
+  "relatedWords": [
+    "guzi"
+  ],
+  "sourceUrl": "https://chineself.com/chigu/"
+}

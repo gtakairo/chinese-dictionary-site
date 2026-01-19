@@ -1,0 +1,27 @@
+{
+  "slug": "sb",
+  "chinese": "sb",
+  "pinyin": "shǎ bī",
+  "meaning": "ควาย, โง่, ปัญญาอ่อน",
+  "description": "ตัวย่อของ 傻屄 (Sha Bi) มีคำพ้องเสียงและตัวย่ออื่นๆ เช่น 傻B, 傻x, 傻鸟 ฯลฯ",
+  "examples": [
+    {
+      "chinese": "我是傻B",
+      "translation": "ฉันมันควายเอง"
+    },
+    {
+      "chinese": "真的是sb",
+      "translation": "งี่เง่าจริงๆ"
+    },
+    {
+      "chinese": "就是远离sb",
+      "translation": "อยู่ให้ห่างจากพวกปัญญาอ่อนไว้แหละดี"
+    }
+  ],
+  "category": "ma",
+  "categoryName": "คำด่า/คำยั่วยุ",
+  "relatedWords": [
+    "shabi"
+  ],
+  "sourceUrl": "https://chineself.com/sb/"
+}

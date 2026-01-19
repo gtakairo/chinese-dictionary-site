@@ -1,0 +1,28 @@
+{
+    "slug": "shuju",
+    "chinese": "书卷气",
+    "pinyin": "shū juàn qì",
+    "meaning": "มาดหนอนหนังสือ, ลุคเด็กเรียน",
+    "description": "บุคลิกของผู้ที่รักการอ่านหรือปัญญาชน",
+    "category": "uncategorized",
+    "categoryName": "ไม่หมวดหมู่",
+    "relatedWords": [
+        "shuxiangwei",
+        "jio"
+    ],
+    "sourceUrl": "https://chineself.com/shuju/",
+    "examples": [
+        {
+            "chinese": "戴黑框眼镜就变成了有书卷气",
+            "translation": "ใส่แว่นกรอบดำแล้วดูเป็นเด็กเรียนเลย"
+        },
+        {
+            "chinese": "真的很喜欢这种有书卷气的美女",
+            "translation": "ชอบคนสวยที่มีลุคเด็กเรียนแบบนี้จัง"
+        },
+        {
+            "chinese": "学校宿舍没有书卷气,只有一股臭jio丫子味",
+            "translation": "หอพักโรงเรียนไม่มีกลิ่นอายความรู้ มีแต่กลิ่นตีน"
+        }
+    ]
+}

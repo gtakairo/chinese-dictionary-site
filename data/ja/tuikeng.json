@@ -1,0 +1,12 @@
+{
+  "slug": "tuikeng",
+  "chinese": "退坑",
+  "pinyin": "tuì kēng",
+  "meaning": "沼から抜ける（やめる）",
+  "description": "趣味や作品から離れる・やめること。",
+  "examples": [{"chinese": "这个游戏我退坑了", "japanese": "このゲームはもうやめた（沼から抜けた）"}],
+  "category": "net",
+  "categoryName": "ネットスラング",
+  "relatedWords": ["rukeng"],
+  "sourceUrl": "https://chineself.com/tuikeng/"
+}

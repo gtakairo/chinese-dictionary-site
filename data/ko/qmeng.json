@@ -1,0 +1,24 @@
+{
+  "slug": "qmeng",
+  "chinese": "Q萌",
+  "pinyin": "Q méng",
+  "meaning": "귀엽고 앙증맞음",
+  "description": "Q는 cute의 약어. 'hao Q', 'tai Q le', 'hen Q', 'you A you Q' 등으로 사용됩니다. Q반(Q版)은 데포르메 캐릭터(SD)를 의미합니다.",
+  "examples": [
+    {
+      "chinese": "尊嘟Q萌哦",
+      "translation": "정말 귀엽고 앙증맞네"
+    },
+    {
+      "chinese": "怎么这么很Q萌啊",
+      "translation": "왜 이렇게 귀엽고 앙증맞은 거야"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 신조어/속어",
+  "relatedWords": [
+    "qban",
+    "qdan"
+  ],
+  "sourceUrl": "https://chineself.com/qmeng/"
+}

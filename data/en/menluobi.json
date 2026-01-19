@@ -1,0 +1,25 @@
+{
+  "slug": "menluobi",
+  "chinese": "门罗币",
+  "pinyin": "mén luó bì",
+  "meaning": "Monero",
+  "description": "A cryptocurrency that focuses on privacy. It offers high anonymity for transactions.",
+  "examples": [
+    {
+      "chinese": "门罗币强调隐私保护",
+      "translation": "Monero emphasizes privacy protection."
+    },
+    {
+      "chinese": "使用门罗币进行支付",
+      "translation": "Use Monero for payments."
+    },
+    {
+      "chinese": "研究门罗币的匿名技术",
+      "translation": "Research Monero's anonymity technology."
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "Finance & Investment",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/menluobi/"
+}

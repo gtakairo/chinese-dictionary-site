@@ -1,0 +1,16 @@
+{
+  "slug": "dian",
+  "chinese": "电磁开关",
+  "pinyin": "diàn cí kāi guān",
+  "meaning": "ソレノイドスイッチ",
+  "description": "電磁力で作動するスイッチ（ソレノイドスイッチ）。",
+  "examples": [
+    {"chinese": "检查电磁开关的连接", "japanese": "ソレノイドスイッチの配線を確認する"},
+    {"chinese": "更换故障的电磁开关", "japanese": "故障したソレノイドスイッチを交換する"},
+    {"chinese": "测试电磁开关的通断", "japanese": "ソレノイドスイッチの導通をテストする"}
+  ],
+  "category": "car",
+  "categoryName": "自動車",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/dian/"
+}

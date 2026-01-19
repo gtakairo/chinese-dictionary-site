@@ -1,0 +1,25 @@
+{
+  "slug": "mei",
+  "chinese": "美本",
+  "pinyin": "měi běn",
+  "meaning": "米国四年生大学",
+  "description": "美国读本科の略語。アメリカの四年制大学のこと。",
+  "examples": [
+    {
+      "chinese": "我很想读美高,因为我想上美本",
+      "translation": "私はアメリカの高校に進学したい、なぜならアメリカ四大に行きたいから"
+    },
+    {
+      "chinese": "美本的话,选美研还是英硕?差距有多大",
+      "translation": "米国本科生なら米国ドクターか英国マスターか？どれくらいの差がある？"
+    },
+    {
+      "chinese": "怎么花几百万让学渣买上美本（甚至爬藤）",
+      "translation": "どうして何百万も使って落ちこぼれが米国四大（ましてはアイビリーグ）へ進学するのか"
+    }
+  ],
+  "category": "jiaoyu",
+  "categoryName": "教育・学校",
+  "relatedWords": ["pateng"],
+  "sourceUrl": "https://chineself.com/mei/"
+}

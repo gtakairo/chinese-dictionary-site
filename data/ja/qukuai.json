@@ -1,0 +1,16 @@
+{
+  "slug": "qukuai",
+  "chinese": "区块链",
+  "pinyin": "qū kuài liàn",
+  "meaning": "ブロックチェーン",
+  "description": "分散型台帳技術。取引履歴を改ざん困難な形で記録する基盤技術。",
+  "examples": [
+    {"chinese": "区块链提升了数据的透明度", "japanese": "ブロックチェーンはデータの透明性を高めた"},
+    {"chinese": "很多项目基于区块链开发", "japanese": "多くのプロジェクトがブロックチェーン上で開発されている"},
+    {"chinese": "学习区块链的基本原理", "japanese": "ブロックチェーンの基本原理を学ぶ"}
+  ],
+  "category": "technology",
+  "categoryName": "テクノロジー",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/qukuai/"
+}

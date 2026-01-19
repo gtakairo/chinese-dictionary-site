@@ -1,0 +1,25 @@
+{
+  "slug": "bing",
+  "chinese": "并不鲜见",
+  "pinyin": "bìng bù xiǎn jiàn",
+  "meaning": "매우 흔한, 전혀 드물지 않은",
+  "description": "「셴젠(鲜见)」은 「극히 드물게 봄」을 의미합니다.",
+  "examples": [
+    {
+      "chinese": "发生狗咬人的事件在日常生活中并不鲜见",
+      "translation": "개가 사람을 무는 사건은 일상생활에서 흔히 볼 수 있다."
+    },
+    {
+      "chinese": "类似的事件在现实中并不鲜见",
+      "translation": "유사한 사건은 현실에서 흔히 볼 수 있다."
+    },
+    {
+      "chinese": "闲置的校舍,撂荒的土地,在乡村并不鲜见",
+      "translation": "방치된 교사와 황폐해진 땅은 시골에서 드물지 않게 볼 수 있다."
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "미분류",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/bing/"
+}

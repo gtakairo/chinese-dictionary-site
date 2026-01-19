@@ -1,0 +1,36 @@
+{
+    "slug": "si",
+    "chinese": "亖",
+    "pinyin": "sì",
+    "meaning": "① 숫자 4 ② 죽다 ((死)",
+    "description": "고대의 숫자 「4」 표기법. 인터넷 용어로는 「~해 죽겠다」는 강조의 의미로 쓰임.",
+    "category": "net",
+    "categoryName": "인터넷 용어",
+    "relatedWords": [
+        "housile",
+        "kecp"
+    ],
+    "sourceUrl": "https://chineself.com/si/",
+    "examples": [
+        {
+            "chinese": "你别把我吓亖",
+            "translation": "나 놀라 죽게 하지 마"
+        },
+        {
+            "chinese": "齁死了,嗑亖我了",
+            "translation": "달달해 죽겠네, 덕질하느라 죽겠다"
+        },
+        {
+            "chinese": "累亖了这几天",
+            "translation": "요 며칠 피곤해 죽겠다"
+        },
+        {
+            "chinese": "真的会被你俩笑亖",
+            "translation": "너네 둘 때문에 웃겨 죽겠어"
+        },
+        {
+            "chinese": "有点美的想亖了",
+            "translation": "너무 예뻐서 죽고 싶을 정도다"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "gu",
+  "chinese": "挂壁",
+  "pinyin": "guà bì",
+  "meaning": "1. 벽걸이 2. 방치된 3. 백수 / 잉여",
+  "description": "수입이 불안정한 사람들이 빌리는 방을 괘벽방(掛壁房, 쪽방), 그런 사람들의 식사를 괘벽반(掛壁飯, 싼 밥)이라 부른다. 속어로 일하지 않거나 자포자기한 사람을 뜻한다.",
+  "examples": [
+    {
+      "chinese": "挂壁式空调和立柜式空调都怎么洗",
+      "translation": "벽걸이 에어컨이랑 스탠드 에어컨은 각각 어떻게 씻나요?"
+    },
+    {
+      "chinese": "那把琴我很久没有弹了,已经被挂壁了",
+      "translation": "그 거문고는 오랫동안 안 켜서, 이미 벽에 걸려있다(방치되었다)."
+    },
+    {
+      "chinese": "我是长期不上班的挂壁仔,天天窝在家里打游戏啃老",
+      "translation": "나는 오랫동안 출근 안 한 백수라, 매일 집구석에서 게임하고 부모님 등골 빼먹는다."
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "미분류",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/gu/"
+}

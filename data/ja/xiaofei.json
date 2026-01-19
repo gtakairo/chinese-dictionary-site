@@ -1,0 +1,25 @@
+{
+  "slug": "xiaofei",
+  "chinese": "消费降级",
+  "pinyin": "xiāo fèi jiàng jí",
+  "meaning": "消費ダウングレード",
+  "description": "生活のレベルを下げる消費行動のこと。消费升级「消費のアップグレード」の対義語。平替「（ブランド商品や純正品の）安価な互換品・代替品、廉価版」を購入する、不买立省「買わないことこそ節約だ」、只买对的,不买贵的「高価な物でなく本当に必要とするものを買う」などが顕著な例となる。",
+  "examples": [
+    {
+      "chinese": "消费降级大家第一个舍弃掉的是啥",
+      "translation": "消費のダウングレードでみんなが一番に捨て去るものは何ですか"
+    },
+    {
+      "chinese": "消费降级,我还在用五年前的老款iPhone",
+      "translation": "消費ダウングレード、私はまだ5年前の旧式iPhoneを使っている"
+    },
+    {
+      "chinese": "city walk这个词能流行起来就很说明消费降级了",
+      "translation": "シティウォークこの単語が流行しているのは、消費ダウングレードが起きていることが説明できる"
+    }
+  ],
+  "category": "jingji",
+  "categoryName": "経済・ビジネス",
+  "relatedWords": ["pingti", "bumailisheng", "zhimaiduidebumaiguide", "citywalk"],
+  "sourceUrl": "https://chineself.com/xiaofei/"
+}

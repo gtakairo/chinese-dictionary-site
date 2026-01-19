@@ -1,0 +1,25 @@
+{
+  "slug": "yinhang",
+  "chinese": "银行不良资产",
+  "pinyin": "yín háng bù liáng zī chǎn",
+  "meaning": "부실채권",
+  "description": "은행이 보유한 회수 곤란한 대출 자산.",
+  "examples": [
+    {
+      "chinese": "银行不良资产率上升",
+      "translation": "은행의 부실채권 비율이 상승하고 있다"
+    },
+    {
+      "chinese": "处置不良资产需要时间",
+      "translation": "부실채권 처리는 시간이 걸린다"
+    },
+    {
+      "chinese": "监管要求披露不良资产情况",
+      "translation": "감독 당국은 부실채권 현황 공개를 요구하고 있다"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "금융/투자",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/yinhang/"
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "shabi",
+  "chinese": "煞笔",
+  "pinyin": "shā bǐ",
+  "meaning": "ควาย, โง่, ปัญญาอ่อน",
+  "description": "ความหมายเดิมคือ 1. เขียนจบ, วางพู่กัน 2. บทสรุปของบทความ แต่ในอินเทอร์เน็ตใช้เป็นคำพ้องเสียงของ 傻逼 (Sha Bi) ที่แปลว่าโง่เง่า เป็นคำด่า",
+  "examples": [
+    {
+      "chinese": "看看这个煞笔视频",
+      "translation": "ดูคลิปปัญญาอ่อนนี่สิ"
+    },
+    {
+      "chinese": "我真是个大煞笔呀",
+      "translation": "ฉันมันโคตรควายเลยจริงๆ"
+    },
+    {
+      "chinese": "你怎么那么煞笔呢",
+      "translation": "ทำไมแกถึงได้โง่ขนาดนี้นะ"
+    }
+  ],
+  "category": "ma",
+  "categoryName": "คำด่า/คำยั่วยุ",
+  "relatedWords": [
+    "sb",
+    "gunyuandian"
+  ],
+  "sourceUrl": "https://chineself.com/shabi/"
+}

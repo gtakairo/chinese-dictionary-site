@@ -1,0 +1,25 @@
+{
+  "slug": "zhui",
+  "chinese": "坠吊",
+  "pinyin": "zhuì diào",
+  "meaning": "สุดยอด / เจ๋งที่สุด / เดอะเบสต์",
+  "description": "เจ๋งที่สุด (เพี้ยนเสียงมาจาก จุ้ยเตี่ยว)",
+  "examples": [
+    {
+      "chinese": "还是父母爱情是坠吊的",
+      "translation": "ความรักของพ่อแม่คือที่สุดแล้ว"
+    },
+    {
+      "chinese": "天气预报就是坠吊的,下午真下雨了",
+      "translation": "พยากรณ์อากาศแม่นเวอร์ บ่ายฝนตกจริงด้วย"
+    },
+    {
+      "chinese": "我帮助了所有人,我就是坠吊的",
+      "translation": "ฉันช่วยทุกคน ฉันนี่มันเจ๋งจริงๆ"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์สแลงเน็ต",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/zhui/"
+}

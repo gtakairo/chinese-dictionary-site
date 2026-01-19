@@ -1,0 +1,12 @@
+{
+  "slug": "neiyu",
+  "chinese": "内娱",
+  "pinyin": "nèi yú",
+  "meaning": "国内エンタメ界隈（中国内の芸能）",
+  "description": "中国国内の芸能・アイドル・ドラマなどのエンタメ界隈。",
+  "examples": [{"chinese": "最近内娱很热闹", "japanese": "最近、国内エンタメ界隈が賑わっている"}],
+  "category": "net",
+  "categoryName": "推し文化・界隈",
+  "relatedWords": ["fanquan", "poquan"],
+  "sourceUrl": "https://chineself.com/neiyu/"
+}

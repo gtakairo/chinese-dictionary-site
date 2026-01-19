@@ -1,0 +1,19 @@
+{
+    "slug": "tafang",
+    "chinese": "塌房",
+    "pinyin": "tā fáng",
+    "meaning": "집이 무너지다 (덕질 대상의 추락)",
+    "description": "아이돌이나 최애의 불상사로 신뢰가 무너지는 것.",
+    "category": "net",
+    "categoryName": "인터넷 슬랭",
+    "relatedWords": [
+        "poquan"
+    ],
+    "sourceUrl": "https://chineself.com/tafang/",
+    "examples": [
+        {
+            "chinese": "他又塌房了",
+            "translation": "걔 또 사고 쳤어 (집 무너졌어)"
+        }
+    ]
+}

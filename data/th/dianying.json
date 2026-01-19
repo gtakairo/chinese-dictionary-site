@@ -1,0 +1,25 @@
+{
+  "slug": "dianying",
+  "chinese": "点映",
+  "pinyin": "diǎn yìng",
+  "meaning": "การฉายรอบพิเศษ, การฉายรอบสื่อ, รอบพรีวิว",
+  "description": "การฉายรอบพิเศษ/รอบสื่อก่อนเข้าฉายจริง ใช้โปรโมตหรือทดสอบกระแส",
+  "examples": [
+    {
+      "chinese": "1日超前点映,5日全国公映",
+      "translation": "ฉายรอบพิเศษวันที่ 1, ฉายทั่วไปวันที่ 5"
+    },
+    {
+      "chinese": "电影点映会和正片不一样吗",
+      "translation": "หนังในรอบพรีวิวต่างจากหนังตัวเต็มไหม"
+    },
+    {
+      "chinese": "一般每一部影片在正式上映的时候都会先进行点映",
+      "translation": "โดยปกติภาพยนตร์ทุกเรื่องจะมีการฉายรอบพิเศษก่อนเข้าฉายจริง"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "ไม่ได้จัดประเภท",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/dianying/"
+}

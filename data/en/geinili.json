@@ -1,0 +1,28 @@
+{
+  "slug": "geinili",
+  "chinese": "给你脸了",
+  "pinyin": "gěi nǐ liǎn le",
+  "meaning": "Don't push your luck / Ungrateful",
+  "description": "Usually implies 「I was nice to you (gave you face) but you are taking advantage/being ungrateful」. Warning someone not to be arrogant.",
+  "examples": [
+    {
+      "chinese": "沙币好似,给你脸了",
+      "translation": "Idiot serves you right, don't push your luck."
+    },
+    {
+      "chinese": "真他妈给你脸了,你算什么东西",
+      "translation": "Really giving you face, who do you think you are."
+    },
+    {
+      "chinese": "已读不回,我真是给你脸了",
+      "translation": "Read and ignored? I really gave you too much face (Don't push it)."
+    }
+  ],
+  "category": "ma",
+  "categoryName": "Provocation / Insult",
+  "relatedWords": [
+    "shabi-3",
+    "yidubuhui"
+  ],
+  "sourceUrl": "https://chineself.com/geinili/"
+}

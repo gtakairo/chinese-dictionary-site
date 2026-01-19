@@ -1,0 +1,25 @@
+{
+  "slug": "name",
+  "chinese": "那么问题来了",
+  "pinyin": "nà me wèn tí lái le",
+  "meaning": "それは実に困った問題だ、どうしても避けられない問題である",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "6亿人每月人均收入1000元,那么问题来了",
+      "japanese": "6億人が毎月収入が1000元、それは実に困った問題だ"
+    },
+    {
+      "chinese": "我想请问呢,未来该何去何从呢,那么问题来了",
+      "japanese": "私はお伺いしたい、これからどう対処するべきか、どうしても避けられない問題である"
+    },
+    {
+      "chinese": "企业采购成本越来越高,那么问题来了",
+      "japanese": "企業の仕入れコストがだんだん高くなっている、それは実に困った問題である"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語・スラング",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/name/"
+}

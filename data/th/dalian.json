@@ -1,0 +1,20 @@
+{
+  "slug": "dalian",
+  "chinese": "打脸",
+  "pinyin": "dǎ liǎn",
+  "meaning": "หน้าแตก, กลืนน้ำลายตัวเอง (บูมเมอแรง)",
+  "description": "สถานการณ์ที่น่าอับอายซึ่งขัดแย้งกับคำพูดก่อนหน้านี้ของตัวเองแล้วย้อนกลับมาทำร้ายตัวเอง",
+  "examples": [
+    {
+      "chinese": "他说不看结果却打脸了",
+      "translation": "เขาบอกว่าจะไม่ดู แต่สุดท้ายก็ดู หน้าแตกเลย"
+    }
+  ],
+  "category": "net",
+  "categoryName": "การโต้เถียง/การเสียดสี",
+  "relatedWords": [
+    "zhenxiang",
+    "yinyangguaiqi"
+  ],
+  "sourceUrl": "https://chineself.com/dalian/"
+}

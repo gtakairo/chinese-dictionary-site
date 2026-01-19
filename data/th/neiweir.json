@@ -1,0 +1,19 @@
+{
+  "slug": "neiweir",
+  "chinese": "内味儿",
+  "pinyin": "nèi wèi r",
+  "meaning": "กลิ่นอายแบบนั้น; ความรู้สึกแบบนั้น (รสชาติที่คุ้นเคย)",
+  "description": "รู้สึกถึง 'รสชาติ' หรือ 'บรรยากาศ' แบบเก่าๆ ที่คุ้นเคย",
+  "examples": [
+    {
+      "chinese": "这家店有内味儿",
+      "translation": "ร้านนี้มีกลิ่นอายแบบนั้นเลย"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ความรู้สึก/บรรยากาศ",
+  "relatedWords": [
+    "yeqinghui"
+  ],
+  "sourceUrl": "https://chineself.com/neiweir/"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "neijuan",
+  "chinese": "内卷",
+  "pinyin": "nèi juǎn",
+  "meaning": "내권(involution); 지나친 경쟁; 제 살 깎아먹기 경쟁",
+  "description": "과도한 경쟁 사회, 가혹한 경쟁에 휘말리는 상황을 상징하며, 거기서 생기는 폐해를 표현한 단어. 원래는 인류학 용어였으나, 현재는 입시나 취업 등 사회 전반의 과열된 경쟁을 의미함. '내부로 말려들어간다'는 뜻.",
+  "examples": [
+    {
+      "chinese": "极端内卷时代,我们必须不停奔跑",
+      "translation": "극심한 내권 시대, 우리는 멈추지 않고 달려야 한다."
+    },
+    {
+      "chinese": "快递行业价格战加速内卷",
+      "translation": "택배 업계의 가격 전쟁이 내권을 가속화하고 있다."
+    },
+    {
+      "chinese": "房地产消费疲软,内卷激烈",
+      "translation": "부동산 소비가 부진하고, 내권이 치열하다."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 유행어",
+  "relatedWords": [
+    "tangping",
+    "taijuanle",
+    "waijuan",
+    "zengzhangdian",
+    "poquan"
+  ],
+  "sourceUrl": "https://chineself.com/neijuan/"
+}

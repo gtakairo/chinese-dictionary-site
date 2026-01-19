@@ -1,0 +1,28 @@
+{
+  "slug": "jiucai",
+  "chinese": "韭菜",
+  "pinyin": "jiǔ cài",
+  "meaning": "(In investing) Sucker, Dupe; (In capitalism) Those who are exploited",
+  "description": "\"Cutting leeks\" (割韭菜) means \"1. (In investing) To take advantage of suckers; 2. To exploit via clever scams\". Leeks are hardy plants that grow even in poor soil and regrow quickly after being cut. Therefore, in the investment world, new inexperienced investors who keep entering the market are compared to \"leeks\" waiting to be harvested.",
+  "examples": [
+    {
+      "chinese": "市场上骗子太多,韭菜们不够了",
+      "translation": "There are too many scammers in the market, not enough suckers"
+    },
+    {
+      "chinese": "牛市来了,韭菜们看见一根大阳线就兴奋得不行",
+      "translation": "The bull market is here, the suckers get incredibly excited seeing a big green candle (positive trend)"
+    },
+    {
+      "chinese": "股东是尼玛的冤大头,求求韭菜们早点醒悟吧",
+      "translation": "Shareholders are damn easy targets, please wake up soon, you suckers"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "Finance & Investment",
+  "relatedWords": [
+    "gejiucai",
+    "nima"
+  ],
+  "sourceUrl": "https://chineself.com/jiucaimen/"
+}

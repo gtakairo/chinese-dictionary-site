@@ -1,0 +1,25 @@
+{
+    "slug": "tang",
+    "chinese": "糖醋肉",
+    "pinyin": "táng cù ròu",
+    "meaning": "Sweet and Sour Pork (Korean style)",
+    "description": "Sweet and Sour Pork in Japanese Chinese restaurants or Korean style, typically meat only without vegetables like peppers.",
+    "category": "liaoli",
+    "categoryName": "Cuisine",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/tang/",
+    "examples": [
+        {
+            "chinese": "点一份糖醋肉配米饭",
+            "translation": "Order sweet and sour pork with rice"
+        },
+        {
+            "chinese": "这道糖醋肉偏甜",
+            "translation": "This sweet and sour pork is on the sweet side"
+        },
+        {
+            "chinese": "糖醋肉没有青椒",
+            "translation": "There are no green peppers in this sweet and sour pork"
+        }
+    ]
+}

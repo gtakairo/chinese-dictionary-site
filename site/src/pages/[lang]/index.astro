@@ -1,0 +1,90 @@
+---
+export const prerender = true;
+
+import Layout from '../../layouts/Layout.astro';
+import WordCard from '../../components/WordCard.astro';
+import { getAllWords, getCategoryIcon } from '../../lib/data';
+import { getAvailableLanguages } from '../../lib/data';
+
+export function getStaticPaths() {
+  return getAvailableLanguages().map(lang => ({
+    params: { lang },
+  }));
+}
+
+const { lang } = Astro.params;
+const words = getAllWords(lang);
+
+// Group words by category
+const wordsByCategory = words.reduce((acc, word) => {
+  if (!acc[word.category]) {
+    acc[word.category] = [];
+  }
+  acc[word.category].push(word);
+  return acc;
+}, {} as Record<string, typeof words>);
+
+const titles: Record<string, string> = {
+  en: 'Chinese Dictionary - Learn Modern Chinese',
+  ko: '중국어 사전 - 현대 중국어 배우기',
+  ja: '中国語辞典 - 現代中国語を学ぶ',
+};
+
+const subtitles: Record<string, string> = {
+  en: 'Discover Chinese slang, internet terms, and modern expressions',
+  ko: '중국어 속어, 인터넷 용어, 현대 표현을 알아보세요',
+  ja: '中国語のスラング、ネット用語、現代的な表現を学ぼう',
+};
+---
+
+<Layout title={titles[lang] || titles.en} lang={lang}>
+  <!-- Hero Section -->
+  <div class="text-center mb-12">
+    <h1 class="text-4xl font-bold text-gray-900 mb-4">
+      🀄 {titles[lang] || titles.en}
+    </h1>
+    <p class="text-lg text-gray-600 max-w-2xl mx-auto">
+      {subtitles[lang] || subtitles.en}
+    </p>
+  </div>
+
+  <!-- Featured Words -->
+  <section class="mb-12">
+    <h2 class="text-2xl font-bold text-gray-900 mb-6">
+      {lang === 'ja' ? '最新の単語' : lang === 'ko' ? '최신 단어' : 'Latest Words'}
+    </h2>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+      {words.slice(0, 6).map(word => (
+        <WordCard word={word} lang={lang} />
+      ))}
+    </div>
+  </section>
+
+  <!-- Words by Category -->
+  {Object.entries(wordsByCategory).map(([category, categoryWords]) => (
+    <section class="mb-12">
+      <div class="flex items-center justify-between mb-6">
+        <h2 class="text-xl font-bold text-gray-900 flex items-center gap-2">
+          <span>{getCategoryIcon(category)}</span>
+          {category}
+        </h2>
+        <a 
+          href={`/${lang}/category/${category}`}
+          class="text-red-600 hover:text-red-700 text-sm font-medium"
+        >
+          {lang === 'ja' ? 'すべて見る →' : lang === 'ko' ? '모두 보기 →' : 'View all →'}
+        </a>
+      </div>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {categoryWords.slice(0, 4).map(word => (
+          <WordCard word={word} lang={lang} />
+        ))}
+      </div>
+    </section>
+  ))}
+
+  <!-- Ad Space (In-content) -->
+  <div class="my-8 p-8 bg-gray-100 rounded-lg text-center text-gray-400">
+    Ad Space
+  </div>
+</Layout>

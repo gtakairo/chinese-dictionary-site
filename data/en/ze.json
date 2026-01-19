@@ -1,0 +1,29 @@
+{
+  "slug": "ze",
+  "chinese": "贼",
+  "pinyin": "zéi",
+  "meaning": "Very / Super / Hella",
+  "description": "Dialect word used as an intensifier.",
+  "examples": [
+    {
+      "chinese": "今天孩子们睡得贼香",
+      "translation": "Kids slept hella soundly today"
+    },
+    {
+      "chinese": "这件拉链卫衣贼好穿",
+      "translation": "This zip hoodie is super comfortable"
+    },
+    {
+      "chinese": "熊孩子一进厕所开始疯狂放炮,声贼大",
+      "translation": "Brat went into toilet and set off firecrackers, sound was hella loud"
+    },
+    {
+      "chinese": "心态已经好成贼贼歪了",
+      "translation": "Mindset has become super twisted"
+    }
+  ],
+  "category": "fangyan",
+  "categoryName": "Dialect",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/ze/"
+}

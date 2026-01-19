@@ -1,0 +1,25 @@
+{
+  "slug": "ba",
+  "chinese": "叭叭叭叭",
+  "pinyin": "bā bā bā bā",
+  "meaning": "ぐだぐだと言う、口うるさく言う",
+  "description": "擬音語としてしても使われるが、ネット用語として「叭了个叭叭叭叭叭叭」などと表し、いちいち口うるさく言うことを指す。叭の数は特に縛りなく使用する。",
+  "examples": [
+    {
+      "chinese": "这嘴叭叭叭叭叭个不停",
+      "japanese": "この口はぐだぐだと話したら止まらない"
+    },
+    {
+      "chinese": "别叭叭那么多",
+      "japanese": "口うるさくそんなに言わないで"
+    },
+    {
+      "chinese": "喝醉了的人都会叭叭叭叭的",
+      "japanese": "酔っ払った人はみんな口うるさくなる"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語・スラング",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/ba/"
+}

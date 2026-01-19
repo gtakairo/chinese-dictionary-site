@@ -1,0 +1,28 @@
+{
+  "slug": "he",
+  "chinese": "赫本风",
+  "pinyin": "hè běn fēng",
+  "meaning": "헵번 스타일",
+  "description": "영화 「로마의 휴일」로 유명한 배우 오드리 헵번의 스타일을 뜻한다. 우아하고 단정하며 고급스러운 패션을 지칭한다.",
+  "examples": [
+    {
+      "chinese": "优雅端庄的赫本风小白裙",
+      "translation": "우아하고 단정안 헵번 스타일의 흰 원피스."
+    },
+    {
+      "chinese": "赫本风的婚纱,低调又优雅",
+      "translation": "헵번 스타일 웨딩드레스, 화려하지 않으면서도 우아하다."
+    },
+    {
+      "chinese": "没事去逛街买了赫本风的连衣裙",
+      "translation": "심심해서 쇼핑 갔다가 헵번 스타일 원피스를 샀다."
+    }
+  ],
+  "category": "fashion",
+  "categoryName": "패션/뷰티",
+  "relatedWords": [
+    "chuanda",
+    "didiao"
+  ],
+  "sourceUrl": "https://chineself.com/he/"
+}

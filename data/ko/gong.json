@@ -1,0 +1,25 @@
+{
+  "slug": "gong",
+  "chinese": "功败垂成",
+  "pinyin": "gōng bài chuí chéng",
+  "meaning": "공패수성(功敗垂成) / 다 된 밥에 재 뿌리기",
+  "description": "일을 거의 다 이루었으나, 마지막 단계에서 실패하는 것을 비유한다.",
+  "examples": [
+    {
+      "chinese": "这次最终导致功败垂成",
+      "translation": "이번엔 결국 막판에 실패로 돌아갔다."
+    },
+    {
+      "chinese": "绝杀时刻的失误,恐怕导致功败垂成",
+      "translation": "결정적인 순간의 실수가 공패수성으로 이어질까 두렵다."
+    },
+    {
+      "chinese": "朋友和我说了恋爱已经快要进入婚姻,最后却功败垂成的事情",
+      "translation": "친구가 연애에서 결혼까지 갈 뻔하다가 막판에 깨진 이야기를 해줬다."
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "성어/사자숙어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/gong/"
+}

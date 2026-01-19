@@ -1,0 +1,25 @@
+{
+  "slug": "lai",
+  "chinese": "癞蛤蟆想吃天鹅肉",
+  "pinyin": "lài há má xiǎng chī tiān é ròu",
+  "meaning": "두꺼비가 백조 고기를 먹고 싶어 하다 (언감생심)",
+  "description": "직역하면 \"두꺼비가 백조 고기를 먹고 싶어 한다\"입니다. 실현 불가능하거나 분수에 맞지 않는 꿈을 꾸는 것을 비유합니다.",
+  "examples": [
+    {
+      "chinese": "你这癞蛤蟆想吃天鹅肉啊",
+      "translation": "너 언감생심 꿈을 꾸고 있구나"
+    },
+    {
+      "chinese": "穷逼男,不要癞蛤蟆想吃天鹅肉了",
+      "translation": "가난한 녀석, 언감생심 꿈도 꾸지 마라"
+    },
+    {
+      "chinese": "我知道我自己是癞蛤蟆,但是我就想吃一口大毛这样的天鹅肉",
+      "translation": "내가 두꺼비인 건 알지만, 다마오 같은 백조 고기를 한 입 먹고 싶어서 그래"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "사자성어/관용구",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/lai/"
+}

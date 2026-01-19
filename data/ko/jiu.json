@@ -1,0 +1,27 @@
+{
+  "slug": "jiu",
+  "chinese": "久别重逢",
+  "pinyin": "jiǔ bié chóng féng",
+  "meaning": "오랜 이별 뒤의 재회",
+  "description": "오랫동안 만나지 못했던 사람과 다시 만나는 것.",
+  "examples": [
+    {
+      "chinese": "每一次遇见都像久别重逢高兴",
+      "translation": "모든 만남이 오랜만의 재회처럼 기쁘다"
+    },
+    {
+      "chinese": "跟男朋友久别重逢的是什么感觉",
+      "translation": "남자친구와 오랜만에 재회하면 어떤 느낌이야?"
+    },
+    {
+      "chinese": "如果我们能够久别重逢,我希望你别来无恙",
+      "translation": "우리가 먼 훗날 다시 만난다면, 네가 별일 없이 잘 지냈기를 바란다"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "성어/사자성어",
+  "relatedWords": [
+    "bielaiwuyang"
+  ],
+  "sourceUrl": "https://chineself.com/jiu/"
+}

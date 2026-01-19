@@ -1,0 +1,25 @@
+{
+  "slug": "hong",
+  "chinese": "红扒鱼翅",
+  "pinyin": "hóng bā yú chì",
+  "meaning": "หูฉลามน้ำแดง",
+  "description": "อาหารประเภทหูฉลามที่ตุ๋นในซอสซีอิ๊วหรือน้ำแดง",
+  "examples": [
+    {
+      "chinese": "点了一份红扒鱼翅",
+      "translation": "สั่งหูฉลามน้ำแดงมาที่นึง"
+    },
+    {
+      "chinese": "这家店的红扒鱼翅很有名",
+      "translation": "หูฉลามน้ำแดงร้านนี้ขึ้นชื่อมาก"
+    },
+    {
+      "chinese": "红扒鱼翅口感很细腻",
+      "translation": "เนื้อสัมผัสของหูฉลามน้ำแดงละเอียดมาก"
+    }
+  ],
+  "category": "liaoli",
+  "categoryName": "อาหาร",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/hong/"
+}

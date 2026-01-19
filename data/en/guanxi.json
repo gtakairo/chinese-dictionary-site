@@ -1,0 +1,27 @@
+{
+  "slug": "guanxi",
+  "chinese": "官瑕",
+  "pinyin": "guān xiá",
+  "meaning": "Factory defect / Official defect (Initially defective)",
+  "description": "Phrases like \"默认官瑕\" (assume factory defects), \"不包官瑕\" (not responsible for factory defects), \"默认出厂瑕\" are common in online reselling to avoid disputes over minor scratches or imperfections. It implies that any defects in a \"new/unused\" item are from the manufacturer or shipping, not caused by the seller, and they won't accept returns/complaints based on them.",
+  "examples": [
+    {
+      "chinese": "全新未拆盒,不包官瑕,售出不退不换",
+      "translation": "Brand new unopened, not responsible for factory defects, no returns or exchanges after sale."
+    },
+    {
+      "chinese": "默认官瑕,不接受到手刀,完美主义者别来",
+      "translation": "Factory defects assumed, no bargaining after receiving, perfectionists stay away."
+    },
+    {
+      "chinese": "全新仅拆,不包运输瑕,官瑕,售出后不退不换",
+      "translation": "Brand new only opened, not responsible for shipping defects or factory defects, no returns or exchanges after sale."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [
+    "bujieshouxiaodao"
+  ],
+  "sourceUrl": "https://chineself.com/guanxi/"
+}

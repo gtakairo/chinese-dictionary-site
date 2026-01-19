@@ -1,0 +1,25 @@
+{
+  "slug": "jiamihuobi",
+  "chinese": "加密货币",
+  "pinyin": "jīamìhuòbì",
+  "meaning": "Cryptocurrency",
+  "description": "「Jiami」 means 「encrypt」.",
+  "examples": [
+    {
+      "chinese": "加密货币波动较大",
+      "translation": "Cryptocurrency is highly volatile"
+    },
+    {
+      "chinese": "如何购买加密货币",
+      "translation": "How to buy cryptocurrency"
+    },
+    {
+      "chinese": "学习加密货币安全知识",
+      "translation": "Learn about cryptocurrency security"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "Finance/Investment",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/jiamihuobi/"
+}

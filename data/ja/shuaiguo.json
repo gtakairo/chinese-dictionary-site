@@ -1,0 +1,25 @@
+{
+  "slug": "shuaiguo",
+  "chinese": "甩锅",
+  "pinyin": "shuǎi guō",
+  "meaning": "責任を押し付ける、責任を逃れる、濡れ衣を着せる",
+  "description": "「让别人来背黑锅」と同じ。背黑锅は「他人の罪を負う、ぬれぎぬを着せられる」の意味。甩は「投げる、ほうる」の意味で使用する。",
+  "examples": [
+    {
+      "chinese": "他真的爱甩锅",
+      "translation": "彼は本当に責任を押し付けるのが好きだ"
+    },
+    {
+      "chinese": "不要甩锅给我",
+      "translation": "私に濡れ衣を着せないで"
+    },
+    {
+      "chinese": "一出问题就甩锅,要脸不要啊",
+      "translation": "問題が出るとすぐ責任逃れをする、プライドってもんがないの"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/shuaiguo/"
+}

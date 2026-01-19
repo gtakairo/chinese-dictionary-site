@@ -1,0 +1,25 @@
+{
+    "slug": "shuang",
+    "chinese": "双柏忌",
+    "pinyin": "shuāng bǎi jì",
+    "meaning": "ดับเบิ้ลโบกี้",
+    "description": "สกอร์กอล์ฟที่ได้ +2 บนหลุมนั้น (ดับเบิ้ลโบกี้)",
+    "category": "sport",
+    "categoryName": "กีฬา",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/shuang/",
+    "examples": [
+        {
+            "chinese": "这一洞我打了双柏忌",
+            "translation": "หลุมนี้ฉันได้ดับเบิ้ลโบกี้"
+        },
+        {
+            "chinese": "连续两个双柏忌",
+            "translation": "ดับเบิ้ลโบกี้สองหลุมติด"
+        },
+        {
+            "chinese": "避免在关键洞打出双柏忌",
+            "translation": "เลี่ยงการตีได้ดับเบิ้ลโบกี้ในหลุมสำคัญ"
+        }
+    ]
+}

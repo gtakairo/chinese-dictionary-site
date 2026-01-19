@@ -1,0 +1,28 @@
+{
+  "slug": "pao",
+  "chinese": "跑杯",
+  "pinyin": "pǎo bēi",
+  "meaning": "컵 뜸, 브라가 겉돎",
+  "description": "가슴이 브라 컵에서 어긋나는 현상.",
+  "examples": [
+    {
+      "chinese": "求推荐内衣,不空杯不跑杯不勒肉",
+      "translation": "속옷 추천 좀, 컵 안 뜨고 안 겉돌고 살 안 파고드는 걸로"
+    },
+    {
+      "chinese": "运动锻炼的时候穿也不容易跑杯,入股不亏",
+      "translation": "운동할 때 입어도 잘 안 겉돌아, 사도 후회 안 해"
+    },
+    {
+      "chinese": "特别好穿内衣,固定杯垫,不移位不跑杯",
+      "translation": "입기 너무 편한 속옷, 패드 고정이라 안 움직이고 안 겉돌아"
+    }
+  ],
+  "category": "fashion",
+  "categoryName": "패션·미용",
+  "relatedWords": [
+    "bukongbei",
+    "rugubukui"
+  ],
+  "sourceUrl": "https://chineself.com/pao/"
+}

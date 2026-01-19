@@ -1,0 +1,30 @@
+{
+  "slug": "xiaofei",
+  "chinese": "消费降级",
+  "pinyin": "xiāo fèi jiàng jí",
+  "meaning": "소비 다운그레이드 / 소비 절벽",
+  "description": "생활 수준을 낮추는 소비 행태. 가성비를 따지거나 불필요한 지출을 줄임.",
+  "examples": [
+    {
+      "chinese": "消费降级大家第一个舍弃掉的是啥",
+      "translation": "소비 줄일 때 다들 첫 번째로 포기하는 게 뭐야?"
+    },
+    {
+      "chinese": "消费降级,我还在用五年前的老款iPhone",
+      "translation": "소비 다운그레이드, 난 아직 5년 전 아이폰 쓴다."
+    },
+    {
+      "chinese": "city walk这个词能流行起来就很说明消费降级了",
+      "translation": "'시티 워크'가 유행하는 것만 봐도 소비 다운그레이드를 알 수 있다."
+    }
+  ],
+  "category": "jingji",
+  "categoryName": "경제 / 비즈니스",
+  "relatedWords": [
+    "pingti",
+    "bumailisheng",
+    "zhimaiduidebumaiguide",
+    "citywalk"
+  ],
+  "sourceUrl": "https://chineself.com/xiaofei/"
+}

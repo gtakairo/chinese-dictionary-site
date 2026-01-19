@@ -1,0 +1,20 @@
+{
+    "slug": "shuaexist",
+    "chinese": "刷存在感",
+    "pinyin": "shuā cún zài gǎn",
+    "meaning": "เรียกร้องความสนใจ, สร้างตัวตน",
+    "description": "การทำตัวเด่นในโซเชียลเพื่อให้คนจำได้",
+    "category": "net",
+    "categoryName": "SNS/พฤติกรรม",
+    "relatedWords": [
+        "ruanwen",
+        "kongping"
+    ],
+    "sourceUrl": "https://chineself.com/shuaexist/",
+    "examples": [
+        {
+            "chinese": "他在群里刷存在感",
+            "translation": "เขาพยายามเรียกร้องความสนใจในกลุ่ม"
+        }
+    ]
+}

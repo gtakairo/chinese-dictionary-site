@@ -1,0 +1,25 @@
+{
+  "slug": "yyds",
+  "chinese": "yyds",
+  "pinyin": "yǒng yuǎn de shén",
+  "meaning": "神懸かる、神ってる、マジ神",
+  "description": "永远的神（yǒng yuǎn de shén）の頭文字を取ったスラング。yydsのローマ字の音を漢字にした歪歪滴艾斯（wāi wāi dī ài sī）と表記しても同じ。",
+  "examples": [
+    {
+      "chinese": "这个新口味真的yyds",
+      "translation": "この新しい味、ホント神っている"
+    },
+    {
+      "chinese": "她全开麦yyds,很666",
+      "translation": "彼女の生歌神っている、素晴らしい"
+    },
+    {
+      "chinese": "套装歪歪滴艾斯,氛围感拉满",
+      "translation": "スーツの神着こなし、雰囲気最高"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語・スラング",
+  "relatedWords": ["quankaimai", "666-2", "laman", "suogufa", "jianling", "dajieju"],
+  "sourceUrl": "https://chineself.com/yyds/"
+}

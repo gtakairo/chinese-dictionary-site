@@ -1,0 +1,19 @@
+{
+  "slug": "kongping",
+  "chinese": "控评",
+  "pinyin": "kòng píng",
+  "meaning": "댓글 관리 (여론 조작)",
+  "description": "댓글창의 분위기를 조작하는 것, 홍보나 부정적인 여론을 잠재우기 위한 행위.",
+  "examples": [
+    {
+      "chinese": "有人在控评",
+      "translation": "누군가 댓글을 조작하고 있다"
+    }
+  ],
+  "category": "net",
+  "categoryName": "SNS/운영",
+  "relatedWords": [
+    "fanquan"
+  ],
+  "sourceUrl": "https://chineself.com/kongping/"
+}

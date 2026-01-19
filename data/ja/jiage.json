@@ -1,0 +1,16 @@
+{
+  "slug": "jiage",
+  "chinese": "价格波动",
+  "pinyin": "jià gé bō dòng",
+  "meaning": "価格変動",
+  "description": "市場や需給によって価格が上下すること。ボラティリティ。",
+  "examples": [
+    {"chinese": "近期价格波动加剧", "japanese": "最近は価格変動が激しい"},
+    {"chinese": "控制风险应对价格波动", "japanese": "価格変動に備えてリスク管理を行う"},
+    {"chinese": "受消息影响出现价格波动", "japanese": "ニュースの影響で価格が変動した"}
+  ],
+  "category": "jingji",
+  "categoryName": "経済・ビジネス",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/jiage/"
+}

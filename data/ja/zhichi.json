@@ -1,0 +1,25 @@
+{
+  "slug": "zhichi",
+  "chinese": "知耻而后勇",
+  "pinyin": "zhī chǐ ér hòu yǒng",
+  "meaning": "恥を知るは勇に近し、足らなさを認め改めていく",
+  "description": "孔子の「礼記」にある「知耻近乎勇」から。恥を知って改める勇気は称賛に値する。自らの足らなさを認め、改めていくことは勇気が必要ということ。",
+  "examples": [
+    {
+      "chinese": "要懂得知耻而后勇,知错能改,善莫大焉",
+      "translation": "恥を知るは勇に近しと悟るべきだ、誤りを犯しても改善できれば素晴らしいことである"
+    },
+    {
+      "chinese": "学生成绩不好就应该知耻而后勇吧",
+      "translation": "学生は成績が良くないなら、自らの足らなさを認め改めるべき"
+    },
+    {
+      "chinese": "知耻而后勇,终于拿到了世界杯的首胜",
+      "translation": "恥を知るは勇に近し、やっとワールドカップで初勝利を挙げた"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "成語・四字熟語",
+  "relatedWords": ["zhicuonenggaishanmodayan"],
+  "sourceUrl": "https://chineself.com/zhichi/"
+}

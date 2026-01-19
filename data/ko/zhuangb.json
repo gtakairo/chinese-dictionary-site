@@ -1,0 +1,28 @@
+{
+  "slug": "zhuangb",
+  "chinese": "装B",
+  "pinyin": "zhuāng B",
+  "meaning": "폼 잡다 / 허세 부리다 / 잘난 척하다",
+  "description": "자신을 과시하거나 멋있는 척함.",
+  "examples": [
+    {
+      "chinese": "最烦装b的人",
+      "translation": "허세 부리는 사람이 제일 싫다"
+    },
+    {
+      "chinese": "只是为了装B而买的奔驰",
+      "translation": "폼 잡으려고 산 벤츠"
+    },
+    {
+      "chinese": "老板装Ｂ说这问题太简单",
+      "translation": "사장이 이 문제는 너무 쉽다며 잘난 척했다"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [
+    "zhuang13",
+    "zhuangbei"
+  ],
+  "sourceUrl": "https://chineself.com/zhuangb/"
+}

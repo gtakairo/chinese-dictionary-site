@@ -1,0 +1,25 @@
+{
+  "slug": "haoqi",
+  "chinese": "好俏不穿棉,冻死不可怜",
+  "pinyin": "hǎo qiào bù chuān mián, dòng sǐ bù kě lián",
+  "meaning": "伊達の薄着",
+  "description": "格好よく見せるために、非常に無理をしていることのたとえ。",
+  "examples": [
+    {
+      "chinese": "你应该穿厚厚的,好俏不穿棉,冻死不可怜",
+      "translation": "厚着するべきだ、伊達の薄着"
+    },
+    {
+      "chinese": "好俏不穿棉,冻死不可怜,多穿衣,东北的顶不住啊",
+      "translation": "伊達の薄着、もっと着て東北では耐えられないよ"
+    },
+    {
+      "chinese": "看这温度,穿暖和点吧,好俏不穿棉,冻死不可怜",
+      "translation": "寒いんだから、もっと暖かくして、伊達の薄着だよ"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "成語・四字熟語",
+  "relatedWords": ["dingbuzhu"],
+  "sourceUrl": "https://chineself.com/haoqi/"
+}

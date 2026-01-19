@@ -1,0 +1,25 @@
+{
+  "slug": "shao",
+  "chinese": "少不经事",
+  "pinyin": "shào bù jīng shì",
+  "meaning": "어리고 경험이 부족하다 / 식견이 부족하다",
+  "description": "젊어서 세상 경험이 적고, 사물에 대한 이해나 식견이 부족함을 나타내는 성어.",
+  "examples": [
+    {
+      "chinese": "少不经事时读的许多书,总要有些历练之后才能懂",
+      "translation": "어리고 경험이 없을 때 책을 많이 읽으면, 나중에 경험을 쌓은 후에 이해할 수 있다."
+    },
+    {
+      "chinese": "年轻少不经事什么都不懂只会对这个世界抱有幻想",
+      "translation": "어리고 경험 없는 젊은이는 아무것도 모른 채 세상에 대해 환상만 갖게 된다."
+    },
+    {
+      "chinese": "少不经事时候的爱情和成年以后的爱情是没法比的",
+      "translation": "철없을 때의 사랑과 성인이 된 후의 사랑은 비교할 수 없다."
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "사자성어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/shao/"
+}

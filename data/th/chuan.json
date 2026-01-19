@@ -1,0 +1,21 @@
+{
+  "slug": "chuan",
+  "chinese": "传播途径",
+  "pinyin": "chuán bò tú jìng",
+  "meaning": "ช่องทางการแพร่เชื้อ",
+  "description": "เรียกว่า \"chuan ran tu jing\" ก็ได้",
+  "examples": [
+    {
+      "chinese": "一个多月了,连个传播途径都没有搞清楚",
+      "translation": "ผ่านไปเดือนกว่าแล้ว แม้แต่ช่องทางการแพร่เชื้อก็ยังไม่รู้แน่ชัด"
+    },
+    {
+      "chinese": "性接触是梅毒的主要传播途径,比例占95%",
+      "translation": "การสัมผัสทางเพศเป็นช่องทางการแพร่เชื้อหลักของซิฟิลิส คิดเป็น 95%"
+    }
+  ],
+  "category": "yiliao",
+  "categoryName": "การแพทย์/โรคภัยไข้เจ็บ",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/chuan/"
+}

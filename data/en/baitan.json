@@ -1,0 +1,19 @@
+{
+  "slug": "baitan",
+  "chinese": "摆摊",
+  "pinyin": "bǎi tān",
+  "meaning": "set up a stall, street vending",
+  "description": "The act of setting up a temporary stall on the street or in a market to sell goods.",
+  "examples": [
+    {
+      "chinese": "周末去夜市摆摊",
+      "translation": "Going to set up a stall at the night market this weekend"
+    }
+  ],
+  "category": "jingji",
+  "categoryName": "Economics/Life",
+  "relatedWords": [
+    "shangxin"
+  ],
+  "sourceUrl": "https://chineself.com/baitan/"
+}

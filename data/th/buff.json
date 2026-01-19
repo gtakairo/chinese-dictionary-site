@@ -1,0 +1,19 @@
+{
+  "slug": "buff",
+  "chinese": "BUFF",
+  "pinyin": "b u f f",
+  "meaning": "บัฟ (ผลเพิ่มความสามารถ)",
+  "description": "ศัพท์เกม หมายถึงเอฟเฟกต์เสริมความแข็งแกร่งหรือเพิ่มความสามารถ",
+  "examples": [
+    {
+      "chinese": "这个技能能加BUFF",
+      "translation": "สกิลนี้สามารถเพิ่มบัฟได้"
+    }
+  ],
+  "category": "wailaiyu",
+  "categoryName": "คำทับศัพท์ / เกม",
+  "relatedWords": [
+    "debuff"
+  ],
+  "sourceUrl": "https://chineself.com/buff/"
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "xianzhixianjue",
+  "chinese": "先知先觉",
+  "pinyin": "xiān zhī xiān jué",
+  "meaning": "ผู้หยั่งรู้ / มีวิสัยทัศน์กว้างไกล",
+  "description": "การรู้แจ้งล่วงหน้า หรือคาดการณ์อนาคตได้แม่นยำ",
+  "examples": [
+    {
+      "chinese": "投资高手们都是先知先觉的人",
+      "translation": "เซียนการลงทุนล้วนเป็นผู้ที่มีวิสัยทัศน์กว้างไกล"
+    },
+    {
+      "chinese": "女人先知先觉,男人后知后觉",
+      "translation": "ผู้หญิงมักรู้ล่วงหน้า ส่วนผู้ชายมักรู้สึกตัวทีหลัง"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "สำนวน / สุภาษิตจีน",
+  "relatedWords": [
+    "houzhihoujue"
+  ],
+  "sourceUrl": "https://chineself.com/xianzhixianjue/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "seng",
+  "chinese": "僧多粥少",
+  "pinyin": "sēng duō zhōu shǎo",
+  "meaning": "（割り当てが少なく）十分に行き渡らない、供給不足である",
+  "description": "直訳すると「僧が多いのに粥が少ない」となる。僧（人、需要）の多さに対して粥（物、供給）が不足しているということ。",
+  "examples": [
+    {
+      "chinese": "僧多粥少,买新能源汽车容易充电难",
+      "japanese": "供給場所が少ない、新エネルギー車購入も充電問題がある"
+    },
+    {
+      "chinese": "现在缺钱开发商太多了,政府钱也不多,僧多粥少不够分",
+      "japanese": "いま金欠のデベロッパーが多すぎる、政府もお金も少ない、現金が広く行き渡らず足らない"
+    },
+    {
+      "chinese": "天然气供应紧张,僧多粥少怎么破",
+      "japanese": "天然ガスの供給が逼迫している、供給不足をどのように解決するか"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "成語・四字熟語",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/seng/"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "xin",
+  "chinese": "洗脑包",
+  "pinyin": "xǐ nǎo bāo",
+  "meaning": "Brainwashing Package / Disinformation",
+  "description": "Distorted facts or false rumors spread intentionally to mislead people.",
+  "examples": [
+    {
+      "chinese": "希望网络少些他们俩的洗脑包,明明很相爱",
+      "translation": "Hope there are fewer false rumors about them online; they clearly love each other."
+    },
+    {
+      "chinese": "诈骗式的洗脑包营销更是下头",
+      "translation": "Scam-like brainwashing marketing is such a turn-off."
+    },
+    {
+      "chinese": "我吃了太多洗脑包,现在才知道真实",
+      "translation": "I consumed too much disinformation, only now do I know the truth."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [
+    "zhenrangrenxiatou"
+  ],
+  "sourceUrl": "https://chineself.com/xin/"
+}

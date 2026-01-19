@@ -1,0 +1,27 @@
+{
+  "slug": "nidong",
+  "chinese": "你懂的",
+  "pinyin": "nǐ dǒng de",
+  "meaning": "알지?; 굳이 말 안 해도 알지?",
+  "description": "인터넷 용어로는 영어의 'You know'와 같은 용법으로 쓰임.",
+  "examples": [
+    {
+      "chinese": "今天周六,周六哦?你懂的",
+      "translation": "오늘 토요일이야, 토요일이라고? 알지?"
+    },
+    {
+      "chinese": "蛋糕是真的好吃哦,你懂的",
+      "translation": "케이크 진짜 맛있는 거, 알지?"
+    },
+    {
+      "chinese": "答案不言自明,你懂的",
+      "translation": "답은 자명해, 굳이 말 안 해도 알지?"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [
+    "buyanziming"
+  ],
+  "sourceUrl": "https://chineself.com/nidong/"
+}

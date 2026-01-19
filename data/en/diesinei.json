@@ -1,0 +1,24 @@
+{
+  "slug": "diesinei",
+  "chinese": "跌死内",
+  "pinyin": "diē sǐ nèi",
+  "meaning": "Desu ne (Japanese transliteration)",
+  "description": "Transliteration of Japanese 「desu ne」 (isn't it / right). 「Die si」 = desu, 「Sou die si nei」 = sou desu ne (that's right), 「Ka wa yi die si nei」 = kawaii desu ne (it's cute, isn't it).",
+  "examples": [
+    {
+      "chinese": "红豆泥残念跌死内",
+      "translation": "Really unfortunate, isn't it (hontou ni zannen desu ne)"
+    },
+    {
+      "chinese": "卡哇伊跌死内",
+      "translation": "It's cute, isn't it (kawaii desu ne)"
+    }
+  ],
+  "category": "wailaiyu",
+  "categoryName": "Loanwords/Transliteration",
+  "relatedWords": [
+    "hongdouni",
+    "kawayi"
+  ],
+  "sourceUrl": "https://chineself.com/diesinei/"
+}

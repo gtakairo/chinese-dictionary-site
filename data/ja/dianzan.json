@@ -1,0 +1,25 @@
+{
+  "slug": "dianzan",
+  "chinese": "点赞",
+  "pinyin": "diǎn zàn",
+  "meaning": "いいね！ボタンをクリックする",
+  "description": "点个赞も同じ。",
+  "examples": [
+    {
+      "chinese": "请点赞！点赞吧！",
+      "translation": "いいね!ボタンよろしく"
+    },
+    {
+      "chinese": "网友纷纷点赞",
+      "translation": "ネットユーザーらが次々にいいねをクリックする"
+    },
+    {
+      "chinese": "麻烦您关注一下,点个赞",
+      "translation": "お手数ですがフォローといいねをよろしく"
+    }
+  ],
+  "category": "sns",
+  "categoryName": "Web・SNS用語",
+  "relatedWords": ["guanzhu"],
+  "sourceUrl": "https://chineself.com/dianzan/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "gupiao",
+  "chinese": "股票型基金",
+  "pinyin": "gǔ piào xíng jī jīn",
+  "meaning": "Stock Fund / Equity Fund",
+  "description": "An investment fund that invests primarily in stocks. Ranges from index-linked to actively managed funds.",
+  "examples": [
+    {
+      "chinese": "我买了一只股票型基金",
+      "translation": "I bought an equity fund."
+    },
+    {
+      "chinese": "股票型基金波动较大",
+      "translation": "Equity funds have high volatility."
+    },
+    {
+      "chinese": "长期持有股票型基金更合适",
+      "translation": "Holding equity funds for the long term is more suitable."
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "Finance & Investment",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/gupiao/"
+}

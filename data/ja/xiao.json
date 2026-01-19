@@ -1,0 +1,29 @@
+{
+  "slug": "xiao",
+  "chinese": "小白",
+  "pinyin": "xiǎo bái",
+  "meaning": "初心者、新人、ど素人",
+  "description": "小白痴の略称となるネット用語。白痴は別の意味で「理解力が低い人」と貶す言葉で使用したり、日本語と同じで知的障害の意味となる。菜鸟は「①ルーキー、新人、初心者 ②レベルが低い」の意味。",
+  "examples": [
+    {
+      "chinese": "哪些适合于小白的投资？",
+      "translation": "初心者にはどういった投資が向いているのか？"
+    },
+    {
+      "chinese": "新手小白从哪开始",
+      "translation": "初心者はどこから初める？"
+    },
+    {
+      "chinese": "刚刚入职小白,如何应对工作",
+      "translation": "入社したばかりの新人はどう仕事に対するべきか"
+    },
+    {
+      "chinese": "我觉得自己是个恋爱小白",
+      "translation": "私は自分が恋愛のド素人だと感じる"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": ["cainiao"],
+  "sourceUrl": "https://chineself.com/xiao/"
+}

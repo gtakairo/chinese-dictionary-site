@@ -1,0 +1,25 @@
+{
+  "slug": "tai",
+  "chinese": "太不巧了",
+  "pinyin": "tài bù qiǎo le",
+  "meaning": "①あいにくですが ②タイミングが悪い",
+  "description": "真不巧も同じ意味。巧は「ちょうどうまい具合に、折よく」の意味がある。太巧了「①タイミングがよい ②奇遇である」。",
+  "examples": [
+    {
+      "chinese": "太不巧了,这周他都不在上海",
+      "japanese": "あいにくですが、今週彼はずっと上海にいません"
+    },
+    {
+      "chinese": "实在太不巧了,我明天上午有课",
+      "japanese": "実にタイミングが悪い、私は明日授業がある"
+    },
+    {
+      "chinese": "认识的时间太不巧了,当时他已经有女朋友了",
+      "japanese": "知り合ったときのタイミングが悪かった、その時彼にはガールフレンドがいた"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "未分類",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/tai/"
+}

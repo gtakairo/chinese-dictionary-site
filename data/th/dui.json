@@ -1,0 +1,25 @@
+{
+  "slug": "dui",
+  "chinese": "对标",
+  "pinyin": "duì biāo",
+  "meaning": "การวัดเปรียบเทียบสมรรถนะ (Benchmarking)",
+  "description": "วิธีการบริหารจัดการที่เปรียบเทียบและวิเคราะห์คุณภาพของผลิตภัณฑ์หรือบริการกับตัวอย่างที่ดีเยี่ยมของบริษัทอื่นเพื่อปรับปรุง",
+  "examples": [
+    {
+      "chinese": "小米汽车应该在对标特斯拉",
+      "translation": "รถยนต์ Xiaomi น่าจะกำลังวัดเปรียบเทียบกับ Tesla"
+    },
+    {
+      "chinese": "门店想要发展为什么一定要找对标",
+      "translation": "ทำไมร้านค้าต้องการพัฒนาต้องหาคู่เทียบ (Benchmark) ด้วย"
+    },
+    {
+      "chinese": "国产手机对标苹果,越来越像iPhone",
+      "translation": "มือถือในประเทศวัดเปรียบเทียบกับ Apple ยิ่งทำยิ่งเหมือน iPhone"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "ไม่ได้จัดประเภท",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/dui/"
+}

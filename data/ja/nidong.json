@@ -1,0 +1,25 @@
+{
+  "slug": "nidong",
+  "chinese": "你懂的",
+  "pinyin": "nǐ dǒng de",
+  "meaning": "（口にしなくても）分かるでしょ、（言わなくても）理解しているよね",
+  "description": "ネット用語では英語の「You know」と同じ使い方をする。",
+  "examples": [
+    {
+      "chinese": "今天周六,周六哦?你懂的",
+      "translation": "今日は土曜日、土曜日？分かるでしょ"
+    },
+    {
+      "chinese": "蛋糕是真的好吃哦,你懂的",
+      "translation": "ケーキって本当に美味しい～当然でしょ"
+    },
+    {
+      "chinese": "答案不言自明,你懂的",
+      "translation": "答えは言わなくともあなたは理解しているよね"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": ["buyanziming"],
+  "sourceUrl": "https://chineself.com/nidong/"
+}

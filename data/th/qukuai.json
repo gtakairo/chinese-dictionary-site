@@ -1,0 +1,25 @@
+{
+  "slug": "qukuai",
+  "chinese": "区块链",
+  "pinyin": "qū kuài liàn",
+  "meaning": "บล็อกเชน",
+  "description": "เทคโนโลยีการเก็บข้อมูลแบบกระจายศูนย์ (Distributed Ledger Technology) เป็นเทคโนโลยีพื้นฐานในการบันทึกประวัติการทำธุรกรรมในรูปแบบที่ยากต่อการปลอมแปลง",
+  "examples": [
+    {
+      "chinese": "区块链提升了数据的透明度",
+      "translation": "บล็อกเชนช่วยเพิ่มความโปร่งใสของข้อมูล"
+    },
+    {
+      "chinese": "很多项目基于区块链开发",
+      "translation": "หลายโครงการถูกพัฒนาบนพื้นฐานของบล็อกเชน"
+    },
+    {
+      "chinese": "学习区块链的基本原理",
+      "translation": "เรียนรู้หลักการพื้นฐานของบล็อกเชน"
+    }
+  ],
+  "category": "technology",
+  "categoryName": "เทคโนโลยี",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/qukuai/"
+}

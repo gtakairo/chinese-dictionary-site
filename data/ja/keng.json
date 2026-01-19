@@ -1,0 +1,25 @@
+{
+  "slug": "keng",
+  "chinese": "坑爹",
+  "pinyin": "kēng diē",
+  "meaning": "期待を裏切られる、騙される、ぼったくり",
+  "description": "以前は坑跌の漢字を使用していたが今は坑爹が主流となっている。もともとは山東省の内陸から江蘇省北側地方の方言。想像していたものと実際が、かなりかけ離れているときなどによく使われる。",
+  "examples": [
+    {
+      "chinese": "太差了,这个坑爹货",
+      "translation": "これは酷い、想像したのと違う商品だ"
+    },
+    {
+      "chinese": "点了个蓝山咖啡,味道属实有点坑爹",
+      "translation": "ブルーマウンテンコーヒーを注文したが、味はちょっと期待外れ"
+    },
+    {
+      "chinese": "停车场停车也扣3分罚200?太坑爹了",
+      "translation": "駐車場に駐車したのに3点引かれ200元罰金、完全にぼったくりだ"
+    }
+  ],
+  "category": "fangyan",
+  "categoryName": "方言",
+  "relatedWords": ["caikeng", "taikengle"],
+  "sourceUrl": "https://chineself.com/keng/"
+}

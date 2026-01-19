@@ -1,0 +1,28 @@
+{
+  "slug": "ganhuo",
+  "chinese": "干货",
+  "pinyin": "gān huò",
+  "meaning": "Useful information / Key takeaways / Dry goods",
+  "description": "Literally 「dry goods」 (dried food). Figuratively means content with no 「water」 (fluff), i.e., substantial, useful information or knowledge. 「Ganhuo manman」 means full of useful info.",
+  "examples": [
+    {
+      "chinese": "干货满满超实用,速戳下图",
+      "translation": "Full of useful info and super practical, click the image below quickly."
+    },
+    {
+      "chinese": "干货满满,值得反复咀嚼",
+      "translation": "Full of useful info, worth chewing over repeatedly."
+    },
+    {
+      "chinese": "课程内容干货满满,涨姿势了",
+      "translation": "The course content is full of useful info, gained a lot of knowledge."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [
+    "suchuo",
+    "zhangzishi"
+  ],
+  "sourceUrl": "https://chineself.com/ganhuomanman/"
+}

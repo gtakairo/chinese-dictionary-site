@@ -1,0 +1,25 @@
+{
+  "slug": "yue",
+  "chinese": "跃层",
+  "pinyin": "yuè céng",
+  "meaning": "Duplex / Maisonette",
+  "description": "Apartment unit with internal stairs connecting two floors.",
+  "examples": [
+    {
+      "chinese": "跃层一室一厅",
+      "translation": "Duplex one bedroom"
+    },
+    {
+      "chinese": "三室两厅两卫,190平,上下跃层,带院,带车库",
+      "translation": "3 bedrooms, 190 sqm, duplex, with garden and garage"
+    },
+    {
+      "chinese": "你真的清楚复式和跃层的区别吗",
+      "translation": "Do you really know the difference between 'Loft' and 'Duplex'?"
+    }
+  ],
+  "category": "fangzi",
+  "categoryName": "Housing/Interior",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/yue/"
+}

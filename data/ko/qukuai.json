@@ -1,0 +1,25 @@
+{
+  "slug": "qukuai",
+  "chinese": "区块链",
+  "pinyin": "qū kuài liàn",
+  "meaning": "블록체인",
+  "description": "분산 원장 기술. 거래 내역을 위변조하기 어려운 형태로 기록하는 기반 기술.",
+  "examples": [
+    {
+      "chinese": "区块链提升了数据的透明度",
+      "translation": "블록체인은 데이터의 투명성을 높였다"
+    },
+    {
+      "chinese": "很多项目基于区块链开发",
+      "translation": "많은 프로젝트가 블록체인을 기반으로 개발되고 있다"
+    },
+    {
+      "chinese": "学习区块链的基本原理",
+      "translation": "블록체인의 기본 원리를 배우다"
+    }
+  ],
+  "category": "technology",
+  "categoryName": "기술",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/qukuai/"
+}

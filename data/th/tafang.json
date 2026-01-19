@@ -1,0 +1,19 @@
+{
+    "slug": "tafang",
+    "chinese": "塌房",
+    "pinyin": "tā fáng",
+    "meaning": "บ้านบึ้ม (ศิลปินมีข่าวฉาว)",
+    "description": "ความเชื่อถือพังทลายจากข่าวฉาวของไอดอลหรือเมน",
+    "category": "net",
+    "categoryName": "สแลงอินเทอร์เน็ต",
+    "relatedWords": [
+        "poquan"
+    ],
+    "sourceUrl": "https://chineself.com/tafang/",
+    "examples": [
+        {
+            "chinese": "他又塌房了",
+            "translation": "เขาทำบ้านบึ้มอีกแล้ว"
+        }
+    ]
+}

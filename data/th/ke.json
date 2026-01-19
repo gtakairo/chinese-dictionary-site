@@ -1,0 +1,33 @@
+{
+  "slug": "ke",
+  "chinese": "可爱本爱",
+  "pinyin": "kě ài běn ài",
+  "meaning": "น่ารักน่าเอ็นดูสุดๆ / นิยามของคำว่าน่ารัก",
+  "description": "สำนวนที่เน้นย้ำความน่ารัก เป็นขั้นสูงสุดของความน่ารัก",
+  "examples": [
+    {
+      "chinese": "你就是可爱本爱!",
+      "translation": "เธอนี่มันน่ารักสุดๆ ไปเลย!"
+    },
+    {
+      "chinese": "比个心,嘟嘟嘴,是可爱本爱",
+      "translation": "ทำท่ามินิฮาร์ท ทำปากจู๋ น่ารักน่าเอ็นดูมาก"
+    },
+    {
+      "chinese": "软妹风,真的是可爱本爱了",
+      "translation": "สไตล์สาวหวาน น่ารักน่าทะนุถนอมจริงๆ"
+    },
+    {
+      "chinese": "我家的宝贝是可爱本爱",
+      "translation": "ลูกรักของฉันน่ารักที่สุดในโลก"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์สแลงอินเทอร์เน็ต",
+  "relatedWords": [
+    "bxin",
+    "duzui",
+    "ruanmei"
+  ],
+  "sourceUrl": "https://chineself.com/ke/"
+}

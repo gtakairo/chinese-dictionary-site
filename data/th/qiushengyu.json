@@ -1,0 +1,20 @@
+{
+  "slug": "qiushengyu",
+  "chinese": "求生欲",
+  "pinyin": "qiú shēng yù",
+  "meaning": "สัญชาตญาณเอาตัวรอด (รู้หลบเป็นปีก)",
+  "description": "การอ่านสถานการณ์เพื่อตอบคำถามไม่ให้โดนด่าหรือโดนโกรธ",
+  "examples": [
+    {
+      "chinese": "他说话很有求生欲",
+      "translation": "เขาพูดจาดูมีสัญชาตญาณเอาตัวรอดสูงมาก"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์สแลงชาวเน็ต",
+  "relatedWords": [
+    "yinyangguaiqi",
+    "galiao"
+  ],
+  "sourceUrl": "https://chineself.com/qiushengyu/"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "xswl",
+  "chinese": "笑死我了",
+  "pinyin": "xiào sǐ wǒ le",
+  "meaning": "爆笑した／笑い死ぬほど",
+  "description": "ネットでよく使う「爆笑した」を表す略語。",
+  "examples": [
+    {"chinese": "这段视频XSWL", "japanese": "この動画、爆笑した"}
+  ],
+  "category": "net",
+  "categoryName": "ネットスラング",
+  "relatedWords": ["awsl"],
+  "sourceUrl": "https://chineself.com/xswl/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "huo",
+  "chinese": "火币",
+  "pinyin": "huǒ bì",
+  "meaning": "후오비 (Huobi)",
+  "description": "중국에서 시작된 암호화폐 거래소 Huobi의 중국어 표기.",
+  "examples": [
+    {
+      "chinese": "在火币完成KYC",
+      "translation": "후오비에서 KYC(본인 인증)를 완료하다"
+    },
+    {
+      "chinese": "火币上线新币种",
+      "translation": "후오비에 새 코인이 상장되었다"
+    },
+    {
+      "chinese": "查询火币的交易手续费",
+      "translation": "후오비의 거래 수수료를 확인하다"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "금융/투자",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/huo/"
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "bang",
+  "chinese": "棒棒哒",
+  "pinyin": "bàng bàng dá",
+  "meaning": "ดีงาม, สุดยอด, เริ่ดมาก",
+  "description": "คำชมแบบน่ารักๆ แปลว่าเก่งมากหรือดีมาก",
+  "examples": [
+    {
+      "chinese": "尊嘟素棒棒哒",
+      "translation": "สุดยอดจริงๆ นะเตง"
+    },
+    {
+      "chinese": "天啦噜,味道棒棒哒",
+      "translation": "ขุ่นพระ รสชาติดีงามมาก"
+    },
+    {
+      "chinese": "感觉自己棒棒哒",
+      "translation": "รู้สึกว่าตัวเองเก่งจัง"
+    },
+    {
+      "chinese": "一次就学会,好棒棒哒,奥利给",
+      "translation": "เรียนรอบเดียวก็เป็นเลย เก่งเวอร์ สู้ๆ"
+    }
+  ],
+  "category": "net",
+  "categoryName": "สแลงอินเทอร์เน็ต",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/bang/"
+}

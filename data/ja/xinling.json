@@ -1,0 +1,25 @@
+{
+  "slug": "xinling",
+  "chinese": "心灵鸡汤",
+  "pinyin": "xīn líng jī tāng",
+  "meaning": "（気持ちを奮い立たせる、意欲を高める、モチベーチョンを上げる）文句、言葉、名言、フレーズ",
+  "description": "ベストセラーになった「Chicken Soup for the Soul」（邦題：こころのチキンスープ）の中国語名。この本は人々の感動的な実話に基づいたストーリーを集めた物語集で、心に栄養を与えてくれるような人をやる気にさせてくれる内容がいくつも入っている。鸡汤、鸡汤文、鸡汤贴でも同じ意味。毒鸡汤となると「心を誘導させる広告、文句などで騙す」という意味になる。",
+  "examples": [
+    {
+      "chinese": "朋友圈里有每天发几句心灵鸡汤的人",
+      "translation": "モーメンツの中で毎日モチベーチョンを高める文句を送信する人がいる"
+    },
+    {
+      "chinese": "我看了一些心灵鸡汤觉得自己吸收了好的营养",
+      "translation": "やる気を起こさせる文句を見るとよい栄養を吸収したように感じる"
+    },
+    {
+      "chinese": "一个故事,请喝一碗心灵鸡汤",
+      "translation": "ひとつの故事、意欲を高める名言をご堪能下さい"
+    }
+  ],
+  "category": "sns",
+  "categoryName": "Web・SNS用語",
+  "relatedWords": ["jitangwen", "dujitang", "emole"],
+  "sourceUrl": "https://chineself.com/xinling/"
+}

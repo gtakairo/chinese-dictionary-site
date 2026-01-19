@@ -1,0 +1,25 @@
+{
+  "slug": "shanzhaibi",
+  "chinese": "山寨币",
+  "pinyin": "shān zhài bì",
+  "meaning": "알트코인",
+  "description": "비트코인 이외의 암호화폐 총칭. 문맥에 따라 조잡한 코인을 의미하기도 함.",
+  "examples": [
+    {
+      "chinese": "市场上有很多山寨币",
+      "translation": "시장에는 많은 알트코인이 있다."
+    },
+    {
+      "chinese": "谨慎投资小众山寨币",
+      "translation": "마이너한 알트코인 투자는 신중해야 한다."
+    },
+    {
+      "chinese": "关注山寨币赛道的机会",
+      "translation": "알트코인 시장의 기회에 주목하다."
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "금융 및 투자",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/shanzhaibi/"
+}

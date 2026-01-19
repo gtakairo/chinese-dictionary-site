@@ -1,0 +1,28 @@
+{
+  "slug": "beiju",
+  "chinese": "杯具",
+  "pinyin": "bēi jù",
+  "meaning": "1. Cup/Tableware 2. Tragedy (Internet slang)",
+  "description": "Generally means cups/bowls, but used as Internet slang for 「tragedy」 (bēijù). Conversely, 「Comedy」 (Xǐjù) becomes 「Washing tackle」 (Xǐjù).",
+  "examples": [
+    {
+      "chinese": "太水逆了,为什么会发生这种杯具呢",
+      "translation": "Such bad luck, why did this tragedy happen?"
+    },
+    {
+      "chinese": "夫妻关系不好,就是最大的杯具",
+      "translation": "A bad relationship between husband and wife is the biggest tragedy"
+    },
+    {
+      "chinese": "太杯具了,简直是天降横祸",
+      "translation": "Too tragic, simply a disaster from the sky"
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [
+    "shuini",
+    "tianjianghenghuo"
+  ],
+  "sourceUrl": "https://chineself.com/beiju/"
+}

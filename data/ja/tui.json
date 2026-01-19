@@ -1,0 +1,25 @@
+{
+  "slug": "tui",
+  "chinese": "退潮",
+  "pinyin": "tuì cháo",
+  "meaning": "①引き潮、干潮 ②ブームが去る、流行らなくなる、衰える",
+  "description": "涨潮は「満潮」。",
+  "examples": [
+    {
+      "chinese": "大城市的共享单车开始退潮",
+      "japanese": "大都市のシェア自転車はブームが去りつつある"
+    },
+    {
+      "chinese": "小家电市场热度退潮,企业净利润下滑",
+      "japanese": "小型家電市場のブームが去ったあと、企業の純利益は減少した"
+    },
+    {
+      "chinese": "出口退潮已经影响到供给端,外贸行业呈现出「供需双弱」的局面",
+      "japanese": "輸出減がすでに供給サイドに影響し、貿易業界が需給とにも弱含みの局面に入った"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語・スラング",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/tui/"
+}

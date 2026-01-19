@@ -1,0 +1,25 @@
+{
+  "slug": "sheji",
+  "chinese": "社交癌",
+  "pinyin": "shè jiāo ái",
+  "meaning": "尿失禁",
+  "description": "「不致命的社交型癌症」の略称。この言い方は俗称で正式には「压力性尿失禁」。尿失禁だと人前に出ると心配で気持ちが落ち着かなくなるため。",
+  "examples": [
+    {
+      "chinese": "中老年女性「社交癌」该如何防治",
+      "translation": "中高年の女性の尿失禁はどのように予防治療すればよいか"
+    },
+    {
+      "chinese": "患社交癌,每天上厕所至少15次",
+      "translation": "尿失禁を患って毎日少なくとも15回トイレに行く"
+    },
+    {
+      "chinese": "产后女性占多数的逃不过社交癌",
+      "translation": "産後の女性の大多数は尿失禁から逃れられない"
+    }
+  ],
+  "category": "yiliao",
+  "categoryName": "医療・病気",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/sheji/"
+}

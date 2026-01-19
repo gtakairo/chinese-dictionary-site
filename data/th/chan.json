@@ -1,0 +1,29 @@
+{
+  "slug": "chan",
+  "chinese": "缠缠绵绵",
+  "pinyin": "chán chán mián mián",
+  "meaning": "พัวพัน, ยืดเยื้อ, รักอย่างลึกซึ้ง",
+  "description": "\"Chanmian\" หมายถึง \"(โรคหรืออารมณ์) ที่ค้างคา, พัวพัน\"",
+  "examples": [
+    {
+      "chinese": "这个感冒缠缠绵绵,啥时候才能好",
+      "translation": "หวัดนี้เป็นยืดเยื้อจัง เมื่อไหร่จะหาย"
+    },
+    {
+      "chinese": "别缠缠绵绵粘上来甩都甩不掉",
+      "translation": "อย่ามาเกาะแกะพันแข้งพันขาจนสลัดไม่หลุดนะ"
+    },
+    {
+      "chinese": "我在努力的维持这段缠缠绵绵的爱情",
+      "translation": "ฉันกำลังพยายามรักษาความรักที่ลึกซึ้งนี้ไว้"
+    },
+    {
+      "chinese": "缠缠绵绵了5年,还是要拜拜了",
+      "translation": "พัวพันกันมา 5 ปี สุดท้ายก็ต้องเลิกกัน"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "สำนวนจีน",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/chan/"
+}

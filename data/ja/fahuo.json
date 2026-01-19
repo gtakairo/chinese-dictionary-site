@@ -1,0 +1,16 @@
+{
+  "slug": "fahuo",
+  "chinese": "发火线圈",
+  "pinyin": "fā huǒ xiàn quān",
+  "meaning": "イグニッションコイル",
+  "description": "点火プラグへ高電圧を供給するための自動車用コイル部品。",
+  "examples": [
+    {"chinese": "检查发火线圈的电阻", "japanese": "イグニッションコイルの抵抗値を確認する"},
+    {"chinese": "发火线圈老化会导致点火不良", "japanese": "コイルの劣化は点火不良の原因になる"},
+    {"chinese": "更换发火线圈后故障消除", "japanese": "コイル交換で不具合が解消した"}
+  ],
+  "category": "car",
+  "categoryName": "自動車",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/fahuo/"
+}

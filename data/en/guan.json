@@ -1,0 +1,29 @@
+{
+  "slug": "guan",
+  "chinese": "管饱",
+  "pinyin": "guǎn bǎo",
+  "meaning": "1. To be enough to eat; all you can eat 2. To fill one's stomach",
+  "description": "Often used to imply that quantity is sufficient to satisfy hunger.",
+  "examples": [
+    {
+      "chinese": "一个切两份分两次吃,半个就管饱",
+      "translation": "Cut one into two portions to eat twice, half is enough to verify hunger."
+    },
+    {
+      "chinese": "今天是连饭都没时间吃的,一天一顿管饱",
+      "translation": "I didn't even have time to eat today, just one full meal a day is enough."
+    },
+    {
+      "chinese": "来我家,没什么好菜但我保证肉管饱,酒管够",
+      "translation": "Come to my house, there are no fancy dishes but I guarantee enough meat to fill you up and enough wine."
+    },
+    {
+      "chinese": "胃口变大了,以前一个汉堡可以吃撑 现在两个汉堡才管饱",
+      "translation": "My appetite has grown; I used to be stuffed with one burger, now it takes two to get full."
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "Uncategorized",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/guan/"
+}

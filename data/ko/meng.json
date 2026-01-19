@@ -1,0 +1,25 @@
+{
+  "slug": "meng",
+  "chinese": "懵逼",
+  "pinyin": "měng bī",
+  "meaning": "멍해지다 / 어안이 벙벙하다 / 멘붕",
+  "description": "눈앞에서 벌어진 일이나 현상에 어안이 벙벙해지는 것. 一脸懵, 一脸懵逼, 一脸懵b와 같다.",
+  "examples": [
+    {
+      "chinese": "困懵逼了,差点儿一头扎进男厕所",
+      "translation": "너무 졸려서 멍한 나머지, 하마터면 남자 화장실로 들어갈 뻔했다."
+    },
+    {
+      "chinese": "这个视频看完绝对一脸懵逼",
+      "translation": "이 영상을 다 보면 무조건 멍해질 것이다."
+    },
+    {
+      "chinese": "我知道对方身份后,瞬间一脸懵逼",
+      "translation": "상대방의 정체를 알고 나서 순간 어안이 벙벙해졌다."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/meng/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "fen",
+  "chinese": "粉",
+  "pinyin": "fěn",
+  "meaning": "มาก / สุดๆ",
+  "description": "มีความหมายเดียวกับ \"hěn\" (很)",
+  "examples": [
+    {
+      "chinese": "粉开心",
+      "translation": "สนุกมากๆ"
+    },
+    {
+      "chinese": "粉可爱",
+      "translation": "น่ารักสุดๆ"
+    },
+    {
+      "chinese": "粉高兴",
+      "translation": "ดีใจมากๆ"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์สแลงอินเทอร์เน็ต",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/fen/"
+}

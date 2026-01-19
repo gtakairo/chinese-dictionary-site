@@ -1,0 +1,36 @@
+{
+  "slug": "gan",
+  "chinese": "淦",
+  "pinyin": "gàn",
+  "meaning": "Damn / Shoot / Crap",
+  "description": "Internet slang for 「Gan」 (to do/f*ck). Similar usage to 「Damn it」. Used to express frustration or realization.",
+  "examples": [
+    {
+      "chinese": "淦…后知后觉",
+      "translation": "Damn... realized it too late."
+    },
+    {
+      "chinese": "淦了,我的脑子进屎",
+      "translation": "Crap, my brain is full of sh*t."
+    },
+    {
+      "chinese": "真的淦了,又喝大了",
+      "translation": "Really damn it, drank too much again."
+    },
+    {
+      "chinese": "一大早起来就肚子痛,淦",
+      "translation": "Woke up early and stomach hurts, damn."
+    },
+    {
+      "chinese": "妈的一下雨就堵车淦啊",
+      "translation": "Damn it, traffic jam as soon as it rains, what the hell."
+    }
+  ],
+  "category": "tanci",
+  "categoryName": "Interjection",
+  "relatedWords": [
+    "houzhihoujue",
+    "naozijinshi"
+  ],
+  "sourceUrl": "https://chineself.com/gan/"
+}

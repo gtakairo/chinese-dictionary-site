@@ -1,0 +1,25 @@
+{
+  "slug": "shekong",
+  "chinese": "社恐",
+  "pinyin": "shè kǒng",
+  "meaning": "Social Phobia / Social Anxiety",
+  "description": "Abbreviation for Social Phobia. Antonym: She Niu (Social Butterfly). Related: She Za, She Leng.",
+  "examples": [
+    {
+      "chinese": "人越多越局促,见的人越多越社恐",
+      "translation": "The more people there are, the more uncomfortable I feel; the more people I see, the more anxious I get."
+    },
+    {
+      "chinese": "啥时候可以面试不紧张呢,社恐人哭哭",
+      "translation": "When will I stop being nervous at interviews? Crying in social anxiety."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [
+    "sheniu",
+    "sheza",
+    "sheleng"
+  ],
+  "sourceUrl": "https://chineself.com/shekong/"
+}

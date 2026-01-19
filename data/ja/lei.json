@@ -1,0 +1,25 @@
+{
+  "slug": "lei",
+  "chinese": "泪奔",
+  "pinyin": "lèi bēn",
+  "meaning": "涙が自然と溢れ出る",
+  "description": "涙を流して走り去るようなイメージ。感動や悲しみで涙が止まらない様子を表す。",
+  "examples": [
+    {
+      "chinese": "刚刚看到一句话我瞬间泪奔了",
+      "translation": "たった今この一言を見て涙が溢れ出た"
+    },
+    {
+      "chinese": "听到她的歌声,引得全场观众泪奔",
+      "translation": "彼女の歌声を聴いて会場全体が涙に包まれた"
+    },
+    {
+      "chinese": "这段视频让无数人泪奔",
+      "translation": "この動画により数えきれない人が涙を流している"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/lei/"
+}

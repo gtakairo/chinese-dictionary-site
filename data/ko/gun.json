@@ -1,0 +1,25 @@
+{
+  "slug": "gun",
+  "chinese": "棍棒教育",
+  "pinyin": "gùn bàng jiào yù",
+  "meaning": "매질 교육 (체벌 교육)",
+  "description": "매를 아끼지 않는 엄한 교육 방식을 말한다. 「곤봉식 교육(棍棒式教育)」이라고도 한다.",
+  "examples": [
+    {
+      "chinese": "我觉得棍棒教育不是教育而是对弱小的暴力",
+      "translation": "나는 체벌 교육이 교육이 아니라약자에 대한 폭력이라고 생각한다."
+    },
+    {
+      "chinese": "大多数是棍棒教育\"治标不治本\"",
+      "translation": "대부분의 체벌 교육은 근본적인 해결책이 되지 못한다."
+    },
+    {
+      "chinese": "到底是树大自然直,还是棍棒之下出孝子？",
+      "translation": "나무는 자연스럽게 곧게 자라는 것인가, 아니면 매질 아래에서 효자가 나오는 것인가?"
+    }
+  ],
+  "category": "jiaoyu",
+  "categoryName": "교육/학교",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/gun/"
+}

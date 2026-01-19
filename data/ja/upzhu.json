@@ -1,0 +1,14 @@
+{
+  "slug": "upzhu",
+  "chinese": "UP主",
+  "pinyin": "u p zhǔ",
+  "meaning": "動画投稿者（ビリビリなど）",
+  "description": "動画サイトでコンテンツを投稿する人を指す。",
+  "examples": [
+    {"chinese": "这位UP主很有才华", "japanese": "このUP主は才能がある"}
+  ],
+  "category": "wailaiyu",
+  "categoryName": "外来語・ネット用語",
+  "relatedWords": ["poquan"],
+  "sourceUrl": "https://chineself.com/upzhu/"
+}

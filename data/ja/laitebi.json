@@ -1,0 +1,16 @@
+{
+  "slug": "laitebi",
+  "chinese": "莱特币",
+  "pinyin": "lái tè bì",
+  "meaning": "ライトコイン（Litecoin）",
+  "description": "ビットコインに類似した暗号資産。決済の速さを特徴とする。",
+  "examples": [
+    {"chinese": "莱特币转账速度更快", "japanese": "ライトコインは送金速度が速い"},
+    {"chinese": "他在挖莱特币", "japanese": "彼はライトコインをマイニングしている"},
+    {"chinese": "配置一部分莱特币", "japanese": "ポートフォリオの一部にLTCを組み入れる"}
+  ],
+  "category": "jinrong",
+  "categoryName": "金融・投資",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/laitebi/"
+}

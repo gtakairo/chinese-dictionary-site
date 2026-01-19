@@ -1,0 +1,33 @@
+{
+  "slug": "kan",
+  "chinese": "堪比",
+  "pinyin": "kān bǐ",
+  "meaning": "匹敵する、～に劣らない、引けを取らない",
+  "description": "不逊色于、不亚于、比得上などが同義語。",
+  "examples": [
+    {
+      "chinese": "这辆车价格堪比保时捷",
+      "translation": "この車の価格はポルシェと変わらない"
+    },
+    {
+      "chinese": "这所双非大学实力堪比211",
+      "translation": "この双非大学の実力は211重点大学に劣らない"
+    },
+    {
+      "chinese": "每天做这个动作,护心效果堪比药",
+      "translation": "毎日のこのエクササイズのケアする効果は薬に匹敵する"
+    },
+    {
+      "chinese": "他帅气的面庞,堪比模特的风格",
+      "translation": "彼のハンサムな顔つきはモデルの風格に引けを取らない"
+    },
+    {
+      "chinese": "这里森林茂密美丽,堪比桂林山水",
+      "translation": "この場所の森林は生い茂って美しく桂林の山水に匹敵する"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "未分類",
+  "relatedWords": ["bideshang", "shuangfei"],
+  "sourceUrl": "https://chineself.com/kan/"
+}

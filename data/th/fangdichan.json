@@ -1,0 +1,25 @@
+{
+  "slug": "fangdichan",
+  "chinese": "房地产信托基金",
+  "pinyin": "fáng dì chǎn xìn tuō jī jīn",
+  "meaning": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์ (REIT)",
+  "description": "กองทุนทรัสต์ที่เน้นลงทุนในอสังหาริมทรัพย์ โดยจัดสรรรายได้จากค่าเช่าและกำไรจากการขายอสังหาริมทรัพย์ให้กับนักลงทุน",
+  "examples": [
+    {
+      "chinese": "我准备配置一点房地产信托基金",
+      "translation": "ฉันวางแผนที่จะจัดสรรเงินส่วนหนึ่งลงทุนใน REIT"
+    },
+    {
+      "chinese": "房地产信托基金收益比较稳定",
+      "translation": "ผลตอบแทนของ REIT ค่อนข้างมั่นคง"
+    },
+    {
+      "chinese": "他通过房地产信托基金分散风险",
+      "translation": "เขากระจายความเสี่ยงผ่าน REIT"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "การเงินและการลงทุน",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/fangdichan/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "dianying",
+  "chinese": "点映",
+  "pinyin": "diǎn yìng",
+  "meaning": "시사회, 선행 상영",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "1日超前点映,5日全国公映",
+      "translation": "1일 선행 상영, 5일 전국 개봉."
+    },
+    {
+      "chinese": "电影点映会和正片不一样吗",
+      "translation": "영화 시사회와 본편은 다른가요?"
+    },
+    {
+      "chinese": "一般每一部影片在正式上映的时候都会先进行点映",
+      "translation": "일반적으로 모든 영화는 정식 개봉 전에 시사회를 먼저 진행합니다."
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "미분류",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/dianying/"
+}

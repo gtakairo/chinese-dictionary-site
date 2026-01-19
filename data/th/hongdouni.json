@@ -1,0 +1,30 @@
+{
+  "slug": "hongdouni",
+  "chinese": "红豆泥",
+  "pinyin": "hóng dòu ní",
+  "meaning": "ฮอนโตนิ (จริงๆ นะ)",
+  "description": "คำทับศัพท์ภาษาญี่ปุ่น \"Hontou ni\" (จริงๆ นะ / จริงเหรอ)",
+  "examples": [
+    {
+      "chinese": "红豆泥斯米马赛",
+      "translation": "ขอโทษจริงๆ นะ (ฮอนโตนิ สึมิมาเซ็ง)"
+    },
+    {
+      "chinese": "红豆泥卡哇伊得斯内",
+      "translation": "น่ารักจริงๆ เลยนะ (ฮอนโตนิ คาวาอี้ เดสเนะ)"
+    },
+    {
+      "chinese": "红豆泥果咩那塞",
+      "translation": "ขอโทษจริงๆ (ฮอนโตนิ โกเมนนาไซ)"
+    }
+  ],
+  "category": "wailaiyu",
+  "categoryName": "คำยืม/คำทับศัพท์",
+  "relatedWords": [
+    "sumimasai",
+    "kawayi",
+    "diesinei",
+    "guomienasai"
+  ],
+  "sourceUrl": "https://chineself.com/hongdouni/"
+}

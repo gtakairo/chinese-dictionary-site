@@ -1,0 +1,27 @@
+{
+  "slug": "nan",
+  "chinese": "难绷",
+  "pinyin": "nán bēng",
+  "meaning": "참기 힘들다; (감정, 압력을) 억누를 수 없다",
+  "description": "'bengbuzhule'와 같은 의미. 감정이나 압력을 억누를 수 없는 상태를 나타냄.",
+  "examples": [
+    {
+      "chinese": "我全程笑麻了,真的难绷啊",
+      "translation": "내내 웃느라 혼났네, 진짜 참기 힘들다."
+    },
+    {
+      "chinese": "我有点难绷,冷得我直接关空调",
+      "translation": "좀 참기 힘들어서, 너무 추워서 바로 에어컨 껐어."
+    },
+    {
+      "chinese": "最近压力真是太难绷了,但是坚持才有希望吧",
+      "translation": "요즘 압박감이 정말 참기 힘들지만, 버텨야 희망이 있겠지."
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "미분류",
+  "relatedWords": [
+    "bengbuzhule"
+  ],
+  "sourceUrl": "https://chineself.com/nan/"
+}

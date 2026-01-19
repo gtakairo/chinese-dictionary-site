@@ -1,0 +1,29 @@
+{
+  "slug": "nanyou",
+  "chinese": "男友力",
+  "pinyin": "nán yǒu lì",
+  "meaning": "ความเป็นแฟนหนุ่ม; เสน่ห์ดึงดูดแบบผู้ชาย; ความเป็นชาย",
+  "description": "มาจากคำว่า 'Girl Power' (Joshiryoku) ในภาษาญี่ปุ่นที่เป็นที่นิยม จึงเกิดเป็นเวอร์ชันผู้ชาย หมายถึงผู้ชายที่มีความเป็นชายสูงและเหมาะจะเป็นแฟน",
+  "examples": [
+    {
+      "chinese": "你的老公满满的男友力",
+      "translation": "สามีของคุณมีความเป็นแฟนหนุ่มเต็มเปี่ยมเลย"
+    },
+    {
+      "chinese": "他太苏了吧,男友力爆棚",
+      "translation": "เขาน่าหลงใหลมาก ความเป็นแฟนหนุ่มทะลุปรอท"
+    },
+    {
+      "chinese": "一间亲手完成的DIY地下室,尊嘟男友力MAX!",
+      "translation": "ห้องใต้ดิน DIY ที่ทําเองกับมือ ความเป็นแฟนหนุ่มระดับ MAX จริงๆ!"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์อินเทอร์เน็ต",
+  "relatedWords": [
+    "tailiaotaisu",
+    "baopeng",
+    "zundujiadu"
+  ],
+  "sourceUrl": "https://chineself.com/nanyou/"
+}

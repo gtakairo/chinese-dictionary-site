@@ -1,0 +1,25 @@
+{
+  "slug": "bailan",
+  "chinese": "摆烂",
+  "pinyin": "bǎi làn",
+  "meaning": "포기하다; 자포자기하다; 대충 살다; 내버려두다",
+  "description": "일에 대해 포기 모드, 소극적인 태도를 나타내요. 开摆 = 开始摆烂로 「포기 모드에 들어가다」라는 뜻이에요.",
+  "examples": [
+    {
+      "chinese": "放弃减肥摆烂了,胖怎么了!",
+      "translation": "다이어트 포기! 뚱뚱하면 어때서!"
+    },
+    {
+      "chinese": "摆烂不会让生活更好,加油！冲鸭",
+      "translation": "포기해도 인생이 나아지지 않아, 파이팅! 고고!"
+    },
+    {
+      "chinese": "不要摆烂!不要敷衍",
+      "translation": "포기하지 마! 대충 하지 마"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 신조어·속어",
+  "relatedWords": ["chongya", "tangping", "geyoutang", "aizadizadi", "foxi"],
+  "sourceUrl": "https://chineself.com/bailan/"
+}

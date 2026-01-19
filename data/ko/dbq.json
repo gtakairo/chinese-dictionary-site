@@ -1,0 +1,20 @@
+{
+  "slug": "dbq",
+  "chinese": "DBQ",
+  "pinyin": "d b q",
+  "meaning": "미안 (對不起의 약어)",
+  "description": "「對不起(뛔부치, 미안합니다)」의 초성 약어로, 가벼운 사과에 사용됩니다.",
+  "examples": [
+    {
+      "chinese": "今天迟到了DBQ",
+      "translation": "오늘 늦어서 미안."
+    }
+  ],
+  "category": "wailaiyu",
+  "categoryName": "약어/두문자어",
+  "relatedWords": [
+    "awsl",
+    "xswl"
+  ],
+  "sourceUrl": "https://chineself.com/dbq/"
+}

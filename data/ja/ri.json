@@ -1,0 +1,16 @@
+{
+  "slug": "ri",
+  "chinese": "日不到",
+  "pinyin": "rì bù dào",
+  "meaning": "エッチできなかった",
+  "description": "日は「入（rù）」の言い換え。我入你「お前を犯す」から。操不到の意味と同じ。操（cào）は「犯す」という意味もある。",
+  "examples": [
+    {"chinese": "昨天约会结果日不到", "japanese": "昨日のデートは結局（比喩）できなかった"},
+    {"chinese": "他说今天怕是日不到", "japanese": "彼は今日はたぶん（比喩）無理だと言った"},
+    {"chinese": "网友调侃又是日不到的一天", "japanese": "ネット民はまた“できなかった”一日だと自嘲した"}
+  ],
+  "category": "sub",
+  "categoryName": "サブカルチャー",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/ri/"
+}

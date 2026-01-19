@@ -1,0 +1,19 @@
+{
+  "slug": "kouhai",
+  "chinese": "口嗨",
+  "pinyin": "kǒu hāi",
+  "meaning": "All talk (no action) / Talking big online",
+  "description": "Talking big but taking no action in reality.",
+  "examples": [
+    {
+      "chinese": "别在网上口嗨了",
+      "translation": "Don't just talk big on the internet"
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [
+    "gangjing"
+  ],
+  "sourceUrl": "https://chineself.com/kouhai/"
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "jian",
+  "chinese": "简报",
+  "pinyin": "jiǎn bào",
+  "meaning": "Briefing / Newsletter / Flash report",
+  "description": "Press briefing refers to 「媒体吹风会」 or 「新闻吹风会」.",
+  "examples": [
+    {
+      "chinese": "新闻简报",
+      "translation": "News Digest"
+    },
+    {
+      "chinese": "每日简报",
+      "translation": "Daily Briefing"
+    },
+    {
+      "chinese": "每月工作简报",
+      "translation": "Monthly Work Report"
+    },
+    {
+      "chinese": "会议简报",
+      "translation": "Meeting Briefing"
+    },
+    {
+      "chinese": "信息简报",
+      "translation": "Information Brief"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "Uncategorized",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/jian/"
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "qinianzhiyang",
+  "chinese": "七年之痒",
+  "pinyin": "qī nián zhī yǎng",
+  "meaning": "권태기 (7년의 가려움)",
+  "description": "영화 'The Seven Year Itch'에서 유래. 결혼 7년 주기로 위기가 온다는 비유.",
+  "examples": [
+    {
+      "chinese": "俩人未能走过七年之痒便结束",
+      "translation": "두 사람은 7년의 고비를 넘기지 못하고 끝났다"
+    },
+    {
+      "chinese": "双方婚变或许已分居,七年之痒亮红灯",
+      "translation": "부부 사이가 변해 별거했을지도, 권태기 적신호"
+    }
+  ],
+  "category": "nannv",
+  "categoryName": "연애·결혼",
+  "relatedWords": [
+    "xinyangyang",
+    "hunbian"
+  ],
+  "sourceUrl": "https://chineself.com/qinianzhiyang/"
+}

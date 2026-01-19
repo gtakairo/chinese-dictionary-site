@@ -1,0 +1,27 @@
+{
+  "slug": "aojiao",
+  "chinese": "傲娇",
+  "pinyin": "ào jiāo",
+  "meaning": "츤데레",
+  "description": "겉으로는 쌀쌀맞고 거만해 보이지만(傲), 실제로는 애교가 많거나 따뜻한(娇) 성격.",
+  "examples": [
+    {
+      "chinese": "他家里的小傲娇,外边的边角料",
+      "translation": "집에서는 귀여운 츤데레지만, 밖에서는 잉여 인간"
+    },
+    {
+      "chinese": "女人带着些许傲娇,男人越爱女的",
+      "translation": "여자가 약간 츤데레 같을수록 남자가 더 좋아한다"
+    },
+    {
+      "chinese": "最近发现自己好喜欢带点傲娇属性的男生",
+      "translation": "요즘 약간 츤데레 속성이 있는 남자에게 끌린다는 걸 깨달았다"
+    }
+  ],
+  "category": "sub",
+  "categoryName": "서브컬처",
+  "relatedWords": [
+    "shehuibianjiaoliao"
+  ],
+  "sourceUrl": "https://chineself.com/aojiao/"
+}

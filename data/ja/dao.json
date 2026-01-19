@@ -1,0 +1,29 @@
+{
+  "slug": "dao",
+  "chinese": "倒逼",
+  "pinyin": "dào bī",
+  "meaning": "強く迫る、余儀なくされる",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "明天有事早起倒逼早睡",
+      "japanese": "明日は用事があり早く起きるため早寝を余儀なくされる"
+    },
+    {
+      "chinese": "遇到逆境时倒逼自己接受现实",
+      "japanese": "逆境に遭遇したときに現実を受け入れることを余儀なくされる"
+    },
+    {
+      "chinese": "当下经济下行困境,倒逼创新转型",
+      "japanese": "経済が下振れしているときは、革新的な転換を迫られる"
+    },
+    {
+      "chinese": "双碳目标倒逼新型电力系统建设提速",
+      "japanese": "脱炭素政策のため新型電力システム建設のスピードを速めるよう迫られる"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語・スラング",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/dao/"
+}

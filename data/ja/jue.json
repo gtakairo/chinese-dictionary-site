@@ -1,0 +1,16 @@
+{
+  "slug": "jue",
+  "chinese": "蕨饼",
+  "pinyin": "jué bǐng",
+  "meaning": "わらび餅",
+  "description": "中国でも和菓子として親しまれる、わらび粉で作る柔らかな餅菓子。",
+  "examples": [
+    {"chinese": "我很喜欢吃蕨饼", "japanese": "わらび餅が大好き"},
+    {"chinese": "这家店的蕨饼很Q弹", "japanese": "この店のわらび餅はぷるぷるだ"},
+    {"chinese": "夏天吃蕨饼清爽不腻", "japanese": "夏に食べるわらび餅はさっぱりしている"}
+  ],
+  "category": "liaoli",
+  "categoryName": "料理",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/jue/"
+}

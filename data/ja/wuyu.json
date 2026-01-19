@@ -1,0 +1,33 @@
+{
+  "slug": "wuyu",
+  "chinese": "无语",
+  "pinyin": "wú yǔ",
+  "meaning": "言葉が出ない、言葉を失う、話にならない、呆れる、絶句",
+  "description": "无话可说と同じ。漫画や小説では「・・・」と表示される。无语到了、无了个大语は強調形。",
+  "examples": [
+    {
+      "chinese": "他每天迟到,真的很无语",
+      "translation": "彼は毎日遅刻、本当に言葉を失う"
+    },
+    {
+      "chinese": "该说不说,有时候我对你真的挺无语的",
+      "translation": "ぶっちゃけ、ある時はあなたに対して言葉が出ない"
+    },
+    {
+      "chinese": "怎么突然涨费用了呢,蛮无语",
+      "translation": "どうして突然費用が値上るの、絶句してしまう"
+    },
+    {
+      "chinese": "这个人的各种行为,真的太让人无语了",
+      "translation": "この人のすべての行動は、ほんとう呆れてしまう"
+    },
+    {
+      "chinese": "你的态度,无语死啦！气死耶",
+      "translation": "あなたの態度、話にならない、腹が立つ"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": ["wuhuakeshuo", "wulegedayu", "gaishuobushuo"],
+  "sourceUrl": "https://chineself.com/wuyu/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "beiju",
+  "chinese": "杯具",
+  "pinyin": "bēi jù",
+  "meaning": "①カップ、コップ ②悲劇、不幸だ",
+  "description": "一般的にはコップ、茶碗類のことだが、ネット用語として悲剧（bēi jù）の意味でも使用される。逆に喜劇は、喜劇（xǐ jù）＝洗具（xǐ jù）となる。",
+  "examples": [
+    {
+      "chinese": "太水逆了,为什么会发生这种杯具呢",
+      "translation": "全くツイてない、どうしてこんな悲劇が起きるの"
+    },
+    {
+      "chinese": "夫妻关系不好,就是最大的杯具",
+      "translation": "夫婦関係が悪いのが最大の不幸だ"
+    },
+    {
+      "chinese": "太杯具了,简直是天降横祸",
+      "translation": "悲劇だ、まさに予期せぬ災害"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": ["shuini", "tianjianghenghuo"],
+  "sourceUrl": "https://chineself.com/beiju/"
+}

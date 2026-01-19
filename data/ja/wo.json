@@ -1,0 +1,16 @@
+{
+  "slug": "wo",
+  "chinese": "握柄",
+  "pinyin": "wò bǐng",
+  "meaning": "（クラブ）グリップ",
+  "description": "ゴルフクラブなどの握る部分を指す。",
+  "examples": [
+    {"chinese": "更换磨损的握柄", "japanese": "摩耗したグリップを交換する"},
+    {"chinese": "握柄要保持干燥", "japanese": "グリップは乾いた状態を保つ"},
+    {"chinese": "选择合适的握柄粗细", "japanese": "適切な太さのグリップを選ぶ"}
+  ],
+  "category": "sports",
+  "categoryName": "スポーツ",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/wo/"
+}

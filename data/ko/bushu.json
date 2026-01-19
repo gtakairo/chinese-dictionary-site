@@ -1,0 +1,28 @@
+{
+  "slug": "bushu",
+  "chinese": "不顺气",
+  "pinyin": "bù shùn qì",
+  "meaning": "뜻대로 되지 않다, 기분이 풀리지 않다",
+  "description": "「순치(顺气)」는 「(거스르는 것이 없어) 기분이 좋은 상태」를 의미함.",
+  "examples": [
+    {
+      "chinese": "我遇见不顺气的事就开始听歌发泄",
+      "translation": "나는 뜻대로 안 되는 일이 있으면 노래를 들으며 푼다."
+    },
+    {
+      "chinese": "哇操,不发个脾气真是不顺气",
+      "translation": "젠장, 화를 안 내면 정말 직성이 안 풀려."
+    },
+    {
+      "chinese": "上周开始水逆了,心情暴差,不顺气",
+      "translation": "지난주부터 머큐리 레트로그레이드(수성 역행)라 기분이 엉망이고 답답해."
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "미분류",
+  "relatedWords": [
+    "wacao",
+    "shuini"
+  ],
+  "sourceUrl": "https://chineself.com/bushu/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "fan",
+  "chinese": "反败为胜",
+  "pinyin": "fǎn bài wéi shèng",
+  "meaning": "逆転勝利、起死回生の",
+  "description": "敗勢を逆転して勝利に変える。",
+  "examples": [
+    {
+      "chinese": "最终日本4比3反败为胜",
+      "japanese": "最後には日本は4対3で逆転勝利した"
+    },
+    {
+      "chinese": "没想到最后居然反败为胜了",
+      "japanese": "最後によくもまあ逆転勝利があるとは思わなかった"
+    },
+    {
+      "chinese": "人生还有反败为胜的机会",
+      "japanese": "人生にはまだ起死回生のチャンスがある"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "未分類",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/fan/"
+}

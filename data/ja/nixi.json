@@ -1,0 +1,14 @@
+{
+  "slug": "nixi",
+  "chinese": "逆袭",
+  "pinyin": "nì xí",
+  "meaning": "逆転勝ち／再起",
+  "description": "劣勢から盛り返して成功すること。",
+  "examples": [
+    {"chinese": "他从小公司逆袭到了名企", "japanese": "彼は小さな会社から逆転して有名企業へ"}
+  ],
+  "category": "net",
+  "categoryName": "ネットスラング",
+  "relatedWords": ["neijuan"],
+  "sourceUrl": "https://chineself.com/nixi/"
+}

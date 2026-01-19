@@ -1,0 +1,14 @@
+{
+  "slug": "pofang",
+  "chinese": "破防",
+  "pinyin": "pò fáng",
+  "meaning": "心の防御が崩れる（ぐさっと来る）",
+  "description": "言葉や出来事で心が傷ついて防御が崩れる感覚を表す。",
+  "examples": [
+    {"chinese": "这段话直接把我破防了", "japanese": "この一言で心の防御が崩れた"}
+  ],
+  "category": "net",
+  "categoryName": "ネットスラング",
+  "relatedWords": ["shangtou"],
+  "sourceUrl": "https://chineself.com/pofang/"
+}

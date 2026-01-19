@@ -1,0 +1,29 @@
+{
+  "slug": "xinling",
+  "chinese": "心灵鸡汤",
+  "pinyin": "xīn líng jī tāng",
+  "meaning": "Chicken Soup for the Soul / Motivational Quotes",
+  "description": "Inspiring stories or quotes that nourish the spirit (sometimes used sarcastically as 'toxic chicken soup').",
+  "examples": [
+    {
+      "chinese": "朋友圈里有每天发几句心灵鸡汤的人",
+      "translation": "There are people who post motivational quotes on their Moments every day."
+    },
+    {
+      "chinese": "我看了一些心灵鸡汤觉得自己吸收了好的营养",
+      "translation": "I read some 'chicken soup' and felt spiritually nourished."
+    },
+    {
+      "chinese": "一个故事,请喝一碗心灵鸡汤",
+      "translation": "A story for you, please have a bowl of chicken soup for the soul."
+    }
+  ],
+  "category": "sns",
+  "categoryName": "Web / SNS Terms",
+  "relatedWords": [
+    "jitangwen",
+    "dujitang",
+    "emole"
+  ],
+  "sourceUrl": "https://chineself.com/xinling/"
+}

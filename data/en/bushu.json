@@ -1,0 +1,28 @@
+{
+  "slug": "bushu",
+  "chinese": "不顺气",
+  "pinyin": "bù shùn qì",
+  "meaning": "Things not going smoothly; feeling frustrated",
+  "description": "\"Shunqi\" means \"in a pleasant state (without going against one's will)\".",
+  "examples": [
+    {
+      "chinese": "我遇见不顺气的事就开始听歌发泄",
+      "translation": "When things don't go my way, I listen to music to vent."
+    },
+    {
+      "chinese": "哇操,不发个脾气真是不顺气",
+      "translation": "Damn, I really won't feel better unless I lose my temper."
+    },
+    {
+      "chinese": "上周开始水逆了,心情暴差,不顺气",
+      "translation": "Mercury retrograde started last week, my mood is terrible, everything is frustrating."
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "Uncategorized",
+  "relatedWords": [
+    "wacao",
+    "shuini"
+  ],
+  "sourceUrl": "https://chineself.com/bushu/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "jiaoshi",
+  "chinese": "搅屎棍",
+  "pinyin": "jiǎo shǐ gùn",
+  "meaning": "분탕종자 / 트러블 메이커",
+  "description": "혼란이나 불화를 가져오는 트러블 메이커, 사람을 교란시키는 문제아 등의 의미.",
+  "examples": [
+    {
+      "chinese": "这帮小孩儿太能闹腾了,一群搅屎棍",
+      "translation": "이 아이들은 너무 시끄럽다, 완전 분탕종자들이다"
+    },
+    {
+      "chinese": "领导休假半个月,搅屎棍不在之后工作效率up",
+      "translation": "팀장이 보름 휴가 간다, 방해꾼이 없으니 업무 효율 업"
+    },
+    {
+      "chinese": "家暴的爸,抑郁症的妈,搅屎棍的弟弟,不想回家",
+      "translation": "가정 폭력 아빠, 우울증 엄마, 사고뭉치 남동생, 집에 가기 싫다"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/jiaoshi/"
+}

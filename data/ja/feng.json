@@ -1,0 +1,25 @@
+{
+  "slug": "feng",
+  "chinese": "粉感",
+  "pinyin": "fěn gǎn",
+  "meaning": "ファンデーションが浮く、メイクの粉浮き",
+  "description": "化粧下地やファンデーションが肌に馴染まず、粉ふき状態になること。",
+  "examples": [
+    {
+      "chinese": "粉霜贼拉细腻,上脸真的看不出一点粉感",
+      "translation": "クリームファンデーションがめちゃくちゃきめ細かい、塗っても浮いた感じが全くしない"
+    },
+    {
+      "chinese": "定妆喷雾按了一层以后妆面太持久还可以降低粉感",
+      "translation": "メイクキープスプレーを噴きかけたあとは、持ちが良くメイクの粉浮きも抑えてくれる"
+    },
+    {
+      "chinese": "超级好用的散粉,不是明显粉感,和肌肤融合的非常自然",
+      "translation": "超～使い心地よいフェイスパウダー、粉浮きしない、肌と自然になじむ"
+    }
+  ],
+  "category": "fashion",
+  "categoryName": "ファッション・美容",
+  "relatedWords": ["zeila"],
+  "sourceUrl": "https://chineself.com/feng/"
+}

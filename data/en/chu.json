@@ -1,0 +1,33 @@
+{
+  "slug": "chu",
+  "chinese": "厨",
+  "pinyin": "chú",
+  "meaning": "1. Kitchen, cook 2. Maniac, otaku, enthusiastic fan",
+  "description": "Meaning 2 is slang, used similarly to 「addict」 (pinyin: chú). Derived from Japanese slang 「chu」 (from chudoku - addiction). Refers to fans who are obsessed with specific works or content.",
+  "examples": [
+    {
+      "chinese": "厨厨们",
+      "translation": "Otakus / Fanatics"
+    },
+    {
+      "chinese": "型月厨（＝月月厨厨）",
+      "translation": "TYPE-MOON fan"
+    },
+    {
+      "chinese": "JO厨",
+      "translation": "JoJo's Bizarre Adventure fanatic"
+    },
+    {
+      "chinese": "东方厨",
+      "translation": "Touhou Project maniac"
+    },
+    {
+      "chinese": "原作厨",
+      "translation": "Original work purist (fan who only accepts the original work)"
+    }
+  ],
+  "category": "sub",
+  "categoryName": "Subculture",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/chu/"
+}

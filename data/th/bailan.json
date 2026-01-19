@@ -1,0 +1,31 @@
+{
+  "slug": "bailan",
+  "chinese": "摆烂",
+  "pinyin": "bǎi làn",
+  "meaning": "เท, ปล่อยจอย, ช่างมัน, ทิ้งตัว",
+  "description": "หมายถึงอาการหมดไฟ หรือยอมแพ้ต่อสถานการณ์ ไม่เอาอะไรแล้ว ปล่อยให้มันล่มจมไปเลย 开摆 (kāi bǎi) = เริ่มเข้าสู่โหมดปล่อยจอย",
+  "examples": [
+    {
+      "chinese": "放弃减肥摆烂了,胖怎么了!",
+      "translation": "เลิกลดน้ำหนักแล้ว ปล่อยจอย อ้วนแล้วไง!"
+    },
+    {
+      "chinese": "摆烂不会让生活更好,加油！冲鸭",
+      "translation": "การยอมแพ้ไม่ได้ทำให้ชีวิตดีขี้นหรอก สู้ๆ! ลุยเลย"
+    },
+    {
+      "chinese": "不要摆烂!不要敷衍",
+      "translation": "อย่าเพิ่งถอดใจ! อย่าทำแบบขอไปที"
+    }
+  ],
+  "category": "net",
+  "categoryName": "สแลงอินเทอร์เน็ต",
+  "relatedWords": [
+    "chongya",
+    "tangping",
+    "geyoutang",
+    "aizadizadi",
+    "foxi"
+  ],
+  "sourceUrl": "https://chineself.com/bailan/"
+}

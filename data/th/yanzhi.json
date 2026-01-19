@@ -1,0 +1,20 @@
+{
+  "slug": "yanzhi",
+  "chinese": "颜值",
+  "pinyin": "yán zhí",
+  "meaning": "ระดับความหน้าตาดี / ความสวยหล่อ",
+  "description": "ระดับความดูดีของหน้าตา",
+  "examples": [
+    {
+      "chinese": "她的颜值很高",
+      "translation": "หน้าตาดีมาก (ระดับความหน้าตาดีสูง)"
+    }
+  ],
+  "category": "net",
+  "categoryName": "รูปลักษณ์ / การประเมิน",
+  "relatedWords": [
+    "yanzhitianhuaban",
+    "yankong"
+  ],
+  "sourceUrl": "https://chineself.com/yanzhi/"
+}

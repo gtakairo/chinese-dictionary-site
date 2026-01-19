@@ -1,0 +1,20 @@
+{
+  "slug": "dbq",
+  "chinese": "DBQ",
+  "pinyin": "d b q",
+  "meaning": "ขอโทษ (ย่อมาจาก 对不起)",
+  "description": "ตัวย่อจากอักษรตัวแรกของพินอินคำว่า 「duì bù qǐ」 ใช้สำหรับการขอโทษแบบไม่เป็นทางการ",
+  "examples": [
+    {
+      "chinese": "今天迟到了DBQ",
+      "translation": "วันนี้มาสาย ขอโทษที"
+    }
+  ],
+  "category": "wailaiyu",
+  "categoryName": "คำย่อ/อักษรย่อ",
+  "relatedWords": [
+    "awsl",
+    "xswl"
+  ],
+  "sourceUrl": "https://chineself.com/dbq/"
+}

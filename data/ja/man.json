@@ -1,0 +1,33 @@
+{
+  "slug": "man",
+  "chinese": "慢半拍",
+  "pinyin": "màn bàn pāi",
+  "meaning": "①ワンテンポ遅い、反応が鈍い ②後手に回る、出遅れる",
+  "description": "リズムや反応が半拍遅れていることを表す表現。",
+  "examples": [
+    {
+      "chinese": "她跳舞又开始慢半拍的节奏",
+      "translation": "彼女のダンスはまたリズムからワンテンポ遅れた"
+    },
+    {
+      "chinese": "我不管做什么,都比别人慢半拍",
+      "translation": "私は何をするにも人に比べワンテンポ遅れる"
+    },
+    {
+      "chinese": "这踏马手机一连WIFI网络反应总是慢半拍",
+      "translation": "このクソッたれこのスマホめ、Wi-Fiの反応がいつも鈍い"
+    },
+    {
+      "chinese": "公共政策不能总是慢半拍",
+      "translation": "公共政策はいつも後手に回ってはいけない"
+    },
+    {
+      "chinese": "速度时代苹果汽车开发慢半拍",
+      "translation": "スピード時代でApple Carの開発が出遅れる"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": ["tama"],
+  "sourceUrl": "https://chineself.com/man/"
+}

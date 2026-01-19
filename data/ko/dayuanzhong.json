@@ -1,0 +1,20 @@
+{
+  "slug": "dayuanzhong",
+  "chinese": "大冤种",
+  "pinyin": "dà yuān zhǒng",
+  "meaning": "호구, 봉",
+  "description": "착취당하기 쉽거나 속기 쉬운 사람을 자조적으로 표현하는 인터넷 용어입니다.",
+  "examples": [
+    {
+      "chinese": "买理财成了大冤种",
+      "translation": "재테크 상품 샀다가 완전 호구 됐다."
+    }
+  ],
+  "category": "net",
+  "categoryName": "자조/평가",
+  "relatedWords": [
+    "jiucai",
+    "baipiao"
+  ],
+  "sourceUrl": "https://chineself.com/dayuanzhong/"
+}

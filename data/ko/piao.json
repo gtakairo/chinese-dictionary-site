@@ -1,0 +1,29 @@
+{
+  "slug": "piao",
+  "chinese": "飘忽不定",
+  "pinyin": "piāo hū bù dìng",
+  "meaning": "오락가락하다, 종잡을 수 없다",
+  "description": "흔들리고 정착하지 못함.",
+  "examples": [
+    {
+      "chinese": "眼神飘忽不定,看起来有很迷离",
+      "translation": "눈빛이 오락가락하고 몽롱해 보인다"
+    },
+    {
+      "chinese": "我注意力难以集中,思绪飘忽不定,一句话也没听进去",
+      "translation": "집중하기 힘들고 생각이 표류해서 한 마디도 안 들렸다"
+    },
+    {
+      "chinese": "血压飘忽不定,未必就是高血压",
+      "translation": "혈압이 오르락내리락한다고 꼭 고혈압인 건 아니다"
+    },
+    {
+      "chinese": "因为我真的成绩飘忽不定,考试可咋办",
+      "translation": "성적이 정말 들쑥날쑥해서 시험 어떡하지"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "사자성어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/piao/"
+}

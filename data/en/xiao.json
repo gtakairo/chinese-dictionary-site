@@ -1,0 +1,31 @@
+{
+  "slug": "xiao",
+  "chinese": "小白",
+  "pinyin": "xiǎo bái",
+  "meaning": "Newbie / Noob / Beginner",
+  "description": "Internet slang for a beginner or newcomer.",
+  "examples": [
+    {
+      "chinese": "哪些适合于小白的投资？",
+      "translation": "What investments are suitable for beginners?"
+    },
+    {
+      "chinese": "新手小白从哪开始",
+      "translation": "Where should a total newbie start?"
+    },
+    {
+      "chinese": "刚刚入职小白,如何应对工作",
+      "translation": "Just joined as a newbie, how to handle the work?"
+    },
+    {
+      "chinese": "我觉得自己是个恋爱小白",
+      "translation": "I feel like a newbie in love."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [
+    "cainiao"
+  ],
+  "sourceUrl": "https://chineself.com/xiao/"
+}

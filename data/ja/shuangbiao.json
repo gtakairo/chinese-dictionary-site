@@ -1,0 +1,12 @@
+{
+  "slug": "shuangbiao",
+  "chinese": "双标",
+  "pinyin": "shuāng biāo",
+  "meaning": "ダブスタ（ダブルスタンダード）",
+  "description": "状況や相手によって基準を変えることへの批判。",
+  "examples": [{"chinese": "别双标了", "japanese": "ダブスタはやめて"}],
+  "category": "net",
+  "categoryName": "議論・評価",
+  "relatedWords": ["gangjing", "yinyangguaiqi"],
+  "sourceUrl": "https://chineself.com/shuangbiao/"
+}

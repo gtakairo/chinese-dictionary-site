@@ -1,0 +1,25 @@
+{
+  "slug": "mama",
+  "chinese": "麻麻",
+  "pinyin": "mā mɑ",
+  "meaning": "แม่ / หม่าม้า",
+  "description": "ศัพท์แสลงอินเทอร์เน็ตหมายถึงแม่ (妈妈) คำว่า \"ป๋าป๋า\" (拔拔) หมายถึง \"พ่อ\"",
+  "examples": [
+    {
+      "chinese": "麻麻生日快乐！",
+      "translation": "สุขสันต์วันเกิดนะแม่!"
+    },
+    {
+      "chinese": "最想吃的还是麻麻做的菜",
+      "translation": "สิ่งที่อยากกินที่สุดก็คือกับข้าวฝีมือแม่"
+    },
+    {
+      "chinese": "拔拔麻麻我想你们了",
+      "translation": "ป๊าม้า หนูคิดถึงพวกท่านนะ"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์แสลงทางอินเทอร์เน็ต",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/mama/"
+}

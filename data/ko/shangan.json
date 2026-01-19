@@ -1,0 +1,19 @@
+{
+  "slug": "shangan",
+  "chinese": "上岸",
+  "pinyin": "shàng àn",
+  "meaning": "합격하다 / 채용되다 (고난에서 벗어나다)",
+  "description": "시험이나 취업에 합격하여 고난에서 벗어나는 것.",
+  "examples": [
+    {
+      "chinese": "希望今年能上岸",
+      "translation": "올해는 꼭 '상안'하고(합격하고) 싶다."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 속어",
+  "relatedWords": [
+    "rukeng"
+  ],
+  "sourceUrl": "https://chineself.com/shangan/"
+}

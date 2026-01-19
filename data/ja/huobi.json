@@ -1,0 +1,16 @@
+{
+  "slug": "huobi",
+  "chinese": "火币",
+  "pinyin": "huǒ bì",
+  "meaning": "フォビ（Huobi）【仮想通貨の取引所】",
+  "description": "大手暗号資産取引所のひとつ。現物・先物・ステーキング等のサービスを提供。",
+  "examples": [
+    {"chinese": "我在火币交易比特币", "japanese": "Huobiでビットコインを取引している"},
+    {"chinese": "火币的手续费调整了", "japanese": "Huobiの手数料が変更になった"},
+    {"chinese": "火币上线了新币", "japanese": "Huobiが新しい銘柄を上場させた"}
+  ],
+  "category": "jinrong",
+  "categoryName": "金融・投資",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/huobi/"
+}

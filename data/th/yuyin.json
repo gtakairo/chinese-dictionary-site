@@ -1,0 +1,27 @@
+{
+  "slug": "yuyin",
+  "chinese": "欲迎还拒",
+  "pinyin": "yù yíng huán jù",
+  "meaning": "แกล้งปฏิเสธ / เล่นตัว",
+  "description": "ใจจริงอยากรับแต่แกล้งทําเป็นปฏิเสธ",
+  "examples": [
+    {
+      "chinese": "如何识破女生的欲迎还拒",
+      "translation": "วิธีดูผู้หญิงที่แกล้งเล่นตัว"
+    },
+    {
+      "chinese": "拴住男人心,有一个技巧:欲迎还拒约会",
+      "translation": "เคล็ดลับมัดใจชาย: แกล้งปฏิเสธนัดบ้าง"
+    },
+    {
+      "chinese": "当别人送你礼物时不要欲迎还拒",
+      "translation": "เวลาคนอื่นให้ของขวัญ อย่าแกล้งปฏิเสธ"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "สำนวน",
+  "relatedWords": [
+    "yujuhuanying"
+  ],
+  "sourceUrl": "https://chineself.com/yuyin/"
+}

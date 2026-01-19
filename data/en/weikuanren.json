@@ -1,0 +1,20 @@
+{
+  "slug": "weikuanren",
+  "chinese": "尾款人",
+  "pinyin": "wěi kuǎn rén",
+  "meaning": "Balance Payer / Final Payment Payer",
+  "description": "Self-mockery describing consumers who are chased by final payments after sales (like Double 11).",
+  "examples": [
+    {
+      "chinese": "双11后成了尾款人",
+      "translation": "Became a 'balance payer' after Double 11."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Consumption / Self-mockery",
+  "relatedWords": [
+    "zhongcao",
+    "bacao"
+  ],
+  "sourceUrl": "https://chineself.com/weikuanren/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "dashibi",
+  "chinese": "达世币",
+  "pinyin": "dá shì bì",
+  "meaning": "Dash (Cryptocurrency)",
+  "description": "Chinese name for the cryptocurrency Dash, known for its privacy and instant transaction features.",
+  "examples": [
+    {
+      "chinese": "达世币价格波动很大",
+      "translation": "The price of Dash fluctuates greatly."
+    },
+    {
+      "chinese": "了解达世币的隐私特性",
+      "translation": "Understand the privacy features of Dash."
+    },
+    {
+      "chinese": "交易所新增达世币交易对",
+      "translation": "The exchange added a new Dash trading pair."
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "Finance/Investment",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/dashibi/"
+}

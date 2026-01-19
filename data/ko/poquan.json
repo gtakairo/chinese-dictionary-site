@@ -1,0 +1,19 @@
+{
+  "slug": "poquan",
+  "chinese": "破圈",
+  "pinyin": "pò quān",
+  "meaning": "탈(脫)덕, 대중화되다",
+  "description": "특정 계층을 넘어 널리 인기를 얻는 것.",
+  "examples": [
+    {
+      "chinese": "这部剧破圈了",
+      "translation": "이 드라마는 대중적으로 대박 났다"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 유행어",
+  "relatedWords": [
+    "yyds"
+  ],
+  "sourceUrl": "https://chineself.com/poquan/"
+}

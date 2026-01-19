@@ -1,0 +1,25 @@
+{
+  "slug": "xunihuobiwakuang",
+  "chinese": "虚拟货币挖矿",
+  "pinyin": "xū nǐ huò bì wā kuàng",
+  "meaning": "가상화폐 채굴 / 코인 채굴",
+  "description": "컴퓨팅 자원을 제공하여 블록체인 거래를 승인하고 보상을 얻는 행위.",
+  "examples": [
+    {
+      "chinese": "虚拟货币挖矿需要显卡",
+      "translation": "가상화폐 채굴에는 그래픽카드가 필요하다."
+    },
+    {
+      "chinese": "挖矿收益受币价影响",
+      "translation": "채굴 수익은 코인 가격의 영향을 받는다."
+    },
+    {
+      "chinese": "矿场电费是大头",
+      "translation": "채굴장은 전기세가 가장 큰 비중을 차지한다."
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "금융 / 투자",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/xunihuobiwakuang/"
+}

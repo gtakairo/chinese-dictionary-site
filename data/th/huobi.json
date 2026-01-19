@@ -1,0 +1,25 @@
+{
+  "slug": "huobi",
+  "chinese": "火币",
+  "pinyin": "huǒ bì",
+  "meaning": "Huobi",
+  "description": "หนึ่งในแพลตฟอร์มแลกเปลี่ยนสินทรัพย์ดิจิทัลรายใหญ่ ให้บริการสปอต ฟิวเจอร์ส สเตกกิ้ง ฯลฯ",
+  "examples": [
+    {
+      "chinese": "我在火币交易比特币",
+      "translation": "ฉันเทรดบิตคอยน์บน Huobi"
+    },
+    {
+      "chinese": "火币的手续费调整了",
+      "translation": "ค่าธรรมเนียมของ Huobi มีการปรับเปลี่ยน"
+    },
+    {
+      "chinese": "火币上线了新币",
+      "translation": "Huobi ได้ลิสต์เหรียญใหม่"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "การเงิน/การลงทุน",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/huobi/"
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "fangdichan",
+  "chinese": "房地产信托基金",
+  "pinyin": "fáng dì chǎn xìn tuō jī jīn",
+  "meaning": "不動産投資信託（REIT）",
+  "description": "不動産を中心に投資対象を組成した投資信託。賃料収入や物件売却益などを投資家に分配する。",
+  "examples": [
+    {"chinese": "我准备配置一点房地产信托基金", "japanese": "REITを少し組み入れる予定だ"},
+    {"chinese": "房地产信托基金收益比较稳定", "japanese": "REITは比較的安定した収益が見込める"},
+    {"chinese": "他通过房地产信托基金分散风险", "japanese": "彼はREITでリスク分散している"}
+  ],
+  "category": "jinrong",
+  "categoryName": "金融・投資",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/fangdichan/"
+}

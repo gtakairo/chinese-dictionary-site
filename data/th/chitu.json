@@ -1,0 +1,20 @@
+{
+  "slug": "chitu",
+  "chinese": "吃土",
+  "pinyin": "chī tǔ",
+  "meaning": "กินแกลบเพราะถังแตก (ไม่มีเงินอย่างหนัก)",
+  "description": "ศัพท์อินเทอร์เน็ตที่ใช้พูดประชดตัวเองเพื่ออธิบายสภาวะที่ไม่มีเงินซื้ออะไรเลย",
+  "examples": [
+    {
+      "chinese": "发工资前我又要吃土了",
+      "translation": "ก่อนเงินเดือนออก ฉันต้องกินแกลบอีกแล้ว"
+    }
+  ],
+  "category": "net",
+  "categoryName": "สแลงอินเทอร์เน็ต",
+  "relatedWords": [
+    "moyu",
+    "dagongren"
+  ],
+  "sourceUrl": "https://chineself.com/chitu/"
+}

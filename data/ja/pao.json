@@ -1,0 +1,25 @@
+{
+  "slug": "pao",
+  "chinese": "跑杯",
+  "pinyin": "pǎo bēi",
+  "meaning": "ずれブラ、バストの横流れ",
+  "description": "バストがブラジャーからズレること。",
+  "examples": [
+    {
+      "chinese": "求推荐内衣,不空杯不跑杯不勒肉",
+      "translation": "オススメの下着教えて、胸にフィットしてずれブラせず締め付けないもの"
+    },
+    {
+      "chinese": "运动锻炼的时候穿也不容易跑杯,入股不亏",
+      "translation": "スポーツするときでも横流れ防止ブラ、買っても絶対に後悔しない"
+    },
+    {
+      "chinese": "特别好穿内衣,固定杯垫,不移位不跑杯",
+      "translation": "とっても着心地がよい下着、パットが固定され、はみブラずれブラしない"
+    }
+  ],
+  "category": "fashion",
+  "categoryName": "ファッション・美容",
+  "relatedWords": ["bukongbei", "rugubukui"],
+  "sourceUrl": "https://chineself.com/pao/"
+}

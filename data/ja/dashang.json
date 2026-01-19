@@ -1,0 +1,25 @@
+{
+  "slug": "dashang",
+  "chinese": "打赏",
+  "pinyin": "dǎ shǎng",
+  "meaning": "投げ銭",
+  "description": "昔は身分の高い人が低い人に与える褒美として用いられていた。今はほとんど投げ銭の意味で用いる。投币も同じ意味。直播打赏は「ライブ配信での投げ銭」の意味。",
+  "examples": [
+    {
+      "chinese": "我刚打赏了5.00元,略表心意",
+      "translation": "さっき5元の投げ銭した、ほんの気持ち"
+    },
+    {
+      "chinese": "我刚打赏了1元,很喜欢作者",
+      "translation": "1元の投げ銭したよ、とても作者好きだよ"
+    },
+    {
+      "chinese": "我爱看网络直播,频频给主播打赏",
+      "translation": "私はネットライブを見て何度もホストに投げ銭するのが好きだ"
+    }
+  ],
+  "category": "sns",
+  "categoryName": "Web・SNS用語",
+  "relatedWords": ["lvebiaoxinyi"],
+  "sourceUrl": "https://chineself.com/dashang/"
+}

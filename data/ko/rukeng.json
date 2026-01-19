@@ -1,0 +1,19 @@
+{
+  "slug": "rukeng",
+  "chinese": "入坑",
+  "pinyin": "rù kēng",
+  "meaning": "입덕하다 (구덩이에 빠지다)",
+  "description": "작품이나 취미에 빠지기 시작하는 것.",
+  "examples": [
+    {
+      "chinese": "我最近入坑了模型",
+      "translation": "나 최근에 모델(프라모델 등)에 입덕했어"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 신조어",
+  "relatedWords": [
+    "shangan"
+  ],
+  "sourceUrl": "https://chineself.com/rukeng/"
+}

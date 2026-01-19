@@ -1,0 +1,28 @@
+{
+  "slug": "bushu",
+  "chinese": "不顺气",
+  "pinyin": "bù shùn qì",
+  "meaning": "ไม่ราบรื่น, หงุดหงิด, ไม่สบอารมณ์",
+  "description": "\"Shunqi\" หมายถึง \"อยู่ในสภาพที่น่าพอใจ\"",
+  "examples": [
+    {
+      "chinese": "我遇见不顺气的事就开始听歌发泄",
+      "translation": "เวลาเจอเรื่องไม่สบอารมณ์ ฉันก็จะฟังเพลงระบายความเครียด"
+    },
+    {
+      "chinese": "哇操,不发个脾气真是不顺气",
+      "translation": "แม่งเอ้ย ถ้าไม่ได้เหวี่ยงสักทีนี่มันไม่หายหงุดหงิดจริงๆ"
+    },
+    {
+      "chinese": "上周开始水逆了,心情暴差,不顺气",
+      "translation": "ดาวพุธโคจรวิปริตตั้งแต่เมื่ออาทิตย์ที่แล้ว อารมณ์เสียสุดๆ หงุดหงิดมาก"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "ไม่ระบุหมวดหมู่",
+  "relatedWords": [
+    "wacao",
+    "shuini"
+  ],
+  "sourceUrl": "https://chineself.com/bushu/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "rang",
+  "chinese": "让二追三",
+  "pinyin": "ràng èr zhuī sān",
+  "meaning": "大逆転",
+  "description": "先に2セット取られたあとに3セット奪い返す。让三追四「大きくビハインドされたあとの大逆転」と同じ。",
+  "examples": [
+    {
+      "chinese": "又是一场让二追三的比赛",
+      "japanese": "また大逆転の試合"
+    },
+    {
+      "chinese": "逆风翻盘,让二追三,惊险的胜利",
+      "japanese": "逆風を追い風に変える、大逆転、驚くべき勝利"
+    },
+    {
+      "chinese": "欧冠联赛做客3-2逆转战胜,真的让二追三",
+      "japanese": "チャンピオンズリーグ、アウェーで3-2の逆転勝利、本当に大逆転だ"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語・スラング",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/rang/"
+}

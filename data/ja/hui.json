@@ -1,0 +1,29 @@
+{
+  "slug": "hui",
+  "chinese": "灰常",
+  "pinyin": "huī cháng",
+  "meaning": "とても、ほんとうに",
+  "description": "非常（fēi cháng）のネット用語。発音が似ていることから生まれたスラング。",
+  "examples": [
+    {
+      "chinese": "灰常灰常感谢！",
+      "translation": "ほんとうに本当にありがとう！"
+    },
+    {
+      "chinese": "灰常罕见",
+      "translation": "本当に稀にみる"
+    },
+    {
+      "chinese": "成长灰常多",
+      "translation": "とても成長できた"
+    },
+    {
+      "chinese": "lo娘,灰常可爱",
+      "translation": "ロリータ娘、とっても可愛い"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": ["loniang"],
+  "sourceUrl": "https://chineself.com/hui/"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "shenma",
+  "chinese": "神马都是浮云",
+  "pinyin": "shén mǎ dōu shì fú yún",
+  "meaning": "Everything is meaningless / Everything is transient like clouds",
+  "description": "'Shenma' sounds like 'Shenme' (what). Clouds in the sky are fleeting and disappear in an instant, implying that everything is meaningless or transient.",
+  "examples": [
+    {
+      "chinese": "如果没了健康,其他神马都是浮云",
+      "translation": "Without health, everything else is just transient clouds."
+    },
+    {
+      "chinese": "金钱,名誉,这些东西,原来在生死面前神马都是浮云",
+      "translation": "Things like money and fame are all meaningless in the face of death."
+    },
+    {
+      "chinese": "人生短短几十年,人生如白马过隙,神马都是浮云？",
+      "translation": "Is life, just a few short decades fleeting like a white horse passing a crevice, all just meaningless clouds?"
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [
+    "baijuguoxi"
+  ],
+  "sourceUrl": "https://chineself.com/shenma/"
+}

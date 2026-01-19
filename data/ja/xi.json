@@ -1,0 +1,16 @@
+{
+  "slug": "xi",
+  "chinese": "下半场",
+  "pinyin": "xià bàn chǎng",
+  "meaning": "後半",
+  "description": "スポーツ試合の後半戦を指す。",
+  "examples": [
+    {"chinese": "下半场球队反超比分", "japanese": "後半にチームが逆転した"},
+    {"chinese": "下半场体能很关键", "japanese": "後半は体力が鍵になる"},
+    {"chinese": "调整战术迎接下半场", "japanese": "後半に向けて戦術を調整する"}
+  ],
+  "category": "sports",
+  "categoryName": "スポーツ",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/xi/"
+}

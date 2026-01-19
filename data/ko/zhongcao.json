@@ -1,0 +1,19 @@
+{
+  "slug": "zhongcao",
+  "chinese": "种草",
+  "pinyin": "zhòng cǎo",
+  "meaning": "뽐뿌질 / 영업하다",
+  "description": "다른 사람의 추천으로 구매 욕구가 생김.",
+  "examples": [
+    {
+      "chinese": "这款口红被我种草了",
+      "translation": "이 립스틱 영업 당했다 (사고 싶어졌다)"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 은어",
+  "relatedWords": [
+    "bacao"
+  ],
+  "sourceUrl": "https://chineself.com/zhongcao/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "wuliao",
+  "chinese": "无聊至极",
+  "pinyin": "wú liáo zhì jí",
+  "meaning": "つまらなすぎる、退屈極まりない",
+  "description": "无聊透顶でも同じ。",
+  "examples": [
+    {
+      "chinese": "无聊至极的人,快滚",
+      "translation": "本当につまらない人、早く行って"
+    },
+    {
+      "chinese": "觉得工作无聊至极怎么办",
+      "translation": "仕事がクソつまらないどうしよう"
+    },
+    {
+      "chinese": "男朋友在看足球比赛,旁边我无聊至极",
+      "translation": "ボーイフレンドがサッカーの試合見ている、横で私は退屈極まりない"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "未分類",
+  "relatedWords": ["guncu"],
+  "sourceUrl": "https://chineself.com/wuliao/"
+}

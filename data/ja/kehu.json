@@ -1,0 +1,16 @@
+{
+  "slug": "kehu",
+  "chinese": "客户新手启动",
+  "pinyin": "kè hù xīn shǒu qǐ dòng",
+  "meaning": "オンボーディング",
+  "description": "新規ユーザーや顧客が製品・サービスを使い始めるための導入支援プロセス。",
+  "examples": [
+    {"chinese": "我们优化了客户新手启动流程", "japanese": "オンボーディングの流れを改善した"},
+    {"chinese": "客户新手启动影响留存率", "japanese": "オンボーディングは継続率に影響する"},
+    {"chinese": "需要完善客户新手启动素材", "japanese": "オンボーディング資料を充実させる必要がある"}
+  ],
+  "category": "technology",
+  "categoryName": "テクノロジー",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/kehu/"
+}

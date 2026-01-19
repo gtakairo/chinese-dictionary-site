@@ -1,0 +1,25 @@
+{
+    "slug": "tui",
+    "chinese": "退潮",
+    "pinyin": "tuì cháo",
+    "meaning": "① Ebb tide ② Fading trend/Decline",
+    "description": "\"Zhang chao\" is high tide.",
+    "category": "net",
+    "categoryName": "Internet Slang/Slang",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/tui/",
+    "examples": [
+        {
+            "chinese": "大城市的共享单车开始退潮",
+            "translation": "Shared bikes in big cities are starting to fade"
+        },
+        {
+            "chinese": "小家电市场热度退潮,企业净利润下滑",
+            "translation": "Small appliance market heat is fading, corporate net profits sliding"
+        },
+        {
+            "chinese": "出口退潮已经影响到供给端,外贸行业呈现出「供需双弱」的局面",
+            "translation": "Export decline has affected the supply side, foreign trade shows \"weak supply and demand\""
+        }
+    ]
+}

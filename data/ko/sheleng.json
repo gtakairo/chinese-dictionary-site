@@ -1,0 +1,21 @@
+{
+  "slug": "sheleng",
+  "chinese": "社冷",
+  "pinyin": "shè lěng",
+  "meaning": "인간관계에 관심 없음 / 혼자 있는 것을 선호함 / 사회적 냉담",
+  "description": "'사회적 냉담증'의 줄임말. 관련어: 셔뉴(사교성 좋음), 셔콩(대인기피증), 셔자(처음엔 낯가리지만 친해지면 사교적임).",
+  "examples": [
+    {
+      "chinese": "原来不是社恐,只是社冷",
+      "translation": "알고 보니 대인기피증이 아니라 그냥 인간관계에 관심이 없는 거였다."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어 / 속어",
+  "relatedWords": [
+    "sheniu",
+    "shekong",
+    "sheza"
+  ],
+  "sourceUrl": "https://chineself.com/sheleng/"
+}

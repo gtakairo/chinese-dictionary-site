@@ -1,0 +1,28 @@
+{
+  "slug": "zhuangb",
+  "chinese": "装B",
+  "pinyin": "zhuāng B",
+  "meaning": "ขี้เก๊ก / โชว์พาว / อวดเก่ง",
+  "description": "แกล้งทำเก่งหรือทำเท่",
+  "examples": [
+    {
+      "chinese": "最烦装b的人",
+      "translation": "เกลียดพวกขี้เก๊กที่สุด"
+    },
+    {
+      "chinese": "只是为了装B而买的奔驰",
+      "translation": "รถเบนซ์ที่ซื้อมาเพื่ออวดสาว"
+    },
+    {
+      "chinese": "老板装Ｂ说这问题太简单",
+      "translation": "บอสโชว์พาวบอกว่าปัญหานี้ง่ายจะตาย"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์เน็ต",
+  "relatedWords": [
+    "zhuang13",
+    "zhuangbei"
+  ],
+  "sourceUrl": "https://chineself.com/zhuangb/"
+}

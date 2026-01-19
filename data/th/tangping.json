@@ -1,0 +1,33 @@
+{
+    "slug": "tangping",
+    "chinese": "躺平",
+    "pinyin": "tǎng píng",
+    "meaning": "นอนราบ (Tang Ping)",
+    "description": "ไม่พยายาม ไม่ดิ้นรน ใช้ชีวิตแบบพอเพียงหรือขี้เกียจ ตรงข้ามกับคำว่า Neijuan (การแข่งขันที่รุนแรง)",
+    "category": "net",
+    "categoryName": "ศัพท์อินเทอร์เน็ต/สแลง",
+    "relatedWords": [
+        "foxi",
+        "neijuan",
+        "45durensheng",
+        "lanshi",
+        "tianxuanniuma",
+        "bukequ",
+        "tangying"
+    ],
+    "sourceUrl": "https://chineself.com/tangping/",
+    "examples": [
+        {
+            "chinese": "今天啥都不想做,躺平比较好",
+            "translation": "วันนี้ไม่อยากทำอะไรเลย นอนราบดีกว่า"
+        },
+        {
+            "chinese": "年轻人不能躺平,一定要努力挑战",
+            "translation": "คนหนุ่มสาวห้ามนอนราบ ต้องพยายามสู้นะ"
+        },
+        {
+            "chinese": "在赚钱上内卷,在烂事上躺平",
+            "translation": "เรื่องหาเงินก็สู้ไป ส่วนเรื่องแย่ๆ ก็นอนราบช่างมัน"
+        }
+    ]
+}

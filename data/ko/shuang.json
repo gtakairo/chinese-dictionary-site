@@ -1,0 +1,25 @@
+{
+    "slug": "shuang",
+    "chinese": "双柏忌",
+    "pinyin": "shuāng bǎi jì",
+    "meaning": "더블 보기",
+    "description": "",
+    "category": "sport",
+    "categoryName": "운동/스포츠",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/shuang/",
+    "examples": [
+        {
+            "chinese": "这一洞我打了双柏忌",
+            "translation": "이번 홀에서 더블 보기를 범했다"
+        },
+        {
+            "chinese": "连续两个双柏忌",
+            "translation": "연속 두 번의 더블 보기"
+        },
+        {
+            "chinese": "避免在关键洞打出双柏忌",
+            "translation": "중요한 홀에서 더블 보기는 피해야 한다"
+        }
+    ]
+}

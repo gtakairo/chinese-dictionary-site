@@ -1,0 +1,28 @@
+{
+    "slug": "shuju",
+    "chinese": "书卷气",
+    "pinyin": "shū juàn qì",
+    "meaning": "서생의 기질, 지적인 분위기",
+    "description": "책을 좋아하고 독서가다운 품격. 서향미(书香味) 등과 같음.",
+    "category": "uncategorized",
+    "categoryName": "미분류",
+    "relatedWords": [
+        "shuxiangwei",
+        "jio"
+    ],
+    "sourceUrl": "https://chineself.com/shuju/",
+    "examples": [
+        {
+            "chinese": "戴黑框眼镜就变成了有书卷气",
+            "translation": "검은 뿔테 안경을 쓰니 지적인 분위기가 난다"
+        },
+        {
+            "chinese": "真的很喜欢这种有书卷气的美女",
+            "translation": "정말 이런 지적인 분위기의 미녀가 좋아"
+        },
+        {
+            "chinese": "学校宿舍没有书卷气,只有一股臭jio丫子味",
+            "translation": "학교 기숙사엔 지적인 분위기는 없고, 발 냄새만 난다"
+        }
+    ]
+}

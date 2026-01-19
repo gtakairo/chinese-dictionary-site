@@ -1,0 +1,19 @@
+{
+  "slug": "pua",
+  "chinese": "PUA",
+  "pinyin": "p u a",
+  "meaning": "ปั่นหัว / ครอบงำความคิด",
+  "description": "เทคนิคปั่นหัวให้อีกฝ่ายหลงเชื่อหรือยอมทำตาม (เชิงลบ)",
+  "examples": [
+    {
+      "chinese": "小心PUA",
+      "translation": "ระวังโดนปั่นหัวนะ"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์สแลงชาวเน็ต",
+  "relatedWords": [
+    "gangjing"
+  ],
+  "sourceUrl": "https://chineself.com/pua/"
+}

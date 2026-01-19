@@ -1,0 +1,37 @@
+{
+  "slug": "shang",
+  "chinese": "上岸",
+  "pinyin": "shàng àn",
+  "meaning": "1. To land / go ashore; 2. To succeed / pass an exam",
+  "description": "Literally means 'to go ashore'. Metaphorically used to mean escaping the 'bitter sea' (intense competition) and achieving stability, e.g., passing the civil service exam.",
+  "examples": [
+    {
+      "chinese": "考研如何上岸",
+      "translation": "How to succeed in the grad school entrance exam?"
+    },
+    {
+      "chinese": "祈祷上岸,锦鲤护体",
+      "translation": "Praying for success, may the Koi protect me."
+    },
+    {
+      "chinese": "下海容易,上岸难",
+      "translation": "Starting a business is easy, succeeding is hard."
+    },
+    {
+      "chinese": "祝一切顺利！成公上岸",
+      "translation": "Wish everything goes well! Pass the civil service exam."
+    },
+    {
+      "chinese": "今年顺心上岸满意岗位",
+      "translation": "Hope to succeed this year and get a satisfactory job."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [
+    "neijuan",
+    "jinli",
+    "xiahai"
+  ],
+  "sourceUrl": "https://chineself.com/shang/"
+}

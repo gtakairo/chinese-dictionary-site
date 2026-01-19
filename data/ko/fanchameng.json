@@ -1,0 +1,19 @@
+{
+  "slug": "fanchameng",
+  "chinese": "反差萌",
+  "pinyin": "fǎn chā méng",
+    "meaning": "갭모에; 반전 매력",
+    "description": "평소 이미지와 다른 반전에서 느껴지는 매력.",
+    "examples": [
+      { "chinese": "他穿西装有反差萌", "translation": "그는 정장 입으면 갭모에가 있다." },
+      { "chinese": "冷酷外表却爱猫，反差萌", "translation": "차가운 겉모습인데 고양이를 좋아해—반전 매력." },
+      { "chinese": "她运动时反差萌", "translation": "그녀는 운동할 때 갭모에가 있다." }
+    ],
+  "category": "net",
+  "categoryName": "매력/호감",
+  "relatedWords": [
+    "ruanmeng",
+    "gaoleng"
+  ],
+  "sourceUrl": "https://chineself.com/fanchameng/"
+}

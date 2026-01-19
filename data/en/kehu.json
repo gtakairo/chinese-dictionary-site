@@ -1,0 +1,25 @@
+{
+  "slug": "kehu",
+  "chinese": "客户新手启动",
+  "pinyin": "kè hù xīn shǒu qǐ dòng",
+  "meaning": "Customer Onboarding",
+  "description": "The process of helping new users or customers get started with a product or service.",
+  "examples": [
+    {
+      "chinese": "我们优化了客户新手启动流程",
+      "translation": "We optimized the customer onboarding process"
+    },
+    {
+      "chinese": "客户新手启动影响留存率",
+      "translation": "Customer onboarding affects retention rates"
+    },
+    {
+      "chinese": "需要完善客户新手启动素材",
+      "translation": "Need to improve customer onboarding materials"
+    }
+  ],
+  "category": "technology",
+  "categoryName": "Technology",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/kehu/"
+}

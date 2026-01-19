@@ -1,0 +1,35 @@
+{
+    "slug": "tou",
+    "chinese": "头部",
+    "pinyin": "tóu bù",
+    "meaning": "① 두부(머리) ② 선두의, 톱클래스의",
+    "description": "일본어의 선두처럼 톱이라는 의미로도 쓰임.",
+    "category": "net",
+    "categoryName": "인터넷 용어",
+    "relatedWords": [
+        "wanghong"
+    ],
+    "sourceUrl": "https://chineself.com/tou/",
+    "examples": [
+        {
+            "chinese": "头部企业（龙头企业）",
+            "translation": "선두 기업 (리딩 기업)"
+        },
+        {
+            "chinese": "头部品牌",
+            "translation": "톱 브랜드"
+        },
+        {
+            "chinese": "头部客户",
+            "translation": "우량 고객 (VIP)"
+        },
+        {
+            "chinese": "头部主播",
+            "translation": "톱 BJ (스트리머)"
+        },
+        {
+            "chinese": "头部网红",
+            "translation": "톱 인플루언서"
+        }
+    ]
+}

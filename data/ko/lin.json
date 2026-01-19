@@ -1,0 +1,25 @@
+{
+  "slug": "lin",
+  "chinese": "淋巴瘤",
+  "pinyin": "lín bā liú",
+  "meaning": "림프종",
+  "description": "림프계 세포에서 유래하는 악성 종양. 치료에는 화학 요법이나 방사선 요법 등이 사용된다.",
+  "examples": [
+    {
+      "chinese": "医生怀疑是淋巴瘤",
+      "translation": "의사는 림프종을 의심하고 있다."
+    },
+    {
+      "chinese": "淋巴瘤需要规范化治疗",
+      "translation": "림프종은 표준화된 치료가 필요하다."
+    },
+    {
+      "chinese": "定期复查淋巴瘤指标",
+      "translation": "림프종 지표를 정기적으로 재검사한다."
+    }
+  ],
+  "category": "yiliao",
+  "categoryName": "의료/질병",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/lin/"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "baipiao",
+  "chinese": "白嫖",
+  "pinyin": "bái piáo",
+  "meaning": "무임승차, 먹튀, 공짜로 즐기기",
+  "description": "원래는 돈을 내지 않고 성매매를 한다는 뜻이나, 인터넷상에서는 대가를 지불하지 않고(좋아요, 후원 등 없이) 콘텐츠만 즐기는 행위를 뜻함.",
+  "examples": [
+    {
+      "chinese": "别白嫖了支持一下",
+      "translation": "눈팅만 하지 말고 응원 좀 해줘"
+    }
+  ],
+  "category": "net",
+  "categoryName": "경제/인터넷 문화",
+  "relatedWords": [
+    "jiucai"
+  ],
+  "sourceUrl": "https://chineself.com/baipiao/"
+}

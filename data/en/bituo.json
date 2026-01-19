@@ -1,0 +1,25 @@
+{
+  "slug": "bituo",
+  "chinese": "币托",
+  "pinyin": "bì tuō",
+  "meaning": "BitoEX [Cryptocurrency Exchange]",
+  "description": "Abbreviation for the cryptocurrency exchange BitoEX. Depending on context, it may refer to exchanges in broad sense.",
+  "examples": [
+    {
+      "chinese": "我在币托开户了",
+      "translation": "I opened an account at BitoEX."
+    },
+    {
+      "chinese": "币托的手续费怎么样",
+      "translation": "How are the fees at BitoEX?"
+    },
+    {
+      "chinese": "从币托提币到钱包",
+      "translation": "Withdrew coins from the exchange to a wallet."
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "Finance & Investment",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/bituo/"
+}

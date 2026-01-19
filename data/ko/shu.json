@@ -1,0 +1,25 @@
+{
+    "slug": "shu",
+    "chinese": "耍宝",
+    "pinyin": "shuǎ bǎo",
+    "meaning": "재롱을 떨다, 과시하다",
+    "description": "관심을 끌기 위해 우스꽝스러운 행동을 하거나 자랑하는 것.",
+    "category": "uncategorized",
+    "categoryName": "미분류",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/shu/",
+    "examples": [
+        {
+            "chinese": "她在台上频频耍宝卖萌",
+            "translation": "그녀는 무대에서 빈번하게 재롱을 떤다"
+        },
+        {
+            "chinese": "不要在朋友圈「肆无忌惮」地搞笑耍宝",
+            "translation": "모멘트에서 「거리낌 없이」 웃기려고 하지 마라"
+        },
+        {
+            "chinese": "表面上调皮耍宝,其实很社恐",
+            "translation": "겉으로는 장난치고 재롱떨지만, 사실은 대인기피증이 있다"
+        }
+    ]
+}

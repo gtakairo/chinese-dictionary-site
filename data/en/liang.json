@@ -1,0 +1,33 @@
+{
+  "slug": "liang",
+  "chinese": "连杆",
+  "pinyin": "lián gān",
+  "meaning": "Connecting rod",
+  "description": "A machine element that converts reciprocating motion into rotating motion.",
+  "examples": [
+    {
+      "chinese": "检查发动机的连杆磨损",
+      "translation": "Check for connecting rod wear in the engine"
+    },
+    {
+      "chinese": "更换损坏的连杆",
+      "translation": "Replace damaged connecting rod"
+    },
+    {
+      "chinese": "连杆连接活塞与曲轴",
+      "translation": "The connecting rod connects the piston and the crankshaft"
+    },
+    {
+      "chinese": "连杆断裂会导致发动机严重损坏",
+      "translation": "A broken connecting rod can cause severe engine damage"
+    },
+    {
+      "chinese": "需要定期润滑连杆轴承",
+      "translation": "Need to regularly lubricate the connecting rod bearings"
+    }
+  ],
+  "category": "car",
+  "categoryName": "Automobile",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/liang/"
+}

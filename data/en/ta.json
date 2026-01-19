@@ -1,0 +1,31 @@
+{
+    "slug": "ta",
+    "chinese": "它不香吗",
+    "pinyin": "tā bù xiāng ma",
+    "meaning": "Isn't it tempting? / Isn't it a good deal?",
+    "description": "\"Xiang\" means attractive or valuable. \"Bu xiang ma\" means \"Isn't it attractive?\"",
+    "category": "net",
+    "categoryName": "Internet Slang",
+    "relatedWords": [
+        "buxiangma-2"
+    ],
+    "sourceUrl": "https://chineself.com/ta/",
+    "examples": [
+        {
+            "chinese": "新产品来了,这价格它不香吗",
+            "translation": "New product is here, isn't this price tempting?"
+        },
+        {
+            "chinese": "那么努力上大学它不香吗?",
+            "translation": "Working so hard to go to college, is it worth it?"
+        },
+        {
+            "chinese": "1000-2000平价手机它不香吗?",
+            "translation": "Budget phones for 1000-2000, aren't they a good deal?"
+        },
+        {
+            "chinese": "迪士尼一个冰淇淋50块,它不香吗",
+            "translation": "Disney ice cream for 50 bucks, is it worth it?"
+        }
+    ]
+}

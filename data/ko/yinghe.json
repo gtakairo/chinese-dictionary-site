@@ -1,0 +1,19 @@
+{
+  "slug": "yinghe",
+  "chinese": "硬核",
+  "pinyin": "yìng hé",
+  "meaning": "하드코어 / 찐이다",
+  "description": "내용이나 스타일이 본격적이고 강력함.",
+  "examples": [
+    {
+      "chinese": "这部纪录片很硬核",
+      "translation": "이 다큐멘터리 완전 하드코어다 (찐이다)."
+    }
+  ],
+  "category": "net",
+  "categoryName": "평가 / 스타일",
+  "relatedWords": [
+    "yinglunfan"
+  ],
+  "sourceUrl": "https://chineself.com/yinghe/"
+}

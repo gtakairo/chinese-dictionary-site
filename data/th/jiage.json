@@ -1,0 +1,25 @@
+{
+  "slug": "jiage",
+  "chinese": "价格波动",
+  "pinyin": "jià gé bō dòng",
+  "meaning": "ราคาผันผวน",
+  "description": "การที่ราคาปรับตัวขึ้นลงตามตลาดหรืออุปสงค์อุปทาน ความผันผวนของราคา",
+  "examples": [
+    {
+      "chinese": "近期价格波动加剧",
+      "translation": "ช่วงนี้ราคาผันผวนรุนแรง"
+    },
+    {
+      "chinese": "控制风险应对价格波动",
+      "translation": "บริหารความเสี่ยงเพื่อรับมือกับราคาผันผวน"
+    },
+    {
+      "chinese": "受消息影响出现价格波动",
+      "translation": "เกิดความผันผวนของราคาเนื่องจากข่าว"
+    }
+  ],
+  "category": "jingji",
+  "categoryName": "เศรษฐกิจ/ธุรกิจ",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/jiage/"
+}

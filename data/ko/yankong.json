@@ -1,0 +1,19 @@
+{
+  "slug": "yankong",
+  "chinese": "颜控",
+  "pinyin": "yán kòng",
+  "meaning": "얼빠 / 외모지상주의자",
+  "description": "얼굴이나 외모를 중시하는 사람.",
+  "examples": [
+    {
+      "chinese": "我是颜控",
+      "translation": "난 얼빠야."
+    }
+  ],
+  "category": "net",
+  "categoryName": "외모 / 취향",
+  "relatedWords": [
+    "yanzhi"
+  ],
+  "sourceUrl": "https://chineself.com/yankong/"
+}

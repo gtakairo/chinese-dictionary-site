@@ -1,0 +1,33 @@
+{
+  "slug": "jueju",
+  "chinese": "绝绝子",
+  "pinyin": "jué jué zi",
+  "meaning": "①超すごい、本当に最高、（素晴らしくて）ヤバい、神っている ②超最低、最悪、酷い",
+  "description": "绝には「二つとない、すごい」という意味がある。绝绝子の使い方として「超良い、超ダメ」と両極端の2つの意味を形容するため、文脈から判断する。绝了「①非常に～、スゴイ、最高 ②嫌だ、ムカつく、最低」。",
+  "examples": [
+    {
+      "chinese": "这个创意真的绝绝子",
+      "translation": "このアイディアは本当に超素晴らしい"
+    },
+    {
+      "chinese": "试下来真的绝绝子",
+      "translation": "試してみると本当にヤバい"
+    },
+    {
+      "chinese": "你的演技绝绝子,继续加油",
+      "translation": "あなたの演技は神っている、これからも頑張って"
+    },
+    {
+      "chinese": "这个电影一下子就被吸引了,尊嘟素绝绝子",
+      "translation": "この映画一気に惹きつけられた、超最高"
+    },
+    {
+      "chinese": "北京的温差绝绝子,穿短裤被冻坏了",
+      "translation": "北京の温度差はヤバい、半ズボンでは寒すぎる"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": ["juele", "zundusu"],
+  "sourceUrl": "https://chineself.com/jueju/"
+}

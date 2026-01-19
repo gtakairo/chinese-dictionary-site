@@ -1,0 +1,25 @@
+{
+  "slug": "jiamihuobi",
+  "chinese": "加密货币",
+  "pinyin": "jīamìhuòbì",
+  "meaning": "สกุลเงินดิจิทัล / คริปโทเคอร์เรนซี",
+  "description": "「Jiami」 หมายถึง 「เข้ารหัส」",
+  "examples": [
+    {
+      "chinese": "加密货币波动较大",
+      "translation": "คริปโทเคอร์เรนซีมีความผันผวนสูง"
+    },
+    {
+      "chinese": "如何购买加密货币",
+      "translation": "วิธีซื้อคริปโทเคอร์เรนซี"
+    },
+    {
+      "chinese": "学习加密货币安全知识",
+      "translation": "เรียนรู้เกี่ยวกับความปลอดภัยของคริปโทเคอร์เรนซี"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "การเงิน/การลงทุน",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/jiamihuobi/"
+}

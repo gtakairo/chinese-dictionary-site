@@ -1,0 +1,20 @@
+{
+    "slug": "tangying",
+    "chinese": "躺赢",
+    "pinyin": "tǎng yíng",
+    "meaning": "นอนชนะ (ชนะใสๆ)",
+    "description": "ชนะได้โดยไม่ต้องออกแรง (มักใช้ในเกมเมื่อเพื่อนแบก)",
+    "category": "net",
+    "categoryName": "เกม/สแลงอินเทอร์เน็ต",
+    "relatedWords": [
+        "moyu",
+        "tangping"
+    ],
+    "sourceUrl": "https://chineself.com/tangying/",
+    "examples": [
+        {
+            "chinese": "队友太强我躺赢了",
+            "translation": "ทีมแบกโหดมาก ฉันนอนชนะเลย"
+        }
+    ]
+}

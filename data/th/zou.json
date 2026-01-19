@@ -1,0 +1,27 @@
+{
+  "slug": "zou",
+  "chinese": "揍扁",
+  "pinyin": "zòu biǎn",
+  "meaning": "อัดให้น่วม / ซ้อม / ต่อย",
+  "description": "ทุบตีหรือทำร้ายร่างกาย",
+  "examples": [
+    {
+      "chinese": "我焯,我来揍扁你了",
+      "translation": "เชี่ย เดี๋ยวปั๊ดเหนี่ยวเลย"
+    },
+    {
+      "chinese": "再说我就揍扁你!",
+      "translation": "พูดอีกทีเดี๋ยวโดนดีแน่!"
+    },
+    {
+      "chinese": "想揍扁电梯里抽烟的人",
+      "translation": "อยากซัดหน้าพวกสูบบุหรี่ในลิฟต์"
+    }
+  ],
+  "category": "ma",
+  "categoryName": "คำด่า/คำยั่วยุ",
+  "relatedWords": [
+    "wochao-2"
+  ],
+  "sourceUrl": "https://chineself.com/zou/"
+}

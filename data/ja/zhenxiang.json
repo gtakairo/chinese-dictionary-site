@@ -1,0 +1,25 @@
+{
+  "slug": "zhenxiang",
+  "chinese": "真香",
+  "pinyin": "zhēn xiāng",
+  "meaning": "①匂いがよい ②とても美味しい ③（眠りが）深い ④人気がある ⑤手の平を返す、心を翻す、心変わりする ⑥とても優れている、素晴らしい、超グッド",
+  "description": "⑤は「急に態度が変わる」ときに使用するネット用語。真香警告「試したら良いことが分かる」の「真香」だけを使用したものとなる。⑥の使い方はSNSなどでよく使われている。",
+  "examples": [
+    {
+      "chinese": "在海边沙滩上芭比Q是真香奥",
+      "translation": "海の砂浜でのバーベキューはとても美味しい"
+    },
+    {
+      "chinese": "能闻到咖啡香,真香啊",
+      "translation": "コーヒーの香りがする、匂いがよい"
+    },
+    {
+      "chinese": "这电视剧属于是第一眼不想看,第二眼真香的剧了",
+      "translation": "このドラマは最初見たくなかったが、二度目は超グッドなドラマになった"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "未分類",
+  "relatedWords": ["zhenxiangjinggao", "babiq", "siyangbacha", "taixiangle"],
+  "sourceUrl": "https://chineself.com/zhenxiang/"
+}

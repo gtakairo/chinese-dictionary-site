@@ -1,0 +1,25 @@
+{
+  "slug": "emo",
+  "chinese": "emo动车",
+  "pinyin": "emo dòng chē",
+  "meaning": "憂鬱な気分で乗る高速鉄道",
+  "description": "長期休暇が終わり学校に戻りたくないと思っている大学生が、帰省中の田舎から学校のある都市に戻るために乗る高速鉄道のこと。emo=emotionalは「滅入る、憂鬱だ」という意味で用いる。",
+  "examples": [
+    {
+      "chinese": "明天开学,要坐上emo动车了",
+      "translation": "明日から学校、憂鬱な高速鉄道に乗らなければ"
+    },
+    {
+      "chinese": "坐上emo动车,心如死灰",
+      "translation": "憂鬱な気分で高速鉄道に乗車、意気消沈"
+    },
+    {
+      "chinese": "下午要坐上emo动车了,有点坐立不安",
+      "translation": "午後に高速鉄道に乗らなきゃ、なんだか落ち着かない"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": ["emole", "xinrusihui"],
+  "sourceUrl": "https://chineself.com/emo/"
+}

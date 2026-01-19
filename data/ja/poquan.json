@@ -1,0 +1,14 @@
+{
+  "slug": "poquan",
+  "chinese": "破圈",
+  "pinyin": "pò quān",
+  "meaning": "ジャンルの壁を超える／バズる",
+  "description": "特定の界隈を越えて広く人気になること。",
+  "examples": [
+    {"chinese": "这部剧破圈了", "japanese": "このドラマは界隈を超えてバズった"}
+  ],
+  "category": "net",
+  "categoryName": "ネットスラング",
+  "relatedWords": ["yyds"],
+  "sourceUrl": "https://chineself.com/poquan/"
+}

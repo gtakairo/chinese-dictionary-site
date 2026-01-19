@@ -1,0 +1,28 @@
+{
+  "slug": "kuansongshidai",
+  "chinese": "宽松世代",
+  "pinyin": "kuān sōng shì dài",
+  "meaning": "유토리 세대 (여유 세대)",
+  "description": "2002년부터 2011년 사이에 의무 교육을 받은 세대입니다. 1989년부터 2019년의 헤이세이 시대에 태어난 사람은 중국어로 \"헤이세이 돼지\"라고 불리기도 합니다.",
+  "examples": [
+    {
+      "chinese": "他是宽松世代的学生",
+      "translation": "그는 유토리 세대의 학생이다"
+    },
+    {
+      "chinese": "讨论宽松世代的教育改革",
+      "translation": "유토리 세대의 교육 개혁에 대해 논의하다"
+    },
+    {
+      "chinese": "宽松世代进入职场",
+      "translation": "유토리 세대가 사회에 진출하다"
+    }
+  ],
+  "category": "jiaoyu",
+  "categoryName": "교육/학교",
+  "relatedWords": [
+    "zhejuzu-2",
+    "nitezu"
+  ],
+  "sourceUrl": "https://chineself.com/kuansongshidai/"
+}

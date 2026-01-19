@@ -1,0 +1,25 @@
+{
+  "slug": "ming",
+  "chinese": "敏感词",
+  "pinyin": "mǐn gǎn cí",
+  "meaning": "検閲に引っかかる用語、禁止ワード、NGワード",
+  "description": "屏蔽词、违禁词が同義語。もちろん日常的にデリケートな問題に触れるタブーの意味でも使われる。",
+  "examples": [
+    {
+      "chinese": "emmm～敏感词查这么严",
+      "japanese": "いや～、検閲の禁止用語はこんなに厳しいのか"
+    },
+    {
+      "chinese": "不知道碰到哪个敏感词了,发不出来",
+      "japanese": "どれが禁止ワードか分からない、発信できない"
+    },
+    {
+      "chinese": "发个讨论都直接ban,有什么敏感词吗",
+      "japanese": "議論を発信したら直接バンされた、なにかNGワードあった？"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "未分類",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/ming/"
+}

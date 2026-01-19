@@ -1,0 +1,25 @@
+{
+  "slug": "kongtou",
+  "chinese": "空投",
+  "pinyin": "kōng tóu",
+  "meaning": "Airdrop",
+  "description": "Tokens distributed (allocated) for free by a project to the community. Often involves participation conditions or snapshots.",
+  "examples": [
+    {
+      "chinese": "项目宣布空投规则",
+      "translation": "The project announced the airdrop rules"
+    },
+    {
+      "chinese": "满足条件即可参与空投",
+      "translation": "You can participate in the airdrop if you meet the conditions"
+    },
+    {
+      "chinese": "空投快照时间公布",
+      "translation": "The airdrop snapshot time has been announced"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "Finance & Investment",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/kongtou/"
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "ruibobi",
+  "chinese": "瑞波币",
+  "pinyin": "ruì bō bì",
+  "meaning": "リップル（ripple）",
+  "description": "リップル社の送金ネットワーク関連資産。ティッカーはXRP。",
+  "examples": [
+    {"chinese": "使用瑞波币跨境汇款", "japanese": "XRPで国際送金を行う"},
+    {"chinese": "瑞波相关的监管消息", "japanese": "リップル関連の規制ニュース"},
+    {"chinese": "持有一部分XRP", "japanese": "XRPを一部保有している"}
+  ],
+  "category": "jinrong",
+  "categoryName": "金融・投資",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/ruibobi/"
+}

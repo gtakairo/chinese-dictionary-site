@@ -1,0 +1,25 @@
+{
+  "slug": "laopo",
+  "chinese": "老破小",
+  "pinyin": "lǎo pò xiǎo",
+  "meaning": "築20年以上の都市部の劣化した小さな中古物件",
+  "description": "老旧（古く）、破败（劣化した）、面积小（小さい）物件のこと。",
+  "examples": [
+    {
+      "chinese": "50万捡漏100平方的老破小",
+      "translation": "50万で100平方メートルの築20年以上の都市部の中古物件の掘り出し物を手に入れる"
+    },
+    {
+      "chinese": "我终于买房了,老破小也生活真是美滋滋儿",
+      "translation": "やっと家を購入した、築20年以上の中古物件でも生活は本当にウキウキだ"
+    },
+    {
+      "chinese": "闲置多年的48平老破小,比我年龄都大了",
+      "translation": "長いことずっと放置されていた48平米の中古物件、私の年齢より上だ"
+    }
+  ],
+  "category": "fangzi",
+  "categoryName": "住居・インテリア",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/laopo/"
+}

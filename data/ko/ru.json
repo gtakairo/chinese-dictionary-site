@@ -1,0 +1,31 @@
+{
+  "slug": "ru",
+  "chinese": "rua",
+  "pinyin": "rua",
+  "meaning": "쓰다듬다, 만지다",
+  "description": "'lu'와 같은 의미. 인터넷 용어로 동물 등을 쓰다듬는 행위를 나타냄.",
+  "examples": [
+    {
+      "chinese": "那个腮腮肉好想rua",
+      "translation": "저 볼살 너무 만지고 싶다"
+    },
+    {
+      "chinese": "碰见小金毛,狠狠rua了",
+      "translation": "골든 리트리버를 보고 마구 쓰다듬었다"
+    },
+    {
+      "chinese": "可可爱爱的,真的被治愈,太好rua了",
+      "translation": "귀엽고 사랑스러워서 정말 힐링된다. 너무 쓰다듬고 싶다"
+    },
+    {
+      "chinese": "好想现在去rua猫撸狗",
+      "translation": "지금 당장 고양이랑 개를 쓰다듬으러 가고 싶다"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 신조어",
+  "relatedWords": [
+    "saisairou"
+  ],
+  "sourceUrl": "https://chineself.com/ru/"
+}

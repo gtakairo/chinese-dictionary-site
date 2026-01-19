@@ -1,0 +1,33 @@
+{
+  "slug": "zhi",
+  "chinese": "直白",
+  "pinyin": "zhí bái",
+  "meaning": "ตรงไปตรงมา / ขวานผ่าซาก",
+  "description": "พูดตรงๆ ไม่มีการอ้อมค้อม",
+  "examples": [
+    {
+      "chinese": "对方的说法很直白",
+      "translation": "อีกฝ่ายพูดจาตรงไปตรงมามาก"
+    },
+    {
+      "chinese": "不能直白的拒绝,应该怎样拒绝",
+      "translation": "ปฏิเสธตรงๆ ไม่ได้ ควรปฏิเสธยังไงดี?"
+    },
+    {
+      "chinese": "太直白了,你会怎么表达爱呢",
+      "translation": "ตรงเกินไปแล้ว คุณแสดงความรักแบบนั้นได้ไง?"
+    },
+    {
+      "chinese": "尽量不要直白说孩子缺点",
+      "translation": "พยายามอย่าพูดถึงข้อเสียของเด็กตรงๆ"
+    },
+    {
+      "chinese": "想不通为什么啥事情不能直白说",
+      "translation": "ไม่เข้าใจว่าทำไมเรื่องต่างๆ ถึงพูดตรงๆ ไม่ได้"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "ไม่ระบุหมวดหมู่",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/zhi/"
+}

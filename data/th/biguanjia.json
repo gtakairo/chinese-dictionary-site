@@ -1,0 +1,16 @@
+{
+  "slug": "biguanjia",
+  "chinese": "币管家",
+  "pinyin": "bì guǎn jiā",
+  "meaning": "bgj.io [เว็บไซต์แลกเปลี่ยนสกุลเงินดิจิทัล]",
+  "description": "หนึ่งในแพลตฟอร์มซื้อขายคริปโท (พบการสะกด bjj.io ด้วย)",
+  "examples": [
+    { "chinese": "在币管家注册账户", "translation": "ลงทะเบียนบัญชีบน 币管家" },
+    { "chinese": "币管家上线新代币", "translation": "币管家 เปิดให้ซื้อขายโทเค็นใหม่" },
+    { "chinese": "查询币管家的手续费", "translation": "ตรวจสอบค่าธรรมเนียมของ 币管家" }
+  ],
+  "category": "jinrong",
+  "categoryName": "การเงินและการลงทุน",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/biguanjia/"
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "fei",
+  "chinese": "废柴",
+  "pinyin": "fèi chái",
+  "meaning": "ダメな人、役立たずな人",
+  "description": "もともとは広東語であるが、ネット用語として自らのだらしなさなどを自嘲して使われる。",
+  "examples": [
+    {
+      "chinese": "最近感觉自己好废柴啊",
+      "japanese": "最近自分が本当にダメな人間だと感じる"
+    },
+    {
+      "chinese": "11点起床吃外卖,废柴生活",
+      "japanese": "11時に起床し出前を食べる、ダメな人の生活"
+    },
+    {
+      "chinese": "没找到工作的废柴在床上休息",
+      "japanese": "仕事を探せず役立たずな俺はベットで休憩している"
+    },
+    {
+      "chinese": "有时候真的会觉得自己是个废柴",
+      "japanese": "ある時は本当に自分が役立たずだと感じる"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語・スラング",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/fei/"
+}

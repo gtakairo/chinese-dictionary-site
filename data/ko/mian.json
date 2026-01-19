@@ -1,0 +1,25 @@
+{
+  "slug": "mian",
+  "chinese": "绵薄之力",
+  "pinyin": "mián bó zhī lì",
+  "meaning": "미력 / 보잘것없는 힘",
+  "description": "「면박(绵薄)」만으로도 「미력」이라는 뜻이다. 자신의 힘을 겸손하게 표현하는 말.",
+  "examples": [
+    {
+      "chinese": "我一定会贡献出我的绵薄之力的",
+      "translation": "반드시 저의 미력한 힘이나마 보태겠습니다."
+    },
+    {
+      "chinese": "愿尽绵薄之力,继续捐赠",
+      "translation": "미력하나마 힘을 보태어 계속 기부하겠습니다."
+    },
+    {
+      "chinese": "希望在有需要的时候为你尽一点绵薄之力",
+      "translation": "필요할 때 당신을 위해 조금이나마 힘이 되고 싶습니다."
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "성어/사자성어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/mian/"
+}

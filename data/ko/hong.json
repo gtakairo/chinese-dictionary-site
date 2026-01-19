@@ -1,0 +1,25 @@
+{
+  "slug": "hong",
+  "chinese": "红扒鱼翅",
+  "pinyin": "hóng bā yú chì",
+  "meaning": "샥스핀 찜 (홍파어시)",
+  "description": "샥스핀을 간장 베이스로 조린 요리.",
+  "examples": [
+    {
+      "chinese": "点了一份红扒鱼翅",
+      "translation": "샥스핀 찜을 하나 주문했다."
+    },
+    {
+      "chinese": "这家店的红扒鱼翅很有名",
+      "translation": "이 집은 샥스핀 찜이 유명하다."
+    },
+    {
+      "chinese": "红扒鱼翅口感很细腻",
+      "translation": "샥스핀 찜의 식감이 아주 섬세하다."
+    }
+  ],
+  "category": "liaoli",
+  "categoryName": "요리",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/hong/"
+}

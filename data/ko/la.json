@@ -1,0 +1,25 @@
+{
+  "slug": "la",
+  "chinese": "喇叭",
+  "pinyin": "lǎ ba",
+  "meaning": "경적 (클락션)",
+  "description": "자동차 이외의 화제에서 사용될 때는 나팔 또는 확성기의 의미입니다.",
+  "examples": [
+    {
+      "chinese": "喇叭声音过大会扰民",
+      "translation": "경적 소리가 너무 크면 주민에게 방해가 된다"
+    },
+    {
+      "chinese": "检查喇叭是否工作正常",
+      "translation": "경적이 정상적으로 작동하는지 확인하다"
+    },
+    {
+      "chinese": "他拿起喇叭指挥交通",
+      "translation": "그는 확성기를 들고 교통 정리를 했다"
+    }
+  ],
+  "category": "car",
+  "categoryName": "자동차",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/la/"
+}

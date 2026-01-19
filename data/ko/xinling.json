@@ -1,0 +1,29 @@
+{
+  "slug": "xinling",
+  "chinese": "心灵鸡汤",
+  "pinyin": "xīn líng jī tāng",
+  "meaning": "마음의 치킨수프 / 힐링 글귀",
+  "description": "마음을 위로하거나 동기 부여를 주는 글. 가끔 비꼬는 의미로도 쓰임.",
+  "examples": [
+    {
+      "chinese": "朋友圈里有每天发几句心灵鸡汤的人",
+      "translation": "모멘트에 매일 힐링 글귀 올리는 사람이 있다."
+    },
+    {
+      "chinese": "我看了一些心灵鸡汤觉得自己吸收了好的营养",
+      "translation": "힐링 글 좀 읽었더니 마음의 양식을 얻은 기분이다."
+    },
+    {
+      "chinese": "一个故事,请喝一碗心灵鸡汤",
+      "translation": "이야기 하나 들려줄게, 마음의 위로가 되길."
+    }
+  ],
+  "category": "sns",
+  "categoryName": "웹 / SNS 용어",
+  "relatedWords": [
+    "jitangwen",
+    "dujitang",
+    "emole"
+  ],
+  "sourceUrl": "https://chineself.com/xinling/"
+}

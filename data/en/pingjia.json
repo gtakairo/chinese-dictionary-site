@@ -1,0 +1,28 @@
+{
+  "slug": "pingjia",
+  "chinese": "平价不廉价",
+  "pinyin": "píng jià bù lián jià",
+  "meaning": "Affordable but not cheap (quality)",
+  "description": "Price is reasonable but quality feels premium.",
+  "examples": [
+    {
+      "chinese": "平价不廉价,闭眼入",
+      "translation": "Affordable but not cheap, buy it blind"
+    },
+    {
+      "chinese": "平价不廉价,绝对物超所值",
+      "translation": "Affordable but not cheap, absolutely great value"
+    },
+    {
+      "chinese": "不愧是价格便宜,效果好!平价不廉价",
+      "translation": "Cheap price indeed, good effect! Affordable but not cheap looking"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "Uncategorized",
+  "relatedWords": [
+    "biyanru",
+    "wuchaosuozhi"
+  ],
+  "sourceUrl": "https://chineself.com/pingjia/"
+}

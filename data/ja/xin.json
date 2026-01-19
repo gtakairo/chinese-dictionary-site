@@ -1,0 +1,25 @@
+{
+  "slug": "xin",
+  "chinese": "洗脑包",
+  "pinyin": "xǐ nǎo bāo",
+  "meaning": "事実を歪曲したコメント、虚偽の噂、見せかけの文句",
+  "description": "ファン（アンチ）などが有名人を故意に又は意図的に事実を歪曲したコメントとして書き込んだりすることから使用されるようになった。",
+  "examples": [
+    {
+      "chinese": "希望网络少些他们俩的洗脑包,明明很相爱",
+      "translation": "ネット上で彼らの歪曲されたコメントがあまりませんように！明らかに2人は愛し合っている"
+    },
+    {
+      "chinese": "诈骗式的洗脑包营销更是下头",
+      "translation": "詐欺的で見せかけの文句の営業販売は気分を悪くさせる"
+    },
+    {
+      "chinese": "我吃了太多洗脑包,现在才知道真实",
+      "translation": "私は歪曲された噂を事実と思い込まされていた、今になって真相を知った"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": ["zhenrangrenxiatou"],
+  "sourceUrl": "https://chineself.com/xin/"
+}

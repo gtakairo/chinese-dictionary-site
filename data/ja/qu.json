@@ -1,0 +1,25 @@
+{
+  "slug": "qu",
+  "chinese": "拳不离手,曲不离口",
+  "pinyin": "quán bù lí shǒu,qǔ bù lí kǒu",
+  "meaning": "熟練するには常に練習しなければならない",
+  "description": "拳→武術をする人は常に練習し、曲→歌い手は常に歌わなければならない。そうしてこそ熟練することができる。",
+  "examples": [
+    {
+      "chinese": "拳不离手,曲不离口,还是得多唱唱",
+      "translation": "熟練するには常に練習しなければならない、やはりもっと歌い込まないと"
+    },
+    {
+      "chinese": "拳不离手,曲不离口,任何能力都需要积累",
+      "translation": "熟練するには常に練習しなければならない、どのような能力も積み重ねが必要だ"
+    },
+    {
+      "chinese": "学语言都一样都讲究拳不离手,曲不离口",
+      "translation": "語学を学ぶのも同様で突き詰めないと、熟練するには常に練習しなければならない"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "成語・四字熟語",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/qu/"
+}

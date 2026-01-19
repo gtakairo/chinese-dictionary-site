@@ -1,0 +1,14 @@
+{
+  "slug": "dagongren",
+  "chinese": "打工人",
+  "pinyin": "dǎ gōng rén",
+  "meaning": "社畜／会社員（自嘲的な言い方）",
+  "description": "苦労して働く人を自嘲的に表すネット語。",
+  "examples": [
+    {"chinese": "打工人，打工魂", "japanese": "社畜、社畜魂だ"}
+  ],
+  "category": "net",
+  "categoryName": "ネットスラング",
+  "relatedWords": ["neijuan", "bailan"],
+  "sourceUrl": "https://chineself.com/dagongren/"
+}

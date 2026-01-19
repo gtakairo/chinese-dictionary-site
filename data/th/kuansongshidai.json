@@ -1,0 +1,28 @@
+{
+  "slug": "kuansongshidai",
+  "chinese": "宽松世代",
+  "pinyin": "kuān sōng shì dài",
+  "meaning": "คนรุ่นยุตากิ (Yutori generation) / คนรุ่นสบายๆ",
+  "description": "คนรุ่นที่ได้รับการศึกษาภาคบังคับระหว่างปี 2002-2011 คนที่เกิดในยุคเฮเซ (1989-2019) บางครั้งจะถูกเรียกว่า \"หมูเฮเซ\" ในภาษาจีน",
+  "examples": [
+    {
+      "chinese": "他是宽松世代的学生",
+      "translation": "เขาเป็นนักเรียนรุ่นสบายๆ"
+    },
+    {
+      "chinese": "讨论宽松世代的教育改革",
+      "translation": "อภิปรายเกี่ยวกับการปฏิรูปการศึกษาสำหรับคนรุ่นสบายๆ"
+    },
+    {
+      "chinese": "宽松世代进入职场",
+      "translation": "คนรุ่นสบายๆ เริ่มเข้าสู่ตลาดแรงงาน"
+    }
+  ],
+  "category": "jiaoyu",
+  "categoryName": "การศึกษา/โรงเรียน",
+  "relatedWords": [
+    "zhejuzu-2",
+    "nitezu"
+  ],
+  "sourceUrl": "https://chineself.com/kuansongshidai/"
+}

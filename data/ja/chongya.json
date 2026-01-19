@@ -1,0 +1,25 @@
+{
+  "slug": "chongya",
+  "chinese": "冲鸭",
+  "pinyin": "chōng yā",
+  "meaning": "突き進め、行け～",
+  "description": "冲呀（chōng ya）の意味のネット用語。冲冲冲でも同じ。",
+  "examples": [
+    {
+      "chinese": "新的一周继续冲鸭",
+      "translation": "新しい一週間続けて突き進め"
+    },
+    {
+      "chinese": "珍惜时光,把握机遇,赶紧冲鸭",
+      "translation": "時間を大切にチャンスを掴んで早く突き進め"
+    },
+    {
+      "chinese": "给你打call！加油！冲鸭！",
+      "translation": "あなたを応援する、頑張れ、行け～"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": ["chongchongchong", "dacall"],
+  "sourceUrl": "https://chineself.com/chongya/"
+}

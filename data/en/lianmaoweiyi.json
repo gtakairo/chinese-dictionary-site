@@ -1,0 +1,25 @@
+{
+  "slug": "lianmaoweiyi",
+  "chinese": "连帽卫衣",
+  "pinyin": "lián mào wèi yī",
+  "meaning": "Hoodie / Hooded Sweatshirt",
+  "description": "A sweatshirt with a hood.",
+  "examples": [
+    {
+      "chinese": "这件连帽卫衣很保暖",
+      "translation": "This hoodie is very warm"
+    },
+    {
+      "chinese": "穿黑色连帽卫衣出门",
+      "translation": "Wear a black hoodie to go out"
+    },
+    {
+      "chinese": "连帽卫衣搭配牛仔裤",
+      "translation": "Hoodie paired with jeans"
+    }
+  ],
+  "category": "fashion",
+  "categoryName": "Fashion/Beauty",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/lianmaoweiyi/"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "dong",
+  "chinese": "东百",
+  "pinyin": "dōng bǎi",
+  "meaning": "동북 (둥베이)",
+  "description": "동북(东北, 둥베이)을 의미합니다. 발음 흉내 낸 인터넷 용어. 백경(百京)=베이징, 사동(沙东)=산동.",
+  "examples": [
+    {
+      "chinese": "就是东百这天太冷了",
+      "translation": "동북 날씨가 정말 너무 춥다."
+    },
+    {
+      "chinese": "东百话好带劲",
+      "translation": "동북 사투리는 정말 찰지다."
+    },
+    {
+      "chinese": "我爱东百菜,真的套吃",
+      "translation": "나는 동북 요리를 좋아해, 진짜 맛있다."
+    },
+    {
+      "chinese": "吃饭时候旁边坐东百人喝酒太多",
+      "translation": "밥 먹을 때 옆에 앉은 동북 사람이 술을 너무 많이 마셨다."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [
+    "taochi"
+  ],
+  "sourceUrl": "https://chineself.com/dong/"
+}

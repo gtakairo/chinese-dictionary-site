@@ -1,0 +1,25 @@
+{
+  "slug": "fen2",
+  "chinese": "粉",
+  "pinyin": "fěn",
+  "meaning": "매우, 아주, 굉장히",
+  "description": "'hen(很)'과 같은 의미.",
+  "examples": [
+    {
+      "chinese": "粉开心",
+      "translation": "너무 즐거워"
+    },
+    {
+      "chinese": "粉可爱",
+      "translation": "완전 귀여워"
+    },
+    {
+      "chinese": "粉高兴",
+      "translation": "정말 기뻐"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어·은어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/fen/"
+}

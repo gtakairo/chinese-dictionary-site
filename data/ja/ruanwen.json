@@ -1,0 +1,12 @@
+{
+  "slug": "ruanwen",
+  "chinese": "软文",
+  "pinyin": "ruǎn wén",
+  "meaning": "ステマ記事／広告寄りの記事",
+  "description": "宣伝色が強いが中立を装った記事・投稿。",
+  "examples": [{"chinese": "这篇是软文吧", "japanese": "これはステマ記事だよね"}],
+  "category": "net",
+  "categoryName": "メディア・広告",
+  "relatedWords": ["kongping"],
+  "sourceUrl": "https://chineself.com/ruanwen/"
+}

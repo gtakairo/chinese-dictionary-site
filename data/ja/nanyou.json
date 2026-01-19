@@ -1,0 +1,25 @@
+{
+  "slug": "nanyou",
+  "chinese": "男友力",
+  "pinyin": "nán yǒu lì",
+  "meaning": "男子力、男性らしさ",
+  "description": "日本語の女子力（中国語でも「女子力」）が高いという言葉が流行ったことから、その男性版として使用されるようになった。男らしい男性のこと。",
+  "examples": [
+    {
+      "chinese": "你的老公满满的男友力",
+      "translation": "あなたの旦那さんは男子力が高すぎるでしょ"
+    },
+    {
+      "chinese": "他太苏了吧,男友力爆棚",
+      "translation": "彼には心を奪われるね、男らしさが溢れている"
+    },
+    {
+      "chinese": "一间亲手完成的DIY地下室,尊嘟男友力MAX!",
+      "translation": "自らDIYで地下室を完成させた、本当に男子力MAX"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": ["tailiaotaisu", "baopeng", "zundujiadu"],
+  "sourceUrl": "https://chineself.com/nanyou/"
+}

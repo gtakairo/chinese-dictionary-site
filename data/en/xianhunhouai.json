@@ -1,0 +1,23 @@
+{
+  "slug": "xianhunhouai",
+  "chinese": "先婚后爱",
+  "pinyin": "xiān hūn hòu ài",
+  "meaning": "Marry First, Love Later",
+  "description": "Developing love after getting married, often in arranged marriages.",
+  "examples": [
+    {
+      "chinese": "先婚后爱,虽然很土,但是很上头",
+      "translation": "Marriage before love is cliché, but very addictive."
+    },
+    {
+      "chinese": "先婚后爱,先爱后婚,有大的区别",
+      "translation": "Marriage before love vs Love before marriage, there's a big difference."
+    }
+  ],
+  "category": "nannv",
+  "categoryName": "Love / Marriage",
+  "relatedWords": [
+    "baobanhunyin"
+  ],
+  "sourceUrl": "https://chineself.com/xianhunhouai/"
+}

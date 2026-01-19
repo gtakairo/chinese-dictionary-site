@@ -1,0 +1,12 @@
+{
+  "slug": "shuanq",
+  "chinese": "栓Q",
+  "pinyin": "shuān Q",
+  "meaning": "サンキュー（なまり）",
+  "description": "英語の“Thank you”を中国語訛りでネタ的に表現したミーム。",
+  "examples": [{"chinese": "谢谢你，栓Q", "japanese": "ありがとう、サンキュー（栓Q）"}],
+  "category": "wailaiyu",
+  "categoryName": "外来語・ミーム",
+  "relatedWords": ["diesinei", "kawayi"],
+  "sourceUrl": "https://chineself.com/shuanq/"
+}

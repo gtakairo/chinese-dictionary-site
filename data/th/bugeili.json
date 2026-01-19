@@ -1,0 +1,25 @@
+{
+  "slug": "bugeili",
+  "chinese": "不给力",
+  "pinyin": "bù gěi lì",
+  "meaning": "ไม่ได้เรื่อง, น่าผิดหวัง, ไม่เจ๋ง",
+  "description": "ตรงข้ามกับ \"Geili\" (สุดยอด, เจ๋ง)",
+  "examples": [
+    {
+      "chinese": "空调太不给力了",
+      "translation": "แอร์ไม่เย็นเลย (ไม่ได้เรื่องเลย)"
+    },
+    {
+      "chinese": "今天股市不给力啊",
+      "translation": "ตลาดหุ้นวันนี้ไม่ค่อยดีเลย"
+    },
+    {
+      "chinese": "最近觉得自己有点不给力啊",
+      "translation": "ช่วงนี้รู้สึกว่าตัวเองทำอะไรก็ไม่ได้เรื่องเลย"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "ไม่ระบุหมวดหมู่",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/bugeili/"
+}

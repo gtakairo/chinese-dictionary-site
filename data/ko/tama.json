@@ -1,0 +1,25 @@
+{
+    "slug": "tama",
+    "chinese": "踏马",
+    "pinyin": "tà mǎ",
+    "meaning": "시발, 젠장",
+    "description": "타마(他妈)와 같은 의미. 욕설.",
+    "category": "tanci",
+    "categoryName": "감탄사",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/tama/",
+    "examples": [
+        {
+            "chinese": "真踏马离谱",
+            "translation": "진짜 개어이없네"
+        },
+        {
+            "chinese": "踏马的,现在才来",
+            "translation": "젠장, 이제야 오다니"
+        },
+        {
+            "chinese": "这种事谁踏马知道呢",
+            "translation": "이런 걸 시발 누가 알아"
+        }
+    ]
+}

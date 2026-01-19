@@ -1,0 +1,31 @@
+{
+    "slug": "ta",
+    "chinese": "它不香吗",
+    "pinyin": "tā bù xiāng ma",
+    "meaning": "그거 안 꿀려? (매력적이지 않아?)",
+    "description": "샹(香)은 매력적이다, 가치 있다는 의미. 꿀리지 않냐, 개이득 아니냐의 의미.",
+    "category": "net",
+    "categoryName": "인터넷 용어",
+    "relatedWords": [
+        "buxiangma-2"
+    ],
+    "sourceUrl": "https://chineself.com/ta/",
+    "examples": [
+        {
+            "chinese": "新产品来了,这价格它不香吗",
+            "translation": "신제품 나왔는데, 이 가격 꿀리지 않아?"
+        },
+        {
+            "chinese": "那么努力上大学它不香吗?",
+            "translation": "그렇게 노력해서 대학 가는 게 의미 있어?"
+        },
+        {
+            "chinese": "1000-2000平价手机它不香吗?",
+            "translation": "1000~2000위안대 가성비 폰, 이거 개이득 아니냐?"
+        },
+        {
+            "chinese": "迪士尼一个冰淇淋50块,它不香吗",
+            "translation": "디즈니 아이스크림 하나에 50위안, 그게 맛있냐? (살 가치가 있냐?)"
+        }
+    ]
+}

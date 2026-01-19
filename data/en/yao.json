@@ -1,0 +1,27 @@
+{
+  "slug": "yao",
+  "chinese": "遥不可及",
+  "pinyin": "yáo bù kě jí",
+  "meaning": "Out of reach / Unattainable",
+  "description": "Target or dream is too far away to reach.",
+  "examples": [
+    {
+      "chinese": "你是我的遥不可及的白月光,也是我的死心塌地",
+      "translation": "You are my unreachable white moonlight, and my unwavering devotion."
+    },
+    {
+      "chinese": "买房的目标其实并不是那么遥不可及",
+      "translation": "The goal of buying a house is actually not that unattainable."
+    },
+    {
+      "chinese": "要有遥不可及的梦想,也要有脚踏实地的本事",
+      "translation": "Have unreachable dreams, but also have down-to-earth skills."
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "Idioms",
+  "relatedWords": [
+    "baiyueguang"
+  ],
+  "sourceUrl": "https://chineself.com/yao/"
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "er",
+  "chinese": "二八定律",
+  "pinyin": "èr bā dìng lǜ",
+  "meaning": "파레토의 법칙 / 20대 80의 법칙",
+  "description": "80/20 법칙 또는 파레토 법칙이라고도 부른다.",
+  "examples": [
+    {
+      "chinese": "根据二八定律,世界上80%的钱掌握在20%人的手",
+      "translation": "파레토의 법칙에 따르면, 세계 부의 80%는 20%의 사람이 쥐고 있다"
+    },
+    {
+      "chinese": "很多行业有二八定律,即20%的人挣了80%的钱",
+      "translation": "많은 업계에 파레토의 법칙이 존재한다. 즉 20%의 사람이 80%의 돈을 번다"
+    }
+  ],
+  "category": "jingji",
+  "categoryName": "경제·비즈니스",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/er/"
+}

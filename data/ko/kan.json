@@ -1,0 +1,36 @@
+{
+  "slug": "kan",
+  "chinese": "堪比",
+  "pinyin": "kān bǐ",
+  "meaning": "필적하다, ~에 못지않다, ~와 견줄 만하다",
+  "description": "不逊色于, 不亚于, 比得上 등이 유의어이다.",
+  "examples": [
+    {
+      "chinese": "这辆车价格堪比保时捷",
+      "translation": "이 차 가격은 포르쉐와 맞먹는다"
+    },
+    {
+      "chinese": "这所双非大学实力堪比211",
+      "translation": "이 비명문 대학의 실력은 211 대학에 뒤지지 않는다"
+    },
+    {
+      "chinese": "每天做这个动作,护心效果堪比药",
+      "translation": "매일 이 동작을 하면 심장 보호 효과가 약에 버금간다"
+    },
+    {
+      "chinese": "他帅气的面庞,堪比模特的风格",
+      "translation": "그의 잘생긴 얼굴은 모델의 품격에 뒤지지 않는다"
+    },
+    {
+      "chinese": "这里森林茂密美丽,堪比桂林山水",
+      "translation": "이곳의 울창하고 아름다운 숲은 구이린의 산수에 필적한다"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "미분류",
+  "relatedWords": [
+    "bideshang",
+    "shuangfei"
+  ],
+  "sourceUrl": "https://chineself.com/kan/"
+}

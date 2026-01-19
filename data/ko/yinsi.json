@@ -1,0 +1,25 @@
+{
+  "slug": "yinsi",
+  "chinese": "隐私可言",
+  "pinyin": "yǐn sī kě yán",
+  "meaning": "사생활 / 프라이버시",
+  "description": "개인의 사생활이나 비밀.",
+  "examples": [
+    {
+      "chinese": "大数据时代,个人毫无隐私可言",
+      "translation": "빅데이터 시대에 개인은 사생활이 전혀 없다"
+    },
+    {
+      "chinese": "办公室安装了摄像头,太可怕了,哪有什么隐私可言",
+      "translation": "사무실에 카메라 설치? 너무 무섭다, 사생활이 어디 있어?"
+    },
+    {
+      "chinese": "手机支付没有一点隐私可言,每一笔消费都会记录的清清楚楚",
+      "translation": "모바일 결제는 사생활이 없다, 모든 소비가 명확히 기록된다"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "미분류",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/yinsi/"
+}

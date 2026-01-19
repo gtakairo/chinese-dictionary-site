@@ -1,0 +1,25 @@
+{
+  "slug": "lai",
+  "chinese": "癞蛤蟆想吃天鹅肉",
+  "pinyin": "lài há má xiǎng chī tiān é ròu",
+  "meaning": "身の程知らずな望みを抱く、実現不可能な夢を語る",
+  "description": "直訳すると「ヒキガエルが白鳥の肉を食べたがる」。実現不可能で、無理で現実味がないことばかりを言うことを形容する。",
+  "examples": [
+    {
+      "chinese": "你这癞蛤蟆想吃天鹅肉啊",
+      "translation": "あなた実現不可能な夢を語っているね"
+    },
+    {
+      "chinese": "穷逼男,不要癞蛤蟆想吃天鹅肉了",
+      "translation": "貧乏なダメ男、身の程知らずな望みを抱くな"
+    },
+    {
+      "chinese": "我知道我自己是癞蛤蟆,但是我就想吃一口大毛这样的天鹅肉",
+      "translation": "俺は自分が身の程知らずであることを知っているが膨大な夢を抱いてしまう"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "成語・四字熟語",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/lai/"
+}

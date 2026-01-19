@@ -1,0 +1,25 @@
+{
+    "slug": "tu",
+    "chinese": "团播",
+    "pinyin": "tuán bō",
+    "meaning": "단체 방송 (그룹 방송)",
+    "description": "여러 명의 스트리머(라이버)가 동시에 라이브 방송으로 퍼포먼스를 하고, 시청자의 도네이션 투표를 받아 경제 효과를 높이려는 새로운 방송 형식.",
+    "category": "sns",
+    "categoryName": "웹/SNS 용어",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/tu/",
+    "examples": [
+        {
+            "chinese": "一晚人数1000万,擦边团播",
+            "translation": "하룻밤 시청자 1000만, 수위 넘나드는 단체 방송"
+        },
+        {
+            "chinese": "直播新风口,团播何以成年轻人新宠",
+            "translation": "라이브 방송의 새 바람, 단체 방송은 어째서 젊은이들의 새로운 트렌드가 되었나"
+        },
+        {
+            "chinese": "单场千万打赏,打PK,输了奖金给对方吗？",
+            "translation": "한 판에 천만 도네이션, PK 대결, 지면 상금 상대방 줌?"
+        }
+    ]
+}

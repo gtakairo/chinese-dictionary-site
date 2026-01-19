@@ -1,0 +1,184 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+  lang?: string;
+  canonical?: string;
+  ogImage?: string;
+  ogType?: string;
+  keywords?: string;
+  structuredData?: object;
+}
+
+const { 
+  title, 
+  description = 'Modern Chinese Dictionary - Learn Chinese slang and internet terms', 
+  lang = 'en',
+  canonical,
+  ogImage = '/og-default.svg',
+  ogType = 'website',
+  keywords,
+  structuredData,
+} = Astro.props;
+
+const currentUrl = canonical ? `https://chinesedict.com${canonical}` : Astro.url.href;
+const ogImageUrl = ogImage.startsWith('http') ? ogImage : `https://chinesedict.com${ogImage}`;
+const languages = [
+  { code: 'en', name: 'English', flag: '🇺🇸' },
+  { code: 'ko', name: '한국어', flag: '🇰🇷' },
+  { code: 'ja', name: '日本語', flag: '🇯🇵' },
+  { code: 'th', name: 'ไทย', flag: '🇹🇭' },
+];
+---
+
+<!doctype html>
+<html lang={lang}>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content={description} />
+    {keywords && <meta name="keywords" content={keywords} />}
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    
+    <!-- Canonical URL -->
+    {canonical && <link rel="canonical" href={currentUrl} />}
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content={ogType} />
+    <meta property="og:url" content={currentUrl} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={ogImageUrl} />
+    <meta property="og:locale" content={lang === 'ja' ? 'ja_JP' : lang === 'ko' ? 'ko_KR' : lang === 'th' ? 'th_TH' : 'en_US'} />
+    
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:url" content={currentUrl} />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImageUrl} />
+    
+    <!-- hreflang for multilingual SEO -->
+    {canonical && (
+      <>
+        <link rel="alternate" hreflang="en" href={`https://chinesedict.com${canonical.replace(/\/(ja|ko|th)\//, '/en/')}`} />
+        <link rel="alternate" hreflang="ja" href={`https://chinesedict.com${canonical.replace(/\/(en|ko|th)\//, '/ja/')}`} />
+        <link rel="alternate" hreflang="ko" href={`https://chinesedict.com${canonical.replace(/\/(en|ja|th)\//, '/ko/')}`} />
+        <link rel="alternate" hreflang="th" href={`https://chinesedict.com${canonical.replace(/\/(en|ja|ko)\//, '/th/')}`} />
+        <link rel="alternate" hreflang="x-default" href={`https://chinesedict.com${canonical.replace(/\/(ja|ko|th)\//, '/en/')}`} />
+      </>
+    )}
+    
+    <!-- Structured Data (JSON-LD) -->
+    {structuredData && (
+      <script type="application/ld+json" set:html={JSON.stringify(structuredData)} />
+    )}
+    
+    <title>{title}</title>
+  </head>
+  <body class="bg-gray-50 text-gray-900 min-h-screen flex flex-col">
+    <!-- Header -->
+    <header class="bg-white shadow-sm border-b border-gray-200 sticky top-0 z-50">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="flex items-center justify-between h-16">
+          <!-- Logo -->
+          <a href={`/${lang}/`} class="flex items-center gap-2">
+            <span class="text-2xl">🀄</span>
+            <span class="font-bold text-xl text-red-600">ChineseDict</span>
+          </a>
+          
+          <!-- Search Bar -->
+          <div class="flex-1 max-w-lg mx-8 hidden md:block">
+            <form action={`/${lang}/search`} method="get" class="relative">
+              <input
+                type="search"
+                name="q"
+                placeholder="Search Chinese words..."
+                class="w-full pl-10 pr-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-red-500 focus:border-transparent"
+              />
+              <svg class="absolute left-3 top-2.5 h-5 w-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+              </svg>
+            </form>
+          </div>
+          
+          <!-- Language Switcher -->
+          <div class="flex items-center gap-2">
+            {languages.map((l) => (
+              <a
+                href={`/${l.code}/`}
+                class={`px-3 py-1 rounded text-sm ${lang === l.code ? 'bg-red-100 text-red-700 font-medium' : 'text-gray-600 hover:bg-gray-100'}`}
+              >
+                {l.flag} {l.name}
+              </a>
+            ))}
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="flex-1">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        <div class="flex gap-8">
+          <!-- Sidebar -->
+          <aside class="w-64 hidden lg:block flex-shrink-0">
+            <nav class="sticky top-24">
+              <h3 class="font-semibold text-gray-900 mb-4">Categories</h3>
+              <ul class="space-y-2">
+                <li>
+                  <a href={`/${lang}/category/net`} class="flex items-center gap-2 text-gray-600 hover:text-red-600 py-1">
+                    <span>💬</span> Internet Slang
+                  </a>
+                </li>
+                <li>
+                  <a href={`/${lang}/category/jinrong`} class="flex items-center gap-2 text-gray-600 hover:text-red-600 py-1">
+                    <span>💰</span> Finance
+                  </a>
+                </li>
+                <li>
+                  <a href={`/${lang}/category/sns`} class="flex items-center gap-2 text-gray-600 hover:text-red-600 py-1">
+                    <span>📱</span> Social Media
+                  </a>
+                </li>
+                <li>
+                  <a href={`/${lang}/category/tanci`} class="flex items-center gap-2 text-gray-600 hover:text-red-600 py-1">
+                    <span>😮</span> Interjections
+                  </a>
+                </li>
+              </ul>
+              
+              <!-- Ad Space (Sidebar) -->
+              <div class="mt-8 p-4 bg-gray-100 rounded-lg text-center text-gray-400 text-sm">
+                Ad Space
+              </div>
+            </nav>
+          </aside>
+          
+          <!-- Content -->
+          <div class="flex-1 min-w-0">
+            <slot />
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-white border-t border-gray-200 mt-auto">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        <div class="flex flex-col md:flex-row justify-between items-center gap-4">
+          <div class="text-gray-500 text-sm">
+            © 2025 ChineseDict. All rights reserved.
+          </div>
+          <div class="flex gap-6 text-sm text-gray-500">
+            <a href="/about" class="hover:text-gray-700">About</a>
+            <a href="/privacy" class="hover:text-gray-700">Privacy</a>
+            <a href="/contact" class="hover:text-gray-700">Contact</a>
+          </div>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

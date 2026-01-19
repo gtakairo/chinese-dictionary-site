@@ -1,0 +1,20 @@
+{
+    "slug": "tuofen",
+    "chinese": "脱粉",
+    "pinyin": "tuō fěn",
+    "meaning": "탈덕 (팬 그만둠)",
+    "description": "불상사나 가치관 차이로 팬을 그만두는 것.",
+    "category": "net",
+    "categoryName": "덕질 문화",
+    "relatedWords": [
+        "tafang",
+        "poquan"
+    ],
+    "sourceUrl": "https://chineself.com/tuofen/",
+    "examples": [
+        {
+            "chinese": "事件后很多人脱粉",
+            "translation": "사건 후 탈덕한 사람이 많았다"
+        }
+    ]
+}

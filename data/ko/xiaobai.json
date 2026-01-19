@@ -1,0 +1,31 @@
+{
+  "slug": "xiaobai",
+  "chinese": "小白",
+  "pinyin": "xiǎo bái",
+  "meaning": "초보 / 뉴비",
+  "description": "'xiao'(小白)와 같음. 초보자, 신입.",
+  "examples": [
+    {
+      "chinese": "哪些适合于小白的投资？",
+      "translation": "초보자에게 적합한 투자는 무엇인가?"
+    },
+    {
+      "chinese": "新手小白从哪开始",
+      "translation": "쌩초보는 어디서부터 시작해야 하나?"
+    },
+    {
+      "chinese": "刚刚入职小白,如何应对工作",
+      "translation": "갓 입사한 신입인데, 일을 어떻게 대처해야 하나?"
+    },
+    {
+      "chinese": "我觉得自己是个恋爱小白",
+      "translation": "난 연애 고자인 것 같아."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어 / 속어",
+  "relatedWords": [
+    "cainiao"
+  ],
+  "sourceUrl": "https://chineself.com/xiaobai/"
+}

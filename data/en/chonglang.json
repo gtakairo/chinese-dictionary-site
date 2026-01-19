@@ -1,0 +1,19 @@
+{
+  "slug": "chonglang",
+  "chinese": "冲浪",
+  "pinyin": "chōng làng",
+  "meaning": "Surfing the internet",
+  "description": "Wandering through SNS and bulletin boards to follow information.",
+  "examples": [
+    {
+      "chinese": "晚上刷手机冲浪",
+      "translation": "Surfing the internet on my phone at night"
+    }
+  ],
+  "category": "net",
+  "categoryName": "SNS/Behavior",
+  "relatedWords": [
+    "xswl"
+  ],
+  "sourceUrl": "https://chineself.com/chonglang/"
+}

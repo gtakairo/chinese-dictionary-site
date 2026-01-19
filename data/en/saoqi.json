@@ -1,0 +1,27 @@
+{
+  "slug": "saoqi",
+  "chinese": "骚气",
+  "pinyin": "sāo qì",
+  "meaning": "1. Rank/Foul smell 2. Flamboyant / Coquettish / Slutty",
+  "description": "1. Refers to a raw meat or fishy smell (rank odor). 2. Used as internet slang or colloquialism to mean flamboyant, flashy, coquettish, or sometimes 'loose' (similar to 'ni hao sao a').",
+  "examples": [
+    {
+      "chinese": "大街上有很多银杏树,臭白果味儿还有骚气",
+      "translation": "There are many ginkgo trees on the street; the rotting fruit smells rank."
+    },
+    {
+      "chinese": "这个西服颜色很骚气",
+      "translation": "Running this suit color is very flamboyant."
+    },
+    {
+      "chinese": "你这操作也太骚气了吧",
+      "translation": "Your way of doing things is too flashy/unconventional."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [
+    "nihaosaoa"
+  ],
+  "sourceUrl": "https://chineself.com/saoqi/"
+}

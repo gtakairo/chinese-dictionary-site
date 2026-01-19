@@ -1,0 +1,25 @@
+{
+  "slug": "lianmaoweiyi",
+  "chinese": "连帽卫衣",
+  "pinyin": "lián mào wèi yī",
+  "meaning": "เสื้อฮู้ด (เสื้อกันหนาวมีหมวก)",
+  "description": "เสื้อสเวตเตอร์ที่มีหมวกคลุมศีรษะ",
+  "examples": [
+    {
+      "chinese": "这件连帽卫衣很保暖",
+      "translation": "เสื้อฮู้ดตัวนี้อุ่นมาก"
+    },
+    {
+      "chinese": "穿黑色连帽卫衣出门",
+      "translation": "ใส่เสื้อฮู้ดสีดำออกไปข้างนอก"
+    },
+    {
+      "chinese": "连帽卫衣搭配牛仔裤",
+      "translation": "เสื้อฮู้ดจับคู่กับกางเกงยีนส์"
+    }
+  ],
+  "category": "fashion",
+  "categoryName": "แฟชั่น/ความงาม",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/lianmaoweiyi/"
+}

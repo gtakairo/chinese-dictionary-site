@@ -1,0 +1,31 @@
+{
+  "slug": "neijuan",
+  "chinese": "内卷",
+  "pinyin": "nèi juǎn",
+  "meaning": "Involution; Intense competition; Rat race",
+  "description": "Refers to a state of intense, often meaningless, competition where individuals work harder for diminishing returns. Originally an anthropological term, it now describes the intense social pressure and competition in modern society (e.g., in education or the workplace).",
+  "examples": [
+    {
+      "chinese": "极端内卷时代,我们必须不停奔跑",
+      "translation": "In an era of extreme involution, we must keep running."
+    },
+    {
+      "chinese": "快递行业价格战加速内卷",
+      "translation": "The price war in the delivery industry is accelerating involution."
+    },
+    {
+      "chinese": "房地产消费疲软,内卷激烈",
+      "translation": "Real estate consumption is weak, and involution is fierce."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [
+    "tangping",
+    "taijuanle",
+    "waijuan",
+    "zengzhangdian",
+    "poquan"
+  ],
+  "sourceUrl": "https://chineself.com/neijuan/"
+}

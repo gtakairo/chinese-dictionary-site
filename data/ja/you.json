@@ -1,0 +1,29 @@
+{
+  "slug": "you",
+  "chinese": "又a又飒",
+  "pinyin": "yòu a yòu sà",
+  "meaning": "カッコよく爽やか、凛々しく颯爽とした",
+  "description": "aはAlphaの略で、男らしい、凛々しいの意味。自信があり意欲的で社交的でリーダータイプのこと。飒は多くが女性を形容する単語。誰もが憧れる女性像やキャリアウーマンのような風貌を形容する単語。又酷又飒は「クールで爽やかな」の意味。",
+  "examples": [
+    {
+      "chinese": "又a又飒的穿搭",
+      "translation": "カッコよくスマートな着こなし"
+    },
+    {
+      "chinese": "又A又飒的女老板",
+      "translation": "凛々しく颯爽とした女社長"
+    },
+    {
+      "chinese": "她真的是又飒又A",
+      "translation": "彼女は本当にカッコよく頭もよい"
+    },
+    {
+      "chinese": "又A又酷又美又飒又性感",
+      "translation": "カッコよくクールで美しくスマートでセクシー"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": ["sa", "chuanda"],
+  "sourceUrl": "https://chineself.com/you/"
+}

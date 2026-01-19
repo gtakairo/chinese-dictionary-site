@@ -1,0 +1,27 @@
+{
+  "slug": "sangxin",
+  "chinese": "桑心",
+  "pinyin": "sāng xīn",
+  "meaning": "เสียใจ, เศร้าใจ",
+  "description": "ศัพท์แสลงอินเทอร์เน็ตของคำว่า 伤心 (shāng xīn) แปลว่าเสียใจ",
+  "examples": [
+    {
+      "chinese": "真是让人桑心",
+      "translation": "ทำให้เสียใจจริงๆ"
+    },
+    {
+      "chinese": "心里有一点点桑心",
+      "translation": "รู้สึกเจ็บปวดใจนิดหน่อย"
+    },
+    {
+      "chinese": "我发现头顶一根白发,好桑心",
+      "translation": "ฉันเจอผมหงอกเส้นนึงบนหัว เศร้าใจมาก"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์แสลงทางอินเทอร์เน็ต",
+  "relatedWords": [
+    "wokule"
+  ],
+  "sourceUrl": "https://chineself.com/sangxin/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "yang",
+  "chinese": "养膘",
+  "pinyin": "yǎng biāo",
+  "meaning": "살찌우기 / 확찐자",
+  "description": "가축을 살찌운다는 뜻이지만, 사람이 살쪘을 때 자조적으로 씀.",
+  "examples": [
+    {
+      "chinese": "春节回家养膘了",
+      "translation": "설날에 집에 가서 살만 쪄서 왔다."
+    },
+    {
+      "chinese": "肉眼可见地变胖了,养膘过头了",
+      "translation": "눈에 띄게 살쪘네, 너무 많이 먹었어."
+    },
+    {
+      "chinese": "熬这几天都成养膘加烂脸了",
+      "translation": "며칠 밤새웠더니 살찌고 피부 다 뒤집어졌다."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 속어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/yang/"
+}

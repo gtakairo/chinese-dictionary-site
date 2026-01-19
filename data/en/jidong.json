@@ -1,0 +1,28 @@
+{
+  "slug": "jidong",
+  "chinese": "鸡冻",
+  "pinyin": "jī dòng",
+  "meaning": "Excited / Emotional",
+  "description": "Internet slang for 激动 (jī dòng).",
+  "examples": [
+    {
+      "chinese": "帅气酷盖！好鸡冻啊啊啊",
+      "translation": "Handsome cool guy! So excited ahhh"
+    },
+    {
+      "chinese": "重磅好消息,我很鸡冻",
+      "translation": "Big good news, I'm so excited"
+    },
+    {
+      "chinese": "要冷静要冷静！怎么办还是很鸡冻",
+      "translation": "Calm down calm down! What to do, still so excited"
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [
+    "kugai",
+    "zhongbang"
+  ],
+  "sourceUrl": "https://chineself.com/jidong/"
+}

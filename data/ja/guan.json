@@ -1,0 +1,29 @@
+{
+  "slug": "guan",
+  "chinese": "管饱",
+  "pinyin": "guǎn bǎo",
+  "meaning": "①（食べるものを）それだけで間に合わせる、済ませる ②お腹を満たす",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "一个切两份分两次吃,半个就管饱",
+      "japanese": "ひとつを2つに分けて2回で食べる、半分で間に合わせる"
+    },
+    {
+      "chinese": "今天是连饭都没时间吃的,一天一顿管饱",
+      "japanese": "今日はご飯を食べる時間もない、一日一食で済ませる"
+    },
+    {
+      "chinese": "来我家,没什么好菜但我保证肉管饱,酒管够",
+      "japanese": "うちにおいでよ、そんなよい料理はないけどお腹一杯、酒も十分飲めるから"
+    },
+    {
+      "chinese": "胃口变大了,以前一个汉堡可以吃撑 现在两个汉堡才管饱",
+      "japanese": "胃が大きくなった、以前はハンバーガー1個で満腹、今は2個でやっとお腹が満たされる"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "未分類",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/guan/"
+}

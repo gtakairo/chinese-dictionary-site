@@ -1,0 +1,14 @@
+{
+  "slug": "moyu",
+  "chinese": "摸鱼",
+  "pinyin": "mō yú",
+  "meaning": "サボる／仕事中に怠ける",
+  "description": "勤務中にこっそりサボることを指すネット語。",
+  "examples": [
+    {"chinese": "上班摸鱼被发现了", "japanese": "仕事中にサボっていて見つかった"}
+  ],
+  "category": "net",
+  "categoryName": "ネットスラング",
+  "relatedWords": ["dagongren"],
+  "sourceUrl": "https://chineself.com/moyu/"
+}

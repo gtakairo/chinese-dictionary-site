@@ -1,0 +1,25 @@
+{
+  "slug": "fan",
+  "chinese": "反败为胜",
+  "pinyin": "fǎn bài wéi shèng",
+  "meaning": "พลิกวิกฤตเป็นโอกาส / พลิกสถานการณ์จากแพ้เป็นชนะ",
+  "description": "เปลี่ยนสถานการณ์ที่กำลังจะพ่ายแพ้ให้กลับมาเป็นผู้ชนะ",
+  "examples": [
+    {
+      "chinese": "最终日本4比3反败为胜",
+      "translation": "ในที่สุดญี่ปุ่นก็พลิกกลับมาชนะ 4 ต่อ 3"
+    },
+    {
+      "chinese": "没想到最后居然反败为胜了",
+      "translation": "ไม่คิดว่าสุดท้ายจะพลิกกลับมาชนะได้จริงๆ"
+    },
+    {
+      "chinese": "人生还有反败为胜的机会",
+      "translation": "ชีวิตยังมีโอกาสที่จะพลิกกลับมาชนะได้"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "ไม่จัดประเภท",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/fan/"
+}

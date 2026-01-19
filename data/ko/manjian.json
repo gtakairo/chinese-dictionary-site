@@ -1,0 +1,27 @@
+{
+  "slug": "manjian",
+  "chinese": "满江红",
+  "pinyin": "mǎn jiāng hóng",
+  "meaning": "붉은색 / 낙제",
+  "description": "붉은색을 뜻하는 인터넷 용어. 시험에서 틀린 문제가 많으면 답안지가 붉은색으로 도배되는 것에서 유래했다.",
+  "examples": [
+    {
+      "chinese": "我喜欢满江红的衣服",
+      "translation": "나는 붉은색 옷을 좋아한다."
+    },
+    {
+      "chinese": "今天考试语文作文考了满江红",
+      "translation": "오늘 국어 작문 시험에서 낙제점을 받았다 (빨간 비가 내렸다)."
+    },
+    {
+      "chinese": "大姨妈真的太突然了,走到公司就已经满江红了",
+      "translation": "생리가 너무 갑자기 터져서 회사에 도착했을 땐 이미 붉게 물들어 있었다."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [
+    "dayima"
+  ],
+  "sourceUrl": "https://chineself.com/manjian/"
+}

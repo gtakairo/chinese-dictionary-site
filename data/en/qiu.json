@@ -1,0 +1,25 @@
+{
+  "slug": "qiu",
+  "chinese": "球场通道",
+  "pinyin": "qiú chǎng tōng dào",
+  "meaning": "Through the green (Golf)",
+  "description": "Golf term for the playable area of the course.",
+  "examples": [
+    {
+      "chinese": "球在球场通道内可击",
+      "translation": "Ball in through the green can be played"
+    },
+    {
+      "chinese": "从球场通道推进果岭",
+      "translation": "Putting from through the green to the green"
+    },
+    {
+      "chinese": "了解球场通道的规则",
+      "translation": "Understand the rules of through the green"
+    }
+  ],
+  "category": "sport",
+  "categoryName": "Sports",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/qiu/"
+}

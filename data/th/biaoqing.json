@@ -1,0 +1,27 @@
+{
+  "slug": "biaoqing",
+  "chinese": "表情包轰炸",
+  "pinyin": "biǎo qíng bāo hōng zhà",
+  "meaning": "สติกเกอร์บอมบ์ / รัวสติกเกอร์",
+  "description": "การส่งสติกเกอร์รัวๆ จำนวนมากในแชท",
+  "examples": [
+    {
+      "chinese": "他又开始对我语音轰炸+表情包轰炸",
+      "translation": "เขาเริ่มรัวข้อความเสียง + รัวสติกเกอร์ใส่ฉันอีกแล้ว"
+    },
+    {
+      "chinese": "天杀的,给我100多条表情包轰炸",
+      "translation": "บ้าเอ๊ย ส่งสติกเกอร์มาถล่มฉันตั้ง 100 กว่าอัน"
+    },
+    {
+      "chinese": "一打开手机,发现有人给我发了超多炸虾表情包",
+      "translation": "พอเปิดมือถือ ก็เจอคนส่งสติกเกอร์กุ้งทอดมาให้เยอะมาก"
+    }
+  ],
+  "category": "sns",
+  "categoryName": "เว็บและโซเชียล",
+  "relatedWords": [
+    "tianshade"
+  ],
+  "sourceUrl": "https://chineself.com/biaoqing/"
+}

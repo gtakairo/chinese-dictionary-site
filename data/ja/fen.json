@@ -1,0 +1,25 @@
+{
+  "slug": "fen",
+  "chinese": "粉",
+  "pinyin": "fěn",
+  "meaning": "とても、たいへん、すごく",
+  "description": "很（hěn）と同じ意味。",
+  "examples": [
+    {
+      "chinese": "粉开心",
+      "japanese": "とっても楽しい"
+    },
+    {
+      "chinese": "粉可爱",
+      "japanese": "すごく可愛い"
+    },
+    {
+      "chinese": "粉高兴",
+      "japanese": "とても嬉しい"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語・スラング",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/fen/"
+}

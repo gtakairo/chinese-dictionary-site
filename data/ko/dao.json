@@ -1,0 +1,29 @@
+{
+  "slug": "dao",
+  "chinese": "倒逼",
+  "pinyin": "dào bī",
+  "meaning": "역으로 압박하다, 강요되다, 어쩔 수 없이 ~하게 되다",
+  "description": "어떤 상황이나 압력으로 인해 변화나 행동을 강요받는 것을 의미합니다.",
+  "examples": [
+    {
+      "chinese": "明天有事早起倒逼早睡",
+      "translation": "내일 일찍 일어날 일이 있어서 어쩔 수 없이 일찍 자야 한다."
+    },
+    {
+      "chinese": "遇到逆境时倒逼自己接受现实",
+      "translation": "역경에 처했을 때 현실을 받아들이도록 스스로를 다그친다."
+    },
+    {
+      "chinese": "当下经济下行困境,倒逼创新转型",
+      "translation": "현재의 경제 침체 상황이 혁신적인 전환을 강요하고 있다."
+    },
+    {
+      "chinese": "双碳目标倒逼新型电力系统建设提速",
+      "translation": "탄소 중립 목표가 신형 전력 시스템 건설의 가속화를 재촉하고 있다."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/dao/"
+}

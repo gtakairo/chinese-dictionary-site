@@ -1,0 +1,25 @@
+{
+  "slug": "lei",
+  "chinese": "泪奔",
+  "pinyin": "lèi bēn",
+  "meaning": "눈물이 왈칵 쏟아지다 (눈물 흘리며 뛰쳐나가다)",
+  "description": "눈물을 흘리며 달려가는 이미지입니다. 감동이나 슬픔으로 눈물이 멈추지 않는 모습을 나타냅니다.",
+  "examples": [
+    {
+      "chinese": "刚刚看到一句话我瞬间泪奔了",
+      "translation": "방금 한 문장을 보고 순간 눈물이 왈칵 쏟아졌다"
+    },
+    {
+      "chinese": "听到她的歌声,引得全场观众泪奔",
+      "translation": "그녀의 노래를 듣고 전 관객이 눈물을 흘렸다"
+    },
+    {
+      "chinese": "这段视频让无数人泪奔",
+      "translation": "이 영상은 수많은 사람들을 울렸다"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/lei/"
+}

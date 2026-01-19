@@ -1,0 +1,27 @@
+{
+  "slug": "xin",
+  "chinese": "洗脑包",
+  "pinyin": "xǐ nǎo bāo",
+  "meaning": "세뇌 팩 / 날조글 / 선동",
+  "description": "사실을 왜곡하여 퍼뜨리는 글이나 루머.",
+  "examples": [
+    {
+      "chinese": "希望网络少些他们俩的洗脑包,明明很相爱",
+      "translation": "인터넷에 걔네 둘에 대한 날조글 좀 줄었으면 좋겠어, 분명 서로 사랑하는데."
+    },
+    {
+      "chinese": "诈骗式的洗脑包营销更是下头",
+      "translation": "사기성 세뇌 마케팅은 진짜 확 깬다."
+    },
+    {
+      "chinese": "我吃了太多洗脑包,现在才知道真实",
+      "translation": "나도 날조글에 너무 많이 속았어, 이제야 진실을 알았네."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [
+    "zhenrangrenxiatou"
+  ],
+  "sourceUrl": "https://chineself.com/xin/"
+}

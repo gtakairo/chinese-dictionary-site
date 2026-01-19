@@ -1,0 +1,28 @@
+{
+  "slug": "he",
+  "chinese": "赫本风",
+  "pinyin": "hè běn fēng",
+  "meaning": "Hepburn Style",
+  "description": "Refers to Audrey Hepburn's style, often characterized by elegance and classic looks (like the Little Black Dress). Used to describe clothing or fashion. Also called \"Hepburn style outfit\".",
+  "examples": [
+    {
+      "chinese": "优雅端庄的赫本风小白裙",
+      "translation": "Elegant and dignified Hepburn-style little white dress."
+    },
+    {
+      "chinese": "赫本风的婚纱,低调又优雅",
+      "translation": "Hepburn-style wedding dress, low-key and elegant."
+    },
+    {
+      "chinese": "没事去逛街买了赫本风的连衣裙",
+      "translation": "Went shopping and bought a Hepburn-style dress."
+    }
+  ],
+  "category": "fashion",
+  "categoryName": "Fashion & Beauty",
+  "relatedWords": [
+    "chuanda",
+    "didiao"
+  ],
+  "sourceUrl": "https://chineself.com/he/"
+}

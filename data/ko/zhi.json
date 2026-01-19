@@ -1,0 +1,33 @@
+{
+  "slug": "zhi",
+  "chinese": "直白",
+  "pinyin": "zhí bái",
+  "meaning": "직설적이다 / 솔직하다",
+  "description": "돌려 말하지 않고 직접적으로 말함.",
+  "examples": [
+    {
+      "chinese": "对方的说法很直白",
+      "translation": "상대방의 화법이 매우 직설적이다"
+    },
+    {
+      "chinese": "不能直白的拒绝,应该怎样拒绝",
+      "translation": "직설적으로 거절할 수 없는데, 어떻게 거절하지?"
+    },
+    {
+      "chinese": "太直白了,你会怎么表达爱呢",
+      "translation": "너무 직설적이다, 사랑 표현을 어떻게 그렇게 하니?"
+    },
+    {
+      "chinese": "尽量不要直白说孩子缺点",
+      "translation": "아이의 단점을 직설적으로 말하지 않도록 해라"
+    },
+    {
+      "chinese": "想不通为什么啥事情不能直白说",
+      "translation": "왜 뭐든 직설적으로 말하면 안 되는지 이해가 안 간다"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "미분류",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/zhi/"
+}

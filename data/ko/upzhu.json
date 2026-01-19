@@ -1,0 +1,19 @@
+{
+  "slug": "upzhu",
+  "chinese": "UP主",
+  "pinyin": "u p zhǔ",
+  "meaning": "업로더 / 크리에이터",
+  "description": "동영상 사이트에 콘텐츠를 업로드하는 사람을 가리킴.",
+  "examples": [
+    {
+      "chinese": "这位UP主很有才华",
+      "translation": "이 업로더는 재능이 있다."
+    }
+  ],
+  "category": "wailaiyu",
+  "categoryName": "외래어 / 인터넷 용어",
+  "relatedWords": [
+    "poquan"
+  ],
+  "sourceUrl": "https://chineself.com/upzhu/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "fensi",
+  "chinese": "粉丝滤镜",
+  "pinyin": "fěn sī lǜ jìng",
+  "meaning": "推しびいき、ファンの偏見、ファン目線",
+  "description": "直訳すると「ファンフィルター」。自分の推しの有名人に対して好きすぎて偏った見方をしてしまい、欠点や嫌なことが見えないなどの現象のこと。",
+  "examples": [
+    {
+      "chinese": "真的帅出天际,这句话真的不是粉丝滤镜",
+      "translation": "突き抜けて格好よい、この言葉は推しびいきによるものではない"
+    },
+    {
+      "chinese": "不带粉丝滤镜的说,每部都理中客就好看",
+      "translation": "ファン目線で言うのではない、どの作品も客観的に見て面白い"
+    },
+    {
+      "chinese": "求推荐一部没有粉丝滤镜,纯粹吸引路人的剧",
+      "translation": "おすすめのファンびいきでない一般の人をも引き付けるドラマを紹介して"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": ["chutianji", "lizhongke", "chunluren"],
+  "sourceUrl": "https://chineself.com/fensi/"
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "gei",
+  "chinese": "给跪了",
+  "pinyin": "gěi guì le",
+  "meaning": "무릎 꿇다 / 졌다 / 경의를 표하다 / 대박이다",
+  "description": "「당신에게 무릎을 꿇었다」의 줄임말. 탄복, 감탄, 혹은 너무 어이가 없어서 항복한다는 의미로도 쓰인다.",
+  "examples": [
+    {
+      "chinese": "消防员整齐划一,给跪了",
+      "translation": "소방관들의 일사불란함에 경의를 표한다."
+    },
+    {
+      "chinese": "这技术真心给跪了",
+      "translation": "이 기술은 진심 대박이다(무릎 꿇을 정도다)."
+    },
+    {
+      "chinese": "这价格给跪了,性价比好高哦",
+      "translation": "이 가격 실화냐, 가성비 진짜 좋네."
+    },
+    {
+      "chinese": "卧槽,帅得我给跪了",
+      "translation": "와, 너무 잘생겨서 무릎 꿇었다."
+    },
+    {
+      "chinese": "你还是太全面了,我给跪了",
+      "translation": "넌 정말 다재다능하구나, 내가 졌다."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 유행어/은어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/gei/"
+}

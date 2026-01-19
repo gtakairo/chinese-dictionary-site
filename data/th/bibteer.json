@@ -1,0 +1,16 @@
+{
+  "slug": "bibteer",
+  "chinese": "比特儿",
+  "pinyin": "bǐ tè ér",
+  "meaning": "Gate.io [เว็บไซต์แลกเปลี่ยนสกุลเงินดิจิทัล]",
+  "description": "ชื่อเก่าที่เกี่ยวข้องกับ Gate.io แพลตฟอร์มซื้อขายคริปโท",
+  "examples": [
+    { "chinese": "在比特儿完成充值提现", "translation": "ทำรายการฝาก-ถอนบน Gate.io (比特儿)" },
+    { "chinese": "比特儿支持哪些交易对?", "translation": "Gate.io รองรับคู่เทรดอะไรบ้าง?" },
+    { "chinese": "开启两步验证保障账户安全", "translation": "เปิดใช้งานยืนยันสองขั้นเพื่อความปลอดภัยของบัญชี" }
+  ],
+  "category": "jinrong",
+  "categoryName": "การเงินและการลงทุน",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/bibteer/"
+}

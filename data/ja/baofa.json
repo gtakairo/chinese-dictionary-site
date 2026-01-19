@@ -1,0 +1,16 @@
+{
+  "slug": "baofa",
+  "chinese": "爆发",
+  "pinyin": "bào fā",
+  "meaning": "アウトブレイク",
+  "description": "コロナ関連以外で使用すると、「爆発する、勃発する」となる。",
+  "examples": [
+    {"chinese": "疫情在局部地区爆发", "japanese": "一部地域で感染がアウトブレイクした"},
+    {"chinese": "矛盾突然爆发", "japanese": "対立が突然勃発した"},
+    {"chinese": "需求爆发带动销量", "japanese": "需要の爆発が売上を押し上げた"}
+  ],
+  "category": "yiliao",
+  "categoryName": "医療・病気",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/baofa/"
+}

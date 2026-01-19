@@ -1,0 +1,14 @@
+{
+  "slug": "guomienasai",
+  "chinese": "果咩那塞",
+  "pinyin": "guǒ miē nà sāi",
+  "meaning": "ごめんなさい",
+  "description": "日本語の音訳。过咩那塞、果咩拉塞も同じ。",
+  "examples": [
+    {"chinese": "再麻烦一次果咩那塞", "japanese": "また迷惑かけてごめんなさい"}
+  ],
+  "category": "wailaiyu",
+  "categoryName": "外来語・音訳",
+  "relatedWords": ["sumimasai", "hongdouni"],
+  "sourceUrl": "https://chineself.com/guomienasai/"
+}

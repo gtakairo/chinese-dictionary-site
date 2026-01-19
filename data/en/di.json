@@ -1,0 +1,41 @@
+{
+  "slug": "di",
+  "chinese": "滴",
+  "pinyin": "dī",
+  "meaning": "of / 「s (equivalent to 」de「)",
+  "description": "Same meaning as 「de」 (的). Used as internet slang.",
+  "examples": [
+    {
+      "chinese": "我滴妈呀",
+      "translation": "Oh my god"
+    },
+    {
+      "chinese": "真滴吗",
+      "translation": "Really?"
+    },
+    {
+      "chinese": "真滴假滴",
+      "translation": "For real?"
+    },
+    {
+      "chinese": "我认为是滴",
+      "translation": "I think so"
+    },
+    {
+      "chinese": "対滴,明天的",
+      "translation": "Correct, tomorrow's"
+    },
+    {
+      "chinese": "早安,我滴宝宝",
+      "translation": "Good morning, my baby"
+    },
+    {
+      "chinese": "亲爱滴哥哥",
+      "translation": "Dear brother"
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/di/"
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "bang",
+  "chinese": "棒棒哒",
+  "pinyin": "bàng bàng dá",
+  "meaning": "짱이다, 최고다, 쩐다",
+  "description": "很棒(매우 좋다)의 귀여운 표현.",
+  "examples": [
+    {
+      "chinese": "尊嘟素棒棒哒",
+      "translation": "진짜 짱이다"
+    },
+    {
+      "chinese": "天啦噜,味道棒棒哒",
+      "translation": "세상에, 맛이 끝내준다"
+    },
+    {
+      "chinese": "感觉自己棒棒哒",
+      "translation": "나 좀 쩌는 것 같아"
+    },
+    {
+      "chinese": "一次就学会,好棒棒哒,奥利给",
+      "translation": "한 번에 배웠어, 완전 대박, 화이팅"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 슬랭",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/bang/"
+}

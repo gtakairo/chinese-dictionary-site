@@ -1,0 +1,19 @@
+{
+  "slug": "xswl",
+  "chinese": "笑死我了",
+  "pinyin": "xiào sǐ wǒ le",
+  "meaning": "개웃김 / 웃겨 죽겠다",
+  "description": "'웃겨 죽겠다'는 뜻의 중국어 성조 약자.",
+  "examples": [
+    {
+      "chinese": "这段视频XSWL",
+      "translation": "이 영상 개웃김."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 속어",
+  "relatedWords": [
+    "awsl"
+  ],
+  "sourceUrl": "https://chineself.com/xswl/"
+}

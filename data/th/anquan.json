@@ -1,0 +1,16 @@
+{
+  "slug": "anquan",
+  "chinese": "安全气囊",
+  "pinyin": "ān quán qì náng",
+  "meaning": "ถุงลมนิรภัย",
+  "description": "อุปกรณ์ความปลอดภัยในรถที่ทำงานเมื่อเกิดการชนเพื่อปกป้องผู้โดยสาร",
+  "examples": [
+    { "chinese": "安全气囊在碰撞时展开", "translation": "ถุงลมนิรภัยจะกางออกเมื่อเกิดการชน" },
+    { "chinese": "检查安全气囊是否正常", "translation": "ตรวจสอบว่าถุงลมนิรภัยทำงานปกติหรือไม่" },
+    { "chinese": "更换安全气囊模块", "translation": "เปลี่ยนโมดูลถุงลมนิรภัย" }
+  ],
+  "category": "car",
+  "categoryName": "รถยนต์",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/anquan/"
+}

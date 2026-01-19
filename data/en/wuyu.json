@@ -1,0 +1,37 @@
+{
+  "slug": "wuyu",
+  "chinese": "无语",
+  "pinyin": "wú yǔ",
+  "meaning": "Speechless",
+  "description": "Lost for words, stunned, or exasperated.",
+  "examples": [
+    {
+      "chinese": "他每天迟到,真的很无语",
+      "translation": "He's late every day, I'm truly speechless."
+    },
+    {
+      "chinese": "该说不说,有时候我对你真的挺无语的",
+      "translation": "To be honest, sometimes I'm really speechless about you."
+    },
+    {
+      "chinese": "怎么突然涨费用了呢,蛮无语",
+      "translation": "Why did the fees go up suddenly? Quite speechless."
+    },
+    {
+      "chinese": "这个人的各种行为,真的太让人无语了",
+      "translation": "This person's behavior is really exasperating."
+    },
+    {
+      "chinese": "你的态度,无语死啦！气死耶",
+      "translation": "Your attitude makes me speechless! So angry."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [
+    "wuhuakeshuo",
+    "wulegedayu",
+    "gaishuobushuo"
+  ],
+  "sourceUrl": "https://chineself.com/wuyu/"
+}

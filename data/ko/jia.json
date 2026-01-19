@@ -1,0 +1,25 @@
+{
+  "slug": "jia",
+  "chinese": "鸡掰",
+  "pinyin": "jī bāi",
+  "meaning": "지바이 / 바보, 멍청이",
+  "description": "「질비(膣屄, zhì bī)」(여성 생식기)에서 파생된 민남어 욕설.",
+  "examples": [
+    {
+      "chinese": "谁知道啊！鸡掰",
+      "translation": "누가 알겠어! 멍청한 녀석"
+    },
+    {
+      "chinese": "鸡掰疫情,恨之入骨",
+      "translation": "망할 전염병, 뼈저리게 싫다"
+    },
+    {
+      "chinese": "画的什么鸡掰玩意",
+      "translation": "대체 뭘 그린 거야, 젠장"
+    }
+  ],
+  "category": "ma",
+  "categoryName": "도발/욕설",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/jia/"
+}

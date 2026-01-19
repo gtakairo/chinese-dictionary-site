@@ -1,0 +1,25 @@
+{
+  "slug": "bianji",
+  "chinese": "边界感",
+  "pinyin": "biān jiè gǎn",
+  "meaning": "一定の節度、ほどよい距離感",
+  "description": "分寸感は同義語。行き過ぎておらずほどよい距離感があること。",
+  "examples": [
+    {
+      "chinese": "你不仅没礼貌还没边界感,一点眼力见都没有",
+      "translation": "あなたは礼儀もないし節度もないし、少しの機転も効かない"
+    },
+    {
+      "chinese": "完全不熟也可以开玩笑但是有度有边界感",
+      "translation": "親しくない人に冗談を言ってもよいが、一定の節度が必要だ"
+    },
+    {
+      "chinese": "结婚以后夫妻双方需不需要与异性保持边界感？",
+      "translation": "結婚後に夫婦お互いに異性としてのほどよい距離感は必要なのか？"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "未分類",
+  "relatedWords": ["fencungan"],
+  "sourceUrl": "https://chineself.com/bianji/"
+}

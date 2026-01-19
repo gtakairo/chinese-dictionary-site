@@ -1,0 +1,33 @@
+{
+  "slug": "chu",
+  "chinese": "厨",
+  "pinyin": "chú",
+  "meaning": "① 주방, 요리사 ② 마니아, 오타쿠, 열광적인 팬",
+  "description": "②는 속어로 「중독」의 「중(chu)」을 사용한 것. 일본어 슬랭에서 유래. 특정 작품이나 콘텐츠에 열중하는 팬을 가리킴.",
+  "examples": [
+    {
+      "chinese": "厨厨们",
+      "translation": "오타쿠들"
+    },
+    {
+      "chinese": "型月厨（＝月月厨厨）",
+      "translation": "TYPE-MOON 오타쿠"
+    },
+    {
+      "chinese": "JO厨",
+      "translation": "죠죠의 기묘한 모험 열광팬"
+    },
+    {
+      "chinese": "东方厨",
+      "translation": "동방 프로젝트 마니아"
+    },
+    {
+      "chinese": "原作厨",
+      "translation": "원작충 (원작 이외에는 인정하지 않는 오타쿠)"
+    }
+  ],
+  "category": "sub",
+  "categoryName": "서브컬처",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/chu/"
+}

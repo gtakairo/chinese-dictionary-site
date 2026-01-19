@@ -1,0 +1,27 @@
+{
+  "slug": "nan",
+  "chinese": "难绷",
+  "pinyin": "nán bēng",
+  "meaning": "Hard to hold back; Can't hold it in (emotions, pressure)",
+  "description": "Same meaning as 'bengbuzhule'. Describes a state where one cannot suppress emotions or pressure.",
+  "examples": [
+    {
+      "chinese": "我全程笑麻了,真的难绷啊",
+      "translation": "I laughed the whole time, really couldn't hold it back."
+    },
+    {
+      "chinese": "我有点难绷,冷得我直接关空调",
+      "translation": "I couldn't take it anymore, it was so cold I turned off the AC immediately."
+    },
+    {
+      "chinese": "最近压力真是太难绷了,但是坚持才有希望吧",
+      "translation": "The pressure lately is really hard to bear, but there's hope only if I persist."
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "Uncategorized",
+  "relatedWords": [
+    "bengbuzhule"
+  ],
+  "sourceUrl": "https://chineself.com/nan/"
+}

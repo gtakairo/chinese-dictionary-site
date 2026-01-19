@@ -1,0 +1,12 @@
+{
+  "slug": "gaoqian",
+  "chinese": "搞钱",
+  "pinyin": "gǎo qián",
+  "meaning": "金を稼ぐ／収入を増やす",
+  "description": "お金を得るための活動を頑張ること。",
+  "examples": [{"chinese": "今年要好好搞钱", "japanese": "今年はしっかり稼ぐぞ"}],
+  "category": "jingji",
+  "categoryName": "経済・生活",
+  "relatedWords": ["bailan", "dagongren"],
+  "sourceUrl": "https://chineself.com/gaoqian/"
+}

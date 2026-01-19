@@ -1,0 +1,16 @@
+{
+  "slug": "kuai",
+  "chinese": "快动眼睡眠",
+  "pinyin": "kuài dòng yǎn shuì mián",
+  "meaning": "レム睡眠",
+  "description": "快速动眼睡眠、REM睡眠とも呼ばれる。非快动眼睡眠「ノンレム睡眠」。浅い睡眠のため做梦高峰期とも言われる。",
+  "examples": [
+    {"chinese": "昨晚我进入快动眼睡眠", "japanese": "昨夜レム睡眠に入った"},
+    {"chinese": "快动眼睡眠阶段容易做梦", "japanese": "レム睡眠中は夢を見やすい"},
+    {"chinese": "非快动眼睡眠与快动眼睡眠交替出现", "japanese": "ノンレムとレム睡眠が交互に現れる"}
+  ],
+  "category": "uncategorized",
+  "categoryName": "未分類",
+  "relatedWords": ["feikuaidongyanshuimian"],
+  "sourceUrl": "https://chineself.com/kuai/"
+}

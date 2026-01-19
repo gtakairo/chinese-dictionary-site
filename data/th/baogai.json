@@ -1,0 +1,19 @@
+{
+  "slug": "baogai",
+  "chinese": "爆改",
+  "pinyin": "bào gǎi",
+  "meaning": "การปรับโฉมครั้งใหญ่ / การโม(ดิฟาย)อย่างบ้าคลั่ง",
+  "description": "การดัดแปลงรูปลักษณ์หรือฟังก์ชันอย่างมาก ใช้ในแฟชั่นหรือยานพาหนะ",
+  "examples": [
+    {
+      "chinese": "他把旧车爆改成跑车",
+      "translation": "เขาเอารถเก่าไปโมดิฟายใหม่จนกลายเป็นรถสปอร์ต"
+    }
+  ],
+  "category": "fashion",
+  "categoryName": "แฟชั่นและการดัดแปลง",
+  "relatedWords": [
+    "oumeifaner"
+  ],
+  "sourceUrl": "https://chineself.com/baogai/"
+}

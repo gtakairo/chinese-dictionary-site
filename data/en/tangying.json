@@ -1,0 +1,20 @@
+{
+    "slug": "tangying",
+    "chinese": "躺赢",
+    "pinyin": "tǎng yíng",
+    "meaning": "Winning while lying down",
+    "description": "Winning without effort, often carried by teammates in games.",
+    "category": "net",
+    "categoryName": "Game/Internet Slang",
+    "relatedWords": [
+        "moyu",
+        "tangping"
+    ],
+    "sourceUrl": "https://chineself.com/tangying/",
+    "examples": [
+        {
+            "chinese": "队友太强我躺赢了",
+            "translation": "Teammates were too strong, I won while lying down"
+        }
+    ]
+}

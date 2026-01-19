@@ -1,0 +1,25 @@
+{
+    "slug": "tianqi",
+    "chinese": "天启宗教",
+    "pinyin": "tiān qǐ zōng jiào",
+    "meaning": "ศาสนาประเภทเทวนิยม (Abrahamic religions)",
+    "description": "ศาสนาที่เชื่อในพระเจ้าองค์เดียวของอับราฮัม ได้แก่ ยูดาย คริสต์ อิสลาม",
+    "category": "religion",
+    "categoryName": "ศาสนา/ปรัชญา",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/tianqi/",
+    "examples": [
+        {
+            "chinese": "天启宗教包括犹太教、基督教、伊斯兰教",
+            "translation": "ศาสนาสายอับราฮัมรวมถึง ยูดาย คริสต์ และอิสลาม"
+        },
+        {
+            "chinese": "研究天启宗教的起源与传播",
+            "translation": "ศึกษาต้นกำเนิดและการเผยแผ่ของศาสนาสายอับราฮัม"
+        },
+        {
+            "chinese": "天启宗教强调唯一真神",
+            "translation": "ศาสนาสายอับราฮัมเน้นพระเจ้าองค์เดียว"
+        }
+    ]
+}

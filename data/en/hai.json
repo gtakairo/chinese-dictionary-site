@@ -1,0 +1,25 @@
+{
+  "slug": "hai",
+  "chinese": "还不成吗",
+  "pinyin": "hái bù chéng ma",
+  "meaning": "Is it not okay? / Won't that do?",
+  "description": "Beijing dialect. \"Chéng\" means \"can\" or \"okay\".",
+  "examples": [
+    {
+      "chinese": "又考砸了,老天爷,我努力学习还不成吗",
+      "translation": "Failed the exam again, God, isn't it enough that I study hard?"
+    },
+    {
+      "chinese": "几毛钱的事,我自己倒贴还不成吗",
+      "translation": "It's just a few cents, isn't it okay if I pay for it myself?"
+    },
+    {
+      "chinese": "领导太不容易了,我下次不休息了,还不成吗",
+      "translation": "Being a leader is not easy. Can I just not take a break next time?"
+    }
+  ],
+  "category": "fangyan",
+  "categoryName": "Dialect",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/hai/"
+}

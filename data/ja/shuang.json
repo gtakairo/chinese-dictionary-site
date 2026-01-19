@@ -1,0 +1,16 @@
+{
+  "slug": "shuang",
+  "chinese": "双柏忌",
+  "pinyin": "shuāng bǎi jì",
+  "meaning": "ダブルボギー",
+  "description": "",
+  "examples": [
+    {"chinese": "这一洞我打了双柏忌", "japanese": "このホールはダブルボギーだった"},
+    {"chinese": "连续两个双柏忌", "japanese": "連続してダブルボギーだ"},
+    {"chinese": "避免在关键洞打出双柏忌", "japanese": "重要なホールでのダブルボギーは避けたい"}
+  ],
+  "category": "sport",
+  "categoryName": "運動・スポーツ",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/shuang/"
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "kongping",
+  "chinese": "控评",
+  "pinyin": "kòng píng",
+  "meaning": "コメント統制（印象操作）",
+  "description": "コメント欄の空気を操作する、宣伝や火消しの行為。",
+  "examples": [{"chinese": "有人在控评", "japanese": "誰かがコメント統制している"}],
+  "category": "net",
+  "categoryName": "SNS・運用",
+  "relatedWords": ["fanquan"],
+  "sourceUrl": "https://chineself.com/kongping/"
+}

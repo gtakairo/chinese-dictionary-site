@@ -1,0 +1,24 @@
+{
+  "slug": "kawayi",
+  "chinese": "卡哇伊",
+  "pinyin": "kǎ wa yī",
+  "meaning": "카와이 (귀엽다)",
+  "description": "일본어 「카와이(Kawaii)」의 음역이다. 卡哇一라고도 쓴다.",
+  "examples": [
+    {
+      "chinese": "樱花妹,卡哇伊伊伊～卡哇伊内",
+      "translation": "일본 여자애들, 카와이~~ 귀엽네"
+    },
+    {
+      "chinese": "这个设计真的好卡哇伊捏",
+      "translation": "이 디자인 정말 완전 카와이하다"
+    }
+  ],
+  "category": "wailaiyu",
+  "categoryName": "외래어/음역",
+  "relatedWords": [
+    "hongdouni",
+    "diesinei"
+  ],
+  "sourceUrl": "https://chineself.com/kawayi/"
+}

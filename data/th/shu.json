@@ -1,0 +1,25 @@
+{
+    "slug": "shu",
+    "chinese": "耍宝",
+    "pinyin": "shuǎ bǎo",
+    "meaning": "ทำตัวตลก, อวด",
+    "description": "ทำตัวอวด/โชว์ เรียกความสนใจแบบขำๆ",
+    "category": "uncategorized",
+    "categoryName": "ไม่หมวดหมู่",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/shu/",
+    "examples": [
+        {
+            "chinese": "她在台上频频耍宝卖萌",
+            "translation": "เธอมักจะทำตัวตลกน่ารักบนเวที"
+        },
+        {
+            "chinese": "不要在朋友圈「肆无忌惮」地搞笑耍宝",
+            "translation": "อย่ามาทำตัวตลก \"แบบไม่เกรงใจใคร\" ในหน้าฟีดนะ"
+        },
+        {
+            "chinese": "表面上调皮耍宝,其实很社恐",
+            "translation": "ภายนอกดูขี้เล่นทำตัวตลก แต่จริงๆ แล้วกลัวการเข้าสังคมมาก"
+        }
+    ]
+}

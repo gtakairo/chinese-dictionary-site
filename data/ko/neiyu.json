@@ -1,0 +1,20 @@
+{
+  "slug": "neiyu",
+  "chinese": "内娱",
+  "pinyin": "nèi yú",
+  "meaning": "내지 연예계 (중국 본토 연예계)",
+  "description": "중국 국내의 연예, 아이돌, 드라마 등 엔터테인먼트 업계를 지칭함.",
+  "examples": [
+    {
+      "chinese": "最近内娱很热闹",
+      "translation": "요즘 중국 연예계가 꽤 시끌벅적하네."
+    }
+  ],
+  "category": "net",
+  "categoryName": "팬덤 문화",
+  "relatedWords": [
+    "fanquan",
+    "poquan"
+  ],
+  "sourceUrl": "https://chineself.com/neiyu/"
+}

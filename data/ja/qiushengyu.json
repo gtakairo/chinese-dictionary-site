@@ -1,0 +1,12 @@
+{
+  "slug": "qiushengyu",
+  "chinese": "求生欲",
+  "pinyin": "qiú shēng yù",
+  "meaning": "生き延びるための本能（地雷回避の察し）",
+  "description": "相手の機嫌や地雷を察して、波風を立てない返答をする欲。",
+  "examples": [{"chinese": "他说话很有求生欲", "japanese": "彼の返答は求生欲が高い（地雷回避）"}],
+  "category": "net",
+  "categoryName": "コミュニケーション",
+  "relatedWords": ["yinyangguaiqi", "galiao"],
+  "sourceUrl": "https://chineself.com/qiushengyu/"
+}

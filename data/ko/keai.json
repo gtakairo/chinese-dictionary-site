@@ -1,0 +1,33 @@
+{
+  "slug": "keai",
+  "chinese": "可爱本爱",
+  "pinyin": "kě ài běn ài",
+  "meaning": "귀여움 그 자체, 완전 귀엽다",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "你就是可爱本爱!",
+      "translation": "넌 귀여움 그 자체야!"
+    },
+    {
+      "chinese": "比个心,嘟嘟嘴,是可爱本爱",
+      "translation": "손하트 날리고, 입술 내밀고, 완전 귀요미다"
+    },
+    {
+      "chinese": "软妹风,真的是可爱本爱了",
+      "translation": "순둥순둥한 스타일, 진짜 귀여움 그 자체다"
+    },
+    {
+      "chinese": "我家的宝贝是可爱本爱",
+      "translation": "우리 애기는 귀여움의 결정체"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [
+    "bxin",
+    "duzui",
+    "ruanmei"
+  ],
+  "sourceUrl": "https://chineself.com/keai/"
+}

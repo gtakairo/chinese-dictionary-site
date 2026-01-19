@@ -1,0 +1,25 @@
+{
+    "slug": "shuaiguo",
+    "chinese": "甩锅",
+    "pinyin": "shuǎi guō",
+    "meaning": "โยนความผิด, ปัดความรับผิดชอบ",
+    "description": "เหมือนกับ \"ให้คนอื่นรับแพะรับบาป\" คำว่า 甩 (Shuai) แปลว่า โยน หรือ ขว้าง ใช้ในความหมายของการปัดภาระ",
+    "category": "net",
+    "categoryName": "ศัพท์อินเทอร์เน็ต",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/shuaiguo/",
+    "examples": [
+        {
+            "chinese": "他真的爱甩锅",
+            "translation": "เขาชอบโยนความผิดจริงๆ"
+        },
+        {
+            "chinese": "不要甩锅给我",
+            "translation": "อย่ามาโยนความผิดให้ฉันนะ"
+        },
+        {
+            "chinese": "一出问题就甩锅,要脸不要啊",
+            "translation": "พอมีปัญหาก็โยนความผิด ไม่อายบ้างเหรอ"
+        }
+    ]
+}

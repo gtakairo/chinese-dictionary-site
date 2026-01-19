@@ -1,0 +1,25 @@
+{
+  "slug": "xing",
+  "chinese": "行百里者半九十",
+  "pinyin": "xíng bǎi lǐ zhě bàn jiǔ shí",
+  "meaning": "백 리를 가는 사람에게 구십 리는 반에 불과하다",
+  "description": "마지막까지 방심하지 말아야 한다는 뜻.",
+  "examples": [
+    {
+      "chinese": "行百里者半九十,再坚持一下,曙光在前方",
+      "translation": "마지막 고비가 가장 힘든 법, 조금만 더 버티면 서광이 비칠 거야."
+    },
+    {
+      "chinese": "成功可能近在咫尺,行百里者半九十",
+      "translation": "성공이 코앞일지라도 마지막까지 방심하면 안 된다."
+    },
+    {
+      "chinese": "行百里者半九十,越接近成功越困难,越需要坚持",
+      "translation": "성공에 가까워질수록 더 어렵고 더 끈기가 필요한 법이다."
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "성어 / 사자성어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/xing/"
+}

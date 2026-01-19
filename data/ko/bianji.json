@@ -1,0 +1,27 @@
+{
+  "slug": "bianji",
+  "chinese": "边界感",
+  "pinyin": "biān jiè gǎn",
+  "meaning": "경계감 / 선을 지키는 감각 / 거리감",
+  "description": "분촌감(分寸感)은 동의어. 지나치지 않고 적당한 거리감이 있는 것.",
+  "examples": [
+    {
+      "chinese": "你不仅没礼貌还没边界感,一点眼力见都没有",
+      "translation": "너는 예의도 없을 뿐더러 선도 없어, 눈치라곤 조금도 없네"
+    },
+    {
+      "chinese": "完全不熟也可以开玩笑但是有度有边界感",
+      "translation": "전혀 친하지 않아도 농담할 수 있지만, 정도와 선은 지켜야 한다"
+    },
+    {
+      "chinese": "结婚以后夫妻双方需不需要与异性保持边界感？",
+      "translation": "결혼 후 부부 쌍방은 이성과의 적당한 거리를 유지해야 할까?"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "미분류",
+  "relatedWords": [
+    "fencungan"
+  ],
+  "sourceUrl": "https://chineself.com/bianji/"
+}

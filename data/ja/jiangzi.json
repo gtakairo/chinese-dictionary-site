@@ -1,0 +1,25 @@
+{
+  "slug": "jiangzi",
+  "chinese": "酱紫",
+  "pinyin": "jiàng zǐ",
+  "meaning": "こんな感じ、このような",
+  "description": "这样子（zhè yàng zi）と同じ意味で、タイプミスから生まれたとされる。南京の方言では、这样子（zhè yàng zi）の発音が（jiàng zǐ）と聞こえるという。",
+  "examples": [
+    {
+      "chinese": "就是酱紫",
+      "translation": "そうこんな感じ"
+    },
+    {
+      "chinese": "原来你是酱紫的人",
+      "translation": "あなったってこういう人なのね"
+    },
+    {
+      "chinese": "你总是怎么酱紫啊",
+      "translation": "君はどうしていつもこうなんだ"
+    }
+  ],
+  "category": "fangyan",
+  "categoryName": "方言",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/jiangzi/"
+}

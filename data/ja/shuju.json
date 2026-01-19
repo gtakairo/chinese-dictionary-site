@@ -1,0 +1,25 @@
+{
+  "slug": "shuju",
+  "chinese": "书卷气",
+  "pinyin": "shū juàn qì",
+  "meaning": "インテリっぽさ、知識人の風格",
+  "description": "本好き、読書家の風格のこと。书香味、书生之气、书生之风、书生气十足、很文气も同じ。",
+  "examples": [
+    {
+      "chinese": "戴黑框眼镜就变成了有书卷气",
+      "translation": "黒縁の眼鏡をかけるとインテリっぽくなる"
+    },
+    {
+      "chinese": "真的很喜欢这种有书卷气的美女",
+      "translation": "とてもこのような知識人の風格がある美女が好きだ"
+    },
+    {
+      "chinese": "学校宿舍没有书卷气,只有一股臭jio丫子味",
+      "translation": "学校の寮には知識人っぽさはなく、足の臭いだけがある"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "未分類",
+  "relatedWords": ["shuxiangwei", "jio"],
+  "sourceUrl": "https://chineself.com/shuju/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "zhende",
+  "chinese": "真的假不了,假的真不了",
+  "pinyin": "zhēn de jiǎ bù liǎo, jiǎ de zhēn bù liǎo",
+  "meaning": "진짜는 가짜가 될 수 없고 가짜는 진짜가 될 수 없다",
+  "description": "진품과 가품은 본질적으로 다르다는 뜻.",
+  "examples": [
+    {
+      "chinese": "假的永远成不了真的,模仿就是模仿,真的假不了,假的真不了",
+      "translation": "가짜는 영원히 진짜가 될 수 없고 모방은 모방일 뿐이다. 진짜는 진짜고 가짜는 가짜다"
+    },
+    {
+      "chinese": "你想寻找的是真情爱,真的假不了,假的真不了",
+      "translation": "당신은 진정한 사랑을 찾고 있다. 진짜는 진짜고 가짜는 가짜다"
+    },
+    {
+      "chinese": "真理永远是真理,谎言可以欺骗一时,欺骗不了长久,真的假不了,假的真不了",
+      "translation": "진리는 영원히 진리다. 거짓말은 잠시 속일 수 있어도 영원히 속일 순 없다"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "성어/사자성어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/zhende/"
+}

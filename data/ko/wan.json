@@ -1,0 +1,27 @@
+{
+  "slug": "wan",
+  "chinese": "万般皆苦,唯有自渡",
+  "pinyin": "wàn bān jiē kǔ, wéi yǒu zì dù",
+  "meaning": "모든 것이 고통이니 오직 스스로 구원해야 한다",
+  "description": "인생에는 여러 고통이 있지만 결국 스스로 극복해야 한다는 뜻.",
+  "examples": [
+    {
+      "chinese": "人生苦短,万般皆苦,唯有自渡",
+      "translation": "인생은 짧고 괴로움이 많으니, 오직 스스로 구원해야 한다."
+    },
+    {
+      "chinese": "这世间没人与你感同身受,万般皆苦,唯有自渡",
+      "translation": "이 세상 누구도 너와 똑같이 느낄 수 없다, 모든 게 고통이니 스스로 이겨내야 한다."
+    },
+    {
+      "chinese": "人生总有一段路特别难走,万般皆苦,唯有自渡",
+      "translation": "인생에는 걷기 힘든 길이 있기 마련이다, 모든 게 고통이니 스스로 헤쳐나가는 수밖에 없다."
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "미분류",
+  "relatedWords": [
+    "gantongshenshou"
+  ],
+  "sourceUrl": "https://chineself.com/wan/"
+}

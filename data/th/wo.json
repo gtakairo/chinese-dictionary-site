@@ -1,0 +1,25 @@
+{
+  "slug": "wo",
+  "chinese": "握柄",
+  "pinyin": "wò bǐng",
+  "meaning": "ด้ามจับ / กริป",
+  "description": "ส่วนที่ใช้สำหรับจับ เช่น ไม้กอล์ฟ",
+  "examples": [
+    {
+      "chinese": "更换磨损的握柄",
+      "translation": "เปลี่ยนด้ามจับที่สึกหรอ"
+    },
+    {
+      "chinese": "握柄要保持干燥",
+      "translation": "ต้องรักษาด้ามจับให้แห้งอยู่เสมอ"
+    },
+    {
+      "chinese": "选择合适的握柄粗细",
+      "translation": "เลือกขนาดด้ามจับที่เหมาะสม"
+    }
+  ],
+  "category": "sports",
+  "categoryName": "กีฬา",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/wo/"
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "pao",
+  "chinese": "跑杯",
+  "pinyin": "pǎo bēi",
+  "meaning": "เสื้อในเลื่อนหลุด/ไม่กระชับ",
+  "description": "อาการที่หน้าอกเลื่อนหลุดจากคัพเสื้อใน",
+  "examples": [
+    {
+      "chinese": "求推荐内衣,不空杯不跑杯不勒肉",
+      "translation": "ขอแนะนำเสื้อในหน่อย แบบไม่เหลือที่ว่าง ไม่เลื่อนหลุด ไม่รัดเนื้อ"
+    },
+    {
+      "chinese": "运动锻炼的时候穿也不容易跑杯,入股不亏",
+      "translation": "ใส่ออกกำลังกายก็ไม่เลื่อนหลุดง่ายๆ ซื้อแล้วไม่ขาดทุน"
+    },
+    {
+      "chinese": "特别好穿内衣,固定杯垫,不移位不跑杯",
+      "translation": "ใส่สบายมาก ฟองน้ำเย็บติด ไม่เคลื่อนไม่หลุด"
+    }
+  ],
+  "category": "fashion",
+  "categoryName": "แฟชั่นและความงาม",
+  "relatedWords": [
+    "bukongbei",
+    "rugubukui"
+  ],
+  "sourceUrl": "https://chineself.com/pao/"
+}

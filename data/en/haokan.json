@@ -1,0 +1,35 @@
+{
+  "slug": "haokan",
+  "chinese": "好康",
+  "pinyin": "hǎo kāng",
+  "meaning": "1. Good, Nice 2. Benefits, Goodies, Discount",
+  "description": "Originated from Minnan dialect (Hokkien). 1. Used to mean \"good\" or \"beautiful\". 2. Often used to refer to benefits, discounts, freebies, or good deals.",
+  "examples": [
+    {
+      "chinese": "这么好康",
+      "translation": "So good / wonderful."
+    },
+    {
+      "chinese": "穿西装的好康",
+      "translation": "Looks good in a suit."
+    },
+    {
+      "chinese": "这对cp太好康了",
+      "translation": "This couple is so sweet/good looking."
+    },
+    {
+      "chinese": "新买的耳机好康",
+      "translation": "The newly bought earphones are great/recommended."
+    },
+    {
+      "chinese": "这本杂志赠品太好康",
+      "translation": "The free gift with this magazine is such a good deal."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Net Slang",
+  "relatedWords": [
+    "cp"
+  ],
+  "sourceUrl": "https://chineself.com/haokan/"
+}

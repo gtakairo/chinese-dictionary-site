@@ -1,0 +1,12 @@
+{
+  "slug": "kaihei",
+  "chinese": "开黑",
+  "pinyin": "kāi hēi",
+  "meaning": "仲間内でゲームする（ボイスあり）",
+  "description": "友達同士で通話しながらゲームすること。",
+  "examples": [{"chinese": "今晚一起开黑吗", "japanese": "今夜一緒に通話しながらゲームしない？"}],
+  "category": "net",
+  "categoryName": "ゲーム・ネットスラング",
+  "relatedWords": ["xswl"],
+  "sourceUrl": "https://chineself.com/kaihei/"
+}

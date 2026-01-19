@@ -1,0 +1,25 @@
+{
+    "slug": "softfork",
+    "chinese": "软分叉",
+    "pinyin": "ruǎn fēn chā",
+    "meaning": "Soft Fork",
+    "description": "A divergence in protocol that maintains backward compatibility.",
+    "category": "jinrong",
+    "categoryName": "Finance/Investment",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/softfork/",
+    "examples": [
+        {
+            "chinese": "通过软分叉升级协议",
+            "translation": "Upgrade protocol via soft fork"
+        },
+        {
+            "chinese": "矿工需配合软分叉规则",
+            "translation": "Miners need to coordinate with soft fork rules"
+        },
+        {
+            "chinese": "软分叉不会造成链分裂",
+            "translation": "Soft fork will not cause chain split"
+        }
+    ]
+}

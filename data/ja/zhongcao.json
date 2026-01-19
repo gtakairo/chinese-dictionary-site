@@ -1,0 +1,14 @@
+{
+  "slug": "zhongcao",
+  "chinese": "种草",
+  "pinyin": "zhòng cǎo",
+  "meaning": "欲しい気持ちを植える（人の紹介で欲しくなる）",
+  "description": "他人のおすすめで商品が欲しくなること。",
+  "examples": [
+    {"chinese": "这款口红被我种草了", "japanese": "この口紅に惹かれて欲しくなった"}
+  ],
+  "category": "net",
+  "categoryName": "ネットスラング",
+  "relatedWords": ["bacao"],
+  "sourceUrl": "https://chineself.com/zhongcao/"
+}

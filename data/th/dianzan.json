@@ -1,0 +1,27 @@
+{
+  "slug": "dianzan",
+  "chinese": "点赞",
+  "pinyin": "diǎn zàn",
+  "meaning": "กดไลก์, ถูกใจ",
+  "description": "การกดปุ่ม 「ถูกใจ」 บนโซเชียลมีเดีย มีความหมายเดียวกับ 「diǎn gè zàn」",
+  "examples": [
+    {
+      "chinese": "请点赞！点赞吧！",
+      "translation": "ช่วยกดไลก์ด้วย! กดไลก์เลย!"
+    },
+    {
+      "chinese": "网友纷纷点赞",
+      "translation": "ชาวเน็ตต่างพากันมากดไลก์"
+    },
+    {
+      "chinese": "麻烦您关注一下,点个赞",
+      "translation": "รบกวนช่วยกดติดตามและกดไลก์ให้ด้วย"
+    }
+  ],
+  "category": "sns",
+  "categoryName": "คำศัพท์เว็บ/โซเชียลมีเดีย",
+  "relatedWords": [
+    "guanzhu"
+  ],
+  "sourceUrl": "https://chineself.com/dianzan/"
+}

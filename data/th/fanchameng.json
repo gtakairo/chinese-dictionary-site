@@ -1,0 +1,19 @@
+{
+  "slug": "fanchameng",
+  "chinese": "反差萌",
+  "pinyin": "fǎn chā méng",
+  "meaning": "เสน่ห์จากความขัดแย้ง (Gap moe)",
+  "description": "รู้สึกว่ามีเสน่ห์เพราะความต่างจากภาพลักษณ์ปกติ",
+  "examples": [
+    { "chinese": "他穿西装有反差萌", "translation": "พอเขาใส่สูทแล้วมีเสน่ห์จากความต่าง" },
+    { "chinese": "冷酷外表却爱猫，反差萌", "translation": "หน้าตาเย็นชาแต่รักแมว—เสน่ห์แบบเกินคาด" },
+    { "chinese": "她运动时反差萌", "translation": "ตอนเธอเล่นกีฬา ยิ่งมีเสน่ห์จากความต่าง" }
+  ],
+  "category": "net",
+  "categoryName": "เสน่ห์/ความน่าดึงดูด",
+  "relatedWords": [
+    "ruanmeng",
+    "gaoleng"
+  ],
+  "sourceUrl": "https://chineself.com/fanchameng/"
+}

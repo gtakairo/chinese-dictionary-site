@@ -1,0 +1,25 @@
+{
+  "slug": "qian",
+  "chinese": "牵绊",
+  "pinyin": "qiān bàn",
+  "meaning": "纏わりついて離れない、ずっと忘れられない",
+  "description": "何かが心に纏わりついて離れない、ずっと忘れられない状態のこと。",
+  "examples": [
+    {
+      "chinese": "儿时不好的记忆牵绊我至今",
+      "translation": "子供のころの悪い記憶がずっと忘れられない"
+    },
+    {
+      "chinese": "牵绊不多,但却依然牵挂",
+      "translation": "気にかけることは多くないが、尚も心配している"
+    },
+    {
+      "chinese": "琐碎的牵绊滋长不满",
+      "translation": "細々としたずっと忘れられないものが不満を増大させる"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "未分類",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/qian/"
+}

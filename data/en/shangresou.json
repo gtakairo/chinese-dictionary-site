@@ -1,0 +1,19 @@
+{
+  "slug": "shangresou",
+  "chinese": "上热搜",
+  "pinyin": "shàng rè sōu",
+  "meaning": "Trending Topic / Hot Search",
+  "description": "To appear in the trending search list on social media.",
+  "examples": [
+    {
+      "chinese": "这条新闻上热搜了",
+      "translation": "This news hit the trending list."
+    }
+  ],
+  "category": "net",
+  "categoryName": "SNS & Trends",
+  "relatedWords": [
+    "poquan"
+  ],
+  "sourceUrl": "https://chineself.com/shangresou/"
+}

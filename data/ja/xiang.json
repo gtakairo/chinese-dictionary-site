@@ -1,0 +1,25 @@
+{
+  "slug": "xiang",
+  "chinese": "相爱相杀",
+  "pinyin": "xiāng ài xiāng shā",
+  "meaning": "互いに好きなのに傷つけ合ってしまうこと、愛ゆえに傷つけ合う",
+  "description": "互いに愛し合っているが、それぞれの自尊心や我の強さ、相手への思いやりを欠き、傷つけ合い衝突を繰り返すこと。",
+  "examples": [
+    {
+      "chinese": "谢谢三年的照顾和陪伴,以后继续相爱相杀走下去啦",
+      "translation": "3年間の配慮と付添いをありがとう、これからも衝突しながらも愛し合っていきましょう"
+    },
+    {
+      "chinese": "朋友间的相爱相杀,喜欢就是想靠近又想欺负",
+      "translation": "友達間で愛ゆえに傷つけ合う、好きとは近寄りたく虐めたくなるということ"
+    },
+    {
+      "chinese": "相爱相杀20年,不离婚是因为还有爱",
+      "translation": "愛するがゆえに傷つけ合って20年、離婚しないのはやはり愛があるから"
+    }
+  ],
+  "category": "nannv",
+  "categoryName": "恋愛・結婚",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/xiang/"
+}

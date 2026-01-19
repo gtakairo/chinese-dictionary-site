@@ -1,0 +1,19 @@
+{
+    "slug": "sodiesinei",
+    "chinese": "搜跌死内",
+    "pinyin": "sōu diē sǐ nèi",
+    "meaning": "소데스네 (그렇군요)",
+    "description": "일본어 「그렇군요(そうですね)」의 음역.",
+    "category": "wailaiyu",
+    "categoryName": "외래어/음역",
+    "relatedWords": [
+        "diesinei"
+    ],
+    "sourceUrl": "https://chineself.com/sodiesinei/",
+    "examples": [
+        {
+            "chinese": "今天挺热的搜跌死内",
+            "translation": "오늘 꽤 덥네, 소데스네"
+        }
+    ]
+}

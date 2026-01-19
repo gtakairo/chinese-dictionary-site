@@ -1,0 +1,25 @@
+{
+  "slug": "cong",
+  "chinese": "匆匆一瞥",
+  "pinyin": "cōng cōng yī piē",
+  "meaning": "(바쁘거나 시간이 없어서) 잠깐 힐끗 봄",
+  "description": "총총(cong cong)은 「바쁘다, 서두르다, 허둥지둥하다」라는 의미. 바빠서 시간이 없기 때문에 쓱 훑어볼 수밖에 없는 모습을 나타냄.",
+  "examples": [
+    {
+      "chinese": "忙碌的上班时间里,看到了一片彩霞,只是匆匆一瞥",
+      "translation": "바쁜 출근 시간에 아침 노을을 보았지만 잠깐 힐끗 봤을 뿐이다"
+    },
+    {
+      "chinese": "美术馆来太晚了,无奈时间有限,只有匆匆一瞥",
+      "translation": "미술관에 너무 늦게 와서 어쩔 수 없이 시간이 부족해 잠깐 둘러보기만 했다"
+    },
+    {
+      "chinese": "虽然很多绝美之地只是匆匆一瞥,但已经深深印在我脑海里",
+      "translation": "많은 절경들을 그저 스쳐 지나갔지만, 이미 뇌리에는 깊이 새겨져 있다"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "미분류",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/cong/"
+}

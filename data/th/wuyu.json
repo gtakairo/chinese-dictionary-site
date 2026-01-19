@@ -1,0 +1,37 @@
+{
+  "slug": "wuyu",
+  "chinese": "无语",
+  "pinyin": "wú yǔ",
+  "meaning": "พูดไม่ออก / หมดคำจะพูด / เอือมระอา",
+  "description": "อาการอึ้งจนพูดไม่ออก หรือเอือมจนไม่อยากพูด",
+  "examples": [
+    {
+      "chinese": "他每天迟到,真的很无语",
+      "translation": "เขามาสายทุกวัน เพลียจิตจริงๆ"
+    },
+    {
+      "chinese": "该说不说,有时候我对你真的挺无语的",
+      "translation": "เอาจริงๆ นะ บางทีฉันก็พูดไม่ออกกับเธอเลย"
+    },
+    {
+      "chinese": "怎么突然涨费用了呢,蛮无语",
+      "translation": "ทำไมจู่ๆ ขึ้นราคาล่ะ พูดไม่ออกเลย"
+    },
+    {
+      "chinese": "这个人的各种行为,真的太让人无语了",
+      "translation": "พฤติกรรมแต่ละอย่างของคนนี้ ทำให้เอือมระอาจริงๆ"
+    },
+    {
+      "chinese": "你的态度,无语死啦！气死耶",
+      "translation": "ท่าทีของเธอทำเอาฉันพูดไม่ออก! โมโหชะมัด"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์อินเทอร์เน็ต",
+  "relatedWords": [
+    "wuhuakeshuo",
+    "wulegedayu",
+    "gaishuobushuo"
+  ],
+  "sourceUrl": "https://chineself.com/wuyu/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "xia",
+  "chinese": "下半场",
+  "pinyin": "xià bàn chǎng",
+  "meaning": "후반전",
+  "description": "스포츠 시합 등의 후반전을 가라킴.",
+  "examples": [
+    {
+      "chinese": "比赛进入下半场",
+      "translation": "시합이 후반전에 접어들었다."
+    },
+    {
+      "chinese": "下半场表现更稳定",
+      "translation": "후반전 플레이가 더 안정적이었다."
+    },
+    {
+      "chinese": "下半场战术调整奏效",
+      "translation": "후반전 전술 변경이 유효했다."
+    }
+  ],
+  "category": "sports",
+  "categoryName": "스포츠",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/xia/"
+}

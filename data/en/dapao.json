@@ -1,0 +1,27 @@
+{
+  "slug": "dapao",
+  "chinese": "打泡",
+  "pinyin": "dǎ pào",
+  "meaning": "1. Froth/Foam up 2. Get blisters 3. Flirt heavily (Internet slang)",
+  "description": "Definition 3 is internet slang.",
+  "examples": [
+    {
+      "chinese": "泡沫拿铁制作超简单,打泡成功秘诀",
+      "translation": "Making foam latte is super easy, the secret to successful frothing."
+    },
+    {
+      "chinese": "盖章盖了一百个人的资料,手都打泡了",
+      "translation": "Stamped files for a hundred people, my hand got blisters."
+    },
+    {
+      "chinese": "你们俩不要再打泡了好不好",
+      "translation": "Can you two stop flirting?"
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [
+    "jilao"
+  ],
+  "sourceUrl": "https://chineself.com/dapao/"
+}

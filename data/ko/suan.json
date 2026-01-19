@@ -1,0 +1,25 @@
+{
+    "slug": "suan",
+    "chinese": "算吧啦",
+    "pinyin": "suàn ba la",
+    "meaning": "됐어, 관둬",
+    "description": "「됐어(Suan le)」의 변형된 슬랭.",
+    "category": "net",
+    "categoryName": "인터넷 용어/슬랭",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/suan/",
+    "examples": [
+        {
+            "chinese": "做不完的,没用的了,算吧啦",
+            "translation": "다 못 해, 소용없어, 관둬"
+        },
+        {
+            "chinese": "这本书太难了,还是读不下去,算吧啦",
+            "translation": "이 책 너무 어려워서 더 못 읽겠다, 관둬"
+        },
+        {
+            "chinese": "算吧啦,健完身估计要吃蛋糕吧",
+            "translation": "됐어, 운동 끝나고 케이크나 먹어야지"
+        }
+    ]
+}

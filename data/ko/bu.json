@@ -1,0 +1,25 @@
+{
+  "slug": "bu",
+  "chinese": "不谙世事",
+  "pinyin": "bù ān shì shì",
+  "meaning": "세상 물정에 어둡다, 사회 경험이 부족하다",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "那时的我也只是一个不谙世事的小女孩",
+      "translation": "그때의 나도 단지 사회 경험이 적은 어린 소녀에 불과했다."
+    },
+    {
+      "chinese": "不谙世事的小伙子就这么中了商家的套路",
+      "translation": "세상 물정 모르는 젊은이가 이렇게 장사꾼의 수법에 걸려들었다."
+    },
+    {
+      "chinese": "赚的都是不谙世事的孩子们的钱,亏心么？",
+      "translation": "버는 돈은 모두 세상 물정 모르는 아이들의 돈인데, 양심에 찔리지 않나?"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "성어/사자성어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/bu/"
+}

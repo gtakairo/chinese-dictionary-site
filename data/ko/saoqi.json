@@ -1,0 +1,27 @@
+{
+  "slug": "saoqi",
+  "chinese": "骚气",
+  "pinyin": "sāo qì",
+  "meaning": "①비린내, 누린내 ②요염하다, 자유분방하다, 끼 부리다",
+  "description": "①은 비린내나 누린내와 같은 의미. ②는 인터넷 용어로 사용되며, 'ni hao sao a'(너 참 요염하다/끼 부린다)와 같은 용법.",
+  "examples": [
+    {
+      "chinese": "大街上有很多银杏树,臭白果味儿还有骚气",
+      "translation": "길거리에 은행나무가 많아서, 썩은 은행 냄새가 진동하고 비린내가 난다"
+    },
+    {
+      "chinese": "这个西服颜色很骚气",
+      "translation": "이 양복 색깔 참 튀네(요염하네)"
+    },
+    {
+      "chinese": "你这操作也太骚气了吧",
+      "translation": "너 일 처리하는 거 진짜 골 때리네 (너무 자유분방하네)"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 신조어",
+  "relatedWords": [
+    "nihaosaoa"
+  ],
+  "sourceUrl": "https://chineself.com/saoqi/"
+}

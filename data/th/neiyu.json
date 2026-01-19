@@ -1,0 +1,19 @@
+{
+  "slug": "neiyu",
+  "chinese": "内娱",
+  "pinyin": "nèi yú",
+  "meaning": "วงการบันเทิงภายในประเทศจีน",
+  "description": "หมายถึงวงการไอดอล ละคร วาไรตี้ และแฟนด้อมภายในประเทศจีน",
+  "examples": [
+    { "chinese": "最近内娱很热闹", "translation": "ช่วงนี้วงการบันเทิงจีนคึกคักมาก" },
+    { "chinese": "内娱塌房频发", "translation": "วงการบันเทิงจีนมีข่าวฉาวบ่อย" },
+    { "chinese": "内娱选秀又来了", "translation": "รายการเซอร์ไววัลในอินเตอร์เทนเมนต์จีนกลับมาอีกแล้ว" }
+  ],
+  "category": "net",
+  "categoryName": "วัฒนธรรมแฟนคลับ",
+  "relatedWords": [
+    "fanquan",
+    "poquan"
+  ],
+  "sourceUrl": "https://chineself.com/neiyu/"
+}

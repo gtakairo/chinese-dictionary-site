@@ -1,0 +1,25 @@
+{
+  "slug": "xie",
+  "chinese": "歇b",
+  "pinyin": "xiē b",
+  "meaning": "끝장이다 / 망했다 / 지쳤다",
+  "description": "이미 틀렸다, 더 이상 못한다, 지쳤다는 뜻.",
+  "examples": [
+    {
+      "chinese": "特么的,饿歇b了",
+      "translation": "젠장, 배고파 뒤지겠네."
+    },
+    {
+      "chinese": "连续值了七天班已累歇b",
+      "translation": "7일 연속 근무했더니 피곤해 죽겠다."
+    },
+    {
+      "chinese": "希望能顺利,不然真的要歇b了",
+      "translation": "순조롭길 바란다, 안 그러면 진짜 끝장이야."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 속어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/xie/"
+}

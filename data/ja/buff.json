@@ -1,0 +1,14 @@
+{
+  "slug": "buff",
+  "chinese": "BUFF",
+  "pinyin": "b u f f",
+  "meaning": "バフ（能力上昇効果）",
+  "description": "ゲーム用語。強化効果や能力上昇を指す。",
+  "examples": [
+    {"chinese": "这个技能能加BUFF", "japanese": "このスキルはバフを付与できる"}
+  ],
+  "category": "wailaiyu",
+  "categoryName": "外来語・ゲーム",
+  "relatedWords": ["debuff"],
+  "sourceUrl": "https://chineself.com/buff/"
+}

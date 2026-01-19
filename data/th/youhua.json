@@ -1,0 +1,25 @@
+{
+  "slug": "youhua",
+  "chinese": "有话就说,有屁就放",
+  "pinyin": "yǒu huà jiù shuō, yǒu pì jiù fàng",
+  "meaning": "มีอะไรก็พูดมา",
+  "description": "แปลตรงตัวคือ 'มีคำพูดก็พูดมา มีตดก็ปล่อยมา' ใช้เร่งให้อีกฝ่ายพูดตรงๆ",
+  "examples": [
+    {
+      "chinese": "有话就说,有屁就放,预告来预告去烦人",
+      "translation": "มีอะไรก็พูดมา อย่ามัวแต่เกริ่น น่ารำคาญ"
+    },
+    {
+      "chinese": "有话就说有屁就放,真的别太别扭了,没人喜欢你",
+      "translation": "มีอะไรก็พูดมา อย่าทำตัวอึกอัก ไม่มีใครชอบหรอก"
+    },
+    {
+      "chinese": "有话就说,有屁就放,是香是臭,让群众讨论嘛",
+      "translation": "มีอะไรก็พูดมา ดีหรือไม่ดี ให้ทุกคนช่วยกันวิจารณ์"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "สำนวน",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/youhua/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "mama",
+  "chinese": "麻麻",
+  "pinyin": "mā mɑ",
+  "meaning": "ママ",
+  "description": "ネット用語で妈妈の意味。拔拔は「パパ」。",
+  "examples": [
+    {
+      "chinese": "麻麻生日快乐！",
+      "translation": "ママお誕生日おめでとう！"
+    },
+    {
+      "chinese": "最想吃的还是麻麻做的菜",
+      "translation": "一番食べたいのはやっぱりママが作った料理だ"
+    },
+    {
+      "chinese": "拔拔麻麻我想你们了",
+      "translation": "パパママ愛しているよ"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/mama/"
+}

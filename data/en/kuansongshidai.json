@@ -1,0 +1,28 @@
+{
+  "slug": "kuansongshidai",
+  "chinese": "宽松世代",
+  "pinyin": "kuān sōng shì dài",
+  "meaning": "Relaxed generation (Yutori generation)",
+  "description": "The generation that received compulsory education between 2002 and 2011. People born in the Heisei era (1989-2019) are sometimes called \"Heisei pigs\" in Chinese.",
+  "examples": [
+    {
+      "chinese": "他是宽松世代的学生",
+      "translation": "He is a student of the relaxed generation"
+    },
+    {
+      "chinese": "讨论宽松世代的教育改革",
+      "translation": "Discussing education reform for the relaxed generation"
+    },
+    {
+      "chinese": "宽松世代进入职场",
+      "translation": "The relaxed generation enters the workforce"
+    }
+  ],
+  "category": "jiaoyu",
+  "categoryName": "Education/School",
+  "relatedWords": [
+    "zhejuzu-2",
+    "nitezu"
+  ],
+  "sourceUrl": "https://chineself.com/kuansongshidai/"
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "zao",
+  "chinese": "早八人",
+  "pinyin": "zǎo bā rén",
+  "meaning": "8 AM person / Early riser / Student having 8am class",
+  "description": "Refers to university students with 8 AM classes or office workers starting early.",
+  "examples": [
+    {
+      "chinese": "早八人,有一说一,每天都好困",
+      "translation": "8 AM person, to be honest, sleepy every day"
+    },
+    {
+      "chinese": "半学期没上课的人最后几周做早八人",
+      "translation": "People with no classes half the semester become 8 AM people in the last weeks"
+    },
+    {
+      "chinese": "早八人？我满课人的一天,从早八到晚九",
+      "translation": "8 AM person? I have full classes, from 8am to 9pm"
+    },
+    {
+      "chinese": "五分钟完成出门妆,很适合早八人",
+      "translation": "5-minute makeup, suitable for 8 AM people"
+    }
+  ],
+  "category": "jiaoyu",
+  "categoryName": "Education/School",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/zao/"
+}

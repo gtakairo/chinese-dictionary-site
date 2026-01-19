@@ -1,0 +1,36 @@
+{
+  "slug": "kan",
+  "chinese": "堪比",
+  "pinyin": "kān bǐ",
+  "meaning": "Comparable to, No less than, Can match",
+  "description": "Synonyms include 不逊色于, 不亚于, 比得上.",
+  "examples": [
+    {
+      "chinese": "这辆车价格堪比保时捷",
+      "translation": "The price of this car is comparable to a Porsche"
+    },
+    {
+      "chinese": "这所双非大学实力堪比211",
+      "translation": "This non-elite university is as good as a Project 211 university"
+    },
+    {
+      "chinese": "每天做这个动作,护心效果堪比药",
+      "translation": "Doing this movement every day protects the heart as effectively as medicine"
+    },
+    {
+      "chinese": "他帅气的面庞,堪比模特的风格",
+      "translation": "His handsome face, comparable to a model's style"
+    },
+    {
+      "chinese": "这里森林茂密美丽,堪比桂林山水",
+      "translation": "The forest here is lush and beautiful, comparable to the scenery of Guilin"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "Uncategorized",
+  "relatedWords": [
+    "bideshang",
+    "shuangfei"
+  ],
+  "sourceUrl": "https://chineself.com/kan/"
+}

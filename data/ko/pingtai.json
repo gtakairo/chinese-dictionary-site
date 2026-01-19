@@ -1,0 +1,27 @@
+{
+  "slug": "pingtai",
+  "chinese": "共享经济",
+  "pinyin": "gòng xiǎng jīng jì",
+  "meaning": "공유 경제",
+  "description": "분향경제(分享经济)라고도 함. 플랫폼 경제는 '평태경제(平台经济)'.",
+  "examples": [
+    {
+      "chinese": "终于有电瓶车了,不用做共享经济了",
+      "translation": "드디어 전기 자전거 생겼다, 공유 경제 안 써도 돼"
+    },
+    {
+      "chinese": "现在共享经济越来越发达",
+      "translation": "이제 공유 경제가 점점 발달하고 있다"
+    },
+    {
+      "chinese": "零工经济是Airbnb,滴滴等共享经济的一种重要组成形式",
+      "translation": "긱 이코노미는 에어비앤비, 디디 등 공유 경제의 중요한 구성 형태다"
+    }
+  ],
+  "category": "jingji",
+  "categoryName": "경제·비즈니스",
+  "relatedWords": [
+    "linggongjingji"
+  ],
+  "sourceUrl": "https://chineself.com/pingtai/"
+}

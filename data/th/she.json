@@ -1,0 +1,29 @@
+{
+  "slug": "she",
+  "chinese": "社会边角料",
+  "pinyin": "shè huì biān jiǎo liào",
+  "meaning": "เศษเดนสังคม / คนไร้ค่า / คนที่จืดจาง",
+  "description": "'Biānjiaoliào' หมายถึงเศษเหลือหรือของที่ตัดทิ้ง หมายถึงคนที่ถูกมองว่าไร้ประโยชน์ต่อสังคม",
+  "examples": [
+    {
+      "chinese": "SB社会边角料",
+      "translation": "โง่เง่า คนไร้ค่า"
+    },
+    {
+      "chinese": "不要当社会的边角料",
+      "translation": "อย่าทำตัวเป็นเศษเดนสังคม"
+    },
+    {
+      "chinese": "今天在家躺平,哈哈哈,我是社会边角料",
+      "translation": "วันนี้นอนอืดอยู่บ้าน 555 ฉันมันคนไร้ค่าของสังคม"
+    },
+    {
+      "chinese": "你是社会的中流砥柱,我是社会的边角料",
+      "translation": "คุณเป็นเสาหลักของสังคม ส่วนฉันเป็นแค่เศษเดน"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์สแลงอินเทอร์เน็ต",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/she/"
+}

@@ -1,0 +1,33 @@
+{
+    "slug": "tangping",
+    "chinese": "躺平",
+    "pinyin": "tǎng píng",
+    "meaning": "탕핑 (누워있기)",
+    "description": "노력하지 않고 뒹굴거리다, 마이페이스로 느긋하게 살다, 욕심내지 않고 타협하다. 탕(躺)은 「눕다」로 「노력하지 않는 상태」를 의미. 일본의 「사토리 세대」와 비슷함. 내권(무한경쟁)의 반대편에 있는 개념.",
+    "category": "net",
+    "categoryName": "인터넷 용어/슬랭",
+    "relatedWords": [
+        "foxi",
+        "neijuan",
+        "45durensheng",
+        "lanshi",
+        "tianxuanniuma",
+        "bukequ",
+        "tangying"
+    ],
+    "sourceUrl": "https://chineself.com/tangping/",
+    "examples": [
+        {
+            "chinese": "今天啥都不想做,躺平比较好",
+            "translation": "오늘 아무것도 하기 싫어, 그냥 눕는 게 낫겠어"
+        },
+        {
+            "chinese": "年轻人不能躺平,一定要努力挑战",
+            "translation": "젊은이는 탕핑하면 안 돼, 반드시 노력하고 도전해야 해"
+        },
+        {
+            "chinese": "在赚钱上内卷,在烂事上躺平",
+            "translation": "돈 버는 건 치열하게 하더라도, 쓸데없는 일엔 탕핑해라"
+        }
+    ]
+}

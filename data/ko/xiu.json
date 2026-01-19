@@ -1,0 +1,25 @@
+{
+  "slug": "xiu",
+  "chinese": "秀才遇见兵,有理讲不清",
+  "pinyin": "xiù cái yù jiàn bīng, yǒu lǐ jiǎng bù qīng",
+  "meaning": "말이 안 통함 / 쇠귀에 경 읽기",
+  "description": "직역: '선비가 병사를 만나니 이치가 통하지 않는다'. 무식하거나 막무가내인 사람과는 대화가 안 된다는 뜻.",
+  "examples": [
+    {
+      "chinese": "没素质的人很多,跟这种人讲道理就是秀才遇见兵,有理讲不清",
+      "translation": "매너 없는 사람이 많다, 이런 사람들과 이치를 따지는 건 쇠귀에 경 읽기다."
+    },
+    {
+      "chinese": "咋说不听,真的无语,秀才遇见兵，有理讲不清",
+      "translation": "왜 말을 안 듣지? 진짜 말이 안 통하네."
+    },
+    {
+      "chinese": "秀才遇见了盗贼,连理都没有地方说去,秀才遇见兵,有理讲不清",
+      "translation": "선비가 도둑을 만나면 하소연할 데도 없고, 병사를 만나면 말이 안 통한다."
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "성어 / 사자성어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/xiu/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "liang",
+  "chinese": "连杆",
+  "pinyin": "lián gān",
+  "meaning": "ก้านสูบ (Connecting rod)",
+  "description": "ชิ้นส่วนเครื่องจักรที่เปลี่ยนการเคลื่อนที่แบบไปกลับให้เป็นการเคลื่อนที่แบบหมุน",
+  "examples": [
+    {
+      "chinese": "检查发动机的连杆磨损",
+      "translation": "ตรวจสอบการสึกหรอของก้านสูบเครื่องยนต์"
+    },
+    {
+      "chinese": "更换损坏的连杆",
+      "translation": "เปลี่ยนก้านสูบที่เสียหาย"
+    },
+    {
+      "chinese": "连杆连接活塞与曲轴",
+      "translation": "ก้านสูบเชื่อมต่อลูกสูบกับเพลาข้อเหวี่ยง"
+    }
+  ],
+  "category": "car",
+  "categoryName": "รถยนต์",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/liang/"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "yu",
+  "chinese": "原版原漆",
+  "pinyin": "yuán bǎn yuán qī",
+  "meaning": "완전 무사고 / 원칠",
+  "description": "(중고차) 수리나 재도색 이력 없이 독자적인 상태 그대로임.",
+  "examples": [
+    {
+      "chinese": "全车原版原漆,无事故现在9万多开走",
+      "translation": "차량 전체 원칠, 무사고, 9만 킬로 주행"
+    },
+    {
+      "chinese": "卖车,2020款,2020年1月上牌,原版原漆",
+      "translation": "차 팝니다, 2020년형, 2020년 1월 등록, 완전 무사고"
+    },
+    {
+      "chinese": "4.3万公里实表原车轮胎,原版原漆,个人一手车",
+      "translation": "4.3만, 실주행, 순정 타이어, 완전 무사고, 1인 신조"
+    }
+  ],
+  "category": "car",
+  "categoryName": "자동차",
+  "relatedWords": [
+    "gerenyishouche"
+  ],
+  "sourceUrl": "https://chineself.com/yu/"
+}

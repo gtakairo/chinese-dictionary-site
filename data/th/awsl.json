@@ -1,0 +1,20 @@
+{
+  "slug": "awsl",
+  "chinese": "啊我死了",
+  "pinyin": "ā wǒ sǐ le",
+  "meaning": "ตายแป๊บ, ไม่ไหวแล้ว (แพ้ความน่ารัก)",
+  "description": "ตัวย่อของ 「อา หว่อ สื่อ เลอ」 (Ah Wo Si Le) แปลว่า โอ๊ย ฉันตายแน่ ใช้เวลาเจออะไรน่รักมากๆ",
+  "examples": [
+    {
+      "chinese": "这只猫太可爱了，AWSL",
+      "translation": "แมวตัวนี้น่ารักเกินไปแล้ว ฉันตายแป๊บ"
+    }
+  ],
+  "category": "net",
+  "categoryName": "สแลงอินเทอร์เน็ต",
+  "relatedWords": [
+    "mengmengda",
+    "qmeng"
+  ],
+  "sourceUrl": "https://chineself.com/awsl/"
+}

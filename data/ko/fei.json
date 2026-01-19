@@ -1,0 +1,29 @@
+{
+  "slug": "fei",
+  "chinese": "废柴",
+  "pinyin": "fèi chái",
+  "meaning": "쓸모없는 사람 / 루저",
+  "description": "원래 광동어에서 유래했으나, 인터넷 용어로 자신의 게으름이나 무능력함을 자조적으로 표현할 때 쓰인다.",
+  "examples": [
+    {
+      "chinese": "最近感觉自己好废柴啊",
+      "translation": "요즘 내가 정말 쓸모없는 인간처럼 느껴져"
+    },
+    {
+      "chinese": "11点起床吃外卖,废柴生活",
+      "translation": "11시에 일어나 배달 음식 먹기, 잉여로운 생활"
+    },
+    {
+      "chinese": "没找到工作的废柴在床上休息",
+      "translation": "직장을 구하지 못한 백수가 침대에서 쉬고 있다"
+    },
+    {
+      "chinese": "有时候真的会觉得自己是个废柴",
+      "translation": "가끔 정말 내가 쓸모없는 사람이라고 느낀다"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어·은어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/fei/"
+}

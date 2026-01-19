@@ -1,0 +1,25 @@
+{
+  "slug": "manjian",
+  "chinese": "满江红",
+  "pinyin": "mǎn jiāng hóng",
+  "meaning": "赤色",
+  "description": "赤色のネット用語。試験で間違いが多いと答案用紙が赤で埋められることから。",
+  "examples": [
+    {
+      "chinese": "我喜欢满江红的衣服",
+      "translation": "私は赤色の服が好きだ"
+    },
+    {
+      "chinese": "今天考试语文作文考了满江红",
+      "translation": "今日の作文試験は赤点だった"
+    },
+    {
+      "chinese": "大姨妈真的太突然了,走到公司就已经满江红了",
+      "translation": "生理は本当に突然やってくる、会社に着いたらすでに真っ赤"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": ["dayima"],
+  "sourceUrl": "https://chineself.com/manjian/"
+}

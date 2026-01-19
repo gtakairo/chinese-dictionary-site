@@ -1,0 +1,32 @@
+{
+  "slug": "duan",
+  "chinese": "断背",
+  "pinyin": "duàn bèi",
+  "meaning": "ชายรักชาย, เกย์",
+  "description": "มาจากชื่อภาษาจีนของภาพยนตร์เรื่อง 「Brokeback Mountain」 (2005) คือ 「Duàn bèi shān」 (断背山) ซึ่งเป็นเรื่องราวความรักของชายสองคน คำพ้องความหมายอื่นๆ ได้แก่ Jilao, Wannan, Fentao, Duanxiu, Tongzhi เป็นต้น",
+  "examples": [
+    {
+      "chinese": "他们有断背情",
+      "translation": "พวกเขามีความสัมพันธ์แบบชายรักชาย"
+    },
+    {
+      "chinese": "咱俩是断背之交",
+      "translation": "เราสองคนมีความสัมพันธ์แบบเกย์"
+    },
+    {
+      "chinese": "第一次看完一部有断背情节的书籍",
+      "translation": "อ่านหนังสือที่มีเนื้อหาเกี่ยวกับชายรักชายจบเป็นครั้งแรก"
+    }
+  ],
+  "category": "lgbtq",
+  "categoryName": "LGBTQ",
+  "relatedWords": [
+    "jilao",
+    "wannan",
+    "fentao",
+    "duanbei",
+    "jiyou",
+    "tuzi"
+  ],
+  "sourceUrl": "https://chineself.com/duan/"
+}

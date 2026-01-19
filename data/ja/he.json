@@ -1,0 +1,25 @@
+{
+  "slug": "he",
+  "chinese": "赫本风",
+  "pinyin": "hè běn fēng",
+  "meaning": "オードリーヘプバーン風",
+  "description": "「ローマの休日」で有名な女優の奥黛丽·赫本（オードリー・ヘプバーン）から。ドレスアップした服装を指すことが多い。赫本风穿搭も同じ。",
+  "examples": [
+    {
+      "chinese": "优雅端庄的赫本风小白裙",
+      "translation": "優雅で端正なオードリーヘプバーン風の白いスカート"
+    },
+    {
+      "chinese": "赫本风的婚纱,低调又优雅",
+      "translation": "オードリーヘプバーン風のウェディングドレス、控えめであり優雅だ"
+    },
+    {
+      "chinese": "没事去逛街买了赫本风的连衣裙",
+      "translation": "暇だったので買い物に行き、オードリーヘプバーン風のワンピースを買った"
+    }
+  ],
+  "category": "fashion",
+  "categoryName": "ファッション・美容",
+  "relatedWords": ["chuanda", "didiao"],
+  "sourceUrl": "https://chineself.com/he/"
+}

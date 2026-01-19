@@ -1,0 +1,19 @@
+{
+  "slug": "dangong",
+  "chinese": "当工",
+  "pinyin": "dāng gōng",
+  "meaning": "고용되어 일하다 (다공「打工」의 다른 표현)",
+  "description": "「다공(打工, 아르바이트/고용 노동)」과 유사한 단어입니다. 인터넷상에서 종종 사용됩니다.",
+  "examples": [
+    {
+      "chinese": "为了生活只能当工",
+      "translation": "생활을 위해 고용되어 일할 수밖에 없다."
+    }
+  ],
+  "category": "net",
+  "categoryName": "업무/직장",
+  "relatedWords": [
+    "dagongren"
+  ],
+  "sourceUrl": "https://chineself.com/dangong/"
+}

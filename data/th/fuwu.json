@@ -1,0 +1,28 @@
+{
+  "slug": "fuwu",
+  "chinese": "福无双至,祸不单行",
+  "pinyin": "fú wú shuāng zhì, huò bù dān xíng",
+  "meaning": "เคราะห์ซ้ำกรรมซัด / ความวัวไม่ทันหาย ความควายเข้ามาแทรก",
+  "description": "มาจากคัมภีร์ 「Shuo Yuan」 ของ Liu Xiang หมายความว่าโชคลาภมักไม่มาพร้อมกัน แต่เคราะห์ร้ายมักจะมาซ้ำซ้อน",
+  "examples": [
+    {
+      "chinese": "福无双至祸不单行,越缺钱用钱的地方越多",
+      "translation": "เคราะห์ซ้ำกรรมซัด ยิ่งขาดเงินก็ยิ่งมีเรื่องต้องใช้เงิน"
+    },
+    {
+      "chinese": "时运不济,命途多舛,福无双至,祸不单行",
+      "translation": "ดวงตก ชะตาอาภัพ เคราะห์ซ้ำกรรมซัด"
+    },
+    {
+      "chinese": "人生哪有那么多幸运的事,福无双至,祸不单行",
+      "translation": "ชีวิตไม่ได้มีเรื่องโชคดีมากขนาดนั้นหรอก เคราะห์ซ้ำกรรมซัด"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "สำนวนสุภาษิต",
+  "relatedWords": [
+    "shiyunbuji",
+    "mingtuduochuan"
+  ],
+  "sourceUrl": "https://chineself.com/fuwu/"
+}

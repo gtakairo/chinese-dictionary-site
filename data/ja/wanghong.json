@@ -1,0 +1,25 @@
+{
+  "slug": "wanghong",
+  "chinese": "网红",
+  "pinyin": "wǎng hóng",
+  "meaning": "①インフルエンサー、インターネットセレブリティ ②ネットで有名な、ネットで話題の",
+  "description": "网络红人、网络爆红の略語。特に専門性の高いインフルエンサーは关键意见领袖（＝KOL）「Key Opinion Leader（キーオピニオンリーダー）」と呼ばれている。网红餐厅は「ネットで人気がでたレストラン」のようにインフルエンサーの影響などで繁盛している店の意味になる。网红打卡地は「ネットで人気沸騰中のスポット、インスタ映えする人気スポット」の意味。爆红「インターネット・ミーム、人気が爆発する、バズる」。",
+  "examples": [
+    {
+      "chinese": "你会关注什么样的网红",
+      "translation": "あなたはどのようなインフルエンサーに注目していますか"
+    },
+    {
+      "chinese": "现在网红越来越多,大家不上班搞直播",
+      "translation": "今はインターネットセレブリティがどんどん増えている、みんな出勤せずにライブしている"
+    },
+    {
+      "chinese": "泰国今年突然就网红了,现在好多人打卡拍照",
+      "translation": "タイが今年突然ネットで人気となっている、いま多くの人が写真をSNSに上げている"
+    }
+  ],
+  "category": "sns",
+  "categoryName": "Web・SNS用語",
+  "relatedWords": ["yijianlingxiu", "wanghongdakadi", "baohong", "dakazu", "cailei"],
+  "sourceUrl": "https://chineself.com/wanghong/"
+}

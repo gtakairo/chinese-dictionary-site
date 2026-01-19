@@ -1,0 +1,25 @@
+{
+  "slug": "na",
+  "chinese": "拿不起放不下",
+  "pinyin": "ná bù qǐ fàng bù xià",
+  "meaning": "優柔不断である、融通が利かない",
+  "description": "反義語は拿得起放得下「決断力がある、融通が利く」。",
+  "examples": [
+    {
+      "chinese": "为什么他会是一个拿不起放不下的人",
+      "translation": "どうして彼は融通が利かないの"
+    },
+    {
+      "chinese": "如何改变拿不起,放不下的心态",
+      "translation": "どのようにしたら優柔不断な心理状態を変えることができるのか"
+    },
+    {
+      "chinese": "好讨厌自己的思维,好讨厌自己拿不起放不下的性格",
+      "translation": "自分の考え方が嫌いで、自分の優柔不断な性格がとても嫌いだ"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "未分類",
+  "relatedWords": ["nadeqifangdexia"],
+  "sourceUrl": "https://chineself.com/na/"
+}

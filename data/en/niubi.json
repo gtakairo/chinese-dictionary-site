@@ -1,0 +1,32 @@
+{
+  "slug": "niubi",
+  "chinese": "牛逼",
+  "pinyin": "niú bī",
+  "meaning": "Awesome; Badass; F*cking amazing",
+  "description": "Vulgar but very common slang for 'awesome'. Variants include NB, Niubai, NiuX, etc.",
+  "examples": [
+    {
+      "chinese": "你这么牛逼！",
+      "translation": "You are so f*cking awesome!"
+    },
+    {
+      "chinese": "我牛逼大了",
+      "translation": "I'm a big deal."
+    },
+    {
+      "chinese": "勇敢很牛逼",
+      "translation": "Being brave is badass."
+    }
+  ],
+  "category": "tanci",
+  "categoryName": "Interjection",
+  "relatedWords": [
+    "tainble",
+    "niubai",
+    "liubi",
+    "niucha",
+    "newbee",
+    "wocao"
+  ],
+  "sourceUrl": "https://chineself.com/niubi/"
+}

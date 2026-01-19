@@ -1,0 +1,19 @@
+{
+  "slug": "nvshen",
+  "chinese": "女神",
+  "pinyin": "nǚ shén",
+  "meaning": "여신 (동경하는 여성)",
+  "description": "동경하는 여성, 이상형을 칭송하는 호칭.",
+  "examples": [
+    {
+      "chinese": "她是我们的女神",
+      "translation": "그녀는 우리의 여신이야."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인물상",
+  "relatedWords": [
+    "baifumei"
+  ],
+  "sourceUrl": "https://chineself.com/nvshen/"
+}

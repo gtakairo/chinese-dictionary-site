@@ -1,0 +1,19 @@
+{
+    "slug": "sodiesinei",
+    "chinese": "搜跌死内",
+    "pinyin": "sōu diē sǐ nèi",
+    "meaning": "So desu ne (Is that so/I see)",
+    "description": "Transliteration of Japanese \"So desu ne\".",
+    "category": "wailaiyu",
+    "categoryName": "Loanwords/Homophonic Translation",
+    "relatedWords": [
+        "diesinei"
+    ],
+    "sourceUrl": "https://chineself.com/sodiesinei/",
+    "examples": [
+        {
+            "chinese": "今天挺热的搜跌死内",
+            "translation": "It's quite hot today, isn't it (So desu ne)"
+        }
+    ]
+}

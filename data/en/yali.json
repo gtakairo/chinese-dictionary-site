@@ -1,0 +1,27 @@
+{
+  "slug": "yali",
+  "chinese": "压力怪",
+  "pinyin": "yā lì guài",
+  "meaning": "Pressure Monster / Stress Giver",
+  "description": "A person who puts unnecessary pressure on teammates or friends causes stress.",
+  "examples": [
+    {
+      "chinese": "找个游戏搭子,没有技术要求,不要压力怪",
+      "translation": "Looking for a gaming partner, no skill required, no pressure monsters."
+    },
+    {
+      "chinese": "乒乓球单打还是压力比较大的,能不能少点压力怪呢",
+      "translation": "Table tennis singles is stressful enough, can we have fewer pressure monsters?"
+    },
+    {
+      "chinese": "我自己本身就是个压力怪了,不允许任何人给我压力",
+      "translation": "I'm a pressure monster myself, I don't allow anyone to pressure me."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [
+    "dazi"
+  ],
+  "sourceUrl": "https://chineself.com/yali/"
+}

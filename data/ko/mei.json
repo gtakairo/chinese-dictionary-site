@@ -1,0 +1,27 @@
+{
+  "slug": "mei",
+  "chinese": "美本",
+  "pinyin": "měi běn",
+  "meaning": "미국 학부",
+  "description": "미국 대학 학부 과정(美国读本科)의 줄임말. 미국의 4년제 대학을 뜻한다.",
+  "examples": [
+    {
+      "chinese": "我很想读美高,因为我想上美本",
+      "translation": "나는 미국 대학에 가고 싶어서 미국 고등학교에 진학하고 싶다."
+    },
+    {
+      "chinese": "美本的话,选美研还是英硕?差距有多大",
+      "translation": "미국 학부 출신이라면 미국 대학원과 영국 석사 중 어디를 선택해야 할까? 차이가 얼마나 클까?"
+    },
+    {
+      "chinese": "怎么花几百万让学渣买上美本（甚至爬藤）",
+      "translation": "어떻게 수백만 위안을 써서 공부 못하는 학생을 미국 대학(심지어 아이비리그)에 보낼 수 있을까."
+    }
+  ],
+  "category": "jiaoyu",
+  "categoryName": "교육/학교",
+  "relatedWords": [
+    "pateng"
+  ],
+  "sourceUrl": "https://chineself.com/mei/"
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "zhang",
+  "chinese": "张弛有度",
+  "pinyin": "zhāng chí yǒu dù",
+  "meaning": "程よい、適度な、いい塩梅、バランスがよい、メリハリがある",
+  "description": "「张」は張り、「弛」は緩めるで、その張りと緩みが程よい塩梅であるということ。",
+  "examples": [
+    {
+      "chinese": "他是刚柔并济张弛有度的",
+      "japanese": "彼は緩急剛柔でバランスが取れている"
+    },
+    {
+      "chinese": "故事节奏非常好,张弛有度",
+      "japanese": "物語のリズムがとても良い、いい塩梅である"
+    },
+    {
+      "chinese": "不要太忙,也不要太闲,张弛有度",
+      "japanese": "忙しすぎず、暇過ぎず、程よい塩梅にしとけ"
+    },
+    {
+      "chinese": "只有放松自己的心情,张弛有度,才能应对生活中的各种难题",
+      "japanese": "心情をリラックスして適度なメリハリがあってこそ生活の各種難題に対処できる"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "成語・四字熟語",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/zhang/"
+}

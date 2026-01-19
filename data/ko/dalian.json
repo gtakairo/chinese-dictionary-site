@@ -1,0 +1,20 @@
+{
+  "slug": "dalian",
+  "chinese": "打脸",
+  "pinyin": "dǎ liǎn",
+  "meaning": "(비유적으로) 뺨을 맞다, 자신의 말에 모순되어 망신을 당하다 (부메랑 맞다)",
+  "description": "이전 발언과 모순되어 자신에게 되돌아오는, 창피한 전개.",
+  "examples": [
+    {
+      "chinese": "他说不看结果却打脸了",
+      "translation": "그는 안 본다고 했지만 결국 봐서 망신당했다"
+    }
+  ],
+  "category": "net",
+  "categoryName": "토론/비꼬기",
+  "relatedWords": [
+    "zhenxiang",
+    "yinyangguaiqi"
+  ],
+  "sourceUrl": "https://chineself.com/dalian/"
+}

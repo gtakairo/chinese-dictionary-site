@@ -1,0 +1,25 @@
+{
+  "slug": "qukuai",
+  "chinese": "区块链",
+  "pinyin": "qū kuài liàn",
+  "meaning": "Blockchain",
+  "description": "Distributed ledger technology. A foundational technology that records transaction history in a way that is difficult to tamper with.",
+  "examples": [
+    {
+      "chinese": "区块链提升了数据的透明度",
+      "translation": "Blockchain has improved data transparency."
+    },
+    {
+      "chinese": "很多项目基于区块链开发",
+      "translation": "Many projects are developed based on blockchain."
+    },
+    {
+      "chinese": "学习区块链的基本原理",
+      "translation": "Learn the basic principles of blockchain."
+    }
+  ],
+  "category": "technology",
+  "categoryName": "Technology",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/qukuai/"
+}

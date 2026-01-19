@@ -1,0 +1,19 @@
+{
+  "slug": "kongping",
+  "chinese": "控评",
+  "pinyin": "kòng píng",
+  "meaning": "การคุมคอมเมนต์ (ปั่นกระแส/ควบคุมทิศทางความคิดเห็น)",
+  "description": "การควบคุมบรรยากาศในช่องแสดงความคิดเห็น เป็นการโฆษณาชวนเชื่อหรือการจัดการกับข่าวด้านลบ",
+  "examples": [
+    {
+      "chinese": "有人在控评",
+      "translation": "มีคนกำลังคุมคอมเมนต์อยู่"
+    }
+  ],
+  "category": "net",
+  "categoryName": "โซเชียลมีเดีย/การจัดการ",
+  "relatedWords": [
+    "fanquan"
+  ],
+  "sourceUrl": "https://chineself.com/kongping/"
+}

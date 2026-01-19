@@ -1,0 +1,20 @@
+{
+  "slug": "awsl",
+  "chinese": "啊我死了",
+  "pinyin": "ā wǒ sǐ le",
+  "meaning": "심쿵사, 나 죽어 (귀여워서)",
+  "description": "「아, 나 죽었다(啊我死了)」의 병음 약자. 너무 귀엽거나 감동적이어서 죽을 것 같다는 과장된 표현.",
+  "examples": [
+    {
+      "chinese": "这只猫太可爱了，AWSL",
+      "translation": "이 고양이 너무 귀여워, 나 죽어"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 슬랭",
+  "relatedWords": [
+    "mengmengda",
+    "qmeng"
+  ],
+  "sourceUrl": "https://chineself.com/awsl/"
+}

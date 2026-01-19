@@ -1,0 +1,201 @@
+---
+export const prerender = true;
+
+import Layout from '../../layouts/Layout.astro';
+import { getAllWords, getAvailableLanguages } from '../../lib/data';
+
+export function getStaticPaths() {
+  return getAvailableLanguages().map(lang => ({
+    params: { lang },
+  }));
+}
+
+const { lang } = Astro.params;
+const allWords = getAllWords(lang);
+
+const labels: Record<string, Record<string, string>> = {
+  title: { en: 'Search', ko: '검색', ja: '検索', th: 'ค้นหา' },
+  placeholder: { 
+    en: 'Search Chinese words, pinyin, or meaning...', 
+    ko: '중국어 단어, 병음, 의미 검색...', 
+    ja: '中国語、ピンイン、意味で検索...', 
+    th: 'ค้นหาคำภาษาจีน พินอิน หรือความหมาย...' 
+  },
+  noResults: { 
+    en: 'No results found. Try different keywords.', 
+    ko: '검색 결과가 없습니다. 다른 키워드를 시도해보세요.', 
+    ja: '検索結果がありません。別のキーワードを試してください。', 
+    th: 'ไม่พบผลลัพธ์ ลองใช้คำค้นหาอื่น' 
+  },
+  searchTips: {
+    en: 'Search by Chinese characters, pinyin, or English meaning',
+    ko: '중국어 한자, 병음 또는 한국어 의미로 검색하세요',
+    ja: '中国語の漢字、ピンイン、または日本語の意味で検索できます',
+    th: 'ค้นหาด้วยตัวอักษรจีน พินอิน หรือความหมายภาษาไทย'
+  },
+};
+---
+
+<Layout 
+  title={`${labels.title[lang] || labels.title.en} - ChineseDict`} 
+  lang={lang}
+  description={labels.searchTips[lang] || labels.searchTips.en}
+>
+  <div class="max-w-4xl mx-auto">
+    <!-- Search Header -->
+    <div class="mb-8">
+      <h1 class="text-3xl font-bold text-gray-900 mb-4">
+        🔍 {labels.title[lang] || labels.title.en}
+      </h1>
+      <p class="text-gray-600">
+        {labels.searchTips[lang] || labels.searchTips.en}
+      </p>
+    </div>
+
+    <!-- Search Box -->
+    <div class="mb-8">
+      <div class="relative">
+        <input
+          type="search"
+          id="searchInput"
+          placeholder={labels.placeholder[lang] || labels.placeholder.en}
+          class="w-full px-6 py-4 text-lg border-2 border-gray-300 rounded-xl focus:ring-2 focus:ring-red-500 focus:border-transparent"
+          autocomplete="off"
+        />
+        <svg class="absolute left-4 top-5 h-6 w-6 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+        </svg>
+      </div>
+      
+      <!-- Search suggestions dropdown -->
+      <div id="suggestions" class="hidden mt-2 bg-white border border-gray-200 rounded-lg shadow-lg max-h-96 overflow-y-auto">
+        <!-- Populated by JavaScript -->
+      </div>
+    </div>
+
+    <!-- Search Results -->
+    <div id="searchResults" class="space-y-4">
+      <div class="text-center py-12 text-gray-500">
+        <svg class="w-16 h-16 mx-auto mb-4 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+        </svg>
+        <p>{lang === 'ja' ? '検索キーワードを入力してください' : lang === 'ko' ? '검색어를 입력하세요' : lang === 'th' ? 'กรอกคำค้นหา' : 'Enter search keywords'}</p>
+      </div>
+    </div>
+
+    <!-- No results message -->
+    <div id="noResults" class="hidden text-center py-12 text-gray-500">
+      <svg class="w-16 h-16 mx-auto mb-4 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.172 16.172a4 4 0 015.656 0M9 10h.01M15 10h.01M12 12h.01M12 12h.01M12 12h.01"></path>
+      </svg>
+      <p class="text-lg font-medium mb-2">{labels.noResults[lang] || labels.noResults.en}</p>
+    </div>
+
+    <!-- Ad Space -->
+    <div class="my-8 p-8 bg-gray-100 rounded-lg text-center text-gray-400">
+      Ad Space
+    </div>
+  </div>
+
+  <script define:vars={{ allWords, lang }}>
+    import Fuse from 'fuse.js';
+
+    // Initialize Fuse.js
+    const fuse = new Fuse(allWords, {
+      keys: [
+        { name: 'chinese', weight: 2 },
+        { name: 'pinyin', weight: 1.5 },
+        { name: 'meaning', weight: 1 },
+      ],
+      threshold: 0.3,
+      includeScore: true,
+      minMatchCharLength: 1,
+    });
+
+    const searchInput = document.getElementById('searchInput');
+    const searchResults = document.getElementById('searchResults');
+    const noResults = document.getElementById('noResults');
+    const suggestions = document.getElementById('suggestions');
+
+    let debounceTimer;
+
+    searchInput?.addEventListener('input', (e) => {
+      clearTimeout(debounceTimer);
+      
+      debounceTimer = setTimeout(() => {
+        const query = e.target.value.trim();
+        
+        if (query.length === 0) {
+          searchResults.innerHTML = `
+            <div class="text-center py-12 text-gray-500">
+              <svg class="w-16 h-16 mx-auto mb-4 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+              </svg>
+              <p>${lang === 'ja' ? '検索キーワードを入力してください' : lang === 'ko' ? '검색어를 입력하세요' : lang === 'th' ? 'กรอกคำค้นหา' : 'Enter search keywords'}</p>
+            </div>
+          `;
+          noResults.classList.add('hidden');
+          suggestions.classList.add('hidden');
+          return;
+        }
+
+        // Show suggestions
+        if (query.length >= 1) {
+          const suggestionResults = allWords
+            .filter(word => 
+              word.chinese.toLowerCase().includes(query.toLowerCase()) ||
+              word.pinyin.toLowerCase().includes(query.toLowerCase()) ||
+              word.meaning.toLowerCase().includes(query.toLowerCase())
+            )
+            .slice(0, 5);
+
+          if (suggestionResults.length > 0) {
+            suggestions.innerHTML = suggestionResults.map(word => `
+              <a href="/${lang}/word/${word.slug}" class="block px-4 py-3 hover:bg-gray-50 border-b border-gray-100 last:border-0">
+                <div class="font-medium text-gray-900">${word.chinese}</div>
+                <div class="text-sm text-gray-500">${word.pinyin} - ${word.meaning}</div>
+              </a>
+            `).join('');
+            suggestions.classList.remove('hidden');
+          } else {
+            suggestions.classList.add('hidden');
+          }
+        }
+
+        // Perform search
+        const results = fuse.search(query);
+        
+        if (results.length === 0) {
+          searchResults.innerHTML = '';
+          noResults.classList.remove('hidden');
+          return;
+        }
+
+        noResults.classList.add('hidden');
+        
+        searchResults.innerHTML = results.map(result => {
+          const word = result.item;
+          return `
+            <a href="/${lang}/word/${word.slug}" class="block p-6 bg-white border border-gray-200 rounded-lg hover:shadow-md transition-shadow">
+              <div class="flex items-start justify-between">
+                <div class="flex-1">
+                  <h3 class="text-2xl font-bold text-gray-900 mb-1">${word.chinese}</h3>
+                  <p class="text-red-500 mb-2">${word.pinyin}</p>
+                  <p class="text-gray-700">${word.meaning}</p>
+                  ${word.category ? `<span class="inline-block mt-2 px-2 py-1 bg-gray-100 text-gray-600 text-xs rounded">${word.category}</span>` : ''}
+                </div>
+              </div>
+            </a>
+          `;
+        }).join('');
+      }, 300);
+    });
+
+    // Hide suggestions when clicking outside
+    document.addEventListener('click', (e) => {
+      if (!searchInput?.contains(e.target) && !suggestions?.contains(e.target)) {
+        suggestions?.classList.add('hidden');
+      }
+    });
+  </script>
+</Layout>

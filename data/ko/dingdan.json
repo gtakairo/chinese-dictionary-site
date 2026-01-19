@@ -1,0 +1,29 @@
+{
+  "slug": "dingdan",
+  "chinese": "定档",
+  "pinyin": "dìng dàng",
+  "meaning": "개봉일/방영일 확정",
+  "description": "영화나 드라마 등의 상영, 방영 시기가 결정되는 것을 의미합니다.",
+  "examples": [
+    {
+      "chinese": "官宣定档了！看完预告片期待值达到巅峰",
+      "translation": "공식적으로 방영일이 확정됐어! 예고편 보고 나니 기대감 최고조."
+    },
+    {
+      "chinese": "定档了！这预告悬疑氛围拉满了诶,大银幕见",
+      "translation": "개봉 확정! 예고편 서스펜스 분위기 대박이네, 극장에서 만나."
+    },
+    {
+      "chinese": "期待很久终于定档了,下月一起,锁定CCTV-8",
+      "translation": "오래 기다렸는데 드디어 편성이 확정됐어, 다음 달 CCTV-8 채널 고정."
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "미분류",
+  "relatedWords": [
+    "guanxuan",
+    "laman",
+    "dayingping"
+  ],
+  "sourceUrl": "https://chineself.com/dingdan/"
+}

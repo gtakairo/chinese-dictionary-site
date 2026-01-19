@@ -1,0 +1,19 @@
+{
+  "slug": "baitan",
+  "chinese": "摆摊",
+  "pinyin": "bǎi tān",
+  "meaning": "ตั้งแผงลอย, เปิดท้ายขายของ",
+  "description": "การตั้งร้านขายของชั่วคราวริมถนนหรือในตลาดนัด",
+  "examples": [
+    {
+      "chinese": "周末去夜市摆摊",
+      "translation": "สุดสัปดาห์จะไปตั้งแผงขายของที่ตลาดนัดกลางคืน"
+    }
+  ],
+  "category": "jingji",
+  "categoryName": "เศรษฐกิจ/ชีวิต",
+  "relatedWords": [
+    "shangxin"
+  ],
+  "sourceUrl": "https://chineself.com/baitan/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "zhui",
+  "chinese": "坠吊",
+  "pinyin": "zhuì diào",
+  "meaning": "최고다 / 쩐다",
+  "description": "가장 대단하다(Zui Diao)의 발음 변형.",
+  "examples": [
+    {
+      "chinese": "还是父母爱情是坠吊的",
+      "translation": "역시 부모님 사랑이 최고다"
+    },
+    {
+      "chinese": "天气预报就是坠吊的,下午真下雨了",
+      "translation": "일기예보 진짜 쩐다, 오후에 진짜 비 왔다"
+    },
+    {
+      "chinese": "我帮助了所有人,我就是坠吊的",
+      "translation": "난 모두를 도왔다, 난 최고다"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 은어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/zhui/"
+}

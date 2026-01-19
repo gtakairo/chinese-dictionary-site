@@ -1,0 +1,25 @@
+{
+  "slug": "zai",
+  "chinese": "再保险",
+  "pinyin": "zài bǎo xiǎn",
+  "meaning": "Reinsurance",
+  "description": "Insurance for insurers to spread risk.",
+  "examples": [
+    {
+      "chinese": "签订再保险合同分散风险",
+      "translation": "Sign reinsurance contract to spread risk"
+    },
+    {
+      "chinese": "再保险覆盖巨灾风险",
+      "translation": "Reinsurance covers catastrophe risks"
+    },
+    {
+      "chinese": "与多家再保险公司合作",
+      "translation": "Cooperate with multiple reinsurance companies"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "Finance/Investment",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/zai/"
+}

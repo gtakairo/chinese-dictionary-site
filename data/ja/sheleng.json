@@ -1,0 +1,14 @@
+{
+  "slug": "sheleng",
+  "chinese": "社冷",
+  "pinyin": "shè lěng",
+  "meaning": "人付き合いに興味がない、一人でいるのを好む",
+  "description": "社交冷漠症の略語。関連：社牛（人付き合いが上手い）、社恐（対人恐怖症）、社杂（人見知りだが仲良くなると社交的）。",
+  "examples": [
+    {"chinese": "原来不是社恐,只是社冷", "japanese": "もともと対人恐怖症なのではなく、人付き合いに無関心なだけ"}
+  ],
+  "category": "net",
+  "categoryName": "ネット用語・スラング",
+  "relatedWords": ["sheniu", "shekong", "sheza"],
+  "sourceUrl": "https://chineself.com/sheleng/"
+}

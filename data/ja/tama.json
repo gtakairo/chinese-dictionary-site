@@ -1,0 +1,16 @@
+{
+  "slug": "tama",
+  "chinese": "踏马",
+  "pinyin": "tà mǎ",
+  "meaning": "クソッ、くそったれ、こん畜生、この野郎",
+  "description": "他妈（tā mā）と同じ意味。踏马的、我踏马でも同じ。",
+  "examples": [
+    {"chinese": "真踏马离谱", "japanese": "本当にこの野郎とんでもない"},
+    {"chinese": "踏马的,现在才来", "japanese": "バカ野郎、今頃来やがって"},
+    {"chinese": "这种事谁踏马知道呢", "japanese": "このような事をクソッ誰が知っているというんだ"}
+  ],
+  "category": "tanci",
+  "categoryName": "感嘆詞",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/tama/"
+}

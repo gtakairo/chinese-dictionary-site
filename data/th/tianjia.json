@@ -1,0 +1,29 @@
+{
+    "slug": "tianjia",
+    "chinese": "天降横祸",
+    "pinyin": "tiān jiàng hèng huò",
+    "meaning": "เคราะห์ร้ายหล่นทับ, ภัยพิบัติที่ไม่คาดฝัน",
+    "description": "ภัยที่เกิดขึ้นโดยไม่ทันตั้งตัว",
+    "category": "uncategorized",
+    "categoryName": "ไม่หมวดหมู่",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/tianjia/",
+    "examples": [
+        {
+            "chinese": "真是天降横祸,倒霉透顶",
+            "translation": "ซวยจริงๆ เคราะห์ร้ายหล่นทับ"
+        },
+        {
+            "chinese": "天降横祸！开车时被飞来轮胎砸中身亡",
+            "translation": "ภัยไม่คาดฝัน! ขับรถอยู่ดีๆ ยางลอยมาชนเสียชีวิต"
+        },
+        {
+            "chinese": "天降横祸！发生7级地震造成重大人员伤亡",
+            "translation": "ภัยพิบัติ! แผ่นดินไหว 7 ริกเตอร์คนเจ็บตายนับไม่ถ้วน"
+        },
+        {
+            "chinese": "天花板掉落,致四人受伤,真正的天降横祸",
+            "translation": "ฝ้าถล่มคนเจ็บ 4 คน เคราะห์ร้ายหล่นทับของจริง"
+        }
+    ]
+}

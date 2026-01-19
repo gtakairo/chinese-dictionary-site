@@ -1,0 +1,31 @@
+{
+  "slug": "dong",
+  "chinese": "东百",
+  "pinyin": "dōng bǎi",
+  "meaning": "Northeast (Dongbei)",
+  "description": "Refers to Northeast China (Dōngběi). A playful pronunciation. Similar to 「Baijing」 = Beijing, 「Shadong」 = Shandong.",
+  "examples": [
+    {
+      "chinese": "就是东百这天太冷了",
+      "translation": "It's just that the weather in Northeast (Dongbai) is too cold."
+    },
+    {
+      "chinese": "东百话好带劲",
+      "translation": "Northeast dialect is so energetic."
+    },
+    {
+      "chinese": "我爱东百菜,真的套吃",
+      "translation": "I love Northeast cuisine, it's really delicious."
+    },
+    {
+      "chinese": "吃饭时候旁边坐东百人喝酒太多",
+      "translation": "When eating, the Northeast person sitting next to me drank too much."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [
+    "taochi"
+  ],
+  "sourceUrl": "https://chineself.com/dong/"
+}

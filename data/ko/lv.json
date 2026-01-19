@@ -1,0 +1,29 @@
+{
+  "slug": "lv",
+  "chinese": "屡败屡战",
+  "pinyin": "lǚ bài lǜ zhàn",
+  "meaning": "몇 번을 패해도 계속 싸우다, 칠전팔기",
+  "description": "「연전연패(屡战屡败)」와 비슷하지만, 계속 도전하는 정신을 강조한다.",
+  "examples": [
+    {
+      "chinese": "你是如何屡败屡战坚持下来的？",
+      "translation": "너는 어떻게 계속 실패하면서도 버텨낸 거야?"
+    },
+    {
+      "chinese": "屡败屡战才能战无不胜",
+      "translation": "실패해도 굴하지 않고 싸워야 백전백승할 수 있다."
+    },
+    {
+      "chinese": "他屡败屡战,获得最后的胜利",
+      "translation": "그는 거듭된 패배에도 계속 도전하여 최후의 승리를 얻었다."
+    },
+    {
+      "chinese": "不要再考一次,屡败屡战屡战屡败恶性循环",
+      "translation": "시험 다시 보지 마. 계속 도전하고 계속 실패하는 악순환이야."
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "성어/사자성어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/lv/"
+}

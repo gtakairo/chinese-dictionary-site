@@ -1,0 +1,30 @@
+{
+    "slug": "tiao",
+    "chinese": "挑柄",
+    "pinyin": "tiāo bǐng",
+    "meaning": "Pick specific character merchandise",
+    "description": "\"Bing\" comes from Japanese \"Gara\" (Pattern). collecting goods of the same character.",
+    "category": "sub",
+    "categoryName": "Subculture",
+    "relatedWords": [
+        "bingtu",
+        "ouye",
+        "chigu",
+        "tongbao"
+    ],
+    "sourceUrl": "https://chineself.com/tiao/",
+    "examples": [
+        {
+            "chinese": "欧耶,终于会挑柄图了",
+            "translation": "Oh yeah, finally know how to pick patterns (merch)"
+        },
+        {
+            "chinese": "我吃谷都挑柄,不是所有我推的柄我都溺爱的",
+            "translation": "When I buy goods I pick characters, I don't dote on every pattern of my push"
+        },
+        {
+            "chinese": "想做一个痛包,但是手里面没有合适的柄图,我要挑柄吃",
+            "translation": "Want to make an Itabag, but don't have suitable images, I need to pick and buy"
+        }
+    ]
+}

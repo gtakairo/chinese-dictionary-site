@@ -1,0 +1,25 @@
+{
+  "slug": "yali",
+  "chinese": "压力怪",
+  "pinyin": "yā lì guài",
+  "meaning": "（仲間内で）高圧的な人、威圧的な人、相手にプレッシャーを与える人",
+  "description": "チームや仲間なのにプレッシャーをかけてきて自分のストレスを発散させるような人。",
+  "examples": [
+    {
+      "chinese": "找个游戏搭子,没有技术要求,不要压力怪",
+      "translation": "ゲーム友募集、テクニックは問わない、威圧的な人はお断り"
+    },
+    {
+      "chinese": "乒乓球单打还是压力比较大的,能不能少点压力怪呢",
+      "translation": "卓球シングルはもともとプレッシャーが大きいのに、そんなにプレッシャーをかけるのやめてもらえる？"
+    },
+    {
+      "chinese": "我自己本身就是个压力怪了,不允许任何人给我压力",
+      "translation": "俺自身は高圧的だが、俺にプレッシャーを与えて来る人は誰も許さない"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": ["dazi"],
+  "sourceUrl": "https://chineself.com/yali/"
+}

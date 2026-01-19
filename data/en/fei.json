@@ -1,0 +1,29 @@
+{
+  "slug": "fei",
+  "chinese": "废柴",
+  "pinyin": "fèi chái",
+  "meaning": "Loser / Good-for-nothing",
+  "description": "Originally from Cantonese, it is used as an internet slang term to mock one's own sloppiness or uselessness.",
+  "examples": [
+    {
+      "chinese": "最近感觉自己好废柴啊",
+      "translation": "I feel like such a loser lately."
+    },
+    {
+      "chinese": "11点起床吃外卖,废柴生活",
+      "translation": "Waking up at 11 AM to eat takeout, a loser's life."
+    },
+    {
+      "chinese": "没找到工作的废柴在床上休息",
+      "translation": "A good-for-nothing who hasn't found a job resting on the bed."
+    },
+    {
+      "chinese": "有时候真的会觉得自己是个废柴",
+      "translation": "Sometimes I really feel like I'm a good-for-nothing."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/fei/"
+}

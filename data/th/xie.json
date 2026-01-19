@@ -1,0 +1,25 @@
+{
+  "slug": "xie",
+  "chinese": "歇b",
+  "pinyin": "xiē b",
+  "meaning": "จบเห่ / พัง / ไม่ไหวแล้ว",
+  "description": "หมายถึง จบสิ้น หมดแรง หรือพังพินาศ",
+  "examples": [
+    {
+      "chinese": "特么的,饿歇b了",
+      "translation": "แม่* หิวจะตายอยู่แล้ว"
+    },
+    {
+      "chinese": "连续值了七天班已累歇b",
+      "translation": "ทำงานติดกัน 7 วัน เหนื่อยจะขาดใจ"
+    },
+    {
+      "chinese": "希望能顺利,不然真的要歇b了",
+      "translation": "หวังว่าจะราบรื่นนะ ไม่งั้นจบเห่แน่"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์อินเทอร์เน็ต / แสลง",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/xie/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "hou",
+  "chinese": "后备箱",
+  "pinyin": "hòu bèi xiāng",
+  "meaning": "กระโปรงหลังรถ",
+  "description": "พื้นที่ด้านหลังรถสำหรับเก็บสัมภาระ",
+  "examples": [
+    {
+      "chinese": "把行李放进后备箱",
+      "translation": "เก็บสัมภาระใส่กระโปรงหลังรถ"
+    },
+    {
+      "chinese": "后备箱开关在哪",
+      "translation": "สวิตช์เปิดกระโปรงหลังรถอยู่ตรงไหน?"
+    },
+    {
+      "chinese": "检查后备箱密封条",
+      "translation": "ตรวจสอบยางขอบกระโปรงหลังรถ"
+    }
+  ],
+  "category": "car",
+  "categoryName": "ยานยนต์",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/hou/"
+}

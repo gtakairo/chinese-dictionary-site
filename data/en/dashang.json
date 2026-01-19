@@ -1,0 +1,27 @@
+{
+  "slug": "dashang",
+  "chinese": "打赏",
+  "pinyin": "dǎ shǎng",
+  "meaning": "Tipping / Donation (online)",
+  "description": "Originally used as a reward given by a person of high status to a person of low status. Nowadays, it is mostly used to mean online tipping/donations. 「Toubi」 (投币) has the same meaning. 「Zhibo dashang」 (直播打赏) means 「tipping in live streaming」.",
+  "examples": [
+    {
+      "chinese": "我刚打赏了5.00元,略表心意",
+      "translation": "I just tipped 5.00 yuan, a small token of appreciation."
+    },
+    {
+      "chinese": "我刚打赏了1元,很喜欢作者",
+      "translation": "I just tipped 1 yuan, I really like the author."
+    },
+    {
+      "chinese": "我爱看网络直播,频频给主播打赏",
+      "translation": "I love watching online live streams and frequently tip the streamers."
+    }
+  ],
+  "category": "sns",
+  "categoryName": "Web/SNS Terms",
+  "relatedWords": [
+    "lvebiaoxinyi"
+  ],
+  "sourceUrl": "https://chineself.com/dashang/"
+}

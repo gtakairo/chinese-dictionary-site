@@ -1,0 +1,25 @@
+{
+  "slug": "jiage",
+  "chinese": "价格波动",
+  "pinyin": "jià gé bō dòng",
+  "meaning": "Price fluctuation",
+  "description": "Prices going up and down due to market or supply/demand. Volatility.",
+  "examples": [
+    {
+      "chinese": "近期价格波动加剧",
+      "translation": "Price fluctuations have intensified recently"
+    },
+    {
+      "chinese": "控制风险应对价格波动",
+      "translation": "Manage risk to cope with price fluctuations"
+    },
+    {
+      "chinese": "受消息影响出现价格波动",
+      "translation": "Price fluctuations occurred due to news"
+    }
+  ],
+  "category": "jingji",
+  "categoryName": "Economics/Business",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/jiage/"
+}

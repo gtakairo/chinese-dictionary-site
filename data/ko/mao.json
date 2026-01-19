@@ -1,0 +1,25 @@
+{
+  "slug": "mao",
+  "chinese": "貌不惊人",
+  "pinyin": "mào bù jīng rén",
+  "meaning": "평범한 외모 / 눈에 띄지 않는 생김새",
+  "description": "외모가 평범해서 남들의 이목을 끌지 못한다는 뜻.",
+  "examples": [
+    {
+      "chinese": "刺角瓜,虽貌不惊人,但还真的好吃",
+      "translation": "키와노 멜론은 겉보기엔 별로지만 맛은 정말 좋다."
+    },
+    {
+      "chinese": "他普普通通,平平无奇,貌不惊人,脑子空空",
+      "translation": "그는 지극히 평범하고, 특색 없고, 외모도 보통이고, 머리도 비었다."
+    },
+    {
+      "chinese": "我出生于平凡的家庭,才不出众,貌不惊人,羡慕神仙颜值的",
+      "translation": "나는 평범한 가정에서 태어나 재능도 뛰어나지 않고 외모도 평범해서, 신이 빚은 듯한 외모가 부럽다."
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "성어/사자성어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/mao/"
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "bian",
+  "chinese": "币安",
+  "pinyin": "bì ān",
+  "meaning": "バイナンス（Binance）【仮想通貨の取引所】",
+  "description": "世界最大級の暗号資産取引所Binanceの中国語表記。",
+  "examples": [
+    {"chinese": "在币安进行现货交易", "japanese": "バイナンスで現物取引を行う"},
+    {"chinese": "币安推出新活动", "japanese": "バイナンスが新キャンペーンを開始した"},
+    {"chinese": "学习使用币安的API", "japanese": "バイナンスのAPIの使い方を学ぶ"}
+  ],
+  "category": "jinrong",
+  "categoryName": "金融・投資",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/bian/"
+}

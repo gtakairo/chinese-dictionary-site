@@ -1,0 +1,25 @@
+{
+  "slug": "hai",
+  "chinese": "还不成吗",
+  "pinyin": "hái bù chéng ma",
+  "meaning": "안 되나요? / 안 될까요?",
+  "description": "베이징 방언이다. 「청(成)」은 「가능하다(可以)」는 뜻이다.",
+  "examples": [
+    {
+      "chinese": "又考砸了,老天爷,我努力学习还不成吗",
+      "translation": "또 시험 망쳤어, 하느님, 열심히 공부해도 안 되는 건가요?"
+    },
+    {
+      "chinese": "几毛钱的事,我自己倒贴还不成吗",
+      "translation": "얼마 되지도 않는 돈, 내가 메우면 안 돼?"
+    },
+    {
+      "chinese": "领导太不容易了,我下次不休息了,还不成吗",
+      "translation": "리더 참 힘들다, 다음엔 안 쉴게, 그럼 됐지?"
+    }
+  ],
+  "category": "fangyan",
+  "categoryName": "방언",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/hai/"
+}

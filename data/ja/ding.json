@@ -1,0 +1,25 @@
+{
+  "slug": "ding",
+  "chinese": "顶饱",
+  "pinyin": "dǐng bǎo",
+  "meaning": "お腹が一杯である、満腹である",
+  "description": "顶饿は「お腹が一杯でもう入らない」の意味で同義語。顶饱はお腹が一杯であることを強調し、顶饿はもうお腹に入る場所が空いておらず何も入らないことを強調している。",
+  "examples": [
+    {
+      "chinese": "超级顶饱,我感觉一天都不会饿",
+      "japanese": "超満腹、一日お腹が空かない感じがする"
+    },
+    {
+      "chinese": "肥肉很腻,这玩意儿是真顶饱啊",
+      "japanese": "脂身が脂っこすぎる、こいつは本当にお腹一杯になる"
+    },
+    {
+      "chinese": "吃了几个饺子,还是超级饿啊,根本不顶饱",
+      "japanese": "何個か餃子を食べたけどまだ超お腹空いている、全く満腹にならない"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "未分類",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/ding/"
+}

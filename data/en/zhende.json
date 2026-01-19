@@ -1,0 +1,25 @@
+{
+  "slug": "zhende",
+  "chinese": "真的假不了,假的真不了",
+  "pinyin": "zhēn de jiǎ bù liǎo, jiǎ de zhēn bù liǎo",
+  "meaning": "Real is real, fake is fake",
+  "description": "The real thing cannot be fake, and the fake thing cannot be real.",
+  "examples": [
+    {
+      "chinese": "假的永远成不了真的,模仿就是模仿,真的假不了,假的真不了",
+      "translation": "Fake can never be real, imitation is imitation; real serves real, fake serves fake"
+    },
+    {
+      "chinese": "你想寻找的是真情爱,真的假不了,假的真不了",
+      "translation": "You look for true love. True is true, fake is fake"
+    },
+    {
+      "chinese": "真理永远是真理,谎言可以欺骗一时,欺骗不了长久,真的假不了,假的真不了",
+      "translation": "Truth is always truth, lies may deceive for a while but not forever. Real is real"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "Idioms",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/zhende/"
+}

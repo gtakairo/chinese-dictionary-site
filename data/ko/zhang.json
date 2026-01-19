@@ -1,0 +1,29 @@
+{
+  "slug": "zhang",
+  "chinese": "张弛有度",
+  "pinyin": "zhāng chí yǒu dù",
+  "meaning": "완급 조절이 있다 / 균형 잡히다",
+  "description": "긴장과 이완이 적절히 조화를 이룸.",
+  "examples": [
+    {
+      "chinese": "他是刚柔并济张弛有度的",
+      "translation": "그는 강온을 겸비하고 완급 조절이 있다"
+    },
+    {
+      "chinese": "故事节奏非常好,张弛有度",
+      "translation": "스토리 리듬이 아주 좋다, 밀당이 있다"
+    },
+    {
+      "chinese": "不要太忙,也不要太闲,张弛有度",
+      "translation": "너무 바쁘지도 너무 한가하지도 않게, 균형 있게"
+    },
+    {
+      "chinese": "只有放松自己的心情,张弛有度,才能应对生活中的各种难题",
+      "translation": "마음을 편히 먹고 균형을 잡아야 삶의 난제에 대처할 수 있다"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "성어/사자성어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/zhang/"
+}

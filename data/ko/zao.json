@@ -1,0 +1,29 @@
+{
+  "slug": "zao",
+  "chinese": "早八人",
+  "pinyin": "zǎo bā rén",
+  "meaning": "아침 8시 등교생 / 출근러",
+  "description": "1교시(8시) 수업을 듣는 대학생이나 일찍 출근하는 직장인.",
+  "examples": [
+    {
+      "chinese": "早八人,有一说一,每天都好困",
+      "translation": "8시 수업 듣는 사람, 솔직히 매일 너무 졸리다"
+    },
+    {
+      "chinese": "半学期没上课的人最后几周做早八人",
+      "translation": "반 학기 동안 수업 없던 사람들이 마지막 몇 주 동안 8시 등교생이 된다"
+    },
+    {
+      "chinese": "早八人？我满课人的一天,从早八到晚九",
+      "translation": "8시 등교? 난 풀강이다, 아침 8시부터 밤 9시까지"
+    },
+    {
+      "chinese": "五分钟完成出门妆,很适合早八人",
+      "translation": "5분 출근 메이크업, 아침 일찍 나가는 사람에게 딱이다"
+    }
+  ],
+  "category": "jiaoyu",
+  "categoryName": "교육/학교",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/zao/"
+}

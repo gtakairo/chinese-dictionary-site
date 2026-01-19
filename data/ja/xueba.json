@@ -1,0 +1,25 @@
+{
+  "slug": "xueba",
+  "chinese": "学霸",
+  "pinyin": "xué bà",
+  "meaning": "秀才、学問がある人、勉強ができる人",
+  "description": "反対語は、学渣（xué zhā）で「落ちこぼれ、勉強を怠る人」。類義語では、学神がある。",
+  "examples": [
+    {
+      "chinese": "这位初中学霸的学习方法,转出来供大家借鉴",
+      "translation": "この中学生の勉強の達人の学習方法、みんなと共有してお手本とする"
+    },
+    {
+      "chinese": "学霸的经验之谈就算了,不是他们的做法不可取,而是你基本做不到",
+      "translation": "秀才の経験談はもういい、彼らのやり方はしてはいけないのではなく、そもそもできない"
+    },
+    {
+      "chinese": "普通学霸和顶级学霸之间的区别,比学霸和学渣之间大得多",
+      "translation": "普通の秀才と超秀才の差は秀才と落ちこぼれの差より大きい"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": ["xueshen", "jingyanzhitan", "bukequ"],
+  "sourceUrl": "https://chineself.com/xueba/"
+}

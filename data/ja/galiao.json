@@ -1,0 +1,12 @@
+{
+  "slug": "galiao",
+  "chinese": "尬聊",
+  "pinyin": "gà liáo",
+  "meaning": "気まずい会話／噛み合わない聊天",
+  "description": "会話が噛み合わず、気まずくてつらいチャット。",
+  "examples": [{"chinese": "和他聊天总是尬聊", "japanese": "彼と話すといつも気まずい"}],
+  "category": "net",
+  "categoryName": "コミュニケーション",
+  "relatedWords": ["gawu"],
+  "sourceUrl": "https://chineself.com/galiao/"
+}

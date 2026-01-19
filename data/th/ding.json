@@ -1,0 +1,25 @@
+{
+  "slug": "ding",
+  "chinese": "顶饱",
+  "pinyin": "dǐng bǎo",
+  "meaning": "อิ่มท้อง, อยู่ท้อง",
+  "description": "หมายถึงอาหารที่ทำให้อิ่มนาน 「Ding e」 เป็นคำพ้องความหมายว่ากันหิว 「Ding bao」 เน้นความรู้สึกอิ่ม",
+  "examples": [
+    {
+      "chinese": "超级顶饱,我感觉一天都不会饿",
+      "translation": "อยูท้องมาก รู้สึกว่าจะไม่หิวไปทั้งวันเลย"
+    },
+    {
+      "chinese": "肥肉很腻,这玩意儿是真顶饱啊",
+      "translation": "มันหมูเลี่ยนมาก อันนี้กินแล้วอิ่มจริงๆ"
+    },
+    {
+      "chinese": "吃了几个饺子,还是超级饿啊,根本不顶饱",
+      "translation": "กินเกี๊ยวไปไม่กี่คำ ยังหิวมากอยู่เลย ไม่อิ่มท้องเลยสักนิด"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "ไม่ได้จัดประเภท",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/ding/"
+}

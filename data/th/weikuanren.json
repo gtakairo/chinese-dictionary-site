@@ -1,0 +1,20 @@
+{
+  "slug": "weikuanren",
+  "chinese": "尾款人",
+  "pinyin": "wěi kuǎn rén",
+  "meaning": "มนุษย์จ่ายส่วนที่เหลือ",
+  "description": "การล้อเลียนตัวเองของผู้บริโภคที่ต้องตามจ่ายเงินส่วนที่เหลือหลังจากสั่งจองสินค้า (เช่นช่วง 11.11)",
+  "examples": [
+    {
+      "chinese": "双11后成了尾款人",
+      "translation": "หลัง 11.11 ก็กลายเป็นมนุษย์จ่ายส่วนที่เหลือ"
+    }
+  ],
+  "category": "net",
+  "categoryName": "การบริโภค / การล้อเลียนตัวเอง",
+  "relatedWords": [
+    "zhongcao",
+    "bacao"
+  ],
+  "sourceUrl": "https://chineself.com/weikuanren/"
+}

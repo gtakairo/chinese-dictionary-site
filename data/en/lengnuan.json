@@ -1,0 +1,27 @@
+{
+  "slug": "lengnuan",
+  "chinese": "冷暖自知",
+  "pinyin": "lěng nuǎn zì zhī",
+  "meaning": "One knows best by one's own experience",
+  "description": "You won't know if the water in the cup is cold or warm unless you drink it. A Buddhist term meaning \"things cannot be understood just by being told by others; one can only realize the truth by actually experiencing and comprehending it oneself.\"",
+  "examples": [
+    {
+      "chinese": "这世上根本不存在感同身受,只有冷暖自知",
+      "translation": "True empathy doesn't exist in this world, only one knows their own situation."
+    },
+    {
+      "chinese": "冷暖自知,大部分女人婚姻都不幸福",
+      "translation": "Knowing it themselves, most women are unhappy in marriage."
+    },
+    {
+      "chinese": "如人饮水,冷暖自知,很多事情只有自己经历了才能够真正体会",
+      "translation": "Like drinking water, one knows if it's cold or warm; many things can only be truly understood after experiencing them oneself."
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "Idioms",
+  "relatedWords": [
+    "gantongshenshou"
+  ],
+  "sourceUrl": "https://chineself.com/lengnuan/"
+}

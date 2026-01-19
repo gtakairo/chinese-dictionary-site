@@ -1,0 +1,19 @@
+{
+  "slug": "pofang",
+  "chinese": "破防",
+  "pinyin": "pò fáng",
+  "meaning": "Defense broken / Emotional damage",
+  "description": "Feeling hurt or overwhelmed by words or events, defenses crumbling.",
+  "examples": [
+    {
+      "chinese": "这段话直接把我破防了",
+      "translation": "These words directly broke my defense"
+    }
+  ],
+  "category": "net",
+  "categoryName": "Net Slang",
+  "relatedWords": [
+    "shangtou"
+  ],
+  "sourceUrl": "https://chineself.com/pofang/"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "guanzhu",
+  "chinese": "关注",
+  "pinyin": "guān zhù",
+  "meaning": "1. To pay close attention to; to follow (an issue) 2. To follow (on SNS); to subscribe",
+  "description": "\"Please follow\", \"Subscribe\". On social media platforms, it means \"Follow\" or \"Subscribe\".",
+  "examples": [
+    {
+      "chinese": "聊聊最近大家关注的事件",
+      "translation": "Let's talk about the events everyone is paying attention to recently."
+    },
+    {
+      "chinese": "令人震惊的爆料在网络上引发广泛关注",
+      "translation": "The shocking revelation caused widespread concern/attention on the internet."
+    },
+    {
+      "chinese": "喜欢就关注一下,谢谢!",
+      "translation": "If you like it, please follow/subscribe, thank you!"
+    },
+    {
+      "chinese": "球球了,点个赞,关注我",
+      "translation": "Please (begging), like and follow me."
+    }
+  ],
+  "category": "sns",
+  "categoryName": "Web/SNS Terms",
+  "relatedWords": [
+    "huguan",
+    "huiguan",
+    "baoliao",
+    "qiuqiule",
+    "dianzan"
+  ],
+  "sourceUrl": "https://chineself.com/guanzhu/"
+}

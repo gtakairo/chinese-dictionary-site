@@ -1,0 +1,25 @@
+{
+  "slug": "yue",
+  "chinese": "跃层",
+  "pinyin": "yuè céng",
+  "meaning": "복층 / 메조넷",
+  "description": "아파트 내부에 계단이 있는 복층 구조.",
+  "examples": [
+    {
+      "chinese": "跃层一室一厅",
+      "translation": "복층 원룸"
+    },
+    {
+      "chinese": "三室两厅两卫,190平,上下跃层,带院,带车库",
+      "translation": "방 3개, 190평방미터, 복층, 정원 및 차고 포함"
+    },
+    {
+      "chinese": "你真的清楚复式和跃层的区别吗",
+      "translation": "복층형과 메조넷의 차이를 정말 아시나요?"
+    }
+  ],
+  "category": "fangzi",
+  "categoryName": "주거/인테리어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/yue/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "rang",
+  "chinese": "让二追三",
+  "pinyin": "ràng èr zhuī sān",
+  "meaning": "Reverse sweep / Great comeback",
+  "description": "Winning three sets after losing the first two. Similar to 'rang san zhui si' (a great comeback after falling far behind).",
+  "examples": [
+    {
+      "chinese": "又是一场让二追三的比赛",
+      "translation": "It's another reverse sweep match."
+    },
+    {
+      "chinese": "逆风翻盘,让二追三,惊险的胜利",
+      "translation": "Turning the tide, a reverse sweep, a thrilling victory."
+    },
+    {
+      "chinese": "欧冠联赛做客3-2逆转战胜,真的让二追三",
+      "translation": "In the Champions League away game, winning 3-2 from behind, truly a reverse sweep."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/rang/"
+}

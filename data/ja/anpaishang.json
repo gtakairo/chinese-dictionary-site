@@ -1,0 +1,12 @@
+{
+  "slug": "anpaishang",
+  "chinese": "安排上",
+  "pinyin": "ān pái shàng",
+  "meaning": "段取り完了／手配済み",
+  "description": "計画・手配が完了して準備万端であること。",
+  "examples": [{"chinese": "周末的行程都安排上了", "japanese": "週末の予定は全部手配済みだ"}],
+  "category": "net",
+  "categoryName": "行動・段取り",
+  "relatedWords": ["shangxin", "gaoqian"],
+  "sourceUrl": "https://chineself.com/anpaishang/"
+}

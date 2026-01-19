@@ -1,0 +1,33 @@
+{
+  "slug": "tucao",
+  "chinese": "吐槽",
+  "pinyin": "tǔ cáo",
+  "meaning": "①愚痴る、けちをつける ②ツッコむ",
+  "description": "日本の漫才のツッコミの意味もある。これは台湾で使われ大陸で使用されるようになった。",
+  "examples": [
+    {
+      "chinese": "外国人吐槽中文难学",
+      "translation": "外国人は中国語が難しいと愚痴る"
+    },
+    {
+      "chinese": "互相吐槽人生不满,家庭不好的地方,互相安慰",
+      "translation": "お互いに人生や家庭の不満にけちをつけ、お互いに慰め合う"
+    },
+    {
+      "chinese": "每天都在断电!民众吐槽不断",
+      "translation": "毎日停電し民衆がずっと愚痴っている"
+    },
+    {
+      "chinese": "为什么没人吐槽我!!!",
+      "translation": "どうして誰も私にツッコんでくれないの!!!"
+    },
+    {
+      "chinese": "顶不住,还是想吐槽一句",
+      "translation": "我慢できない、やっぱり一言いいたい"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": ["dingbuzhu"],
+  "sourceUrl": "https://chineself.com/tucao/"
+}

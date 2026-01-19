@@ -1,0 +1,16 @@
+{
+  "slug": "rong",
+  "chinese": "容错机制",
+  "pinyin": "róng cuò jī zhì",
+  "meaning": "フォールトトレラントシステム",
+  "description": "障害が発生しても全体として動作を継続できる仕組み。",
+  "examples": [
+    {"chinese": "设计容错机制提高可靠性", "japanese": "フォールトトレランス設計で信頼性を高める"},
+    {"chinese": "系统具备故障转移能力", "japanese": "システムはフェイルオーバー能力を備える"},
+    {"chinese": "通过冗余实现容错", "japanese": "冗長化によって耐障害性を実現する"}
+  ],
+  "category": "jingji",
+  "categoryName": "経済・ビジネス",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/rong/"
+}

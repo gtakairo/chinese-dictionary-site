@@ -1,0 +1,16 @@
+{
+  "slug": "xunihuobiwakuang",
+  "chinese": "虚拟货币挖矿",
+  "pinyin": "xū nǐ huò bì wā kuàng",
+  "meaning": "仮想通貨の採掘（マイニング）",
+  "description": "計算資源を提供してブロックチェーンの取引承認を行い、報酬を得る行為。",
+  "examples": [
+    {"chinese": "虚拟货币挖矿需要显卡", "japanese": "仮想通貨のマイニングにはGPUが必要だ"},
+    {"chinese": "挖矿收益受币价影响", "japanese": "マイニング収益は相場に左右される"},
+    {"chinese": "矿场电费是大头", "japanese": "マイニングでは電気代が大きなコストだ"}
+  ],
+  "category": "jinrong",
+  "categoryName": "金融・投資",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/xunihuobiwakuang/"
+}

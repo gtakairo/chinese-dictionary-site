@@ -1,0 +1,25 @@
+{
+  "slug": "yitaifang",
+  "chinese": "以太坊",
+  "pinyin": "yǐ tài fang",
+  "meaning": "イーサリアム（Ethereum）",
+  "description": "スマートコントラクト機能を備えた分散型プラットフォーム。通貨はETH。",
+  "examples": [
+    {
+      "chinese": "以太坊升级提高了效率",
+      "japanese": "イーサリアムのアップグレードで効率が向上した"
+    },
+    {
+      "chinese": "在以太坊上部署智能合约",
+      "japanese": "イーサリアム上にスマートコントラクトをデプロイする"
+    },
+    {
+      "chinese": "ETH的手续费下降了",
+      "japanese": "ETHの手数料が下がった"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "金融・投資",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/yitaifang/"
+}

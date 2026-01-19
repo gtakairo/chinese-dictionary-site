@@ -1,0 +1,25 @@
+{
+  "slug": "kongqibi",
+  "chinese": "空气币",
+  "pinyin": "kōng qì bì",
+  "meaning": "เหรียญสแกม (Scam Coin) / เหรียญลม",
+  "description": "สกุลเงินดิจิทัลที่ใช้ในการฉ้อโกง",
+  "examples": [
+    {
+      "chinese": "这种项目像空气币",
+      "translation": "โปรเจกต์นี้เหมือนเหรียญสแกมเลย"
+    },
+    {
+      "chinese": "别被空气币骗了",
+      "translation": "อย่าโดนเหรียญสแกมหลอกนะ"
+    },
+    {
+      "chinese": "空气币没有实际应用",
+      "translation": "เหรียญสแกมไม่มีการใช้งานจริง"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "การเงินและการลงทุน",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/kongqibi/"
+}

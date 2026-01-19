@@ -1,0 +1,25 @@
+{
+    "slug": "taoxin",
+    "chinese": "掏心掏肺",
+    "pinyin": "tāo xīn tāo fèi",
+    "meaning": "간 쓸개 다 빼주다, 진심을 다하다",
+    "description": "정직하고 거짓 없음, 성의가 있음. 심장과 폐를 꺼내 보이는 듯한 진심 어린 태도.",
+    "category": "chengyu",
+    "categoryName": "성어/사자성어",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/taoxin/",
+    "examples": [
+        {
+            "chinese": "他真的太掏心掏肺了",
+            "translation": "그는 정말 너무 진심을 다해"
+        },
+        {
+            "chinese": "身边掏心掏肺相处的朋友都是认识比较久的",
+            "translation": "주변에 진심으로 대하는 친구들은 다 오래된 사이야"
+        },
+        {
+            "chinese": "不要见谁都掏心掏肺,至交就那么几个",
+            "translation": "아무한테나 간 쓸개 다 빼주지 마, 절친은 몇 명 뿐이야"
+        }
+    ]
+}

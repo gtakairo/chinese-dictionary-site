@@ -1,0 +1,19 @@
+{
+  "slug": "upzhu",
+  "chinese": "UP主",
+  "pinyin": "u p zhǔ",
+  "meaning": "ผู้อัปโหลด / ครีเอเตอร์",
+  "description": "หมายถึงผู้ที่อัปโหลดเนื้อหาบนเว็บไซต์วิดีโอ",
+  "examples": [
+    {
+      "chinese": "这位UP主很有才华",
+      "translation": "UPzhu คนนี้มีความสามารถมาก"
+    }
+  ],
+  "category": "wailaiyu",
+  "categoryName": "คำทับศัพท์ / ศัพท์อินเทอร์เน็ต",
+  "relatedWords": [
+    "poquan"
+  ],
+  "sourceUrl": "https://chineself.com/upzhu/"
+}

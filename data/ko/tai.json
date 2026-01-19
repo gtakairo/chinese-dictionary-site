@@ -1,0 +1,25 @@
+{
+    "slug": "tai",
+    "chinese": "太不巧了",
+    "pinyin": "tài bù qiǎo le",
+    "meaning": "공교롭게도 (타이밍이 나쁘다)",
+    "description": "① 공교롭게도 ② 타이밍이 나쁘다. 타이차오러(太巧了)는 「① 타이밍이 좋다 ② 기우다(우연이다)」.",
+    "category": "uncategorized",
+    "categoryName": "미분류",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/tai/",
+    "examples": [
+        {
+            "chinese": "太不巧了,这周他都不在上海",
+            "translation": "공교롭게도, 이번 주 내내 그는 상하이에 없어"
+        },
+        {
+            "chinese": "实在太不巧了,我明天上午有课",
+            "translation": "진짜 타이밍 안 좋네, 나 내일 오전에 수업 있어"
+        },
+        {
+            "chinese": "认识的时间太不巧了,当时他已经有女朋友了",
+            "translation": "알게 된 시기가 너무 안 좋았어, 그때 걔 이미 여친 있었거든"
+        }
+    ]
+}

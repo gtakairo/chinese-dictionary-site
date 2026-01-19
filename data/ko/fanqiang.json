@@ -1,0 +1,29 @@
+{
+  "slug": "fanqiang",
+  "chinese": "翻墙",
+  "pinyin": "fān qiáng",
+  "meaning": "1. 담을 넘다 / 탈주하다 2. 인터넷 검열 우회 (VPN)",
+  "description": "2번의 의미로는 'paqiang(爬墙)', 'powang(破网)'이라고도 한다. 인터넷 규제에 걸리는 것을 'bei qiang le(被墙了)'라고 한다. 인터넷에 설치된 검열 시스템을 만리장성에 비유해 '황금방패(Great Firewall)'라고 부르는데, 이 벽을 넘어 해외 사이트에 접속하는 것을 의미한다. 중국에서는 정부가 인터넷상에 보이지 않는 국경을 설정하여 유튜브, 인스타그램, 트위터(X) 등 많은 해외 사이트 접속을 차단하고 있다.",
+  "examples": [
+    {
+      "chinese": "两男子偷偷翻墙离开封控小区",
+      "translation": "두 남자가 몰래 담을 넘어 봉쇄된 주거 단지를 탈출했다"
+    },
+    {
+      "chinese": "通过VPN翻墙访问油管",
+      "translation": "VPN 우회를 통해 유튜브에 접속하다"
+    },
+    {
+      "chinese": "关于翻墙服务,违法浏览境外网站",
+      "translation": "우회 서비스와 관련하여, 불법으로 해외 사이트를 열람하다"
+    }
+  ],
+  "category": "sns",
+  "categoryName": "웹·SNS 용어",
+  "relatedWords": [
+    "paqiang",
+    "minganci",
+    "youguan"
+  ],
+  "sourceUrl": "https://chineself.com/fanqiang/"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "rukeng",
+  "chinese": "入坑",
+  "pinyin": "rù kēng",
+  "meaning": "เข้าวงการ, ติดงอมแงม",
+  "description": "เริ่มหลงใหลหรือติดใจในผลงานหรือกิจกรรมอดิเรกใหม่ๆ",
+  "examples": [
+    {
+      "chinese": "我最近入坑了模型",
+      "translation": "ช่วงนี้ฉันเข้าวงการไปต่อโมเดลแล้ว"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์แสลงทางอินเทอร์เน็ต",
+  "relatedWords": [
+    "shangan"
+  ],
+  "sourceUrl": "https://chineself.com/rukeng/"
+}

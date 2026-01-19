@@ -1,0 +1,20 @@
+{
+  "slug": "qiushengyu",
+  "chinese": "求生欲",
+  "pinyin": "qiú shēng yù",
+  "meaning": "생존 욕구 (눈치 빠름)",
+  "description": "상대의 기분이나 지뢰를 파악해 화를 피하려는 본능.",
+  "examples": [
+    {
+      "chinese": "他说话很有求生欲",
+      "translation": "그 사람 말하는 거 보니 생존 욕구 강하네 (눈치가 빠르네)"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 유행어",
+  "relatedWords": [
+    "yinyangguaiqi",
+    "galiao"
+  ],
+  "sourceUrl": "https://chineself.com/qiushengyu/"
+}

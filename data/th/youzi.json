@@ -1,0 +1,25 @@
+{
+  "slug": "youzi",
+  "chinese": "柚子",
+  "pinyin": "yòu zi",
+  "meaning": "EOS",
+  "description": "ปกติหมายถึงส้มโอ แต่ในที่นี้หมายถึงเหรียญ EOS",
+  "examples": [
+    {
+      "chinese": "他在研究柚子生态",
+      "translation": "เขากำลังศึกษาระบบนิเวศของ EOS"
+    },
+    {
+      "chinese": "柚子钱包怎么用",
+      "translation": "กระเป๋าเงิน EOS ใช้อย่างไร?"
+    },
+    {
+      "chinese": "柚子价格波动很大",
+      "translation": "ราคา EOS ผันผวนมาก"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "การเงิน/การลงทุน",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/youzi/"
+}

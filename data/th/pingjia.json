@@ -1,0 +1,28 @@
+{
+  "slug": "pingjia",
+  "chinese": "平价不廉价",
+  "pinyin": "píng jià bù lián jià",
+  "meaning": "ราคาถูกแต่ไม่ดูถูก",
+  "description": "ราคาจับต้องได้แต่คุณภาพดีเกินราคา",
+  "examples": [
+    {
+      "chinese": "平价不廉价,闭眼入",
+      "translation": "ถูกแต่ดี ซื้อเลยไม่ต้องคิด"
+    },
+    {
+      "chinese": "平价不廉价,绝对物超所值",
+      "translation": "ถูกแต่ดี คุ้มค่าเกินราคาแน่นอน"
+    },
+    {
+      "chinese": "不愧是价格便宜,效果好!平价不廉价",
+      "translation": "สมกับที่ราคาถูกและใช้ดี! ถูกแต่ไม่ดูไก่กา"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "หมวดอื่นๆ",
+  "relatedWords": [
+    "biyanru",
+    "wuchaosuozhi"
+  ],
+  "sourceUrl": "https://chineself.com/pingjia/"
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "gan",
+  "chinese": "淦",
+  "pinyin": "gàn",
+  "meaning": "젠장 / 헐 / 아오",
+  "description": "「간(干)」의 인터넷 용어와 같다. 뒤늦게 깨달았거나 화날 때 쓰는 감탄사.",
+  "examples": [
+    {
+      "chinese": "淦…后知后觉",
+      "translation": "젠장... 뒤늦게 깨달았다."
+    },
+    {
+      "chinese": "淦了,我的脑子进屎",
+      "translation": "망했다, 내 머리가 어떻게 됐나 봐."
+    },
+    {
+      "chinese": "真的淦了,又喝大了",
+      "translation": "진짜 짜증나네, 또 과음했다."
+    },
+    {
+      "chinese": "一大早起来就肚子痛,淦",
+      "translation": "아침 일찍 일어났는데 배 아파, 젠장."
+    },
+    {
+      "chinese": "妈的一下雨就堵车淦啊",
+      "translation": "비만 오면 차 막히네, 아오 짜증나."
+    }
+  ],
+  "category": "tanci",
+  "categoryName": "감탄사",
+  "relatedWords": [
+    "houzhihoujue",
+    "naozijinshi"
+  ],
+  "sourceUrl": "https://chineself.com/gan/"
+}

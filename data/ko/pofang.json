@@ -1,0 +1,19 @@
+{
+  "slug": "pofang",
+  "chinese": "破防",
+  "pinyin": "pò fáng",
+  "meaning": "멘탈 붕괴, 마음이 무너지다",
+  "description": "말이나 사건으로 마음에 상처를 입어 방어선이 무너지는 느낌.",
+  "examples": [
+    {
+      "chinese": "这段话直接把我破防了",
+      "translation": "이 말 듣고 바로 멘탈 붕괴됐다"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 유행어",
+  "relatedWords": [
+    "shangtou"
+  ],
+  "sourceUrl": "https://chineself.com/pofang/"
+}

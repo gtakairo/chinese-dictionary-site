@@ -1,0 +1,32 @@
+{
+  "slug": "li",
+  "chinese": "寥寥数语",
+  "pinyin": "liáo liáo shù yǔ",
+  "meaning": "몇 마디 말 (간결한 말)",
+  "description": "寥寥는 「극히 적다」는 뜻입니다. 寥寥数人은 「사람이 극히 적음」을 의미합니다.",
+  "examples": [
+    {
+      "chinese": "虽然只有寥寥数语,但是每一句都气势磅礴",
+      "translation": "비록 몇 마디 말뿐이지만, 한 구절 한 구절 기세가 웅장하다"
+    },
+    {
+      "chinese": "如何用寥寥数语,就能轻易撩动人的情绪",
+      "translation": "어떻게 단 몇 마디 말로 사람의 정서를 쉽게 움직일 수 있을까"
+    },
+    {
+      "chinese": "寥寥数语,语短情长",
+      "translation": "몇 마디 말, 말은 짧지만 정은 깊다"
+    },
+    {
+      "chinese": "这篇文章仅用寥寥数语就令人茅塞顿开",
+      "translation": "이 글은 단 몇 마디 말로 깨달음을 준다"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "사자성어/관용구",
+  "relatedWords": [
+    "liaoliaoshuren",
+    "yuduanqingchang"
+  ],
+  "sourceUrl": "https://chineself.com/li/"
+}

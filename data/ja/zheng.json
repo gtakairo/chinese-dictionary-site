@@ -1,0 +1,25 @@
+{
+  "slug": "zheng",
+  "chinese": "蒸不熟煮不烂",
+  "pinyin": "zhēng bù shú zhǔ bù làn",
+  "meaning": "煮ても焼いても食えぬ、手に負えない、扱いようのない",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "我就是那蒸不熟煮不烂",
+      "japanese": "私は煮ても焼いても食えぬやつだ"
+    },
+    {
+      "chinese": "脸皮厚,真是快蒸不熟煮不烂",
+      "japanese": "厚かましい、本当に煮ても焼いても食えぬ"
+    },
+    {
+      "chinese": "希望这种蒸不熟煮不烂的生活真的能到此彻底结束",
+      "japanese": "このような手に負えない生活が本当に終わってくれるよう願う"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "成語・四字熟語",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/zheng/"
+}

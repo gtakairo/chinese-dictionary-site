@@ -1,0 +1,28 @@
+{
+  "slug": "fuwu",
+  "chinese": "福无双至,祸不单行",
+  "pinyin": "fú wú shuāng zhì, huò bù dān xíng",
+  "meaning": "Misfortunes never come singly / Blessings do not come in pairs",
+  "description": "From Liu Xiang's 「Shuo Yuan」. It means that lucky events rarely occur one after another, but unfortunate events often happen in succession.",
+  "examples": [
+    {
+      "chinese": "福无双至祸不单行,越缺钱用钱的地方越多",
+      "translation": "Blessings do not come in pairs; misfortunes never come singly. The more short of money you are, the more places you need to spend it."
+    },
+    {
+      "chinese": "时运不济,命途多舛,福无双至,祸不单行",
+      "translation": "Luck is bad, fate is rough; blessings do not come in pairs, misfortunes never come singly."
+    },
+    {
+      "chinese": "人生哪有那么多幸运的事,福无双至,祸不单行",
+      "translation": "Life doesn't have that many lucky events; blessings do not come in pairs, misfortunes never come singly."
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "Idioms / Chengyu",
+  "relatedWords": [
+    "shiyunbuji",
+    "mingtuduochuan"
+  ],
+  "sourceUrl": "https://chineself.com/fuwu/"
+}

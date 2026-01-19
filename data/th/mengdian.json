@@ -1,0 +1,24 @@
+{
+  "slug": "mengdian",
+  "chinese": "萌点",
+  "pinyin": "méng diǎn",
+  "meaning": "จุดโมเอะ / จุดที่น่ารัก / เสน่ห์",
+  "description": "จุดที่ทำให้รู้สึกน่ารัก/หลงใหล เป็นเสน่ห์เฉพาะตัว",
+  "examples": [
+    {
+      "chinese": "怎么会有这么萌的,完全戳我萌点上了",
+      "translation": "ทำไมน่ารักได้ขนาดนี้ โดนใจจุดโมเอะฉันเต็มๆ"
+    },
+    {
+      "chinese": "这萌点太击中了,一生钟情你",
+      "translation": "จุดน่ารักนี้โดนใจมาก รักเธอตลอดไป"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์แสลงทางอินเทอร์เน็ต",
+  "relatedWords": [
+    "chuosiwole",
+    "kechen"
+  ],
+  "sourceUrl": "https://chineself.com/mengdian/"
+}

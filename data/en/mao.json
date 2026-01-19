@@ -1,0 +1,25 @@
+{
+  "slug": "mao",
+  "chinese": "貌不惊人",
+  "pinyin": "mào bù jīng rén",
+  "meaning": "Plain-looking / Average appearance",
+  "description": "Having an ordinary appearance that does not attract attention.",
+  "examples": [
+    {
+      "chinese": "刺角瓜,虽貌不惊人,但还真的好吃",
+      "translation": "Horned melon is plain-looking, but actually tastes really good."
+    },
+    {
+      "chinese": "他普普通通,平平无奇,貌不惊人,脑子空空",
+      "translation": "He is very ordinary, unremarkable, plain-looking, and empty-headed."
+    },
+    {
+      "chinese": "我出生于平凡的家庭,才不出众,貌不惊人,羡慕神仙颜值的",
+      "translation": "I was born in an ordinary family, have no outstanding talents, look average, and envy those with god-like beauty."
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "Idioms",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/mao/"
+}

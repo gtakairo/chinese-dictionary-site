@@ -1,0 +1,25 @@
+{
+  "slug": "biaoqing",
+  "chinese": "表情包轰炸",
+  "pinyin": "biǎo qíng bāo hōng zhà",
+  "meaning": "スタ爆（スタンプ爆撃）",
+  "description": "チャットでスタンプを連続で大量に送ること。",
+  "examples": [
+    {
+      "chinese": "他又开始对我语音轰炸+表情包轰炸",
+      "translation": "彼がまた私にボイスメッセージ連投＋スタ爆"
+    },
+    {
+      "chinese": "天杀的,给我100多条表情包轰炸",
+      "translation": "うんざりする、100個余りのスタ爆を送りやがって"
+    },
+    {
+      "chinese": "一打开手机,发现有人给我发了超多炸虾表情包",
+      "translation": "スマホを開くと、誰かが超たくさんのスタ爆を送っていた"
+    }
+  ],
+  "category": "sns",
+  "categoryName": "Web・SNS用語",
+  "relatedWords": ["tianshade"],
+  "sourceUrl": "https://chineself.com/biaoqing/"
+}

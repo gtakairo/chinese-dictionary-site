@@ -1,0 +1,25 @@
+{
+  "slug": "nei",
+  "chinese": "内搭",
+  "pinyin": "nèi dā",
+  "meaning": "이너웨어; 안에 받쳐 입는 옷",
+  "description": "'neichuan'과 같음. 이너웨어 코디를 말함. 겉옷으로 입는 것은 'waichuan' (또는 'waida')이라고 함.",
+  "examples": [
+    {
+      "chinese": "时尚百搭的高领衫,内搭,单穿,叠穿,怎么穿都好看",
+      "translation": "유행타지 않는 만능 터틀넥, 이너로 입든, 하나만 입든, 겹쳐 입든 어떻게 입어도 예뻐요."
+    },
+    {
+      "chinese": "风衣里面穿什么？建议选这4种内搭",
+      "translation": "트렌치코트 안에 뭐 입지? 이 4가지 이너웨어를 추천해요."
+    },
+    {
+      "chinese": "她穿衬衫没内搭不过扣子系到了最上面",
+      "translation": "그녀는 셔츠 안에 아무것도 안 입었지만 단추를 끝까지 채웠다."
+    }
+  ],
+  "category": "fashion",
+  "categoryName": "패션/미용",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/nei/"
+}

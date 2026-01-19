@@ -1,0 +1,28 @@
+{
+  "slug": "2b",
+  "chinese": "2B",
+  "pinyin": "èr bī",
+  "meaning": "바보, 멍청이, 병신",
+  "description": "二笔, 二币, 二比라고도 씀. 원래는 심한 욕설이었으나, 지금은 가볍게 장난스럽게 쓰이기도 함.",
+  "examples": [
+    {
+      "chinese": "没人比你更2B",
+      "translation": "너보다 멍청한 사람은 없을거다"
+    },
+    {
+      "chinese": "你是2B吗？",
+      "translation": "너 바보니?"
+    },
+    {
+      "chinese": "不忍直视的2B狗狗",
+      "translation": "차마 눈뜨고 못 봐주겠는 멍청한 강아지"
+    }
+  ],
+  "category": "ma",
+  "categoryName": "욕설",
+  "relatedWords": [
+    "erhuo",
+    "wuyu"
+  ],
+  "sourceUrl": "https://chineself.com/2b/"
+}

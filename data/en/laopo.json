@@ -1,0 +1,25 @@
+{
+  "slug": "laopo",
+  "chinese": "老破小",
+  "pinyin": "lǎo pò xiǎo",
+  "meaning": "Old, dilapidated, and small apartment",
+  "description": "Refers to properties that are old (老旧), dilapidated (破败), and small (面积小), typically over 20 years old in urban areas.",
+  "examples": [
+    {
+      "chinese": "50万捡漏100平方的老破小",
+      "translation": "Picked up a bargain: a 100 square meter old, dilapidated, small apartment for 500k"
+    },
+    {
+      "chinese": "我终于买房了,老破小也生活真是美滋滋儿",
+      "translation": "I finally bought a house, living in an old, dilapidated, small one is still wonderful"
+    },
+    {
+      "chinese": "闲置多年的48平老破小,比我年龄都大了",
+      "translation": "A 48 sq meter old, dilapidated, small apartment vacant for years, older than me"
+    }
+  ],
+  "category": "fangzi",
+  "categoryName": "Housing/Interior",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/laopo/"
+}

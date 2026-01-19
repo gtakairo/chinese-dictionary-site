@@ -1,0 +1,15 @@
+{
+  "slug": "xianzhixianjue",
+  "chinese": "先知先觉",
+  "pinyin": "xiān zhī xiān jué",
+  "meaning": "先を見通す、先見の明がある",
+  "description": "后知后觉（あとで気づく）が反義語。",
+  "examples": [
+    {"chinese": "投资高手们都是先知先觉的人", "japanese": "投資が上手い人らはみんな先見の明がある人らだ"},
+    {"chinese": "女人先知先觉,男人后知后觉", "japanese": "女性は先を見通し、男性は後から気づく"}
+  ],
+  "category": "chengyu",
+  "categoryName": "成語・四字熟語",
+  "relatedWords": ["houzhihoujue"],
+  "sourceUrl": "https://chineself.com/xianzhixianjue/"
+}

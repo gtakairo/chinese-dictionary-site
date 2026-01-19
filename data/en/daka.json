@@ -1,0 +1,25 @@
+{
+  "slug": "daka",
+  "chinese": "大咖",
+  "pinyin": "dà kā",
+  "meaning": "①big shot; expert; master ②A-lister; celebrity; VIP",
+  "description": "Someone who excels in a particular field. The second meaning comes from Taiwan, where 咖 is a transliteration of 「casting.」 In Hokkien, a major actor is called 大脚, which became 大咖. A咖 = leading role, B咖 = supporting role, C咖 = minor role. The opposite is 逊咖/烂咖 (someone who lacks skill).",
+  "examples": [
+    {
+      "chinese": "和投资大咖聊了2小时才明白炒股不赚钱",
+      "translation": "Talked with an investment guru for 2 hours before realizing stocks don't make money"
+    },
+    {
+      "chinese": "世界大咖级街舞者即将登场",
+      "translation": "World-class street dancers are about to take the stage"
+    },
+    {
+      "chinese": "他成功跻身内娱大咖行列",
+      "translation": "He successfully made it into the ranks of entertainment A-listers"
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": ["neiyu"],
+  "sourceUrl": "https://chineself.com/daka/"
+}

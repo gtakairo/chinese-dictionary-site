@@ -1,0 +1,25 @@
+{
+  "slug": "yitaijingdian",
+  "chinese": "以太经典",
+  "pinyin": "yǐ tài jīng diǎn",
+  "meaning": "Ethereum Classic",
+  "description": "Blockchain resulting from a hard fork of Ethereum (ETH).",
+  "examples": [
+    {
+      "chinese": "以太经典价格上涨",
+      "translation": "Ethereum Classic price up"
+    },
+    {
+      "chinese": "讨论以太经典的挖矿难度",
+      "translation": "Discussing ETC mining difficulty"
+    },
+    {
+      "chinese": "交易所上线以太经典",
+      "translation": "Exchange lists Ethereum Classic"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "Finance/Investment",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/yitaijingdian/"
+}

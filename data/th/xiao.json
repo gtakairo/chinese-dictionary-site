@@ -1,0 +1,31 @@
+{
+  "slug": "xiao",
+  "chinese": "小白",
+  "pinyin": "xiǎo bái",
+  "meaning": "มือใหม่ / ไก่อ่อน",
+  "description": "ศัพท์อินเทอร์เน็ตหมายถึงผู้เริ่มต้นหรือไม่มีประสบการณ์",
+  "examples": [
+    {
+      "chinese": "哪些适合于小白的投资？",
+      "translation": "การลงทุนแบบไหนเหมาะกับมือใหม่?"
+    },
+    {
+      "chinese": "新手小白从哪开始",
+      "translation": "มือใหม่หัดขับควรเริ่มจากตรงไหน"
+    },
+    {
+      "chinese": "刚刚入职小白,如何应对工作",
+      "translation": "เพิ่งเข้าทำงานเป็นเด็กใหม่ จะรับมือกับงานยังไงดี"
+    },
+    {
+      "chinese": "我觉得自己是个恋爱小白",
+      "translation": "ฉันรู้สึกว่าตัวเองเป็นไก่อ่อนเรื่องความรัก"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์อินเทอร์เน็ต",
+  "relatedWords": [
+    "cainiao"
+  ],
+  "sourceUrl": "https://chineself.com/xiao/"
+}

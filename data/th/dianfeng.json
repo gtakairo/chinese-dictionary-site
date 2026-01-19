@@ -1,0 +1,27 @@
+{
+  "slug": "dianfeng",
+  "chinese": "巅峰之作",
+  "pinyin": "diān fēng zhī zuò",
+  "meaning": "ผลงานระดับมาสเตอร์พีซ, ผลงานชิ้นเอก, สุดยอดผลงาน",
+  "description": "「Diān fēng」 หมายถึง จุดสูงสุด, ยอดเยี่ยม, พีค 「Diān fēng zhào piàn」 หมายถึง 「ช็อตที่ดีที่สุด」",
+  "examples": [
+    {
+      "chinese": "你认为这个系列哪部才是巅峰之作呢",
+      "translation": "คุณคิดว่าภาคไหนในซีรีส์นี้คือผลงานระดับมาสเตอร์พีซ"
+    },
+    {
+      "chinese": "我就觉得佳能 EOS R5 Mark II堪称影像技术的巅峰之作",
+      "translation": "ฉันรู้สึกว่า Canon EOS R5 Mark II เรียกได้ว่าเป็นสุดยอดผลงานเทคโนโลยีการถ่ายภาพ"
+    },
+    {
+      "chinese": "宫崎骏的巅峰之作《千与千寻》老少皆宜,引人入胜",
+      "translation": "ผลงานชิ้นเอกของฮายาโอะ มิยาซากิเรื่อง 「Spirited Away」 เหมาะสำหรับทุกวัยและน่าหลงใหล"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "ไม่ได้จัดประเภท",
+  "relatedWords": [
+    "laoshaojieyi"
+  ],
+  "sourceUrl": "https://chineself.com/dianfeng/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "qiang",
+  "chinese": "抢功劳",
+  "pinyin": "qiǎng gōng láo",
+  "meaning": "공을 가로채다",
+  "description": "남의 공적을 자신의 것으로 만듦.",
+  "examples": [
+    {
+      "chinese": "他只会遇到好事抢功劳,遇到坏事推卸责任",
+      "translation": "그는 좋은 일엔 공을 가로채고, 나쁜 일엔 책임을 떠넘긴다"
+    },
+    {
+      "chinese": "你跟同事抢功劳,失了人心,关键时候没人搭把手",
+      "translation": "동료의 공을 가로채면 인심을 잃어 결정적일 때 도움 못 받는다"
+    },
+    {
+      "chinese": "某些人干活的时候不见人,抢功劳的时候跑得比都快",
+      "translation": "어떤 사람들은 일할 땐 안 보이다가 공 가로챌 땐 누구보다 빠르다"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "미분류",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/qiang/"
+}

@@ -1,0 +1,20 @@
+{
+    "slug": "shuaexist",
+    "chinese": "刷存在感",
+    "pinyin": "shuā cún zài gǎn",
+    "meaning": "존재감 어필",
+    "description": "SNS 등에서 눈에 띄는 행동을 하여 자신을 인상지우는 것.",
+    "category": "net",
+    "categoryName": "SNS/행동",
+    "relatedWords": [
+        "ruanwen",
+        "kongping"
+    ],
+    "sourceUrl": "https://chineself.com/shuaexist/",
+    "examples": [
+        {
+            "chinese": "他在群里刷存在感",
+            "translation": "그는 그룹에서 존재감을 어필하고 있다"
+        }
+    ]
+}

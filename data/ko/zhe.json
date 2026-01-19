@@ -1,0 +1,25 @@
+{
+  "slug": "zhe",
+  "chinese": "这把年纪",
+  "pinyin": "zhè bǎ nián jì",
+  "meaning": "이 나이에 / 나이 먹고",
+  "description": "나이에 맞지 않는 행동을 할 때 씀.",
+  "examples": [
+    {
+      "chinese": "这把年纪了还敢熬夜",
+      "translation": "이 나이에 밤을 새우다니"
+    },
+    {
+      "chinese": "老爷爷这把年纪还找工作",
+      "translation": "할아버지가 이 연세에 구직을 하시다니"
+    },
+    {
+      "chinese": "她一把年纪还穿印花短裙",
+      "translation": "이 나이에 꽃무늬 미니스커트를 입다니"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "미분류",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/zhe/"
+}

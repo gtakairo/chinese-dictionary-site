@@ -1,0 +1,37 @@
+{
+  "slug": "shang",
+  "chinese": "上岸",
+  "pinyin": "shàng àn",
+  "meaning": "1. 상륙하다 / 뭍에 오르다; 2. 성공하다 / 합격하다",
+  "description": "문자 그대로 '상륙하다'는 의미. 비유적으로는 '고해'(치열한 경쟁)에서 벗어나 안정을 찾는 것, 예를 들어 공무원 시험 합격 등을 의미함.",
+  "examples": [
+    {
+      "chinese": "考研如何上岸",
+      "translation": "대학원 입시에 어떻게 합격하나?"
+    },
+    {
+      "chinese": "祈祷上岸,锦鲤护体",
+      "translation": "합격을 기원하며, 행운이 따르기를."
+    },
+    {
+      "chinese": "下海容易,上岸难",
+      "translation": "사업 시작은 쉽지만, 성공하기는 어렵다."
+    },
+    {
+      "chinese": "祝一切顺利！成公上岸",
+      "translation": "만사형통하시길! 공무원 시험 합격."
+    },
+    {
+      "chinese": "今年顺心上岸满意岗位",
+      "translation": "올해는 뜻한 바를 이루고 만족스러운 직장에 들어가길."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [
+    "neijuan",
+    "jinli",
+    "xiahai"
+  ],
+  "sourceUrl": "https://chineself.com/shang/"
+}

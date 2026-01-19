@@ -1,0 +1,25 @@
+{
+  "slug": "bitebi",
+  "chinese": "比特币",
+  "pinyin": "bǐ tè bì",
+  "meaning": "ビットコイン(Bitcoin)",
+  "description": "最初に登場した代表的な暗号資産。ティッカーはBTC。",
+  "examples": [
+    {
+      "chinese": "比特币创下新高",
+      "japanese": "ビットコインが史上最高値を更新した"
+    },
+    {
+      "chinese": "我用比特币支付了学费",
+      "japanese": "ビットコインで学費を支払った"
+    },
+    {
+      "chinese": "长期持有比特币",
+      "japanese": "ビットコインを長期保有する"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "金融・投資",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/bitebi/"
+}

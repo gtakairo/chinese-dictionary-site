@@ -1,0 +1,27 @@
+{
+  "slug": "haoqi",
+  "chinese": "好俏不穿棉,冻死不可怜",
+  "pinyin": "hǎo qiào bù chuān mián, dòng sǐ bù kě lián",
+  "meaning": "멋 부리다 얼어 죽는다 (멋 내다가 얼어 죽어도 싸다)",
+  "description": "멋있게 보이려고 솜옷을 입지 않다가 얼어 죽어도 불쌍하지 않다는 뜻. 겉치레를 중요시하다가 건강을 해치거나 곤경에 처함을 비꼬는 말.",
+  "examples": [
+    {
+      "chinese": "你应该穿厚厚的,好俏不穿棉,冻死不可怜",
+      "translation": "두껍게 입어, 멋 부리다 얼어 죽어도 아무도 안 알아줘."
+    },
+    {
+      "chinese": "好俏不穿棉,冻死不可怜,多穿衣,东北的顶不住啊",
+      "translation": "멋 부리다 얼어 죽지 말고 옷 좀 더 입어, 동북 추위는 못 버텨."
+    },
+    {
+      "chinese": "看这温度,穿暖和点吧,好俏不穿棉,冻死不可怜",
+      "translation": "기온 좀 봐, 따뜻하게 입어, 멋 부리다 얼어 죽겠다."
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "사자성어/속담",
+  "relatedWords": [
+    "dingbuzhu"
+  ],
+  "sourceUrl": "https://chineself.com/haoqi/"
+}

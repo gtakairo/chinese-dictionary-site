@@ -1,0 +1,27 @@
+{
+  "slug": "ningmengjing",
+  "chinese": "柠檬精",
+  "pinyin": "níng méng jīng",
+  "meaning": "레몬 요괴 (질투쟁이)",
+  "description": "질투하는 사람을 뜻함. 'chicu(식초를 먹다/질투하다)'와 같음. '나 레몬 됐어(나 시그러워졌어)' 등도 '부럽다/질투난다'는 뜻.",
+  "examples": [
+    {
+      "chinese": "我是柠檬精了",
+      "translation": "난 질투쟁이 레몬 요괴야."
+    },
+    {
+      "chinese": "又是羡慕别人的一天,我可能是个柠檬精",
+      "translation": "오늘도 남을 부러워하는 하루, 나 아마 레몬 요괴인가 봐."
+    },
+    {
+      "chinese": "看到别人怎么都吃不胖瞬间变成柠檬精",
+      "translation": "아무리 먹어도 살 안 찌는 사람 보면 순식간에 질투심 폭발함."
+    }
+  ],
+  "category": "xinli",
+  "categoryName": "심리/마인드",
+  "relatedWords": [
+    "suanle"
+  ],
+  "sourceUrl": "https://chineself.com/ningmengjing/"
+}

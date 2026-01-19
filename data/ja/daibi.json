@@ -1,0 +1,16 @@
+{
+  "slug": "daibi",
+  "chinese": "代币",
+  "pinyin": "dài bì",
+  "meaning": "トークン（token）",
+  "description": "ブロックチェーン上で発行されるデジタルトークンの総称。",
+  "examples": [
+    {"chinese": "发行平台代币", "japanese": "プラットフォームトークンを発行する"},
+    {"chinese": "持有治理代币参与投票", "japanese": "ガバナンストークンを保有して投票に参加する"},
+    {"chinese": "代币在交易所上市", "japanese": "トークンが取引所に上場する"}
+  ],
+  "category": "jinrong",
+  "categoryName": "金融・投資",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/daibi/"
+}

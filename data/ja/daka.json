@@ -1,0 +1,25 @@
+{
+  "slug": "daka",
+  "chinese": "大咖",
+  "pinyin": "dà kā",
+  "meaning": "①名人、達人 ②大役者、大御所、ボス、売れっ子",
+  "description": "何かの領域に秀でている人のこと。②の意味は台湾からきており、咖がcasting（角色）の音訳。閩南語で大角色（大役者）を大脚と呼び、音訳で大咖となる。主咖（＝A咖）は主役、副咖（＝B咖）は脇役などとして使われている。",
+  "examples": [
+    {
+      "chinese": "和投资大咖聊了2小时才明白炒股不赚钱",
+      "translation": "投資の達人と2時間話してみて、株が儲からないことが分かった"
+    },
+    {
+      "chinese": "世界大咖级街舞者即将登场",
+      "translation": "世界で名人級のストリートダンサー登場する"
+    },
+    {
+      "chinese": "他成功跻身内娱大咖行列",
+      "translation": "彼は国内エンタメ界の大御所に登りつめることに成功した"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語・スラング",
+  "relatedWords": ["neiyu"],
+  "sourceUrl": "https://chineself.com/daka/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "ouye",
+  "chinese": "欧耶",
+  "pinyin": "ōu yé",
+  "meaning": "오예",
+  "description": "영어 'oh yeah'의 음역. 噢耶, 哦也, 欧yeah와 같음.",
+  "examples": [
+    {
+      "chinese": "一起嗨起来,欧耶耶耶",
+      "translation": "같이 신나게 놀자, 오예예예"
+    },
+    {
+      "chinese": "太爽了明天没课,不用早起了欧耶",
+      "translation": "너무 좋다 내일 수업 없다, 일찍 안 일어나도 된다 오예"
+    },
+    {
+      "chinese": "欧耶,下班了奖励自己,打算大买特买",
+      "translation": "오예, 퇴근 후 나에게 주는 포상, 왕창 쇼핑할 생각이다"
+    }
+  ],
+  "category": "tanci",
+  "categoryName": "감탄사",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/ouye/"
+}

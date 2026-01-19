@@ -1,0 +1,25 @@
+{
+  "slug": "zhongchou",
+  "chinese": "众筹",
+  "pinyin": "Zhòng chóu",
+  "meaning": "크라우드 펀딩",
+  "description": "인터넷을 통해 다수의 개인으로부터 자금을 모으는 방식.",
+  "examples": [
+    {
+      "chinese": "发起众筹支持新产品",
+      "translation": "신제품 지원을 위해 크라우드 펀딩 시작"
+    },
+    {
+      "chinese": "众筹目标已达成",
+      "translation": "펀딩 목표 달성"
+    },
+    {
+      "chinese": "参与众筹获得回报",
+      "translation": "펀딩 참여하고 리워드 받기"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "금융/투자",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/zhongchou/"
+}

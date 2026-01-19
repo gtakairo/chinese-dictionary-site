@@ -1,0 +1,25 @@
+{
+  "slug": "diaosi",
+  "chinese": "屌丝",
+  "pinyin": "diǎo sī",
+  "meaning": "①外面的に恵まれず将来に希望が持てない若者 ②冴えないやつ、人生の負け組",
+  "description": "吊丝（diào sī）も同じ。家や車はなく貧乏で容姿が恵まれていない、いわゆる条件が劣っている若者を指す。自嘲するときに用いるスラング。類語として穷矮搓があり、反意語としては、高富帅（高身長、金持ち、ハンサム）白富美（色白、金持ち、美人）。コネがないと社会では上流階級とは無縁であるという風刺的な意味合いもある。",
+  "examples": [
+    {
+      "chinese": "原来我是个臭屌丝",
+      "translation": "どうせ俺は超ダメな奴だよ"
+    },
+    {
+      "chinese": "穷屌丝怎样逆袭大老板？",
+      "translation": "人生の負け組がどのように大社長に成り上がる？"
+    },
+    {
+      "chinese": "在上海的屌丝生活,我感觉太累了",
+      "translation": "上海の希望の見えない生活、俺は疲れ果てた"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": ["qiongaicuo", "yazi", "haosang"],
+  "sourceUrl": "https://chineself.com/diaosi/"
+}

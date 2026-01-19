@@ -1,0 +1,25 @@
+{
+  "slug": "liangzilian",
+  "chinese": "量子链",
+  "pinyin": "liàng zǐ liàn",
+  "meaning": "퀀텀 (Qtum)",
+  "description": "스마트 계약을 지원하는 블록체인 프로젝트 Qtum의 중국어 표기입니다.",
+  "examples": [
+    {
+      "chinese": "关注量子链的生态发展",
+      "translation": "퀀텀의 생태계 발전에 주목하다"
+    },
+    {
+      "chinese": "量子链发布技术更新",
+      "translation": "퀀텀이 기술 업데이트를 발표했다"
+    },
+    {
+      "chinese": "持有少量量子链",
+      "translation": "소량의 퀀텀을 보유하고 있다"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "금융/투자",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/liangzilian/"
+}

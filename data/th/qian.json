@@ -1,0 +1,25 @@
+{
+  "slug": "qian",
+  "chinese": "牵绊",
+  "pinyin": "qiān bàn",
+  "meaning": "พันธนาการ / ความผูกพัน",
+  "description": "สิ่งที่เกาะกุมจิตใจไม่ให้หลุดพ้น",
+  "examples": [
+    {
+      "chinese": "儿时不好的记忆牵绊我至今",
+      "translation": "ความทรงจำแย่ๆ ในวัยเด็กยังตามหลอกหลอนฉันจนทุกวันนี้"
+    },
+    {
+      "chinese": "牵绊不多,但却依然牵挂",
+      "translation": "ความผูกพันไม่มาก แต่ยังคงห่วงใย"
+    },
+    {
+      "chinese": "琐碎的牵绊滋长不满",
+      "translation": "ภาระผูกพันจุกจิกก่อให้เกิดความไม่พอใจ"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "หมวดอื่นๆ",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/qian/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "shenma",
+  "chinese": "神马都是浮云",
+  "pinyin": "shén mǎ dōu shì fú yún",
+  "meaning": "すべては何の意味もないもの、すべては空虚である",
+  "description": "什么都是浮云の意味。神马＝什么（shén me)。空に浮かぶ雲は儚く、一瞬のうちになくなってしまうことから、すべては意味もなくどうでもよいという意味。",
+  "examples": [
+    {
+      "chinese": "如果没了健康,其他神马都是浮云",
+      "translation": "もし健康でなければ、すべては何の意味もない"
+    },
+    {
+      "chinese": "金钱,名誉,这些东西,原来在生死面前神马都是浮云",
+      "translation": "金銭、名誉のようなものは死ぬ前になればどれも何の意味もないもの"
+    },
+    {
+      "chinese": "人生短短几十年,人生如白马过隙,神马都是浮云？",
+      "translation": "人生は短い何十年で、儚く瞬時に過ぎていく、すべては空虚なものか？"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": ["baijuguoxi"],
+  "sourceUrl": "https://chineself.com/shenma/"
+}

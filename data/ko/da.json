@@ -1,0 +1,23 @@
+{
+  "slug": "da",
+  "chinese": "大Ⅴ",
+  "pinyin": "dà Ⅴ",
+  "meaning": "인터넷 유명인 (인플루언서)",
+  "description": "인터넷상에서 유명해진 인물. 「V」는 Verified(인증됨)의 머리글자. 인플루언서에게 주어지는 호칭이라고 할 수 있다. 웨이보(Weibo) 블로그나 더우인(TikTok)에서 팔로워가 50만 명 이상이 되면 계정 아이콘 옆에 「V」 마크가 부여된다.",
+  "examples": [
+    {
+      "chinese": "微博粉丝多少才算大Ｖ",
+      "translation": "웨이보 팔로워가 얼마나 되어야 「Big V」라고 할 수 있지?"
+    },
+    {
+      "chinese": "抖音大V网红人气排行",
+      "translation": "틱톡 Big V 인플루언서 인기 순위"
+    }
+  ],
+  "category": "sns",
+  "categoryName": "웹/SNS 용어",
+  "relatedWords": [
+    "wanghong"
+  ],
+  "sourceUrl": "https://chineself.com/da/"
+}

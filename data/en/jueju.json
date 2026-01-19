@@ -1,0 +1,36 @@
+{
+  "slug": "jueju",
+  "chinese": "绝绝子",
+  "pinyin": "jué jué zi",
+  "meaning": "1. Amazing, Truly the best, God-tier 2. Terrible, The worst, Awful",
+  "description": "「Jue」 (绝) means 「unique, amazing」. 「Juejuezi」 is used as an adjective for extreme meanings, either 「super good」 or 「super bad」, so it must be judged from context. 「Jue le」 (绝了) means 「1. Extremely..., Amazing, Best 2. Disgusting, Annoying, Worst」.",
+  "examples": [
+    {
+      "chinese": "这个创意真的绝绝子",
+      "translation": "This idea is truly amazing"
+    },
+    {
+      "chinese": "试下来真的绝绝子",
+      "translation": "After trying it, it's really incredible"
+    },
+    {
+      "chinese": "你的演技绝绝子,继续加油",
+      "translation": "Your acting skills are god-tier, keep it up"
+    },
+    {
+      "chinese": "这个电影一下子就被吸引了,尊嘟素绝绝子",
+      "translation": "I was immediately attracted to this movie, it's seriously the best"
+    },
+    {
+      "chinese": "北京的温差绝绝子,穿短裤被冻坏了",
+      "translation": "The temperature difference in Beijing is terrible, I wore shorts and froze"
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [
+    "juele",
+    "zundusu"
+  ],
+  "sourceUrl": "https://chineself.com/jueju/"
+}

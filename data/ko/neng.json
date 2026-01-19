@@ -1,0 +1,36 @@
+{
+  "slug": "neng",
+  "chinese": "能打",
+  "pinyin": "néng dǎ",
+  "meaning": "뛰어나다; 경쟁력 있다; 훌륭하다",
+  "description": "(정도, 수준이) 높거나 대단할 때 사용. '얼굴이 경쟁력이다(외모가 뛰어나다)'라는 표현에서 유래했으나, 이제는 'nengda' 만으로도 쓰임.",
+  "examples": [
+    {
+      "chinese": "现在的运动员,颜值都很能打",
+      "translation": "요즘 운동선수들은 외모도 다들 뛰어나네."
+    },
+    {
+      "chinese": "这手机真全面屏颜值真能打",
+      "translation": "이 휴대폰 전체 화면 디자인 진짜 끝내준다."
+    },
+    {
+      "chinese": "你的能力很能打,不服不行啊",
+      "translation": "네 능력 진짜 대단하다, 인정 안 할 수가 없네."
+    },
+    {
+      "chinese": "苹果的拍照能打得过三星吗",
+      "translation": "애플 카메라가 삼성 이길 수 있어?"
+    },
+    {
+      "chinese": "这次广告效果真的太能打了",
+      "translation": "이번 광고 효과는 정말 굉장하다."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [
+    "yanzhi",
+    "bufubuxing"
+  ],
+  "sourceUrl": "https://chineself.com/neng/"
+}

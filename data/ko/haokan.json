@@ -1,0 +1,35 @@
+{
+  "slug": "haokan",
+  "chinese": "好康",
+  "pinyin": "hǎo kāng",
+  "meaning": "① 좋다, 훌륭하다 ② 이득, 혜택, 꿀팁",
+  "description": "① 민남어(Hokkien)에서 유래한 말로 「좋다」는 뜻. ② 대만에서 유래하여 중국 본토에서도 쓰이며, 상점이나 상품의 「추천」, 「혜택」, 「덤」 등을 의미한다.",
+  "examples": [
+    {
+      "chinese": "这么好康",
+      "translation": "이렇게 좋다니 / 완전 개이득"
+    },
+    {
+      "chinese": "穿西装的好康",
+      "translation": "수트빨 죽이네 / 정장이 잘 어울린다"
+    },
+    {
+      "chinese": "这对cp太好康了",
+      "translation": "이 커플 너무 보기 좋다 / 훈훈하다"
+    },
+    {
+      "chinese": "新买的耳机好康",
+      "translation": "새로 산 이어폰 강추"
+    },
+    {
+      "chinese": "这本杂志赠品太好康",
+      "translation": "이 잡지 부록 대박이다"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [
+    "cp"
+  ],
+  "sourceUrl": "https://chineself.com/haokan/"
+}

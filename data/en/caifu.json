@@ -1,0 +1,27 @@
+{
+  "slug": "caifu",
+  "chinese": "财富密码",
+  "pinyin": "cái fù mì mǎ",
+  "meaning": "Secret to wealth; Money-making secret; Cash cow",
+  "description": "\"Mima\" means password or code.",
+  "examples": [
+    {
+      "chinese": "虚拟货币是财富密码还是被割韭菜",
+      "translation": "Is cryptocurrency a secret to wealth or just getting fleeced?"
+    },
+    {
+      "chinese": "一个月销量暴涨10倍,掌握了什么财富密码?",
+      "translation": "Sales skyrocketed 10x in a month, what secret to wealth did they master?"
+    },
+    {
+      "chinese": "这几年娱乐圈最快速的财富密码是什么？",
+      "translation": "What is the fastest wealth secret in the entertainment industry in recent years?"
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [
+    "gejiucai"
+  ],
+  "sourceUrl": "https://chineself.com/caifu/"
+}

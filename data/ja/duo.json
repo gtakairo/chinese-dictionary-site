@@ -1,0 +1,25 @@
+{
+  "slug": "duo",
+  "chinese": "多巴胺穿搭",
+  "pinyin": "duō bā àn chuān dā",
+  "meaning": "ドーパミン・ドレッシング",
+  "description": "明るい色をドーパミンカラーといい、鮮やかな色合いのコーディネートのこと。明るい色の洋服を着るとドーパミンが放出され、気分を上がったり幸福感が味わえ、自信が高まると言われる。穿搭はコーディネイトのこと。糖果色系も同義語。",
+  "examples": [
+    {
+      "chinese": "多巴胺穿搭,减龄又有活力",
+      "translation": "ドーパミン・ドレッシングは若く見えまた元気もでる"
+    },
+    {
+      "chinese": "多巴胺穿搭真的好有朝气的感觉",
+      "translation": "ドーパミン・ドレッシングは本当にはつらつとした感じになる"
+    },
+    {
+      "chinese": "多巴胺穿搭好好看,家人陪伴也是相当幸福",
+      "translation": "ドーパミン・ドレッシングは感じよい、共にいる家族も同じく幸福に感じる"
+    }
+  ],
+  "category": "fashion",
+  "categoryName": "ファッション・美容",
+  "relatedWords": ["chuanda", "jianling"],
+  "sourceUrl": "https://chineself.com/duo/"
+}

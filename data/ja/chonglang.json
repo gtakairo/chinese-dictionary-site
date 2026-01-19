@@ -1,0 +1,12 @@
+{
+  "slug": "chonglang",
+  "chinese": "冲浪",
+  "pinyin": "chōng làng",
+  "meaning": "ネットサーフィンする",
+  "description": "SNSや掲示板を回遊して情報を追うこと。",
+  "examples": [{"chinese": "晚上刷手机冲浪", "japanese": "夜にスマホでネットサーフィン"}],
+  "category": "net",
+  "categoryName": "SNS・行動",
+  "relatedWords": ["xswl"],
+  "sourceUrl": "https://chineself.com/chonglang/"
+}

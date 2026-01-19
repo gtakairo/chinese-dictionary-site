@@ -1,0 +1,25 @@
+{
+  "slug": "haowu",
+  "chinese": "壕无人性",
+  "pinyin": "háo wú rén xìng",
+  "meaning": "돈지랄, 인간성을 상실할 정도로 부유함",
+  "description": "「하오우런싱(毫无人性, 인간성이 전혀 없다)」의 언어유희. 「하오(毫, 티끌/전혀)」를 「하오(壕, 투하오/부자)」로 바꾼 것으로, 끔찍하게 돈이 많다는 것을 반어적으로 표현하거나 부를 과시하는 행태를 꼬집는 말이다.",
+  "examples": [
+    {
+      "chinese": "明星在北京买了什么大豪宅呢,简直壕无人性",
+      "translation": "연예인이 베이징에 대저택을 샀다니, 진짜 돈지랄이다."
+    },
+    {
+      "chinese": "迪拜大富翁真的太壕无人性了",
+      "translation": "두바이 갑부들은 진짜 상상 초월 부자다."
+    },
+    {
+      "chinese": "壕无人性！皇家马德里本赛季6亿欧元引援",
+      "translation": "미친 자금력! 레알 마드리드, 이번 시즌 6억 유로 영입."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/haowu/"
+}

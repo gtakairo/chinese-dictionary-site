@@ -1,0 +1,25 @@
+{
+  "slug": "mama",
+  "chinese": "麻麻",
+  "pinyin": "mā mɑ",
+  "meaning": "Mom / Mama",
+  "description": "Internet slang for 「Mother」 (妈妈). 「Ba ba」 (拔拔) means 「Papa」.",
+  "examples": [
+    {
+      "chinese": "麻麻生日快乐！",
+      "translation": "Happy birthday, Mom!"
+    },
+    {
+      "chinese": "最想吃的还是麻麻做的菜",
+      "translation": "The food I want to eat the most is still Mom's cooking."
+    },
+    {
+      "chinese": "拔拔麻麻我想你们了",
+      "translation": "Papa, Mama, I miss you."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/mama/"
+}

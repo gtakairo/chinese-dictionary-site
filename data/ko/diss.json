@@ -1,0 +1,20 @@
+{
+  "slug": "diss",
+  "chinese": "diss",
+  "pinyin": "d i s s",
+  "meaning": "디스하다 (비난하다/깎아내리다)",
+  "description": "영어에서 유래했습니다. 상대를 깎아내리거나 비꼬는 것을 의미합니다.",
+  "examples": [
+    {
+      "chinese": "别在评论区diss人",
+      "translation": "댓글창에서 남들 디스하지 마."
+    }
+  ],
+  "category": "wailaiyu",
+  "categoryName": "외래어/인터넷 용어",
+  "relatedWords": [
+    "yinyangguaiqi",
+    "shuangbiao"
+  ],
+  "sourceUrl": "https://chineself.com/diss/"
+}

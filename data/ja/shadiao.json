@@ -1,0 +1,14 @@
+{
+  "slug": "shadiao",
+  "chinese": "沙雕",
+  "pinyin": "shā diāo",
+  "meaning": "おバカ／おもしろバカ",
+  "description": "愚かだが憎めないおバカ、笑えるバカを指す。",
+  "examples": [
+    {"chinese": "你真沙雕", "japanese": "君はほんとおバカだね（愛嬌あり）"}
+  ],
+  "category": "net",
+  "categoryName": "ネットスラング",
+  "relatedWords": ["xswl"],
+  "sourceUrl": "https://chineself.com/shadiao/"
+}

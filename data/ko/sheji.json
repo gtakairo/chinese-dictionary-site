@@ -1,0 +1,25 @@
+{
+  "slug": "sheji",
+  "chinese": "社交癌",
+  "pinyin": "shè jiāo ái",
+  "meaning": "요실금",
+  "description": "'치명적이지 않은 사회적 암'의 약칭. '복압성 요실금'의 속칭이다. 요실금으로 인해 사람들 앞에 나서기 두렵고 불안해지기 때문에 붙여진 이름.",
+  "examples": [
+    {
+      "chinese": "中老年女性「社交癌」该如何防治",
+      "translation": "중장년 여성의 '사회적 암'(요실금)은 어떻게 예방하고 치료해야 하나?"
+    },
+    {
+      "chinese": "患社交癌,每天上厕所至少15次",
+      "translation": "'사회적 암'을 앓고 있어 매일 화장실을 적어도 15번 간다."
+    },
+    {
+      "chinese": "产后女性占多数的逃不过社交癌",
+      "translation": "산후 여성의 대다수는 '사회적 암'을 피할 수 없다."
+    }
+  ],
+  "category": "yiliao",
+  "categoryName": "의료 및 질병",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/sheji/"
+}

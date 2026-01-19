@@ -1,0 +1,25 @@
+{
+  "slug": "ningmengjing",
+  "chinese": "柠檬精",
+  "pinyin": "níng méng jīng",
+  "meaning": "羨ましがり、やきもち焼き、嫉妬深い",
+  "description": "やきもちを焼くで一般的によく使用する吃醋と同じ。我柠檬了（我酸了）、感觉很酸などの言い回しも「羨ましい」という意味になる。",
+  "examples": [
+    {
+      "chinese": "我是柠檬精了",
+      "translation": "私はやきもち焼きだ"
+    },
+    {
+      "chinese": "又是羡慕别人的一天,我可能是个柠檬精",
+      "translation": "また人を羨む一日、私は恐らくやきもち焼きだ"
+    },
+    {
+      "chinese": "看到别人怎么都吃不胖瞬间变成柠檬精",
+      "translation": "どんなに食べても太らない人を見たらすぐ羨ましくなっちゃう"
+    }
+  ],
+  "category": "xinli",
+  "categoryName": "心理・マインド",
+  "relatedWords": ["suanle"],
+  "sourceUrl": "https://chineself.com/ningmengjing/"
+}

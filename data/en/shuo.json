@@ -1,0 +1,27 @@
+{
+    "slug": "shuo",
+    "chinese": "说不清道不明的",
+    "pinyin": "shuō bu qīng dào bù míng de",
+    "meaning": "Hard to explain, indescribable",
+    "description": "Expression for something unclear or hard to describe.",
+    "category": "uncategorized",
+    "categoryName": "Uncategorized",
+    "relatedWords": [
+        "renshengwuchang"
+    ],
+    "sourceUrl": "https://chineself.com/shuo/",
+    "examples": [
+        {
+            "chinese": "心情比较复杂,说不清道不明的",
+            "translation": "Feeling is complicated, hard to explain"
+        },
+        {
+            "chinese": "说不清道不明的事,人生无常,这也是人生常态吧",
+            "translation": "Indescribable things, life is impermanent, this is also normal in life"
+        },
+        {
+            "chinese": "感情真的像是梅雨时节的天气,说不清道不明的",
+            "translation": "Feelings are really like weather in the rainy season, hard to explain"
+        }
+    ]
+}

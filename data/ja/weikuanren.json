@@ -1,0 +1,12 @@
+{
+  "slug": "weikuanren",
+  "chinese": "尾款人",
+  "pinyin": "wěi kuǎn rén",
+  "meaning": "支払い残高の人（最後の支払いに追われる）",
+  "description": "セール後の最終支払い（尾款）に追われる消費者を自嘲。",
+  "examples": [{"chinese": "双11后成了尾款人", "japanese": "ダブル11の後、最後の支払いに追われる人になった"}],
+  "category": "net",
+  "categoryName": "消費・自嘲",
+  "relatedWords": ["zhongcao", "bacao"],
+  "sourceUrl": "https://chineself.com/weikuanren/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "shenghuo",
+  "chinese": "牲活",
+  "pinyin": "shēng huó",
+  "meaning": "家畜のような生活",
+  "description": "牲は家畜。豚のように食べては寝て、起きたらまた食べるだけの生活。",
+  "examples": [
+    {
+      "chinese": "该死的一天从这里开始牲活",
+      "translation": "どうしょもない家畜のような一日がここから始まる"
+    },
+    {
+      "chinese": "放假归来,继续大学牲活",
+      "translation": "休みが終わり学校に戻って家畜のような大学生活が続く"
+    },
+    {
+      "chinese": "牲活枯燥无味,疲倦的牲活",
+      "translation": "家畜のような生活は無味乾燥、疲れ切った生活だ"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": ["gaiside"],
+  "sourceUrl": "https://chineself.com/shenghuo/"
+}

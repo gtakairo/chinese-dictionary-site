@@ -1,0 +1,25 @@
+{
+  "slug": "sheza",
+  "chinese": "社杂",
+  "pinyin": "shè zá",
+  "meaning": "낯가림 심한 인싸 / 겉차속따 (겉은 차갑지만 속은 따뜻함)",
+  "description": "'사회적 잡종 증후군'(?)의 약칭. 셔뉴(인싸)와 셔콩(아싸)의 중간.",
+  "examples": [
+    {
+      "chinese": "他是社杂呀,熟悉了就开始疯狂活泼",
+      "translation": "걔는 낯가림이 좀 있는데, 친해지면 엄청 활발해져."
+    },
+    {
+      "chinese": "我是网络社牛,现实社杂",
+      "translation": "나는 온라인에서는 인싸지만, 현실에서는 낯을 가린다."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어 / 속어",
+  "relatedWords": [
+    "sheniu",
+    "shekong",
+    "sheleng"
+  ],
+  "sourceUrl": "https://chineself.com/sheza/"
+}

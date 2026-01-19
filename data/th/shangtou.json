@@ -1,0 +1,19 @@
+{
+  "slug": "shangtou",
+  "chinese": "上头",
+  "pinyin": "shàng tóu",
+  "meaning": "อินจัด / ติดงอมแงม / หลงใหล",
+  "description": "การหมกมุ่นกับบางสิ่งจนแทบเสียสติ",
+  "examples": [
+    {
+      "chinese": "我最近对这部剧很上头",
+      "translation": "ช่วงนี้ฉันอินกับละครเรื่องนี้มาก"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์สแลงอินเทอร์เน็ต",
+  "relatedWords": [
+    "pofang"
+  ],
+  "sourceUrl": "https://chineself.com/shangtou/"
+}

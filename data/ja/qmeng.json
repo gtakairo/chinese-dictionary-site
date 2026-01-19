@@ -1,0 +1,15 @@
+{
+  "slug": "qmeng",
+  "chinese": "Q萌",
+  "pinyin": "Q méng",
+  "meaning": "萌えキュート、萌え可愛い",
+  "description": "Qはcuteの略。好Q、太Q了、很Q、又A又Qなどの用法。Q版＝デフォルメキャラ（SD）。",
+  "examples": [
+    {"chinese": "尊嘟Q萌哦", "japanese": "本当に萌え可愛い"},
+    {"chinese": "怎么这么很Q萌啊", "japanese": "どうしてこんなに萌えキュートなの"}
+  ],
+  "category": "net",
+  "categoryName": "ネット用語・スラング",
+  "relatedWords": ["qban", "qdan"],
+  "sourceUrl": "https://chineself.com/qmeng/"
+}

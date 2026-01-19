@@ -1,0 +1,236 @@
+{
+  "categories": [
+    {
+      "slug": "net",
+      "ja": "ネット用語・スラング",
+      "en": "Internet Slang",
+      "ko": "인터넷 신조어·속어",
+      "th": "ศัพท์อินเทอร์เน็ต",
+      "count": 2063
+    },
+    {
+      "slug": "chengyu",
+      "ja": "成語・四字熟語",
+      "en": "Idioms & Four-Character Phrases",
+      "ko": "성어·사자성어",
+      "th": "สำนวนจีน",
+      "count": 1495
+    },
+    {
+      "slug": "fashion",
+      "ja": "ファッション・美容",
+      "en": "Fashion & Beauty",
+      "ko": "패션·뷰티",
+      "th": "แฟชั่นและความงาม",
+      "count": 246
+    },
+    {
+      "slug": "jingji",
+      "ja": "経済・ビジネス",
+      "en": "Economy & Business",
+      "ko": "경제·비즈니스",
+      "th": "เศรษฐกิจและธุรกิจ",
+      "count": 180
+    },
+    {
+      "slug": "jinrong",
+      "ja": "金融・投資",
+      "en": "Finance & Investment",
+      "ko": "금융·투자",
+      "th": "การเงินและการลงทุน",
+      "count": 114
+    },
+    {
+      "slug": "jiaoyu",
+      "ja": "教育・学校",
+      "en": "Education & School",
+      "ko": "교육·학교",
+      "th": "การศึกษา",
+      "count": 128
+    },
+    {
+      "slug": "yiliao",
+      "ja": "医療・病気",
+      "en": "Medical & Health",
+      "ko": "의료·건강",
+      "th": "การแพทย์และสุขภาพ",
+      "count": 149
+    },
+    {
+      "slug": "wailaiyu",
+      "ja": "外来語・音訳",
+      "en": "Loanwords & Transliterations",
+      "ko": "외래어·음역어",
+      "th": "คำยืม",
+      "count": 171
+    },
+    {
+      "slug": "sns",
+      "ja": "Web・SNS用語",
+      "en": "Web & Social Media",
+      "ko": "웹·SNS 용어",
+      "th": "ศัพท์โซเชียลมีเดีย",
+      "count": 168
+    },
+    {
+      "slug": "tanci",
+      "ja": "感嘆詞",
+      "en": "Interjections",
+      "ko": "감탄사",
+      "th": "คำอุทาน",
+      "count": 125
+    },
+    {
+      "slug": "ma",
+      "ja": "挑発・罵倒語",
+      "en": "Insults & Provocations",
+      "ko": "욕설·도발어",
+      "th": "คำด่า",
+      "count": 138
+    },
+    {
+      "slug": "nannv",
+      "ja": "恋愛・結婚",
+      "en": "Love & Marriage",
+      "ko": "연애·결혼",
+      "th": "ความรักและการแต่งงาน",
+      "count": 101
+    },
+    {
+      "slug": "sub",
+      "ja": "サブカルチャー",
+      "en": "Subculture",
+      "ko": "서브컬처",
+      "th": "วัฒนธรรมย่อย",
+      "count": 141
+    },
+    {
+      "slug": "lgbtq",
+      "ja": "LGBTQ",
+      "en": "LGBTQ",
+      "ko": "LGBTQ",
+      "th": "LGBTQ",
+      "count": 63
+    },
+    {
+      "slug": "qingxu",
+      "ja": "喜怒哀楽",
+      "en": "Emotions",
+      "ko": "희로애락",
+      "th": "อารมณ์",
+      "count": 57
+    },
+    {
+      "slug": "fangyan",
+      "ja": "方言",
+      "en": "Dialects",
+      "ko": "방언",
+      "th": "ภาษาถิ่น",
+      "count": 144
+    },
+    {
+      "slug": "lvyou",
+      "ja": "旅行・海外",
+      "en": "Travel & Abroad",
+      "ko": "여행·해외",
+      "th": "การท่องเที่ยว",
+      "count": 54
+    },
+    {
+      "slug": "fangzi",
+      "ja": "住居・インテリア",
+      "en": "Housing & Interior",
+      "ko": "주거·인테리어",
+      "th": "ที่อยู่อาศัย",
+      "count": 34
+    },
+    {
+      "slug": "xinli",
+      "ja": "心理・マインド",
+      "en": "Psychology & Mind",
+      "ko": "심리·마인드",
+      "th": "จิตวิทยา",
+      "count": 68
+    },
+    {
+      "slug": "religion",
+      "ja": "宗教・哲学",
+      "en": "Religion & Philosophy",
+      "ko": "종교·철학",
+      "th": "ศาสนาและปรัชญา",
+      "count": 59
+    },
+    {
+      "slug": "jiyu",
+      "ja": "吉語・願意",
+      "en": "Auspicious Words",
+      "ko": "길상어",
+      "th": "คำมงคล",
+      "count": 31
+    },
+    {
+      "slug": "zhengzhi",
+      "ja": "政治",
+      "en": "Politics",
+      "ko": "정치",
+      "th": "การเมือง",
+      "count": 94
+    },
+    {
+      "slug": "liaoli",
+      "ja": "料理",
+      "en": "Cuisine",
+      "ko": "요리",
+      "th": "อาหาร",
+      "count": 130
+    },
+    {
+      "slug": "dianxin",
+      "ja": "デザート",
+      "en": "Desserts",
+      "ko": "디저트",
+      "th": "ขนมหวาน",
+      "count": 31
+    },
+    {
+      "slug": "sport",
+      "ja": "運動・スポーツ",
+      "en": "Sports",
+      "ko": "스포츠",
+      "th": "กีฬา",
+      "count": 224
+    },
+    {
+      "slug": "zuqiu",
+      "ja": "サッカー",
+      "en": "Soccer",
+      "ko": "축구",
+      "th": "ฟุตบอล",
+      "count": 101
+    },
+    {
+      "slug": "gaoerfu",
+      "ja": "ゴルフ",
+      "en": "Golf",
+      "ko": "골프",
+      "th": "กอล์ฟ",
+      "count": 71
+    },
+    {
+      "slug": "technology",
+      "ja": "テクノロジー",
+      "en": "Technology",
+      "ko": "테크놀로지",
+      "th": "เทคโนโลยี",
+      "count": 38
+    },
+    {
+      "slug": "car",
+      "ja": "自動車",
+      "en": "Automobiles",
+      "ko": "자동차",
+      "th": "รถยนต์",
+      "count": 174
+    }
+  ]
+}

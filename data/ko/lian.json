@@ -1,0 +1,25 @@
+{
+  "slug": "lian",
+  "chinese": "连吃带拿",
+  "pinyin": "lián chī dài ná",
+  "meaning": "먹고 챙겨가다 (실컷 먹고 싸가지고 가다)",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "大学生吃50块钱自助餐,吃超时了,还连吃带拿",
+      "translation": "대학생이 50위안짜리 뷔페를 먹는데, 시간 초과하고도 음식을 싸가다"
+    },
+    {
+      "chinese": "在好友家做客,连吃带拿的,回家后感到不好意思",
+      "translation": "친한 친구 집에 손님으로 갔다가 먹고 싸왔는데, 집에 와서 미안함을 느꼈다"
+    },
+    {
+      "chinese": "第一次去贵宾休息室,连吃带拿大包小包上飞机",
+      "translation": "처음으로 VIP 라운지에 갔는데, 실컷 먹고 바리바리 싸서 비행기에 탔다"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "미분류",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/lian/"
+}

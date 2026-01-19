@@ -1,0 +1,33 @@
+{
+  "slug": "jian",
+  "chinese": "简报",
+  "pinyin": "jiǎn bào",
+  "meaning": "브리핑 / 속보 / 간보",
+  "description": "기자 브리핑은 「매체취풍회(媒体吹风会)」, 「신문취풍회(新闻吹风会)」라고 함.",
+  "examples": [
+    {
+      "chinese": "新闻简报",
+      "translation": "뉴스 다이제스트"
+    },
+    {
+      "chinese": "每日简报",
+      "translation": "오늘의 속보 (토픽)"
+    },
+    {
+      "chinese": "每月工作简报",
+      "translation": "월보 (업무 보고서)"
+    },
+    {
+      "chinese": "会议简报",
+      "translation": "회의 브리핑 (간단한 보고)"
+    },
+    {
+      "chinese": "信息简报",
+      "translation": "간단한 알림"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "미분류",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/jian/"
+}

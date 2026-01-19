@@ -1,0 +1,25 @@
+{
+  "slug": "yi",
+  "chinese": "一白遮百丑",
+  "pinyin": "yī bái zhē bǎi chǒu",
+  "meaning": "A white complexion hides a hundred flaws",
+  "description": "Fair skin makes one look beautiful despite other flaws.",
+  "examples": [
+    {
+      "chinese": "一白真的遮百丑吗",
+      "translation": "Does fair skin really hide a hundred flaws?"
+    },
+    {
+      "chinese": "一白遮百丑,牙白更靓丽",
+      "translation": "Fair skin hides flaws, white teeth make you even more beautiful."
+    },
+    {
+      "chinese": "俗话说一白遮百丑,皮肤黑不可怕",
+      "translation": "They say fair skin hides flaws, but dark skin isn't bad."
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "Idioms",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/yi/"
+}

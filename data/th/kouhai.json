@@ -1,0 +1,19 @@
+{
+  "slug": "kouhai",
+  "chinese": "口嗨",
+  "pinyin": "kǒu hāi",
+  "meaning": "ดีแต่ปาก / เก่งแต่ในเน็ต",
+  "description": "พูดจาใหญ่โตแต่ในความเป็นจริงไม่ลงมือทำ",
+  "examples": [
+    {
+      "chinese": "别在网上口嗨了",
+      "translation": "อย่าเก่งแต่ปากในเน็ตเลย"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์สแลงอินเทอร์เน็ต",
+  "relatedWords": [
+    "gangjing"
+  ],
+  "sourceUrl": "https://chineself.com/kouhai/"
+}

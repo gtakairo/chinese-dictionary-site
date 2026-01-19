@@ -1,0 +1,19 @@
+{
+  "slug": "zhainan",
+  "chinese": "宅男",
+  "pinyin": "zhái nán",
+  "meaning": "오타쿠 남 / 집돌이",
+  "description": "집에 있는 것을 좋아하는 남자.",
+  "examples": [
+    {
+      "chinese": "他是典型宅男",
+      "translation": "그는 전형적인 오타쿠 남이다"
+    }
+  ],
+  "category": "net",
+  "categoryName": "라이프스타일",
+  "relatedWords": [
+    "nvshen"
+  ],
+  "sourceUrl": "https://chineself.com/zhainan/"
+}

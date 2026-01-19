@@ -1,0 +1,25 @@
+{
+  "slug": "guo",
+  "chinese": "国补",
+  "pinyin": "guó bǔ",
+  "meaning": "国の補助金",
+  "description": "国家补贴のこと。政府による企業向けの「産業補助金」や消費者向けの「EV購入補助金」「買い替え補助金」などがある。",
+  "examples": [
+    {
+      "chinese": "最近国补非常香,你都领了吗",
+      "japanese": "最近の国の補助金は優れている、あなたは恩恵を受けた？"
+    },
+    {
+      "chinese": "这些手机值得买,可以享受国补政策",
+      "japanese": "これらのスマホはお買い得、国の補助金政策を受けられる"
+    },
+    {
+      "chinese": "自2023年汽车「以旧换新」等购车补贴政策推行,今年也国补政策出炉",
+      "japanese": "2023年から車の買い替え等の補助金政策が実施されている、今年も発表される"
+    }
+  ],
+  "category": "zhengzhi",
+  "categoryName": "政治",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/guo/"
+}

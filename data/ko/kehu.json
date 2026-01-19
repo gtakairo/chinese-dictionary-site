@@ -1,0 +1,25 @@
+{
+  "slug": "kehu",
+  "chinese": "客户新手启动",
+  "pinyin": "kè hù xīn shǒu qǐ dòng",
+  "meaning": "온보딩 (고객 온보딩)",
+  "description": "신규 사용자나 고객이 제품이나 서비스를 사용하기 시작하도록 돕는 도입 지원 과정.",
+  "examples": [
+    {
+      "chinese": "我们优化了客户新手启动流程",
+      "translation": "우리는 고객 온보딩 프로세스를 최적화했다"
+    },
+    {
+      "chinese": "客户新手启动影响留存率",
+      "translation": "고객 온보딩은 유지율(리텐션)에 영향을 미친다"
+    },
+    {
+      "chinese": "需要完善客户新手启动素材",
+      "translation": "고객 온보딩 자료를 보완해야 한다"
+    }
+  ],
+  "category": "technology",
+  "categoryName": "기술",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/kehu/"
+}

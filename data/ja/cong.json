@@ -1,0 +1,25 @@
+{
+  "slug": "cong",
+  "chinese": "匆匆一瞥",
+  "pinyin": "cōng cōng yī piē",
+  "meaning": "（忙しいため、時間に限りがあるので）ちょっと見るだけ",
+  "description": "匆匆は「あわただしい、そそくさ、あたふた」の意味。忙しくて時間がないため、さっと見ることしかできない様子を表す。",
+  "examples": [
+    {
+      "chinese": "忙碌的上班时间里,看到了一片彩霞,只是匆匆一瞥",
+      "translation": "忙しい出勤の時間に朝焼けが見えたが、ちょっと見るだけだった"
+    },
+    {
+      "chinese": "美术馆来太晚了,无奈时间有限,只有匆匆一瞥",
+      "translation": "美術館に来るのが遅すぎた、時間に限りがありちょっと見るだけだった"
+    },
+    {
+      "chinese": "虽然很多绝美之地只是匆匆一瞥,但已经深深印在我脑海里",
+      "translation": "多く絶景の場所があるがちょっと見るだけ、ただすでに脳裏に深く刻まれている"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "未分類",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/cong/"
+}

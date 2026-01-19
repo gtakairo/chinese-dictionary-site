@@ -1,0 +1,19 @@
+{
+  "slug": "fanquan",
+  "chinese": "饭圈",
+  "pinyin": "fàn quān",
+  "meaning": "팬덤/아이돌 팬 문화",
+  "description": "아이돌·작품을 중심으로 한 팬 커뮤니티와 그 문화, 관행 등을 가리킨다.",
+  "examples": [
+    { "chinese": "她是饭圈资深粉", "translation": "그녀는 팬덤의 올드팬이다." },
+    { "chinese": "饭圈用语", "translation": "팬덤 용어." },
+    { "chinese": "饭圈打投", "translation": "팬덤의 대규모 투표 활동." }
+  ],
+  "category": "net",
+  "categoryName": "推し文化・界隈",
+  "relatedWords": [
+    "fensi",
+    "poquan"
+  ],
+  "sourceUrl": "https://chineself.com/fanquan/"
+}

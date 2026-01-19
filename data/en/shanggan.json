@@ -1,0 +1,27 @@
+{
+  "slug": "shanggan",
+  "chinese": "上纲上线",
+  "pinyin": "shàng gāng shàng xiàn",
+  "meaning": "1. Raise to the level of principle; 2. Nitpick / Exaggerate matters; 3. Label someone",
+  "description": "'Shanggang' means raising a minor issue to a matter of principle. It refers to exaggerating small faults into major ideological problems, a term often used during the Cultural Revolution.",
+  "examples": [
+    {
+      "chinese": "不要上纲上线的政治正确",
+      "translation": "Don't be politically correct and exaggerate everything."
+    },
+    {
+      "chinese": "不必事事都要上纲上线",
+      "translation": "No need to exaggerate everything into a matter of principle."
+    },
+    {
+      "chinese": "最烦学校这种小事上纲上线",
+      "translation": "I hate it most when schools exaggerate such small matters."
+    }
+  ],
+  "category": "zhengzhi",
+  "categoryName": "Politics",
+  "relatedWords": [
+    "zzzq"
+  ],
+  "sourceUrl": "https://chineself.com/shanggan/"
+}

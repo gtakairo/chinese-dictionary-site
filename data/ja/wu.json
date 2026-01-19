@@ -1,0 +1,25 @@
+{
+  "slug": "wu",
+  "chinese": "无宾感",
+  "pinyin": "wú bīn gǎn",
+  "meaning": "関係が自然で対等な感じ、壁のない関係性",
+  "description": "宾客（ゲスト）の感じがない。もてなす側ともてなされる側のような関係でなく、対等な雰囲気が強いということ。",
+  "examples": [
+    {
+      "chinese": "两个人都很放松,旁若无人的亲密感,无宾感",
+      "translation": "2人はとてもリラックスして人目を憚ることなく親密で関係がとても自然だ"
+    },
+    {
+      "chinese": "这无宾感啊！妥妥的就是家属啊",
+      "translation": "この壁のない関係性、間違いなく家族だ"
+    },
+    {
+      "chinese": "无宾感超级甜,亲密距离绝了",
+      "translation": "壁のない関係がとてもラブラブで、すごく親密な距離感だ"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": ["tuotuode", "juele"],
+  "sourceUrl": "https://chineself.com/wu/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "jiami",
+  "chinese": "加密货币",
+  "pinyin": "jiā mì huò bì",
+  "meaning": "암호화폐",
+  "description": "「Jiami(가밀)」는 「암호화하다」는 뜻.",
+  "examples": [
+    {
+      "chinese": "加密货币价格波动很大",
+      "translation": "암호화폐는 가격 변동이 크다"
+    },
+    {
+      "chinese": "他开始定投加密货币",
+      "translation": "그는 암호화폐 적립식 투자를 시작했다"
+    },
+    {
+      "chinese": "监管政策影响加密货币市场",
+      "translation": "규제 정책이 암호화폐 시장에 영향을 미친다"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "금융/투자",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/jiami/"
+}

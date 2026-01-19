@@ -1,0 +1,21 @@
+{
+  "slug": "er",
+  "chinese": "二八定律",
+  "pinyin": "èr bā dìng lǜ",
+  "meaning": "パレートの法則",
+  "description": "80/20定律、帕累托法则とも呼ぶ。",
+  "examples": [
+    {
+      "chinese": "根据二八定律,世界上80%的钱掌握在20%人的手",
+      "japanese": "パレードの法則では、世界の80％のお金は20％が掌握している"
+    },
+    {
+      "chinese": "很多行业有二八定律,即20%的人挣了80%的钱",
+      "japanese": "多くの業界がパレードの法則で成り立っている、20％の人が80％のお金を稼いでいる"
+    }
+  ],
+  "category": "jingji",
+  "categoryName": "経済・ビジネス",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/er/"
+}

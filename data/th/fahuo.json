@@ -1,0 +1,25 @@
+{
+  "slug": "fahuo",
+  "chinese": "发火线圈",
+  "pinyin": "fā huǒ xiàn quān",
+  "meaning": "คอยล์จุดระเบิด",
+  "description": "ชิ้นส่วนคอยล์ยานยนต์สำหรับจ่ายไฟฟ้าแรงสูงไปยังหัวเทียน",
+  "examples": [
+    {
+      "chinese": "检查发火线圈的电阻",
+      "translation": "ตรวจสอบความต้านทานของคอยล์จุดระเบิด"
+    },
+    {
+      "chinese": "发火线圈老化会导致点火不良",
+      "translation": "คอยล์เสื่อมสภาพอาจทำให้การจุดระเบิดล้มเหลว"
+    },
+    {
+      "chinese": "更换发火线圈后故障消除",
+      "translation": "ปัญหาถูกแก้ไขหลังจากเปลี่ยนคอยล์จุดระเบิด"
+    }
+  ],
+  "category": "car",
+  "categoryName": "ยานยนต์",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/fahuo/"
+}

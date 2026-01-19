@@ -1,0 +1,19 @@
+{
+  "slug": "baifumei",
+  "chinese": "白富美",
+  "pinyin": "bái fù měi",
+  "meaning": "ขาว สวย รวย (สเปคสาวในฝัน)",
+  "description": "คำสแลงเรียกผู้หญิงที่เพียบพร้อม (ผิวขาว รวย สวย) ตรงข้ามกับ 高富帅 (สูง หล่อ รวย)",
+  "examples": [
+    {
+      "chinese": "她是个白富美",
+      "translation": "เธอเป็นคนขาวสวยรวย (ครบเครื่อง)"
+    }
+  ],
+  "category": "net",
+  "categoryName": "บุคคล",
+  "relatedWords": [
+    "gaofushuai"
+  ],
+  "sourceUrl": "https://chineself.com/baifumei/"
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "xiaofei",
+  "chinese": "消费降级",
+  "pinyin": "xiāo fèi jiàng jí",
+  "meaning": "การลดระดับการบริโภค",
+  "description": "พฤติกรรมการลดใช้จ่าย ซื้อของถูกลง หรือซื้อเท่าที่จำเป็น",
+  "examples": [
+    {
+      "chinese": "消费降级大家第一个舍弃掉的是啥",
+      "translation": "เมื่อต้องรัดเข็มขัด สิ่งแรกที่ทุกคนตัดทิ้งคืออะไร"
+    },
+    {
+      "chinese": "消费降级,我还在用五年前的老款iPhone",
+      "translation": "ลดระดับการบริโภค ฉันยังใช้ไอโฟนรุ่นเมื่อ 5 ปีที่แล้วอยู่เลย"
+    },
+    {
+      "chinese": "city walk这个词能流行起来就很说明消费降级了",
+      "translation": "คำว่า City Walk ฮิตขึ้นมาได้ก็บ่งบอกถึงการลดระดับการบริโภคได้ดี"
+    }
+  ],
+  "category": "jingji",
+  "categoryName": "เศรษฐกิจ / ธุรกิจ",
+  "relatedWords": [
+    "pingti",
+    "bumailisheng",
+    "zhimaiduidebumaiguide",
+    "citywalk"
+  ],
+  "sourceUrl": "https://chineself.com/xiaofei/"
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "dianzi",
+  "chinese": "电子布洛芬",
+  "pinyin": "diàn zǐ bù luò fēn",
+  "meaning": "전자 이부프로펜 (사이버 진통제/힐링제)",
+  "description": "기분이 우울하거나 감정적일 때 활력이나 치유를 주는 인터넷상의 사진이나 음악 등을 의미합니다. 이부프로펜은 해열, 소염, 진통제입니다.",
+  "examples": [
+    {
+      "chinese": "太勾了,不愧是电子布洛芬～看到他浑身都不疼了",
+      "translation": "너무 매력적이야, 과연 전자 이부프로펜~ 그를 보니 온몸의 통증이 사라지네."
+    },
+    {
+      "chinese": "百听不厌,我的电子布洛芬一听所有烦恼都忘掉了",
+      "translation": "백 번 들어도 질리지 않는 나의 전자 이부프로펜, 들으면 모든 고민을 잊게 된다."
+    },
+    {
+      "chinese": "新vlog更新,你是我的电子布洛芬,速更速更",
+      "translation": "새 브이로그 업데이트, 당신은 나의 전자 이부프로펜, 빨리빨리 올려주세요."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [
+    "gouren",
+    "baitingbuyan"
+  ],
+  "sourceUrl": "https://chineself.com/dianzi/"
+}

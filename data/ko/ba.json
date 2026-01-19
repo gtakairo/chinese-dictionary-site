@@ -1,0 +1,25 @@
+{
+  "slug": "ba",
+  "chinese": "叭叭叭叭",
+  "pinyin": "bā bā bā bā",
+  "meaning": "쫑알쫑알, 궁시렁궁시렁",
+  "description": "쉬지 않고 잔소리하거나 떠드는 소리를 나타내는 의성어.",
+  "examples": [
+    {
+      "chinese": "这嘴叭叭叭叭叭个不停",
+      "translation": "입이 쉬지 않고 쫑알거리네"
+    },
+    {
+      "chinese": "别叭叭那么多",
+      "translation": "궁시렁대지 좀 마"
+    },
+    {
+      "chinese": "喝醉了的人都会叭叭叭叭的",
+      "translation": "술 취한 사람은 다들 주절주절 떠들기 마련이다"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 슬랭",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/ba/"
+}

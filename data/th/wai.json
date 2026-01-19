@@ -1,0 +1,30 @@
+{
+  "slug": "wai",
+  "chinese": "外搭",
+  "pinyin": "wài dā",
+  "meaning": "เสื้อคลุมตัวนอก / เสื้อคลุม",
+  "description": "สวมใส่เป็นชั้นนอก 'Neida' หมายถึงใส่เป็นตัวใน",
+  "examples": [
+    {
+      "chinese": "外搭一件粉色的连帽卫衣,轻盈减龄",
+      "translation": "สวมเสื้อฮู้ดสีชมพูเป็นเสื้อคลุม ดูเบาสบายและลดอายุ"
+    },
+    {
+      "chinese": "今天买了漏锁骨的T,外搭衫",
+      "translation": "วันนี้ซื้อเสื้อยืดโชว์ไหปลาร้ากับเสื้อเชิ้ตคลุมตัวนอก"
+    },
+    {
+      "chinese": "这件短袖夏天也可以当外搭搭配哦",
+      "translation": "เสื้อแขนสั้นตัวนี้สามารถใส่เป็นเสื้อคลุมในฤดูร้อนได้นะ"
+    }
+  ],
+  "category": "fashion",
+  "categoryName": "แฟชั่น / ความงาม",
+  "relatedWords": [
+    "neida",
+    "lianmaoweiyi",
+    "jianling",
+    "chuanda"
+  ],
+  "sourceUrl": "https://chineself.com/wai/"
+}

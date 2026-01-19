@@ -1,0 +1,25 @@
+{
+  "slug": "yitaijingdian",
+  "chinese": "以太经典",
+  "pinyin": "yǐ tài jīng diǎn",
+  "meaning": "이더리움 클래식",
+  "description": "이더리움(ETH)의 하드포크로 분리된 블록체인.",
+  "examples": [
+    {
+      "chinese": "以太经典价格上涨",
+      "translation": "이더리움 클래식 가격 상승"
+    },
+    {
+      "chinese": "讨论以太经典的挖矿难度",
+      "translation": "ETC 채굴 난이도 토론"
+    },
+    {
+      "chinese": "交易所上线以太经典",
+      "translation": "거래소가 이더리움 클래식을 상장했다"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "금융/투자",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/yitaijingdian/"
+}

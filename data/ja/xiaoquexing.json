@@ -1,0 +1,14 @@
+{
+  "slug": "xiaoquexing",
+  "chinese": "小确幸",
+  "pinyin": "xiǎo què xìng",
+  "meaning": "ささやかな幸せ",
+  "description": "日常の小さな幸せを表す言葉。",
+  "examples": [
+    {"chinese": "下雨天喝热奶茶是我的小确幸", "japanese": "雨の日に温かいミルクティーを飲むのがささやかな幸せ"}
+  ],
+  "category": "uncategorized",
+  "categoryName": "ライフスタイル",
+  "relatedWords": ["yishigan"],
+  "sourceUrl": "https://chineself.com/xiaoquexing/"
+}

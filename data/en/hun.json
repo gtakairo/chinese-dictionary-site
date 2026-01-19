@@ -1,0 +1,25 @@
+{
+  "slug": "hun",
+  "chinese": "婚变",
+  "pinyin": "hūn biàn",
+  "meaning": "Marital crisis / Divorce",
+  "description": "Changes in marital relationship.",
+  "examples": [
+    {
+      "chinese": "俩人越看越有夫妻相,没有婚变传闻",
+      "translation": "The two look more like a couple the more you look, no rumors of marital crisis"
+    },
+    {
+      "chinese": "双方婚变或许已分居,七年之痒亮红灯",
+      "translation": "Both sides may have separated due to marital crisis, red light for the seven-year itch"
+    },
+    {
+      "chinese": "明星情侣都好坎坷啊,屡次传出婚变",
+      "translation": "Celebrity couples are so bumpy, repeatedly rumored to have marital crisis"
+    }
+  ],
+  "category": "nannv",
+  "categoryName": "Love & Marriage",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/hun/"
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "da",
+  "chinese": "大Ⅴ",
+  "pinyin": "dà Ⅴ",
+  "meaning": "インターネットセレブリティ",
+  "description": "インターネット上で著名となった人物のこと。「V」はVerified（認証済み）の頭文字。インフルエンサーに与えられる称号といえる。微博（weibo）ブログや抖音（TikTok）でフォロアーが50万人以上になるとアカウントのアイコンの横に「Ｖ」の称号が与えられる。",
+  "examples": [
+    {
+      "chinese": "微博粉丝多少才算大Ｖ",
+      "translation": "weiboでフォロアーが何人になると大Ｖになるの"
+    },
+    {
+      "chinese": "抖音大V网红人气排行",
+      "translation": "TikTokの大Vインフルエンサー人気ランキング"
+    }
+  ],
+  "category": "sns",
+  "categoryName": "Web・SNS用語",
+  "relatedWords": ["wanghong"],
+  "sourceUrl": "https://chineself.com/da/"
+}

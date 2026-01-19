@@ -1,0 +1,27 @@
+{
+    "slug": "shuo",
+    "chinese": "说不清道不明的",
+    "pinyin": "shuō bu qīng dào bù míng de",
+    "meaning": "말로는 다 할 수 없는, 설명하기 힘든",
+    "description": "무언가 분명치 않고 잘 알 수 없는 상태를 나타내는 표현.",
+    "category": "uncategorized",
+    "categoryName": "미분류",
+    "relatedWords": [
+        "renshengwuchang"
+    ],
+    "sourceUrl": "https://chineself.com/shuo/",
+    "examples": [
+        {
+            "chinese": "心情比较复杂,说不清道不明的",
+            "translation": "기분이 좀 복잡해서, 말로 설명하기 힘들다"
+        },
+        {
+            "chinese": "说不清道不明的事,人生无常,这也是人生常态吧",
+            "translation": "설명하기 힘든 일, 인생무상, 이것도 인생의 정상적인 상태겠지"
+        },
+        {
+            "chinese": "感情真的像是梅雨时节的天气,说不清道不明的",
+            "translation": "감정은 정말 장마철 날씨 같아서, 말로 다 설명할 수가 없다"
+        }
+    ]
+}

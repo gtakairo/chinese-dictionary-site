@@ -1,0 +1,25 @@
+{
+  "slug": "liaotian",
+  "chinese": "聊天机器人",
+  "pinyin": "liáo tiān jī qì rén",
+  "meaning": "Chatbot",
+  "description": "An automated response program using AI technology.",
+  "examples": [
+    {
+      "chinese": "聊天机器人自动回答问题",
+      "translation": "Chatbots answer questions automatically"
+    },
+    {
+      "chinese": "为客服部署聊天机器人",
+      "translation": "Deploy chatbots for customer service"
+    },
+    {
+      "chinese": "训练聊天机器人的语料库",
+      "translation": "Train the corpus for chatbots"
+    }
+  ],
+  "category": "technology",
+  "categoryName": "Technology",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/liaotian/"
+}

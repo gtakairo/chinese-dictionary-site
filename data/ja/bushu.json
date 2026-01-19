@@ -1,0 +1,25 @@
+{
+  "slug": "bushu",
+  "chinese": "不顺气",
+  "pinyin": "bù shùn qì",
+  "meaning": "思い通りにいかない、気分が晴れない",
+  "description": "顺气は「（意に逆らうものがなく）気持ちのよい状態にある」。",
+  "examples": [
+    {
+      "chinese": "我遇见不顺气的事就开始听歌发泄",
+      "translation": "私は思い通りにいかないことがあると歌を聞いて気を晴らす"
+    },
+    {
+      "chinese": "哇操,不发个脾气真是不顺气",
+      "translation": "クソッ、当り散らさないと本当に気分が晴れない"
+    },
+    {
+      "chinese": "上周开始水逆了,心情暴差,不顺气",
+      "translation": "先週からツキがない、心情が曝下がりで、気分が晴れない"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "未分類",
+  "relatedWords": ["wacao", "shuini"],
+  "sourceUrl": "https://chineself.com/bushu/"
+}

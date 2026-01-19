@@ -1,0 +1,25 @@
+{
+  "slug": "kun",
+  "chinese": "坤包",
+  "pinyin": "kūn bāo",
+  "meaning": "여성용 핸드백, 작은 핸드백",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "买一个坤包,包身不大,但容量不错的",
+      "translation": "핸드백을 하나 샀는데, 크지는 않지만 수납력이 좋다"
+    },
+    {
+      "chinese": "一条蓝色牛仔裤,配了红色坤包",
+      "translation": "청바지에 빨간 핸드백을 매치했다"
+    },
+    {
+      "chinese": "甜辣风的坤包,颜色也很百搭哦",
+      "translation": "맵단짠 스타일의 핸드백, 색상도 여기저기 잘 어울린다"
+    }
+  ],
+  "category": "fashion",
+  "categoryName": "패션/미용",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/kun/"
+}

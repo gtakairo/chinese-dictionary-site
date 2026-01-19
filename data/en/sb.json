@@ -1,0 +1,27 @@
+{
+  "slug": "sb",
+  "chinese": "sb",
+  "pinyin": "shǎ bī",
+  "meaning": "Idiot / Retard",
+  "description": "Abbreviation for 'Sha Bi'. Derivative spellings include Sha B, Sha X, Sha Bird, Sha Bi (homophones), etc.",
+  "examples": [
+    {
+      "chinese": "我是傻B",
+      "translation": "I am an idiot."
+    },
+    {
+      "chinese": "真的是sb",
+      "translation": "Really an idiot."
+    },
+    {
+      "chinese": "就是远离sb",
+      "translation": "Just stay away from idiots."
+    }
+  ],
+  "category": "ma",
+  "categoryName": "Insults/Provocations",
+  "relatedWords": [
+    "shabi"
+  ],
+  "sourceUrl": "https://chineself.com/sb/"
+}

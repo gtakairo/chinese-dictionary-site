@@ -1,0 +1,27 @@
+{
+  "slug": "houzhihoujue",
+  "chinese": "后知后觉",
+  "pinyin": "hòu zhī hòu jué",
+  "meaning": "Realize later / Hindsight",
+  "description": "Antonym of 先知先觉 (foresee/anticipate).",
+  "examples": [
+    {
+      "chinese": "出来才后知后觉书包都没带",
+      "translation": "Only after coming out did I realize I didn't bring my bag"
+    },
+    {
+      "chinese": "父母的爱,我现在才后知后觉",
+      "translation": "I only now realize my parents「 love"
+    },
+    {
+      "chinese": "别后知后觉,高考落榜才去后悔",
+      "translation": "Don't realize too late, regretting only after failing the college entrance exam"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "Idiom",
+  "relatedWords": [
+    "xianzhixianjue"
+  ],
+  "sourceUrl": "https://chineself.com/houzhihoujue/"
+}

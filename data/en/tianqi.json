@@ -1,0 +1,25 @@
+{
+    "slug": "tianqi",
+    "chinese": "天启宗教",
+    "pinyin": "tiān qǐ zōng jiào",
+    "meaning": "Abrahamic religions (Revealed religions)",
+    "description": "Religions claiming descent from the God of Abraham: Judaism, Christianity, Islam.",
+    "category": "religion",
+    "categoryName": "Religion/Philosophy",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/tianqi/",
+    "examples": [
+        {
+            "chinese": "天启宗教包括犹太教、基督教、伊斯兰教",
+            "translation": "Abrahamic religions include Judaism, Christianity, and Islam"
+        },
+        {
+            "chinese": "研究天启宗教的起源与传播",
+            "translation": "Study the origin and spread of Abrahamic religions"
+        },
+        {
+            "chinese": "天启宗教强调唯一真神",
+            "translation": "Abrahamic religions emphasize the one true God"
+        }
+    ]
+}

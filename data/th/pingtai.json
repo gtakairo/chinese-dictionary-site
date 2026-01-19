@@ -1,0 +1,27 @@
+{
+  "slug": "pingtai",
+  "chinese": "共享经济",
+  "pinyin": "gòng xiǎng jīng jì",
+  "meaning": "เศรษฐกิจแบ่งปัน (Sharing Economy)",
+  "description": "เรียกอีกอย่างว่า Fenxiangjingji ส่วน Pingtaijingji คือ \"Platform Economy\"",
+  "examples": [
+    {
+      "chinese": "终于有电瓶车了,不用做共享经济了",
+      "translation": "ในที่สุดก็มีมอเตอร์ไซค์ไฟฟ้าแล้ว ไม่ต้องพึ่งเศรษฐกิจแบ่งปันแล้ว"
+    },
+    {
+      "chinese": "现在共享经济越来越发达",
+      "translation": "เดี๋ยวนี้เศรษฐกิจแบ่งปันพัฒนาขึ้นเรื่อยๆ"
+    },
+    {
+      "chinese": "零工经济是Airbnb,滴滴等共享经济的一种重要组成形式",
+      "translation": "Gig economy คือรูปแบบสำคัญของเศรษฐกิจแบ่งปันอย่าง Airbnb, Didi"
+    }
+  ],
+  "category": "jingji",
+  "categoryName": "เศรษฐกิจและธุรกิจ",
+  "relatedWords": [
+    "linggongjingji"
+  ],
+  "sourceUrl": "https://chineself.com/pingtai/"
+}

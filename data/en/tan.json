@@ -1,0 +1,25 @@
+{
+    "slug": "tan",
+    "chinese": "贪大求全",
+    "pinyin": "tān dà qiú quán",
+    "meaning": "Seek undue size and completeness",
+    "description": "Aiming for large scale without considering reality.",
+    "category": "chengyu",
+    "categoryName": "Idiom",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/tan/",
+    "examples": [
+        {
+            "chinese": "部分学校贪大求全,为了更名,升格盲目向综合性",
+            "translation": "Some schools blindly aim for comprehensiveness and size just to change their names"
+        },
+        {
+            "chinese": "机场建设不能贪大求全大,越大越不方便的",
+            "translation": "Airport construction shouldn't just aim for size; the bigger, the more inconvenient"
+        },
+        {
+            "chinese": "投资不能啥都想要,贪大求全是最大忌讳",
+            "translation": "Investment shouldn't be about wanting everything; seeking size and completeness is the biggest taboo"
+        }
+    ]
+}

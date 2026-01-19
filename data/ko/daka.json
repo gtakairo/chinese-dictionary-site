@@ -1,0 +1,25 @@
+{
+  "slug": "daka",
+  "chinese": "大咖",
+  "pinyin": "dà kā",
+  "meaning": "①거물; 대가; 고수 ②A급 스타; 유명인",
+  "description": "어떤 분야에서 뛰어난 사람을 뜻해요. ②의 의미는 대만에서 유래했는데, 咖가 casting의 음역이에요. 민남어로 대배우를 大脚라고 하는데, 음역해서 大咖가 됐어요. A咖 = 주연, B咖 = 조연, C咖 = 단역. 반대로 실력 없는 사람은 逊咖, 烂咖라고 해요.",
+  "examples": [
+    {
+      "chinese": "和投资大咖聊了2小时才明白炒股不赚钱",
+      "translation": "투자 고수랑 2시간 얘기하고 나서야 주식이 안 된다는 걸 알았어"
+    },
+    {
+      "chinese": "世界大咖级街舞者即将登场",
+      "translation": "세계적인 거물급 스트릿 댄서가 곧 등장해"
+    },
+    {
+      "chinese": "他成功跻身内娱大咖行列",
+      "translation": "그는 국내 연예계 톱스타 반열에 올랐어"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 신조어·속어",
+  "relatedWords": ["neiyu"],
+  "sourceUrl": "https://chineself.com/daka/"
+}

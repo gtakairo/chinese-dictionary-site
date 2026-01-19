@@ -1,0 +1,25 @@
+{
+  "slug": "mama",
+  "chinese": "麻麻",
+  "pinyin": "mā mɑ",
+  "meaning": "맘 / 엄마",
+  "description": "엄마(妈妈)를 뜻하는 인터넷 용어. 「바바(拔拔)」는 「아빠」.",
+  "examples": [
+    {
+      "chinese": "麻麻生日快乐！",
+      "translation": "엄마 생신 축하드려요!"
+    },
+    {
+      "chinese": "最想吃的还是麻麻做的菜",
+      "translation": "가장 먹고 싶은 건 역시 엄마가 해준 요리야."
+    },
+    {
+      "chinese": "拔拔麻麻我想你们了",
+      "translation": "아빠 엄마 보고 싶어요."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/mama/"
+}

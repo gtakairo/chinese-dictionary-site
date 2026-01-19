@@ -1,0 +1,25 @@
+{
+  "slug": "han",
+  "chinese": "憨八嘎",
+  "pinyin": "hān bā gā",
+  "meaning": "แฮมเบอร์เกอร์",
+  "description": "หมายถึง \"Hamburger\" ส่วน \"Bā gā\" เป็นคำพ้องเสียงกับภาษาญี่ปุ่นคำว่า \"Baka\" (คนโง่)",
+  "examples": [
+    {
+      "chinese": "好久没吃憨八嘎了明天要吃",
+      "translation": "ไม่ได้กินแฮมเบอร์เกอร์นานแล้ว พรุ่งนี้ต้องจัดสักหน่อย"
+    },
+    {
+      "chinese": "你喜欢m记还是k记的憨八嘎",
+      "translation": "คุณชอบแฮมเบอร์เกอร์ของแมคฯ หรือ เคเอฟซี?"
+    },
+    {
+      "chinese": "晚上吃汉堡王的憨八嘎,主要买一送一捏",
+      "translation": "มื้อเย็นกินเบอร์เกอร์คิง เพราะมีโปรซื้อ 1 แถม 1"
+    }
+  ],
+  "category": "wailaiyu",
+  "categoryName": "คำยืม/คำทับศัพท์",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/han/"
+}

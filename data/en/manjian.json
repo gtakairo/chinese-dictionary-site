@@ -1,0 +1,27 @@
+{
+  "slug": "manjian",
+  "chinese": "满江红",
+  "pinyin": "mǎn jiāng hóng",
+  "meaning": "Red / Failing grades",
+  "description": "1. Red color. 2. Internet slang for failing an exam (because the exam paper is covered in red ink from corrections).",
+  "examples": [
+    {
+      "chinese": "我喜欢满江红的衣服",
+      "translation": "I like red clothes."
+    },
+    {
+      "chinese": "今天考试语文作文考了满江红",
+      "translation": "I failed the essay part of the Chinese exam today (got a lot of red marks)."
+    },
+    {
+      "chinese": "大姨妈真的太突然了,走到公司就已经满江红了",
+      "translation": "My period came really suddenly; by the time I got to the office, it was already a 「sea of red」."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [
+    "dayima"
+  ],
+  "sourceUrl": "https://chineself.com/manjian/"
+}

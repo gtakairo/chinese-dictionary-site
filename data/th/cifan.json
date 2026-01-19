@@ -1,0 +1,28 @@
+{
+  "slug": "cifan",
+  "chinese": "次饭",
+  "pinyin": "cì fàn",
+  "meaning": "กินข้าว",
+  "description": "ศัพท์อินเทอร์เน็ตของคำว่า \"ชือ ฟ่าน\" (chī fàn) คำว่า \"เชี่ย ฟ่าน\" (Qia fan) ก็มีความหมายเดียวกัน",
+  "examples": [
+    {
+      "chinese": "你次饭没？",
+      "translation": "กินข้าวยัง?"
+    },
+    {
+      "chinese": "一起次饭被吧",
+      "translation": "ไปกินข้าวด้วยกันเถอะ"
+    },
+    {
+      "chinese": "大家好久没在一起次饭啦",
+      "translation": "ทุกคนไม่ได้กินข้าวด้วยกันนานแล้วนะ"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์อินเทอร์เน็ต/สแลง",
+  "relatedWords": [
+    "qiafan",
+    "shibuzhiwei"
+  ],
+  "sourceUrl": "https://chineself.com/cifan/"
+}

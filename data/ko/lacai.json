@@ -1,0 +1,20 @@
+{
+  "slug": "lacai",
+  "chinese": "拉踩",
+  "pinyin": "lā cǎi",
+  "meaning": "까내리기 (남을 깍아내려 자신을 돋보이게 함)",
+  "description": "다른 사람을 끌어들여 헐뜯음으로써 자신이나 최애를 돋보이게 하는 행위입니다.",
+  "examples": [
+    {
+      "chinese": "别拉踩其他艺人",
+      "translation": "다른 연예인을 까내리지 마세요"
+    }
+  ],
+  "category": "net",
+  "categoryName": "팬덤 문화/대립",
+  "relatedWords": [
+    "heizi",
+    "fanquan"
+  ],
+  "sourceUrl": "https://chineself.com/lacai/"
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "sun",
+  "chinese": "损坏事故",
+  "pinyin": "sǔn huài shì gù",
+  "meaning": "物損事故",
+  "description": "物的損壊のみが発生した事故。人的被害は含まない。",
+  "examples": [
+    {"chinese": "发生了车辆物损事故", "japanese": "車両の物損事故が発生した"},
+    {"chinese": "报案处理物损事故", "japanese": "物損事故を届け出て処理する"},
+    {"chinese": "保险公司核定物损事故", "japanese": "保険会社が物損事故を査定する"}
+  ],
+  "category": "car",
+  "categoryName": "自動車",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/sun/"
+}

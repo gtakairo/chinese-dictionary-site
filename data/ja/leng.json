@@ -1,0 +1,25 @@
+{
+  "slug": "leng",
+  "chinese": "冷白皮",
+  "pinyin": "lěng bái pí",
+  "meaning": "寒色系の皮膚、不健康そうにみえる色白さ",
+  "description": "色素が薄く透明感が強く、不健康そうにさえみえる白い肌のこと。色白でも暖色系ではなく寒色系に属する皮膚のこと。",
+  "examples": [
+    {
+      "chinese": "女生为了白有多努力,想爆改冷白皮还想要好气色",
+      "translation": "女性は白くなるために懸命に努力する、寒色系の色白さで更に血色よくしようとする"
+    },
+    {
+      "chinese": "我喜欢身量苗条,一头漆黑长发,冷白皮",
+      "translation": "私はスレンダーで真っ黒なロングヘアー、寒色系の色白さの肌の人が好みだ"
+    },
+    {
+      "chinese": "出镜脸,而且给自己p脸p多了（我本人不是冷白皮）",
+      "translation": "写真写りがよく自分で写真加工しすぎた（本人はこんなに不健康そうな色白じゃない）"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": ["shangjinglian"],
+  "sourceUrl": "https://chineself.com/leng/"
+}

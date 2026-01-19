@@ -1,0 +1,25 @@
+{
+  "slug": "zhongchou",
+  "chinese": "众筹",
+  "pinyin": "Zhòng chóu",
+  "meaning": "การระดมทุนมวลชน (Crowdfunding)",
+  "description": "การระดมทุนจากคนจำนวนมากผ่านอินเทอร์เน็ต",
+  "examples": [
+    {
+      "chinese": "发起众筹支持新产品",
+      "translation": "เปิดระดมทุน Crowdfunding สนับสนุนสินค้าใหม่"
+    },
+    {
+      "chinese": "众筹目标已达成",
+      "translation": "บรรลุเป้าหมายระดมทุนแล้ว"
+    },
+    {
+      "chinese": "参与众筹获得回报",
+      "translation": "เข้าร่วมระดมทุนเพื่อรับผลตอบแทน"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "การเงิน/การลงทุน",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/zhongchou/"
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "neng",
+  "chinese": "能打",
+  "pinyin": "néng dǎ",
+  "meaning": "Top-tier; Excellent; Competitive",
+  "description": "Used when the level or degree is high/amazing. Originated from 'Yánzhí hěn néng dǎ' (looks are top-tier/can fight), but 'néng dǎ' is now used on its own.",
+  "examples": [
+    {
+      "chinese": "现在的运动员,颜值都很能打",
+      "translation": "Athletes these days all have top-tier looks."
+    },
+    {
+      "chinese": "这手机真全面屏颜值真能打",
+      "translation": "This phone's full screen looks really amazing."
+    },
+    {
+      "chinese": "你的能力很能打,不服不行啊",
+      "translation": "Your ability is top-tier, I have to admit it."
+    },
+    {
+      "chinese": "苹果的拍照能打得过三星吗",
+      "translation": "Can Apple's camera compete with Samsung's?"
+    },
+    {
+      "chinese": "这次广告效果真的太能打了",
+      "translation": "The advertising effect this time is really top-tier."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [
+    "yanzhi",
+    "bufubuxing"
+  ],
+  "sourceUrl": "https://chineself.com/neng/"
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "yun",
+  "chinese": "晕菜",
+  "pinyin": "yūn cài",
+  "meaning": "Dizzy / Faint / Confused",
+  "description": "Feeling dizzy or overwhelmed.",
+  "examples": [
+    {
+      "chinese": "今日累晕菜",
+      "translation": "Tired to the point of fainting today"
+    },
+    {
+      "chinese": "大热天,我晕菜了",
+      "translation": "Hot day, I'm dizzy"
+    },
+    {
+      "chinese": "这个人真的给我笑晕菜了",
+      "translation": "This person really makes me laugh till I faint"
+    },
+    {
+      "chinese": "感冒…浑浑噩噩睡了一天,晕菜",
+      "translation": "Cold... slept groggily all day, dizzy"
+    },
+    {
+      "chinese": "为啥还要想方案啊,真的晕菜",
+      "translation": "Why still thinking about plans? Really dizzy"
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/yun/"
+}

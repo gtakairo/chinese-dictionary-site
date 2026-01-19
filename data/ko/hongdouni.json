@@ -1,0 +1,30 @@
+{
+  "slug": "hongdouni",
+  "chinese": "红豆泥",
+  "pinyin": "hóng dòu ní",
+  "meaning": "혼토니 (정말로)",
+  "description": "일본어 「혼토니(ほんとうに, 정말로)」의 음차 표기이다.",
+  "examples": [
+    {
+      "chinese": "红豆泥斯米马赛",
+      "translation": "정말로 미안합니다 (혼토니 스미마셍)."
+    },
+    {
+      "chinese": "红豆泥卡哇伊得斯内",
+      "translation": "정말로 귀엽네요 (혼토니 카와이이 데스네)."
+    },
+    {
+      "chinese": "红豆泥果咩那塞",
+      "translation": "정말로 미안합니다 (혼토니 고멘나사이)."
+    }
+  ],
+  "category": "wailaiyu",
+  "categoryName": "외래어/음역",
+  "relatedWords": [
+    "sumimasai",
+    "kawayi",
+    "diesinei",
+    "guomienasai"
+  ],
+  "sourceUrl": "https://chineself.com/hongdouni/"
+}

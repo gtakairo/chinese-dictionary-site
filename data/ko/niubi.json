@@ -1,0 +1,32 @@
+{
+  "slug": "niubi",
+  "chinese": "牛逼",
+  "pinyin": "niú bī",
+  "meaning": "쩐다; 대박이다; 개쩐다",
+  "description": "속된 표현. 牛B, NB, 牛掰, 牛X 등과 같음.",
+  "examples": [
+    {
+      "chinese": "你这么牛逼！",
+      "translation": "너 진짜 쩐다!"
+    },
+    {
+      "chinese": "我牛逼大了",
+      "translation": "나 완전 대박 났어."
+    },
+    {
+      "chinese": "勇敢很牛逼",
+      "translation": "용감한 거 진짜 개쩐다."
+    }
+  ],
+  "category": "tanci",
+  "categoryName": "감탄사",
+  "relatedWords": [
+    "tainble",
+    "niubai",
+    "liubi",
+    "niucha",
+    "newbee",
+    "wocao"
+  ],
+  "sourceUrl": "https://chineself.com/niubi/"
+}

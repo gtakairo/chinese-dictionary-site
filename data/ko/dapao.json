@@ -1,0 +1,27 @@
+{
+  "slug": "dapao",
+  "chinese": "打泡",
+  "pinyin": "dǎ pào",
+  "meaning": "①거품을 내다 ②물집이 잡히다 ③꽁냥거리다(인터넷 용어)",
+  "description": "③은 인터넷 용어입니다.",
+  "examples": [
+    {
+      "chinese": "泡沫拿铁制作超简单,打泡成功秘诀",
+      "translation": "거품 라떼 만들기는 정말 간단해요, 거품 내기 성공 비결."
+    },
+    {
+      "chinese": "盖章盖了一百个人的资料,手都打泡了",
+      "translation": "백 명의 자료에 도장을 찍었더니 손에 물집이 잡혔다."
+    },
+    {
+      "chinese": "你们俩不要再打泡了好不好",
+      "translation": "너네 둘 그만 좀 꽁냥거릴 수 없어?"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [
+    "jilao"
+  ],
+  "sourceUrl": "https://chineself.com/dapao/"
+}

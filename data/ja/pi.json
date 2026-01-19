@@ -1,0 +1,25 @@
+{
+  "slug": "pi",
+  "chinese": "偏不凑巧",
+  "pinyin": "piān bù còu qiǎo",
+  "meaning": "ちょうど都合悪く、折悪しく、運悪く",
+  "description": "偏は「あいにく、都合悪く」の意味がある。不凑巧を更に強調する。",
+  "examples": [
+    {
+      "chinese": "偏不凑巧,我这个时候感冒了",
+      "japanese": "ちょうど都合悪く、わたしはこんな時に風邪をひいた"
+    },
+    {
+      "chinese": "一大早搬运东西真的要累死,还偏不凑巧今天穿了高跟鞋",
+      "japanese": "朝早くから物を運搬し疲れ切った、運悪く今日はハイヒールを穿いている"
+    },
+    {
+      "chinese": "这几天下雨,温度下降,偏不凑巧,今天还停电",
+      "japanese": "この数日雨で気温が下がった、折悪しく今日は停電した"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "未分類",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/pi/"
+}

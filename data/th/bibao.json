@@ -1,0 +1,16 @@
+{
+  "slug": "bibao",
+  "chinese": "币宝",
+  "pinyin": "bì bǎo",
+  "meaning": "BIT Point [เว็บไซต์แลกเปลี่ยนสกุลเงินดิจิทัล]",
+  "description": "หนึ่งในแพลตฟอร์มซื้อขายคริปโท สามารถเปิดบัญชีและทำรายการซื้อขายได้",
+  "examples": [
+    { "chinese": "在币宝完成实名认证", "translation": "ทำการยืนยันตัวตนใน BIT Point ให้เสร็จ" },
+    { "chinese": "在币宝下单买入", "translation": "ออกคำสั่งซื้อใน BIT Point" },
+    { "chinese": "币宝的手续费是多少?", "translation": "ค่าธรรมเนียมของ BIT Point เท่าไหร่?" }
+  ],
+  "category": "jinrong",
+  "categoryName": "การเงินและการลงทุน",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/bibao/"
+}

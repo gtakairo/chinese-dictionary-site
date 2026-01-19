@@ -1,0 +1,25 @@
+{
+    "slug": "tui",
+    "chinese": "退潮",
+    "pinyin": "tuì cháo",
+    "meaning": "① 썰물 ② 붐이 꺼지다, 유행이 지나다, 쇠퇴하다",
+    "description": "장조(涨潮)는 「밀물」.",
+    "category": "net",
+    "categoryName": "인터넷 용어/슬랭",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/tui/",
+    "examples": [
+        {
+            "chinese": "大城市的共享单车开始退潮",
+            "translation": "대도시의 공유 자전거 붐이 꺼지기 시작했다"
+        },
+        {
+            "chinese": "小家电市场热度退潮,企业净利润下滑",
+            "translation": "소형 가전 시장의 열기가 식어, 기업 순이익 하락"
+        },
+        {
+            "chinese": "出口退潮已经影响到供给端,外贸行业呈现出「供需双弱」的局面",
+            "translation": "수출 감소가 이미 공급단에 영향을 미쳐, 대외 무역 업계는 「공급과 수요 모두 약세」 국면을 보임"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "youhua",
+  "chinese": "有话就说,有屁就放",
+  "pinyin": "yǒu huà jiù shuō, yǒu pì jiù fàng",
+  "meaning": "할 말 있으면 빨리 해라",
+  "description": "직역하면 '말이 있으면 하고 방귀가 있으면 뀌어라'. 뜸 들이지 말고 시원하게 말하라는 뜻.",
+  "examples": [
+    {
+      "chinese": "有话就说,有屁就放,预告来预告去烦人",
+      "translation": "할 말 있으면 빨리 해, 예고만 하지 말고 짜증나니까"
+    },
+    {
+      "chinese": "有话就说有屁就放,真的别太别扭了,没人喜欢你",
+      "translation": "할 말 있으면 해, 쭈뼛거리지 마, 아무도 너 안 좋아해"
+    },
+    {
+      "chinese": "有话就说,有屁就放,是香是臭,让群众讨论嘛",
+      "translation": "할 말 있으면 해, 좋든 나쁘든 대중이 토론하게 해라"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "성어/사자성어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/youhua/"
+}

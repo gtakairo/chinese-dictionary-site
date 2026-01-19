@@ -1,0 +1,12 @@
+{
+  "slug": "dalian",
+  "chinese": "打脸",
+  "pinyin": "dǎ liǎn",
+  "meaning": "手のひら返しで恥をかく（ブーメラン）",
+  "description": "以前の発言と矛盾して自分に返ってくる、赤っ恥な展開。",
+  "examples": [{"chinese": "他说不看结果却打脸了", "japanese": "見ないと言ったのに結局見てブーメランになった"}],
+  "category": "net",
+  "categoryName": "議論・皮肉",
+  "relatedWords": ["zhenxiang", "yinyangguaiqi"],
+  "sourceUrl": "https://chineself.com/dalian/"
+}

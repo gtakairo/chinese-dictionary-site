@@ -1,0 +1,28 @@
+{
+  "slug": "dagong",
+  "chinese": "打工狗",
+  "pinyin": "dǎ gōng gǒu",
+  "meaning": "Hired worker / Wage slave (self-deprecating)",
+  "description": "Self-deprecating expression similar to 「ineffective worker」 (wuxiaodagongren).",
+  "examples": [
+    {
+      "chinese": "周六还在工作的打工狗",
+      "translation": "Wage slave dog still working on Saturday"
+    },
+    {
+      "chinese": "我们打工狗没有休息,真是太摆烂了",
+      "translation": "We wage slaves have no rest, it's really too hopeless"
+    },
+    {
+      "chinese": "哪个打工狗初一回单位上班,哦,原来是我自己",
+      "translation": "Which wage slave goes back to work on the first day of the New Year? Oh, it's myself"
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [
+    "wuxiaodagongren",
+    "bailan"
+  ],
+  "sourceUrl": "https://chineself.com/dagong/"
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "laotie",
+  "chinese": "老铁",
+  "pinyin": "lǎo tiě",
+  "meaning": "เพื่อน, พวกนาย (คำเรียกเพื่อนสนิท)",
+  "description": "หมายถึงเพื่อนสนิท หรือพี่น้อง สื่อถึงความสัมพันธ์ที่แข็งแกร่งดั่งเหล็ก",
+  "examples": [
+    {
+      "chinese": "欢迎各位老铁关注",
+      "translation": "ยินดีต้อนรับเพื่อนๆ ทุกคนให้กดติดตาม"
+    },
+    {
+      "chinese": "各位老铁们分享一下",
+      "translation": "เพื่อนๆ ช่วยกันแชร์หน่อย"
+    },
+    {
+      "chinese": "老铁们你们知道吗？",
+      "translation": "พวกนายรู้ไหม?"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์อินเทอร์เน็ต",
+  "relatedWords": [
+    "tiezhi",
+    "guanzhu",
+    "wao",
+    "zhaxinle"
+  ],
+  "sourceUrl": "https://chineself.com/laotie/"
+}

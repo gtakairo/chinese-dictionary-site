@@ -1,0 +1,28 @@
+{
+  "slug": "haiqilai",
+  "chinese": "嗨起来",
+  "pinyin": "hāi qǐ lái",
+  "meaning": "신나다, 텐션 올리다, 분위기를 띄우다",
+  "description": "「High」의 음역어로 「하이(嗨)」가 쓰인다. 「타이하이러(太嗨了, 너무 신난다)」, 「완하이(玩嗨, 신나게 놀다)」 등으로 활용된다.",
+  "examples": [
+    {
+      "chinese": "我已经开始嗨起来了",
+      "translation": "나 벌써 신나기 시작했어."
+    },
+    {
+      "chinese": "嗨起来啊,气氛搞起来",
+      "translation": "분위기 띄워보자, 가즈아!"
+    },
+    {
+      "chinese": "早点下班回家嗨起来吧",
+      "translation": "일찍 퇴근해서 집에서 신나게 놀자."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어/은어",
+  "relatedWords": [
+    "taihaile",
+    "wanhai"
+  ],
+  "sourceUrl": "https://chineself.com/haiqilai/"
+}

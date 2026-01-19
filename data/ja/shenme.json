@@ -1,0 +1,25 @@
+{
+  "slug": "shenme",
+  "chinese": "什么鬼",
+  "pinyin": "shén me guǐ",
+  "meaning": "何これ、何なの、なんてこった、何だこりゃ",
+  "description": "もともと南方の方言で怎么回事と同じ意味、次第にネットなどで広く使われるようになった。理解に苦しむときなどによく発せられる感嘆詞である。",
+  "examples": [
+    {
+      "chinese": "这是什么鬼天气,没见过这么大的雨",
+      "japanese": "いったい何なのこの天気、こんな激しい雨は経験したことない"
+    },
+    {
+      "chinese": "昨天才吃的火锅现在又想吃了是什么鬼",
+      "japanese": "昨日、火鍋を食べたばかりなのにもう食べたくなっちゃった、なんてこった"
+    },
+    {
+      "chinese": "真的没有一件顺心的事情,我是什么倒霉鬼",
+      "japanese": "全くすべてが上手くいかない、なんてついていないんだ、まったく"
+    }
+  ],
+  "category": "tanci",
+  "categoryName": "感嘆詞",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/shenme/"
+}

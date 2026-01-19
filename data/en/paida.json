@@ -1,0 +1,29 @@
+{
+  "slug": "paida",
+  "chinese": "拍大腿",
+  "pinyin": "pāi dà tuǐ",
+  "meaning": "1. Regret (slapping thigh) 2. Laugh out loud (slapping thigh)",
+  "description": "1. Slapping one's thigh in regret. 2. Slapping one's thigh while laughing. \"Bao da tui\" means \"riding coattails\".",
+  "examples": [
+    {
+      "chinese": "手快有手慢无,错过拍大腿啊",
+      "translation": "Quick hands get it, slow hands miss it, you'll slap your thigh in regret if you miss it"
+    },
+    {
+      "chinese": "必看剧,不看后悔拍大腿哦",
+      "translation": "Must-watch drama, you'll regret it (slap thigh) if you don't watch"
+    },
+    {
+      "chinese": "有人笑到拍大腿,有人笑到眼泪",
+      "translation": "Some laugh till they slap their thighs, others laugh till they cry"
+    }
+  ],
+  "category": "qingxu",
+  "categoryName": "Emotions",
+  "relatedWords": [
+    "baodatui",
+    "shoukuaiyoushoumanwu",
+    "yuqizhuci"
+  ],
+  "sourceUrl": "https://chineself.com/paida/"
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "bang",
+  "chinese": "棒棒哒",
+  "pinyin": "bàng bàng dá",
+  "meaning": "スゴイ、素晴らしい、最高",
+  "description": "很棒、超棒の意味。牛牛哒、溜溜哒、棒棒的でも同じ。",
+  "examples": [
+    {
+      "chinese": "尊嘟素棒棒哒",
+      "japanese": "本当にスゴイ"
+    },
+    {
+      "chinese": "天啦噜,味道棒棒哒",
+      "japanese": "なんてこと、味が素晴らしい"
+    },
+    {
+      "chinese": "感觉自己棒棒哒",
+      "japanese": "俺って最高と感じる"
+    },
+    {
+      "chinese": "一次就学会,好棒棒哒,奥利给",
+      "japanese": "一回でマスターした、超すげぇ、素晴らしい"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語・スラング",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/bang/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "huobi",
+  "chinese": "火币",
+  "pinyin": "huǒ bì",
+  "meaning": "Huobi",
+  "description": "One of the major cryptocurrency exchanges. Offers spot, futures, staking, etc.",
+  "examples": [
+    {
+      "chinese": "我在火币交易比特币",
+      "translation": "I trade Bitcoin on Huobi"
+    },
+    {
+      "chinese": "火币的手续费调整了",
+      "translation": "Huobi's fees have been adjusted"
+    },
+    {
+      "chinese": "火币上线了新币",
+      "translation": "Huobi listed a new coin"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "Finance/Investment",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/huobi/"
+}

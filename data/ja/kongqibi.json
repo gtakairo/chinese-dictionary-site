@@ -1,0 +1,16 @@
+{
+  "slug": "kongqibi",
+  "chinese": "空气币",
+  "pinyin": "kōng qì bì",
+  "meaning": "スキャム（SCAM）",
+  "description": "詐欺に使われる仮想通貨のこと。",
+  "examples": [
+    {"chinese": "这种项目像空气币", "japanese": "このプロジェクトはスキャムっぽい（空気币）"},
+    {"chinese": "别被空气币骗了", "japanese": "スキャム通貨に騙されないで"},
+    {"chinese": "空气币没有实际应用", "japanese": "空気币は実用がない"}
+  ],
+  "category": "jinrong",
+  "categoryName": "金融・投資",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/kongqibi/"
+}

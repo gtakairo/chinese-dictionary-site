@@ -1,0 +1,20 @@
+{
+  "slug": "dalian",
+  "chinese": "打脸",
+  "pinyin": "dǎ liǎn",
+  "meaning": "Slap in the face (figuratively), contradict oneself and be embarrassed",
+  "description": "A situation where one contradicts their previous statement and it comes back to bite them, causing embarrassment.",
+  "examples": [
+    {
+      "chinese": "他说不看结果却打脸了",
+      "translation": "He said he wouldn't watch it, but he did, contradicting himself"
+    }
+  ],
+  "category": "net",
+  "categoryName": "Argument / Sarcasm",
+  "relatedWords": [
+    "zhenxiang",
+    "yinyangguaiqi"
+  ],
+  "sourceUrl": "https://chineself.com/dalian/"
+}

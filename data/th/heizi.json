@@ -1,0 +1,20 @@
+{
+  "slug": "heizi",
+  "chinese": "黑子",
+  "pinyin": "hēi zi",
+  "meaning": "แอนตี้แฟน, พวกชอบแซะ",
+  "description": "คนที่คอยวิพากษ์วิจารณ์หรือโจมตีเป้าหมายอย่างต่อเนื่อง",
+  "examples": [
+    {
+      "chinese": "别理那些黑子",
+      "translation": "อย่าไปสนใจพวกแอนตี้เลย"
+    }
+  ],
+  "category": "net",
+  "categoryName": "วัฒนธรรมแฟนคลับ",
+  "relatedWords": [
+    "fanquan",
+    "poquan"
+  ],
+  "sourceUrl": "https://chineself.com/heizi/"
+}

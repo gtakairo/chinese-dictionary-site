@@ -1,0 +1,27 @@
+{
+  "slug": "pingtai",
+  "chinese": "共享经济",
+  "pinyin": "gòng xiǎng jīng jì",
+  "meaning": "Sharing Economy",
+  "description": "Also called \"Fen xiang jing ji\". \"Ping tai jing ji\" is \"Platform Economy\".",
+  "examples": [
+    {
+      "chinese": "终于有电瓶车了,不用做共享经济了",
+      "translation": "Finally got an e-bike, no need for sharing economy anymore"
+    },
+    {
+      "chinese": "现在共享经济越来越发达",
+      "translation": "Sharing economy is becoming more developed now"
+    },
+    {
+      "chinese": "零工经济是Airbnb,滴滴等共享经济的一种重要组成形式",
+      "translation": "Gig economy is an important form of sharing economy like Airbnb, Didi"
+    }
+  ],
+  "category": "jingji",
+  "categoryName": "Economy & Business",
+  "relatedWords": [
+    "linggongjingji"
+  ],
+  "sourceUrl": "https://chineself.com/pingtai/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "dashibi",
+  "chinese": "达世币",
+  "pinyin": "dá shì bì",
+  "meaning": "Dash (สกุลเงินดิจิทัล)",
+  "description": "ชื่อภาษาจีนของสกุลเงินดิจิทัล Dash ซึ่งมีจุดเด่นด้านความเป็นส่วนตัวและความรวดเร็ว",
+  "examples": [
+    {
+      "chinese": "达世币价格波动很大",
+      "translation": "ราคาของ Dash มีความผันผวนมาก"
+    },
+    {
+      "chinese": "了解达世币的隐私特性",
+      "translation": "ทำความเข้าใจคุณสมบัติความเป็นส่วนตัวของ Dash"
+    },
+    {
+      "chinese": "交易所新增达世币交易对",
+      "translation": "กระดานเทรดเพิ่มคู่เทรด Dash ใหม่"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "การเงิน/การลงทุน",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/dashibi/"
+}

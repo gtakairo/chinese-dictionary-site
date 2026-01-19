@@ -1,0 +1,25 @@
+{
+  "slug": "sheza",
+  "chinese": "社杂",
+  "pinyin": "shè zá",
+  "meaning": "Ambivert / Shy at first but social later / Socially complex",
+  "description": "Abbreviation for 'Social Complexity Syndrome'. Intermediate between She Niu (social butterfly) and She Kong (social phobia).",
+  "examples": [
+    {
+      "chinese": "他是社杂呀,熟悉了就开始疯狂活泼",
+      "translation": "He seems hard to approach, but once you get to know him, he's very lively."
+    },
+    {
+      "chinese": "我是网络社牛,现实社杂",
+      "translation": "I'm a social butterfly online, but an ambivert in real life."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [
+    "sheniu",
+    "shekong",
+    "sheleng"
+  ],
+  "sourceUrl": "https://chineself.com/sheza/"
+}

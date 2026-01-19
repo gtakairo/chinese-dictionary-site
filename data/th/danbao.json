@@ -1,0 +1,16 @@
+{
+  "slug": "danbao",
+  "chinese": "蛋包饭",
+  "pinyin": "dàn bāo fàn",
+  "meaning": "ข้าวห่อไข่",
+  "description": "อาหารที่มีต้นกำเนิดจากญี่ปุ่น",
+  "examples": [
+    { "chinese": "这家店的蛋包饭很好吃", "translation": "ร้านนี้ข้าวห่อไข่อร่อยมาก" },
+    { "chinese": "点一份番茄酱蛋包饭", "translation": "สั่งข้าวห่อไข่ราดซอสมะเขือเทศหนึ่งที่" },
+    { "chinese": "蛋包饭里面有鸡肉", "translation": "ภายในข้าวห่อไข่มีเนื้อไก่" }
+  ],
+  "category": "liaoli",
+  "categoryName": "อาหาร",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/danbao/"
+}

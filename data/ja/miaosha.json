@@ -1,0 +1,33 @@
+{
+  "slug": "miaosha",
+  "chinese": "秒殺",
+  "pinyin": "miǎo shā",
+  "meaning": "①秒殺、（ゲームや試合で）圧倒する ②人気で即完売 ③速攻で魅了する",
+  "description": "射撃ゲームなどでの一撃必殺、クイックショットは瞬间击杀、瞬狙などと言う。",
+  "examples": [
+    {
+      "chinese": "拳击比赛中最快的秒杀",
+      "translation": "ボクシングの試合で最も速い秒殺"
+    },
+    {
+      "chinese": "足球赛10:0秒杀",
+      "translation": "サッカーの試合で10対0で圧倒する"
+    },
+    {
+      "chinese": "今天特价品秒殺",
+      "translation": "今日の特売は即完売"
+    },
+    {
+      "chinese": "双十一优惠马上就要开始了,火爆抢秒杀",
+      "translation": "独身の日の特売がもうすぐ始まる、人気商品は即完売する"
+    },
+    {
+      "chinese": "难得一见的美人,一出场就秒杀全场",
+      "translation": "なかなかお目にかかれない超絶な美人、登場するとすぐに会場を魅了した"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/miaosha/"
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "piaoliang",
+  "chinese": "漂亮国",
+  "pinyin": "piào liang guó",
+  "meaning": "ประเทศสวยงาม (อเมริกา)",
+  "description": "อเมริกาคือ \"เหมยกั๋ว\" และ \"เหมย\" แปลว่าสวยงาม (เพี่ยวเลี่ยง) จึงใช้เป็นคำสแลงเรียกอเมริกา",
+  "examples": [
+    {
+      "chinese": "漂亮国华人目前有多少",
+      "translation": "ตอนนี้มีคนจีนในอเมริกากี่คน"
+    },
+    {
+      "chinese": "现在的漂亮国年轻人对「美国梦」持怀疑态度",
+      "translation": "วัยรุ่นอเมริกาตอนนี้สงสัยใน 'อเมริกันดรีม'"
+    },
+    {
+      "chinese": "博士屯称为「漂亮国的雅典」,拥有众多世界一流大学",
+      "translation": "บอสตันถูกเรียกว่า 'เอเธนส์แห่งอเมริกา' มีมหาวิทยาลัยระดับโลกมากมาย"
+    }
+  ],
+  "category": "lvyou",
+  "categoryName": "การท่องเที่ยว",
+  "relatedWords": [
+    "ameilika",
+    "yinghuamei",
+    "fengyeguo",
+    "boshitun"
+  ],
+  "sourceUrl": "https://chineself.com/piaoliang/"
+}

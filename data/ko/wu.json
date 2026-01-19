@@ -1,0 +1,28 @@
+{
+  "slug": "wu",
+  "chinese": "无宾感",
+  "pinyin": "wú bīn gǎn",
+  "meaning": "격식 없는 사이 / 편안한 관계",
+  "description": "손님 같은 느낌이 없음. 대우하거나 대우받는 관계가 아니라, 대등하고 편안한 분위기.",
+  "examples": [
+    {
+      "chinese": "两个人都很放松,旁若无人的亲密感,无宾感",
+      "translation": "둘 다 편안해 보이고, 안중에도 없는 듯한 친밀감, 격식이 없다."
+    },
+    {
+      "chinese": "这无宾感啊！妥妥的就是家属啊",
+      "translation": "이 편안함 봐! 영락없는 가족이네."
+    },
+    {
+      "chinese": "无宾感超级甜,亲密距离绝了",
+      "translation": "격식 없는 게 너무 달달해, 친밀한 거리감 대박이다."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [
+    "tuotuode",
+    "juele"
+  ],
+  "sourceUrl": "https://chineself.com/wu/"
+}

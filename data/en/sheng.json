@@ -1,0 +1,25 @@
+{
+  "slug": "sheng",
+  "chinese": "胜败乃兵家常事",
+  "pinyin": "shèng bài nǎi bīng jiā cháng shì",
+  "meaning": "Victory and defeat are common in war / Winning and losing is part of the game",
+  "description": "War has wins and losses. It means that winning or losing is a common occurrence and one should not be discouraged by defeat or arrogant in victory.",
+  "examples": [
+    {
+      "chinese": "胜败乃兵家常事,对待输赢请平常心",
+      "translation": "Winning and losing is common, please keep a calm mind."
+    },
+    {
+      "chinese": "胜败乃兵家常事,下次比赛加油就是了",
+      "translation": "Failure is common, just try harder in the next game."
+    },
+    {
+      "chinese": "竞技体育没有常胜将军,胜败乃兵家常事啊",
+      "translation": "There is no ever-victorious general in sports, winning and losing is part of the game."
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "Chengyu / Idioms",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/sheng/"
+}

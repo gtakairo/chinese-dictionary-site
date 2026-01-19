@@ -1,0 +1,16 @@
+{
+  "slug": "guanli",
+  "chinese": "管理层收购",
+  "pinyin": "guǎn lǐ céng shōu gòu",
+  "meaning": "マネジメント・バイアウト（MBO)",
+  "description": "経営陣が自社を買収するMBO。非公開化や事業再編の一手として用いられる。",
+  "examples": [
+    {"chinese": "公司计划进行管理层收购", "japanese": "会社はMBOを計画している"},
+    {"chinese": "管理层收购后公司将退市", "japanese": "MBO後に上場廃止となる予定だ"},
+    {"chinese": "投资者关注管理层收购的估值", "japanese": "投資家はMBOのバリュエーションに注目している"}
+  ],
+  "category": "jingji",
+  "categoryName": "経済・ビジネス",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/guanli/"
+}

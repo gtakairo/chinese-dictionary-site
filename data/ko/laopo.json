@@ -1,0 +1,25 @@
+{
+  "slug": "laopo",
+  "chinese": "老破小",
+  "pinyin": "lǎo pò xiǎo",
+  "meaning": "낡고 허름하고 작은 아파트 (노파소)",
+  "description": "오래되고(老), 낡았으며(破), 면적이 작은(小) 부동산을 말합니다. 보통 도심의 지은 지 20년 이상 된 물건을 가리킵니다.",
+  "examples": [
+    {
+      "chinese": "50万捡漏100平方的老破小",
+      "translation": "50만에 100평방미터짜리 낡고 작은 아파트를 줍줍했다"
+    },
+    {
+      "chinese": "我终于买房了,老破小也生活真是美滋滋儿",
+      "translation": "드디어 집을 샀다, 낡고 작은 집이라도 사니 정말 기분이 좋다"
+    },
+    {
+      "chinese": "闲置多年的48平老破小,比我年龄都大了",
+      "translation": "수년 비어있던 48평방미터짜리 낡고 작은 아파트, 나보다 나이가 많다"
+    }
+  ],
+  "category": "fangzi",
+  "categoryName": "주거/인테리어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/laopo/"
+}

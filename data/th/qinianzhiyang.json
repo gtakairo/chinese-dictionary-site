@@ -1,0 +1,24 @@
+{
+  "slug": "qinianzhiyang",
+  "chinese": "七年之痒",
+  "pinyin": "qī nián zhī yǎng",
+  "meaning": "อาถรรพ์เลข 7 (Seven-year itch)",
+  "description": "มาจากชื่อหนัง หมายถึงช่วงวิกฤตความรักหรือชีวิตคู่ที่มักเกิดในปีที่ 7",
+  "examples": [
+    {
+      "chinese": "俩人未能走过七年之痒便结束",
+      "translation": "ทั้งคู่ผ่านอาถรรพ์เลข 7 ไปไม่ได้จนต้องจบความสัมพันธ์"
+    },
+    {
+      "chinese": "双方婚变或许已分居,七年之痒亮红灯",
+      "translation": "ชีวิตคู่เปลี่ยนแปลงอาจจะแยกกันอยู่แล้ว อาถรรพ์เลข 7 ติดไฟแดงเตือน"
+    }
+  ],
+  "category": "nannv",
+  "categoryName": "ความรักและการแต่งงาน",
+  "relatedWords": [
+    "xinyangyang",
+    "hunbian"
+  ],
+  "sourceUrl": "https://chineself.com/qinianzhiyang/"
+}

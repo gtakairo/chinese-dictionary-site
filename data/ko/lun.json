@@ -1,0 +1,25 @@
+{
+  "slug": "lun",
+  "chinese": "论迹不论心",
+  "pinyin": "lùn jī bù lùn xīn",
+  "meaning": "사람은 마음이 아니라 실제 행동으로 평가해야 한다",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "一个人的行为远比言语更重要,论迹不论心",
+      "translation": "한 사람의 행동이 말보다 훨씬 중요하다. 마음이 아닌 행적으로 논해야 한다."
+    },
+    {
+      "chinese": "论迹不论心,论心无圣人",
+      "translation": "행동을 따져야지 마음을 따져선 안 된다. 마음을 따지면 성인은 없다."
+    },
+    {
+      "chinese": "有善心的人未必会做善行,论迹不论心",
+      "translation": "선한 마음을 가진 사람이 반드시 선행을 하는 것은 아니니, 마음이 아닌 행동으로 평가해야 한다."
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "미분류",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/lun/"
+}

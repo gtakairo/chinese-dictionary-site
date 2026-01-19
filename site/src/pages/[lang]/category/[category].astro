@@ -1,0 +1,81 @@
+---
+export const prerender = true;
+
+import Layout from '../../../layouts/Layout.astro';
+import WordCard from '../../../components/WordCard.astro';
+import { getWordsByCategory, getAvailableLanguages, getAllCategories, getCategoryName, getCategoryIcon } from '../../../lib/data';
+
+export function getStaticPaths() {
+  const paths: { params: { lang: string; category: string } }[] = [];
+  const categories = getAllCategories();
+  
+  for (const lang of getAvailableLanguages()) {
+    for (const category of categories) {
+      paths.push({
+        params: { lang, category: category.id },
+      });
+    }
+  }
+  
+  return paths;
+}
+
+const { lang, category } = Astro.params;
+const words = getWordsByCategory(lang, category);
+const categories = getAllCategories();
+const currentCategory = categories.find(c => c.id === category);
+const categoryName = currentCategory ? getCategoryName(currentCategory, lang) : category;
+---
+
+<Layout title={`${categoryName} - ChineseDict`} lang={lang}>
+  <!-- Breadcrumb -->
+  <nav class="text-sm text-gray-500 mb-6">
+    <a href={`/${lang}/`} class="hover:text-red-600">Home</a>
+    <span class="mx-2">/</span>
+    <span class="text-gray-900">{getCategoryIcon(category)} {categoryName}</span>
+  </nav>
+
+  <!-- Category Header -->
+  <header class="mb-8">
+    <h1 class="text-3xl font-bold text-gray-900 flex items-center gap-3">
+      <span class="text-4xl">{getCategoryIcon(category)}</span>
+      {categoryName}
+    </h1>
+    <p class="text-gray-600 mt-2">
+      {words.length} {lang === 'ja' ? '件の単語' : lang === 'ko' ? '개의 단어' : 'words'}
+    </p>
+  </header>
+
+  <!-- Words Grid -->
+  {words.length > 0 ? (
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+      {words.map(word => (
+        <WordCard word={word} lang={lang} />
+      ))}
+    </div>
+  ) : (
+    <div class="text-center py-12 text-gray-500">
+      {lang === 'ja' ? 'このカテゴリにはまだ単語がありません' : 
+       lang === 'ko' ? '이 카테고리에는 아직 단어가 없습니다' : 
+       'No words in this category yet'}
+    </div>
+  )}
+
+  <!-- Ad Space -->
+  <div class="my-8 p-8 bg-gray-100 rounded-lg text-center text-gray-400">
+    Ad Space
+  </div>
+
+  <!-- Back Link -->
+  <nav class="pt-8 border-t border-gray-200">
+    <a 
+      href={`/${lang}/`}
+      class="flex items-center gap-2 text-gray-600 hover:text-red-600"
+    >
+      <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
+      </svg>
+      {lang === 'ja' ? 'ホームへ戻る' : lang === 'ko' ? '홈으로 돌아가기' : 'Back to Home'}
+    </a>
+  </nav>
+</Layout>

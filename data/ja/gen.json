@@ -1,0 +1,25 @@
+{
+  "slug": "gen",
+  "chinese": "搁哪",
+  "pinyin": "gē nǎ",
+  "meaning": "どこにいるの、どこなの",
+  "description": "東北地方の方言。",
+  "examples": [
+    {
+      "chinese": "搁哪呢,我找不到啊",
+      "japanese": "どこにいるの、探せないよ"
+    },
+    {
+      "chinese": "天天搁哪吹牛,没实力别瞎bb",
+      "japanese": "毎日どこでほら吹いているだ、実力ないならくどくど言うな"
+    },
+    {
+      "chinese": "天啦噜,我充电器搁那放着",
+      "japanese": "なんてこった、俺は充電器をどこに置いたんだ"
+    }
+  ],
+  "category": "fangyan",
+  "categoryName": "方言",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/gen/"
+}

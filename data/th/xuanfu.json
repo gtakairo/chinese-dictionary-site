@@ -1,0 +1,19 @@
+{
+  "slug": "xuanfu",
+  "chinese": "炫富",
+  "pinyin": "xuàn fù",
+  "meaning": "อวดรวย",
+  "description": "การโชว์ความร่ำรวยหรือของแพงบนโซเชียล",
+  "examples": [
+    {
+      "chinese": "他在朋友圈炫富",
+      "translation": "เขาอวดรวยในไทม์ไลน์"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์แสลงอินเทอร์เน็ต",
+  "relatedWords": [
+    "youdiaodiao"
+  ],
+  "sourceUrl": "https://chineself.com/xuanfu/"
+}

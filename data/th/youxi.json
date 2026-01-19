@@ -1,0 +1,27 @@
+{
+  "slug": "youxi",
+  "chinese": "忧心忡忡",
+  "pinyin": "yōu xīn chōng chōng",
+  "meaning": "กังวลใจอย่างมาก / ทุกข์ใจหนัก",
+  "description": "มีความกังวลเต็มหัวใจ",
+  "examples": [
+    {
+      "chinese": "我忧心忡忡的看着未来",
+      "translation": "ฉันมองอนาคตด้วยความกังวลใจอย่างมาก"
+    },
+    {
+      "chinese": "双减政策,对于学生成绩是否影响?家长忧心忡忡",
+      "translation": "นโยบายลดการบ้านและเรียนพิเศษมีผลต่อเกรดไหม? ผู้ปกครองกังวลใจมาก"
+    },
+    {
+      "chinese": "好多事情细细一想,就会变得忧心忡忡",
+      "translation": "พอคิดถึงเรื่องต่างๆ อย่างละเอียด ก็เริ่มกังวลใจ"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "สำนวน",
+  "relatedWords": [
+    "shuangjian"
+  ],
+  "sourceUrl": "https://chineself.com/youxi/"
+}

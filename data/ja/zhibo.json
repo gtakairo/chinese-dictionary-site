@@ -1,0 +1,21 @@
+{
+  "slug": "zhibo",
+  "chinese": "直播带货",
+  "pinyin": "zhí bò dài huò",
+  "meaning": "ライブコマース",
+  "description": "带货主播でも同じ。直播「ライブ配信」で带货「身に付けている、使っている商品、自ら販売したい商品」などを紹介して販売すること。Eコマースとライブ配信を掛け合わせた新しいオンラインの販売手法。視聴者と配信者がリアルタイムでコミュニケーションできるのが特徴。ライブ配信プラットフォームは、「抖音电商」、「淘宝直播」など。",
+  "examples": [
+    {
+      "chinese": "直播带货已经成为中国电商行业的新热潮",
+      "translation": "ライブコマースはすでに中国のEコマースの新しいブームとなっている"
+    },
+    {
+      "chinese": "知名网红做直播带货,一个月卖了100万的服装",
+      "translation": "著名なインフルエンサーがライブコマースで、1カ月に100万洋服を売った"
+    }
+  ],
+  "category": "sns",
+  "categoryName": "Web・SNS用語",
+  "relatedWords": ["daihuoshengti", "wanghong", "fenyibeigeng"],
+  "sourceUrl": "https://chineself.com/zhibo/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "taoxin",
+  "chinese": "掏心掏肺",
+  "pinyin": "tāo xīn tāo fèi",
+  "meaning": "正直な、嘘偽りのない、誠意のある",
+  "description": "心と肺を取り出すような、真心を込めた態度を表す。",
+  "examples": [
+    {
+      "chinese": "他真的太掏心掏肺了",
+      "translation": "彼は本当に正直すぎる"
+    },
+    {
+      "chinese": "身边掏心掏肺相处的朋友都是认识比较久的",
+      "translation": "身のまわりで誠意を持って接している友達はすべて長い付き合いの人だ"
+    },
+    {
+      "chinese": "不要见谁都掏心掏肺,至交就那么几个",
+      "translation": "会う人すべてに嘘偽りなく接するな、親密な友人は数人にすぎない"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "成語・四字熟語",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/taoxin/"
+}

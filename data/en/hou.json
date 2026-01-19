@@ -1,0 +1,25 @@
+{
+  "slug": "hou",
+  "chinese": "后备箱",
+  "pinyin": "hòu bèi xiāng",
+  "meaning": "Car trunk",
+  "description": "The space at the back of a car for storing luggage.",
+  "examples": [
+    {
+      "chinese": "把行李放进后备箱",
+      "translation": "Put luggage in the trunk"
+    },
+    {
+      "chinese": "后备箱开关在哪",
+      "translation": "Where is the trunk release switch?"
+    },
+    {
+      "chinese": "检查后备箱密封条",
+      "translation": "Check the trunk weatherstrip"
+    }
+  ],
+  "category": "car",
+  "categoryName": "Automobile",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/hou/"
+}

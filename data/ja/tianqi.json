@@ -1,0 +1,16 @@
+{
+  "slug": "tianqi",
+  "chinese": "天启宗教",
+  "pinyin": "tiān qǐ zōng jiào",
+  "meaning": "啓示宗教",
+  "description": "天启宗教 は亚伯拉罕诸教（yà bó lāhǎn zhū jiào）「アブラハムの宗教」とも呼ぶ。アブラハムの神を受け継ぐと称するユダヤ教、キリスト教、イスラム教の三大宗教を指す。",
+  "examples": [
+    {"chinese": "天启宗教包括犹太教、基督教、伊斯兰教", "japanese": "啓示宗教にはユダヤ教・キリスト教・イスラム教が含まれる"},
+    {"chinese": "研究天启宗教的起源与传播", "japanese": "啓示宗教の起源と伝播を研究する"},
+    {"chinese": "天启宗教强调唯一真神", "japanese": "啓示宗教は唯一神を強調する"}
+  ],
+  "category": "religion",
+  "categoryName": "宗教・哲学",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/tianqi/"
+}

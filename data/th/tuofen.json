@@ -1,0 +1,20 @@
+{
+    "slug": "tuofen",
+    "chinese": "脱粉",
+    "pinyin": "tuō fěn",
+    "meaning": "เลิกเป็นแฟนคลับ",
+    "description": "เลิกติดตามเพราะข่าวฉาวหรือทัศนคติไม่ตรงกัน",
+    "category": "net",
+    "categoryName": "วัฒนธรรมแฟนคลับ",
+    "relatedWords": [
+        "tafang",
+        "poquan"
+    ],
+    "sourceUrl": "https://chineself.com/tuofen/",
+    "examples": [
+        {
+            "chinese": "事件后很多人脱粉",
+            "translation": "หลังเกิดเรื่อง คนเลิกเป็นแฟนคลับเยอะมาก"
+        }
+    ]
+}

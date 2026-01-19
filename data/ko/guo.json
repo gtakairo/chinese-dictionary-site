@@ -1,0 +1,25 @@
+{
+  "slug": "guo",
+  "chinese": "国补",
+  "pinyin": "guó bǔ",
+  "meaning": "국비 보조금 (국가 보조금)",
+  "description": "「국가 보조금(国家补贴)」의 줄임말이다. 정부가 기업에 제공하는 산업 보조금이나 소비자를 위한 「전기차 구매 보조금」, 「보상 판매 보조금」 등을 포함한다.",
+  "examples": [
+    {
+      "chinese": "最近国补非常香,你都领了吗",
+      "translation": "요즘 국비 지원이 혜자인데, 너도 받았어?"
+    },
+    {
+      "chinese": "这些手机值得买,可以享受国补政策",
+      "translation": "이 휴대폰들은 살 만해, 국비 지원 정책 혜택을 받을 수 있거든."
+    },
+    {
+      "chinese": "自2023年汽车\"以旧换新\"等购车补贴政策推行,今年也国补政策出炉",
+      "translation": "2023년부터 자동차 \"보상 판매\" 등 구매 보조금 정책이 시행되었고, 올해도 국비 지원 정책이 발표되었다."
+    }
+  ],
+  "category": "zhengzhi",
+  "categoryName": "정치",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/guo/"
+}

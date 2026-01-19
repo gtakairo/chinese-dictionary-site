@@ -1,0 +1,27 @@
+{
+  "slug": "jiu",
+  "chinese": "久别重逢",
+  "pinyin": "jiǔ bié chóng féng",
+  "meaning": "กลับมาพบกันใหม่หลังจากจากกันไปนาน",
+  "description": "ได้พบกับคนที่ไม่ได้เจอกันมานานอีกครั้ง",
+  "examples": [
+    {
+      "chinese": "每一次遇见都像久别重逢高兴",
+      "translation": "ทุกการพบเจอก็เหมือนความดีใจที่ได้กลับมาพบกันใหม่"
+    },
+    {
+      "chinese": "跟男朋友久别重逢的是什么感觉",
+      "translation": "การได้กลับมาเจอแฟนหลังจากห่างกันไปนานรู้สึกยังไง?"
+    },
+    {
+      "chinese": "如果我们能够久别重逢,我希望你别来无恙",
+      "translation": "หากเราได้กลับมาพบกันอีกครั้ง หวังว่าเธอจะสบายดี"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "สำนวน/สุภาษิต",
+  "relatedWords": [
+    "bielaiwuyang"
+  ],
+  "sourceUrl": "https://chineself.com/jiu/"
+}

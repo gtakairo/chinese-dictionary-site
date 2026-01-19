@@ -1,0 +1,25 @@
+{
+  "slug": "shaolai",
+  "chinese": "少来",
+  "pinyin": "shǎo lái",
+  "meaning": "またまた、やめてよ、～もほどほどにして、冗談言わないで",
+  "description": "辞書には「①来るな、来ないように ②あまり来ない、めったに来ない ③少なめに」とあるが、③の意味が転じたネット用語となる。",
+  "examples": [
+    {
+      "chinese": "少来这一套甜言蜜语",
+      "translation": "またまた、うまい話はやめてよ"
+    },
+    {
+      "chinese": "你少来这套",
+      "translation": "やめて、いい加減にしてよ"
+    },
+    {
+      "chinese": "你真的少来啊",
+      "translation": "あんたホントやめてよ"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語・スラング",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/shaolai/"
+}

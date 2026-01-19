@@ -1,0 +1,28 @@
+{
+  "slug": "cifan",
+  "chinese": "次饭",
+  "pinyin": "cì fàn",
+  "meaning": "밥 먹다",
+  "description": "츠판(chī fàn)의 의미를 가진 인터넷 용어. 챠판(qia fan)과 같은 의미.",
+  "examples": [
+    {
+      "chinese": "你次饭没？",
+      "translation": "밥 먹었어?"
+    },
+    {
+      "chinese": "一起次饭被吧",
+      "translation": "같이 밥 먹자"
+    },
+    {
+      "chinese": "大家好久没在一起次饭啦",
+      "translation": "모두 같이 밥 먹은 지 오래됐네"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어/속어",
+  "relatedWords": [
+    "qiafan",
+    "shibuzhiwei"
+  ],
+  "sourceUrl": "https://chineself.com/cifan/"
+}

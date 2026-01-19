@@ -1,0 +1,25 @@
+{
+    "slug": "sun",
+    "chinese": "损坏事故",
+    "pinyin": "sǔn huài shì gù",
+    "meaning": "물적 피해 사고 (물피 사고)",
+    "description": "물적 손괴만 발생한 사고. 인적 피해는 포함하지 않음.",
+    "category": "car",
+    "categoryName": "자동차",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/sun/",
+    "examples": [
+        {
+            "chinese": "发生了车辆物损事故",
+            "translation": "차량 물피 사고가 발생했다"
+        },
+        {
+            "chinese": "报案处理物损事故",
+            "translation": "물피 사고 신고 처리"
+        },
+        {
+            "chinese": "保险公司核定物损事故",
+            "translation": "보험사가 물피 사고를 사정하다"
+        }
+    ]
+}

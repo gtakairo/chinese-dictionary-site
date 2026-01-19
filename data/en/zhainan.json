@@ -1,0 +1,19 @@
+{
+  "slug": "zhainan",
+  "chinese": "宅男",
+  "pinyin": "zhái nán",
+  "meaning": "Otaku male / Nerd / Homebody",
+  "description": "Males who prefer staying at home, often interested in anime/games.",
+  "examples": [
+    {
+      "chinese": "他是典型宅男",
+      "translation": "He is a typical otaku male"
+    }
+  ],
+  "category": "net",
+  "categoryName": "Lifestyle",
+  "relatedWords": [
+    "nvshen"
+  ],
+  "sourceUrl": "https://chineself.com/zhainan/"
+}

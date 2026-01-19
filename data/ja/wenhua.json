@@ -1,0 +1,16 @@
+{
+  "slug": "wenhua",
+  "chinese": "文化创意产业",
+  "pinyin": "wén huà chuàng yì chǎn yè",
+  "meaning": "クリエイティブ産業",
+  "description": "文化と創造性を生かした産業分野。コンテンツやデザイン等。",
+  "examples": [
+    {"chinese": "发展文化创意产业集群", "japanese": "クリエイティブ産業のクラスターを育成する"},
+    {"chinese": "文化创意产业带动城市更新", "japanese": "クリエイティブ産業が都市再生を牽引する"},
+    {"chinese": "支持原创内容与设计", "japanese": "オリジナルコンテンツとデザインを支援する"}
+  ],
+  "category": "jingji",
+  "categoryName": "経済・ビジネス",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/wenhua/"
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "keng",
+  "chinese": "坑爹",
+  "pinyin": "kēng diē",
+  "meaning": "Deceptive, Cheating, Rip-off, Disappointing",
+  "description": "\"Kengdie\" (literally \"tricking one's father\") is used when reality falls far short of expectations. Originating from dialects in Shandong and northern Jiangsu. It implies being let down, tricked, or ripped off.",
+  "examples": [
+    {
+      "chinese": "太差了,这个坑爹货",
+      "translation": "This is terrible, this product asks for a beating (is a rip-off)"
+    },
+    {
+      "chinese": "点了个蓝山咖啡,味道属实有点坑爹",
+      "translation": "Ordered a Blue Mountain coffee, the taste is honestly a bit disappointing (a rip-off)"
+    },
+    {
+      "chinese": "停车场停车也扣3分罚200?太坑爹了",
+      "translation": "Deducting 3 points and fining 200 just for parking? That's too much of a rip-off"
+    }
+  ],
+  "category": "fangyan",
+  "categoryName": "Dialect",
+  "relatedWords": [
+    "caikeng",
+    "taikengle"
+  ],
+  "sourceUrl": "https://chineself.com/keng/"
+}

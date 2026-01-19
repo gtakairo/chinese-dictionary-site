@@ -1,0 +1,29 @@
+{
+  "slug": "fanqiang",
+  "chinese": "翻墙",
+  "pinyin": "fān qiáng",
+  "meaning": "1. Climb over a wall / Escape 2. Circumvent internet censorship (VPN)",
+  "description": "Sense 2 is also called \"paqiang\" or \"powang\". Being blocked by censorship is called \"bei qiang le\". The censorship system set up on the internet is called the \"Great Firewall\" (Golden Shield), and accessing overseas websites by bypassing this wall is referred to as \"climbing the wall\". In China, invisible information borders are set by the government, restricting access to many overseas sites (e.g., YouTube, Instagram, X: formerly Twitter).",
+  "examples": [
+    {
+      "chinese": "两男子偷偷翻墙离开封控小区",
+      "translation": "Two men secretly climbed over the wall to leave the locked-down residential compound."
+    },
+    {
+      "chinese": "通过VPN翻墙访问油管",
+      "translation": "Access YouTube by circumvention via VPN."
+    },
+    {
+      "chinese": "关于翻墙服务,违法浏览境外网站",
+      "translation": "Regarding circumvention services, illegally browsing overseas websites."
+    }
+  ],
+  "category": "sns",
+  "categoryName": "Web & SNS Terminology",
+  "relatedWords": [
+    "paqiang",
+    "minganci",
+    "youguan"
+  ],
+  "sourceUrl": "https://chineself.com/fanqiang/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "yi",
+  "chinese": "一白遮百丑",
+  "pinyin": "yī bái zhē bǎi chǒu",
+  "meaning": "피부가 희면 일곱 난 저절로 감추어진다 / 흰 피부는 모든 결점을 덮는다",
+  "description": "피부가 하지면 예뻐 보인다.",
+  "examples": [
+    {
+      "chinese": "一白真的遮百丑吗",
+      "translation": "피부가 희면 정말 다 예뻐 보이나?"
+    },
+    {
+      "chinese": "一白遮百丑,牙白更靓丽",
+      "translation": "흰 피부는 결점을 덮고, 하얀 이는 더 아름답게 한다."
+    },
+    {
+      "chinese": "俗话说一白遮百丑,皮肤黑不可怕",
+      "translation": "피부가 희면 결점을 덮는다고 하지만, 까만 피부도 나쁘지 않다."
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "성어 / 사자성어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/yi/"
+}

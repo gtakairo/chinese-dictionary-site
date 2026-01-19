@@ -1,0 +1,25 @@
+{
+  "slug": "an",
+  "chinese": "阿囊死给",
+  "pinyin": "ā náng sǐ gěi",
+  "meaning": "나가 뒤져라, 지옥에나 가라",
+  "description": "신장 위구르 지역 방언으로 「가서 죽어라」라는 뜻의 욕설.",
+  "examples": [
+    {
+      "chinese": "阿西吧,阿囊死给",
+      "translation": "아이 씨, 나가 뒤져라"
+    },
+    {
+      "chinese": "阿囊死给,我恨死你们",
+      "translation": "지옥에나 가버려, 너희가 죽도록 밉다"
+    },
+    {
+      "chinese": "都该死,真她妈恶心,阿囊死给",
+      "translation": "다 죽어야 해, 진짜 역겹네, 꺼져버려"
+    }
+  ],
+  "category": "ma",
+  "categoryName": "욕설",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/an/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "gen",
+  "chinese": "搁哪",
+  "pinyin": "gē nǎ",
+  "meaning": "อยู่ไหน / ที่ไหน",
+  "description": "ภาษาถิ่นทางภาคตะวันออกเฉียงเหนือของจีน",
+  "examples": [
+    {
+      "chinese": "搁哪呢,我找不到啊",
+      "translation": "อยู่ไหนเนี่ย หาไม่เจอ"
+    },
+    {
+      "chinese": "天天搁哪吹牛,没实力别瞎bb",
+      "translation": "วันๆ เอาแต่โม้ไปเรื่อย ไม่มีฝีมือก็อย่ามาพล่าม"
+    },
+    {
+      "chinese": "天啦噜,我充电器搁那放着",
+      "translation": "ตายจริง เอาที่ชาร์จไปวางไว้ไหนเนี่ย"
+    }
+  ],
+  "category": "fangyan",
+  "categoryName": "ภาษาถิ่น",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/gen/"
+}

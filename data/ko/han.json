@@ -1,0 +1,25 @@
+{
+  "slug": "han",
+  "chinese": "憨八嘎",
+  "pinyin": "hān bā gā",
+  "meaning": "햄버거",
+  "description": "「햄버거(Hamburger)」를 뜻한다. 「빠가(八嘎)」는 일본어 「바카(바보)」의 음역이기도 하다.",
+  "examples": [
+    {
+      "chinese": "好久没吃憨八嘎了明天要吃",
+      "translation": "햄버거 안 먹은 지 오래됐다. 내일 먹어야지."
+    },
+    {
+      "chinese": "你喜欢m记还是k记的憨八嘎",
+      "translation": "너는 맥도날드 햄버거가 좋아, KFC 햄버거가 좋아?"
+    },
+    {
+      "chinese": "晚上吃汉堡王的憨八嘎,主要买一送一捏",
+      "translation": "저녁엔 버거킹 햄버거 먹어야지, 1+1 행사 하거든."
+    }
+  ],
+  "category": "wailaiyu",
+  "categoryName": "외래어/음역",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/han/"
+}

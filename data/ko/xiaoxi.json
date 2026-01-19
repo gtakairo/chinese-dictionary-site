@@ -1,0 +1,32 @@
+{
+  "slug": "xiaoxi",
+  "chinese": "小仙女",
+  "pinyin": "xiǎo xiān nǚ",
+  "meaning": "선녀님 / 요정 / 여신",
+  "description": "얼굴이 예쁘고 귀여운 여성을 지칭함.",
+  "examples": [
+    {
+      "chinese": "这是什么小仙女啊,美鼠了",
+      "translation": "이 무슨 선녀님인가, 너무 예뻐서 미치겠다."
+    },
+    {
+      "chinese": "幼儿园的小仙女走红",
+      "translation": "유치원 요정이 인기다."
+    },
+    {
+      "chinese": "白白胖胖的小仙女",
+      "translation": "하얗고 통통한 꼬마 선녀."
+    },
+    {
+      "chinese": "学生说老师你今天是小仙女",
+      "translation": "학생들이 선생님 오늘 요정 같다고 했다."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [
+    "xianqi",
+    "meishule"
+  ],
+  "sourceUrl": "https://chineself.com/xiaoxi/"
+}

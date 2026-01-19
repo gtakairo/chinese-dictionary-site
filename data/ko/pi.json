@@ -1,0 +1,25 @@
+{
+  "slug": "pi",
+  "chinese": "偏不凑巧",
+  "pinyin": "piān bù còu qiǎo",
+  "meaning": "하필이면, 공교롭게도",
+  "description": "'Pian'은 '공교롭게, 마침'의 의미. 불운함을 강조.",
+  "examples": [
+    {
+      "chinese": "偏不凑巧,我这个时候感冒了",
+      "translation": "하필이면 이때 감기에 걸렸어"
+    },
+    {
+      "chinese": "一大早搬运东西真的要累死,还偏不凑巧今天穿了高跟鞋",
+      "translation": "이른 아침부터 짐 옮기느라 죽겠는데, 하필이면 오늘 힐을 신었네"
+    },
+    {
+      "chinese": "这几天下雨,温度下降,偏不凑巧,今天还停电",
+      "translation": "요 며칠 비오고 기온 떨어졌는데, 하필 오늘 또 정전이야"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "미분류",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/pi/"
+}

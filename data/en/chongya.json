@@ -1,0 +1,28 @@
+{
+  "slug": "chongya",
+  "chinese": "冲鸭",
+  "pinyin": "chōng yā",
+  "meaning": "Charge!, Let's go~",
+  "description": "Internet slang meaning 「Charge!」 (chong ya). Same as 「chong chong chong」.",
+  "examples": [
+    {
+      "chinese": "新的一周继续冲鸭",
+      "translation": "Continue to charge forward in the new week"
+    },
+    {
+      "chinese": "珍惜时光,把握机遇,赶紧冲鸭",
+      "translation": "Cherish time, seize opportunities, and hurry up and charge!"
+    },
+    {
+      "chinese": "给你打call！加油！冲鸭！",
+      "translation": "Cheering for you! Go for it! Charge!"
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [
+    "chongchongchong",
+    "dacall"
+  ],
+  "sourceUrl": "https://chineself.com/chongya/"
+}

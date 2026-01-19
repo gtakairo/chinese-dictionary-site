@@ -1,0 +1,41 @@
+{
+  "slug": "di",
+  "chinese": "滴",
+  "pinyin": "dī",
+  "meaning": "～の",
+  "description": "的（de）と同じ意味。ネット用語として使われる。",
+  "examples": [
+    {
+      "chinese": "我滴妈呀",
+      "translation": "あらまぁ"
+    },
+    {
+      "chinese": "真滴吗",
+      "translation": "本当？"
+    },
+    {
+      "chinese": "真滴假滴",
+      "translation": "本当に？（マジで？）"
+    },
+    {
+      "chinese": "我认为是滴",
+      "translation": "私はそうだと思う"
+    },
+    {
+      "chinese": "対滴,明天的",
+      "translation": "そう、明日"
+    },
+    {
+      "chinese": "早安,我滴宝宝",
+      "translation": "おはよう、ベイビー"
+    },
+    {
+      "chinese": "亲爱滴哥哥",
+      "translation": "愛するお兄さん"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/di/"
+}

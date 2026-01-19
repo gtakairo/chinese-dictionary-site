@@ -1,0 +1,27 @@
+{
+  "slug": "guanxi",
+  "chinese": "官瑕",
+  "pinyin": "guān xiá",
+  "meaning": "공정 하자 (초기 불량)",
+  "description": "「묵인관하(默认官瑕)」, 「불포관하(不包官瑕)」는 온라인 중고 거래에서 판매자가 구매자의 클레임을 피하기 위해 쓰는 상투적인 표현이다. 새 상품이지만 제조 공정상 발생한 흠집이나 오염 등 초기 불량에 대해서는 책임지지 않겠다는 의미이다.",
+  "examples": [
+    {
+      "chinese": "全新未拆盒,不包官瑕,售出不退不换",
+      "translation": "미개봉 새상품, 공정 하자 책임 안 짐, 판매 후 교환/환불 불가."
+    },
+    {
+      "chinese": "默认官瑕,不接受到手刀,完美主义者别来",
+      "translation": "공정 하자 감안바람, 물건 받고 깎기 없음, 예민한 분 사절."
+    },
+    {
+      "chinese": "全新仅拆,不包运输瑕,官瑕,售出后不退不换",
+      "translation": "단순 개봉 새상품, 운송 중 파손 및 공정 하자 책임 안 짐, 판매 후 교환/환불 불가."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [
+    "bujieshouxiaodao"
+  ],
+  "sourceUrl": "https://chineself.com/guanxi/"
+}

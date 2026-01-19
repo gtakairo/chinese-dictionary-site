@@ -1,0 +1,25 @@
+{
+  "slug": "ganga",
+  "chinese": "尴尬",
+  "pinyin": "gān gà",
+  "meaning": "①気恥ずかしい、気まずい、ばつが悪い ②厄介な、扱いに困る、処置に窮する ③ぎこちない ④困った、困惑した",
+  "description": "使い方の特徴として①は雰囲気を形容する ②は状況を形容する ③は動作を形容する ④は人の様子や表情、顔つきを形容する。使用頻度としては圧倒的に①の意味が多い。",
+  "examples": [
+    {
+      "chinese": "裤子拉链开了都不知道,真是太尴尬了",
+      "translation": "ズボンのチャックが開いていることに気づかなかった、本当に気まずい"
+    },
+    {
+      "chinese": "遇到了高中老同学,但是我忘记叫什么名字了,真的很尴尬",
+      "translation": "中学の時の同級生に会ったが名前を忘れてしまった、本当にばつが悪い"
+    },
+    {
+      "chinese": "每个人脸上都洋溢着尴尬的神色",
+      "translation": "みんながみんな困った表情を隠し切れない"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "未分類",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/ganga/"
+}

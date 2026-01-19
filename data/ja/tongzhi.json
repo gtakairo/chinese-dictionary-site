@@ -1,0 +1,29 @@
+{
+  "slug": "tongzhi",
+  "chinese": "同志剧",
+  "pinyin": "tóng zhì jù",
+  "meaning": "同性愛ドラマ（BLドラマ、ゲイドラマ）",
+  "description": "同志电影「同性愛映画」。卖腐剧、BL剧、BL腐剧、耽美剧、下海剧、腐剧（卖腐剧）、同志腐剧、男同剧、给剧、男男剧も同じ。ゲイの隠語はたくさん存在しており、基佬、弯男、分桃、断袖などがある。",
+  "examples": [
+    {
+      "chinese": "同志腐剧（＝腐剧）",
+      "translation": "ゲイドラマ"
+    },
+    {
+      "chinese": "同志新剧",
+      "translation": "同性愛の新ドラマ"
+    },
+    {
+      "chinese": "同志美剧",
+      "translation": "アメリカ同性愛ドラマ"
+    },
+    {
+      "chinese": "泰国同志剧",
+      "translation": "同性愛タイドラマ"
+    }
+  ],
+  "category": "lgbtq",
+  "categoryName": "LGBTQ",
+  "relatedWords": ["blju", "danmeiwenxue", "xiahaiju", "fuju", "geiju", "jilao", "wannan", "fentao", "duanbei"],
+  "sourceUrl": "https://chineself.com/tongzhi/"
+}

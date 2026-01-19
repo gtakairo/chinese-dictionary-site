@@ -1,0 +1,27 @@
+{
+  "slug": "zou",
+  "chinese": "揍扁",
+  "pinyin": "zòu biǎn",
+  "meaning": "패다 / 두들겨 패다 / 박살내다",
+  "description": "때려눕히다.",
+  "examples": [
+    {
+      "chinese": "我焯,我来揍扁你了",
+      "translation": "젠장, 널 패주러 가겠다"
+    },
+    {
+      "chinese": "再说我就揍扁你!",
+      "translation": "한 번만 더 말하면 패버린다!"
+    },
+    {
+      "chinese": "想揍扁电梯里抽烟的人",
+      "translation": "엘리베이터에서 담배 피우는 사람 패주고 싶다"
+    }
+  ],
+  "category": "ma",
+  "categoryName": "시비/욕설",
+  "relatedWords": [
+    "wochao-2"
+  ],
+  "sourceUrl": "https://chineself.com/zou/"
+}

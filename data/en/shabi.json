@@ -1,0 +1,28 @@
+{
+  "slug": "shabi",
+  "chinese": "煞笔",
+  "pinyin": "shā bǐ",
+  "meaning": "Idiot / Retard",
+  "description": "Originally means 1. To finish writing 2. The conclusion of an article. As internet slang, it is a homophone for 'Sha Bi' (idiot) and used as an insult.",
+  "examples": [
+    {
+      "chinese": "看看这个煞笔视频",
+      "translation": "Look at this idiotic video."
+    },
+    {
+      "chinese": "我真是个大煞笔呀",
+      "translation": "I really am a huge idiot."
+    },
+    {
+      "chinese": "你怎么那么煞笔呢",
+      "translation": "Why are you such an idiot?"
+    }
+  ],
+  "category": "ma",
+  "categoryName": "Insults/Provocations",
+  "relatedWords": [
+    "sb",
+    "gunyuandian"
+  ],
+  "sourceUrl": "https://chineself.com/shabi/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "jiangzi",
+  "chinese": "酱紫",
+  "pinyin": "jiàng zǐ",
+  "meaning": "Like this / This way",
+  "description": "Same meaning as 这样子 (zhè yàng zi), originated from a typo. In Nanjing dialect, 这样子 sounds like jiàng zǐ.",
+  "examples": [
+    {
+      "chinese": "就是酱紫",
+      "translation": "Just like this"
+    },
+    {
+      "chinese": "原来你是酱紫的人",
+      "translation": "So you are this kind of person"
+    },
+    {
+      "chinese": "你总是怎么酱紫啊",
+      "translation": "Why are you always like this?"
+    }
+  ],
+  "category": "fangyan",
+  "categoryName": "Dialect",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/jiangzi/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "pi",
+  "chinese": "偏不凑巧",
+  "pinyin": "piān bù còu qiǎo",
+  "meaning": "Unfortunately / Just at the wrong time",
+  "description": "'Pian' means 'unfortunately' or 'contrary to expectation'. Emphasizes 'bu cou qiao' (not coinciding/unlucky).",
+  "examples": [
+    {
+      "chinese": "偏不凑巧,我这个时候感冒了",
+      "translation": "Just my luck, I caught a cold right at this time"
+    },
+    {
+      "chinese": "一大早搬运东西真的要累死,还偏不凑巧今天穿了高跟鞋",
+      "translation": "Moving stuff early morning exhausted me to death, and just unluckily I wore high heels today"
+    },
+    {
+      "chinese": "这几天下雨,温度下降,偏不凑巧,今天还停电",
+      "translation": "Raining these days, temperature dropped, and just unluckily, power outage today"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "Uncategorized",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/pi/"
+}

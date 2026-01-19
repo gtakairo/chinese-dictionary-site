@@ -1,0 +1,25 @@
+{
+  "slug": "ri",
+  "chinese": "日不到",
+  "pinyin": "rì bù dào",
+  "meaning": "관계를 갖지 못함 (하지 못했다)",
+  "description": "'일(日)'은 '입(入, rù)'의 변형. 'wo ru ni'(널 범하다)에서 유래. 'cao bu dao'(범하지 못하다)와 같은 의미. '조(操, cào)'는 '성교하다'라는 뜻도 있음.",
+  "examples": [
+    {
+      "chinese": "昨天约会结果日不到",
+      "translation": "어제 데이트했는데 결국 못 했다"
+    },
+    {
+      "chinese": "他说今天怕是日不到",
+      "translation": "그는 오늘 아마 못 할 거라고 말했다"
+    },
+    {
+      "chinese": "网友调侃又是日不到的一天",
+      "translation": "네티즌들은 또 못 한 하루라고 자조했다"
+    }
+  ],
+  "category": "sub",
+  "categoryName": "서브컬처",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/ri/"
+}

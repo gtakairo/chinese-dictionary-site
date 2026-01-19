@@ -1,0 +1,25 @@
+{
+  "slug": "xiaoyi",
+  "chinese": "小蚁",
+  "pinyin": "xiǎo yǐ",
+  "meaning": "네오 (NEO) / 샤오이",
+  "description": "중국판 이더리움.",
+  "examples": [
+    {
+      "chinese": "小蚁后来更名为NEO",
+      "translation": "샤오이는 나중에 NEO로 개명했다."
+    },
+    {
+      "chinese": "研究小蚁智能合约",
+      "translation": "네오 스마트 컨트랙트를 연구하다."
+    },
+    {
+      "chinese": "小蚁生态在发展",
+      "translation": "네오 생태계가 발전하고 있다."
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "금융 / 투자",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/xiaoyi/"
+}

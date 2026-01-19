@@ -1,0 +1,25 @@
+{
+  "slug": "ao",
+  "chinese": "熬穿了",
+  "pinyin": "áo chuān le",
+  "meaning": "밤을 꼬박 새다, 밤샘하다",
+  "description": "밤을 완전히 새워 아침을 맞이하는 것.",
+  "examples": [
+    {
+      "chinese": "一个星期熬穿了两次",
+      "translation": "일주일에 두 번이나 밤을 샜다"
+    },
+    {
+      "chinese": "年轻人在周末吃早餐,不是因为起得早,是熬穿了",
+      "translation": "젊은이들이 주말에 아침을 먹는 건 일찍 일어난 게 아니라 밤을 샜기 때문이다"
+    },
+    {
+      "chinese": "明知今天要上一天班还熬夜熬穿了,现在生不如死",
+      "translation": "오늘 출근해야 되는 거 알면서도 밤을 꼴딱 샜더니 죽을 맛이다"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "미분류",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/ao/"
+}

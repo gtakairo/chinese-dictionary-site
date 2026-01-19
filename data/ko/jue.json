@@ -1,0 +1,25 @@
+{
+  "slug": "jue",
+  "chinese": "蕨饼",
+  "pinyin": "jué bǐng",
+  "meaning": "와라비모찌 (고사리 떡)",
+  "description": "중국에서도 일본 과자로 친숙하며, 고사리 전분으로 만든 부드러운 떡이다.",
+  "examples": [
+    {
+      "chinese": "我很喜欢吃蕨饼",
+      "translation": "나는 와라비모찌를 아주 좋아한다"
+    },
+    {
+      "chinese": "这家店的蕨饼很Q弹",
+      "translation": "이 가게의 와라비모찌는 아주 쫄깃하다"
+    },
+    {
+      "chinese": "夏天吃蕨饼清爽不腻",
+      "translation": "여름에 먹는 와라비모찌는 상큼하고 질리지 않는다"
+    }
+  ],
+  "category": "liaoli",
+  "categoryName": "요리",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/jue/"
+}

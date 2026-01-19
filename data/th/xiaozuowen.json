@@ -1,0 +1,19 @@
+{
+  "slug": "xiaozuowen",
+  "chinese": "小作文",
+  "pinyin": "xiǎo zuòwén",
+  "meaning": "เรียงความขนาดย่อม / โพสต์ยาวเหยียด",
+  "description": "การโพสต์ข้อความยาวๆ บนโซเชียลเพื่อระบายความรู้สึกหรือชี้แจง",
+  "examples": [
+    {
+      "chinese": "他又发小作文了",
+      "translation": "เขาโพสต์เรียงความยาวเหยียดอีกแล้ว"
+    }
+  ],
+  "category": "net",
+  "categoryName": "โซเชียล / การสื่อสาร",
+  "relatedWords": [
+    "zqsg"
+  ],
+  "sourceUrl": "https://chineself.com/xiaozuowen/"
+}

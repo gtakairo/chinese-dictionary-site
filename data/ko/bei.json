@@ -1,0 +1,28 @@
+{
+  "slug": "bei",
+  "chinese": "背包袱",
+  "pinyin": "bèi bāo fú",
+  "meaning": "짐을 지다 / 부담을 안다",
+  "description": "「Baofu」는 「①보자기 ②보자기 꾸러미 ③(정신적인) 부담, 골칫거리」를 의미한다. 「Fangxia baofu」는 「어깨의 짐을 내려놓다」.",
+  "examples": [
+    {
+      "chinese": "不要背包袱,你只需要对自己负责就好啦",
+      "translation": "부담 갖지 마, 너는 자신에게 책임만 지면 돼"
+    },
+    {
+      "chinese": "工作尊滴很辛苦,有谁愿意背包袱",
+      "translation": "일은 정말 힘들어, 누가 짐을 지고 싶어 하겠어?"
+    },
+    {
+      "chinese": "不给孩子背包袱,轻装往前走才是给孩子正能量",
+      "translation": "아이에게 부담을 주지 않고, 가볍게 앞으로 나아가는 것이 아이에게 긍정적인 에너지를 주는 것이다"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "미분류",
+  "relatedWords": [
+    "zundima",
+    "zhengnengliang"
+  ],
+  "sourceUrl": "https://chineself.com/bei/"
+}

@@ -1,0 +1,39 @@
+{
+    "slug": "tongzhi",
+    "chinese": "同志剧",
+    "pinyin": "tóng zhì jù",
+    "meaning": "ซีรีย์วาย (เกย์)",
+    "description": "ละครเกี่ยวกับชายรักชาย",
+    "category": "lgbtq",
+    "categoryName": "LGBTQ",
+    "relatedWords": [
+        "blju",
+        "danmeiwenxue",
+        "xiahaiju",
+        "fuju",
+        "geiju",
+        "jilao",
+        "wannan",
+        "fentao",
+        "duanbei"
+    ],
+    "sourceUrl": "https://chineself.com/tongzhi/",
+    "examples": [
+        {
+            "chinese": "同志腐剧（＝腐剧）",
+            "translation": "ซีรีย์วาย"
+        },
+        {
+            "chinese": "同志新剧",
+            "translation": "ซีรีย์วายเรื่องใหม่"
+        },
+        {
+            "chinese": "同志美剧",
+            "translation": "ซีรีย์เกย์อเมริกา"
+        },
+        {
+            "chinese": "泰国同志剧",
+            "translation": "ซีรีย์วายไทย"
+        }
+    ]
+}

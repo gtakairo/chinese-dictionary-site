@@ -1,0 +1,25 @@
+{
+  "slug": "yitaifang",
+  "chinese": "以太坊",
+  "pinyin": "yǐ tài fang",
+  "meaning": "Ethereum",
+  "description": "Decentralized platform with smart contracts. Currency is ETH.",
+  "examples": [
+    {
+      "chinese": "以太坊升级提高了效率",
+      "translation": "Ethereum upgrade improved efficiency"
+    },
+    {
+      "chinese": "在以太坊上部署智能合约",
+      "translation": "Deploy smart contracts on Ethereum"
+    },
+    {
+      "chinese": "ETH的手续费下降了",
+      "translation": "ETH gas fees have dropped"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "Finance/Investment",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/yitaifang/"
+}

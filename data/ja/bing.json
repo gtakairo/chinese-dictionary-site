@@ -1,0 +1,25 @@
+{
+  "slug": "bing",
+  "chinese": "并不鲜见",
+  "pinyin": "bìng bù xiǎn jiàn",
+  "meaning": "ごくありふれた、珍しくも何ともない",
+  "description": "鲜见は「極めて稀にみる」の意味。",
+  "examples": [
+    {
+      "chinese": "发生狗咬人的事件在日常生活中并不鲜见",
+      "japanese": "犬に噛まれる事件はしょっちゅう見られる"
+    },
+    {
+      "chinese": "类似的事件在现实中并不鲜见",
+      "japanese": "これに似た事件は実際には日常的に見られる"
+    },
+    {
+      "chinese": "闲置的校舍,撂荒的土地,在乡村并不鲜见",
+      "japanese": "放置された校舎、荒廃した土地は田舎では決して珍しい光景ではない"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "未分類",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/bing/"
+}

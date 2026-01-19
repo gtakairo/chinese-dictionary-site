@@ -1,0 +1,33 @@
+{
+  "slug": "shang",
+  "chinese": "上岸",
+  "pinyin": "shàng àn",
+  "meaning": "①上陸する、陸揚げする ②成功する、上手くいく、合格する",
+  "description": "一般的には①の意味になり、②はネット用語。苦海（内卷＝厳しい競争社会）からやっと逃れて岸に辿り着く（競争社会を勝ち抜く）という意味合いで使われる。考公上岸（＝成公上岸）は「公務員試験に受かる（公務員になる）」となる。",
+  "examples": [
+    {
+      "chinese": "考研如何上岸",
+      "translation": "大学院入試にどうやって合格するか？"
+    },
+    {
+      "chinese": "祈祷上岸,锦鲤护体",
+      "translation": "上手く事が進み強運が共にありますように"
+    },
+    {
+      "chinese": "下海容易,上岸难",
+      "translation": "新しく事業を始めるのは容易いが成功するのは難しい"
+    },
+    {
+      "chinese": "祝一切顺利！成公上岸",
+      "translation": "すべてが順調にいきますように、公務員になれますように"
+    },
+    {
+      "chinese": "今年顺心上岸满意岗位",
+      "translation": "今年は思い通り上手くいき満足する職場につけますように"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": ["neijuan", "jinli", "xiahai"],
+  "sourceUrl": "https://chineself.com/shang/"
+}

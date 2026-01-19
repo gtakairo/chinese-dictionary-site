@@ -1,0 +1,25 @@
+{
+  "slug": "jiami",
+  "chinese": "加密货币",
+  "pinyin": "jiā mì huò bì",
+  "meaning": "Cryptocurrency",
+  "description": "「Jiami」 means 「encrypt」.",
+  "examples": [
+    {
+      "chinese": "加密货币价格波动很大",
+      "translation": "Cryptocurrency prices fluctuate greatly"
+    },
+    {
+      "chinese": "他开始定投加密货币",
+      "translation": "He started fix-investing in cryptocurrency"
+    },
+    {
+      "chinese": "监管政策影响加密货币市场",
+      "translation": "Regulatory policies affect the cryptocurrency market"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "Finance/Investment",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/jiami/"
+}

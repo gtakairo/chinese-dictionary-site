@@ -1,0 +1,25 @@
+{
+  "slug": "dianzi",
+  "chinese": "电子布洛芬",
+  "pinyin": "diàn zǐ bù luò fēn",
+  "meaning": "電子イブプロフェン〈喩〉ネット上の癒しを与えるもの",
+  "description": "気持ちが萎えているとき、エモいときなどにその情緒に活力や癒しを与えてくれるネット上にある写真や音楽などのこと。イブプロフェンは、解熱や炎症や痛みをやわらげたりする薬のこと。",
+  "examples": [
+    {
+      "chinese": "太勾了,不愧是电子布洛芬～看到他浑身都不疼了",
+      "translation": "どこから見ても申し分ない、さすが電子イブプロフェン、彼を見ると身体の痛みがなくなる"
+    },
+    {
+      "chinese": "百听不厌,我的电子布洛芬一听所有烦恼都忘掉了",
+      "translation": "何度聞いてもよい、私の電子イブプロフェンは聞くとすべての悩みを忘れられる"
+    },
+    {
+      "chinese": "新vlog更新,你是我的电子布洛芬,速更速更",
+      "translation": "新しいvlog更新、あなたは私に癒しを与えてくれる、早く更新して"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": ["gouren", "baitingbuyan"],
+  "sourceUrl": "https://chineself.com/dianzi/"
+}

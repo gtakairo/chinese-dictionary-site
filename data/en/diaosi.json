@@ -1,0 +1,29 @@
+{
+  "slug": "diaosi",
+  "chinese": "屌丝",
+  "pinyin": "diǎo sī",
+  "meaning": "Loser / 「Diaosi」 / Underdog",
+  "description": "Refers to young men who lack money, looks, and background. Often used self-deprecatingly. Also written as 吊丝. Antonyms include 「Gao Fu Shuai」 (Tall, Rich, Handsome). It carries a satirical connotation about social mobility.",
+  "examples": [
+    {
+      "chinese": "原来我是个臭屌丝",
+      "translation": "Turns out I'm just a stinking loser."
+    },
+    {
+      "chinese": "穷屌丝怎样逆袭大老板？",
+      "translation": "How does a poor loser strike back to become a big boss?"
+    },
+    {
+      "chinese": "在上海的屌丝生活,我感觉太累了",
+      "translation": "Living a loser's life in Shanghai, I feel so tired."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [
+    "qiongaicuo",
+    "yazi",
+    "haosang"
+  ],
+  "sourceUrl": "https://chineself.com/diaosi/"
+}

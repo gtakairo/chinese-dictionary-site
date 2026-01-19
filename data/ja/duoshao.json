@@ -1,0 +1,25 @@
+{
+  "slug": "duoshao",
+  "chinese": "多少米",
+  "pinyin": "duō shǎo mǐ",
+  "meaning": "（金額が）いくら？",
+  "description": "「多少钱」のこと。昔はお金の代わりに米を使って取引していたことから。値段をストレートに聞くのは気が引けるため、このように婉曲的な言い回しをすることがある。",
+  "examples": [
+    {
+      "chinese": "做美甲要多少米",
+      "japanese": "ネイルするのにいくらかかるの"
+    },
+    {
+      "chinese": "不知道赔了多少米",
+      "japanese": "いくら賠償するのか分からない"
+    },
+    {
+      "chinese": "礼貌问价,你们的婚礼费用花了多少米",
+      "japanese": "失礼ですが値段を聞きたい、あなたたちの結婚式費用いくら使った？"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語・スラング",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/duoshao/"
+}

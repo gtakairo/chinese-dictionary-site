@@ -1,0 +1,15 @@
+{
+  "slug": "xianhunhouai",
+  "chinese": "先婚后爱",
+  "pinyin": "xiān hūn hòu ài",
+  "meaning": "結婚してから愛を育むこと、お見合い結婚",
+  "description": "まず結婚してあとから愛を育むこと。親族や親が薦めるお見合い結婚の文脈で使うことも。",
+  "examples": [
+    {"chinese": "先婚后爱,虽然很土,但是很上头", "japanese": "結婚してから愛を育むのは田舎臭いがとても興奮する"},
+    {"chinese": "先婚后爱,先爱后婚,有大的区别", "japanese": "お見合い結婚と恋愛結婚では大きな差がある"}
+  ],
+  "category": "nannv",
+  "categoryName": "恋愛・結婚",
+  "relatedWords": ["baobanhunyin"],
+  "sourceUrl": "https://chineself.com/xianhunhouai/"
+}

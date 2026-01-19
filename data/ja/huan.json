@@ -1,0 +1,16 @@
+{
+  "slug": "huan",
+  "chinese": "缓冲存储器",
+  "pinyin": "huǎn chōng cún chú qì",
+  "meaning": "バッファメモリ",
+  "description": "データの一時的な滞留・転送効率化のための記憶領域。",
+  "examples": [
+    {"chinese": "优化缓冲存储器策略", "japanese": "バッファの戦略を最適化する"},
+    {"chinese": "缓冲存储器能提高吞吐量", "japanese": "バッファでスループットを向上できる"},
+    {"chinese": "检查缓冲存储器溢出问题", "japanese": "バッファオーバーフローの問題を確認する"}
+  ],
+  "category": "technology",
+  "categoryName": "テクノロジー",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/huan/"
+}

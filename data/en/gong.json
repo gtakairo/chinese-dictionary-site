@@ -1,0 +1,25 @@
+{
+  "slug": "gong",
+  "chinese": "功败垂成",
+  "pinyin": "gōng bài chuí chéng",
+  "meaning": "Fail on the verge of success",
+  "description": "To fail at the last moment despite good progress. Idiom meaning 「to fall short of success at the last stage」.",
+  "examples": [
+    {
+      "chinese": "这次最终导致功败垂成",
+      "translation": "This time it ultimately led to failure on the verge of success."
+    },
+    {
+      "chinese": "绝杀时刻的失误,恐怕导致功败垂成",
+      "translation": "A mistake at the buzzer beater moment, afraid it leads to snatching defeat from the jaws of victory."
+    },
+    {
+      "chinese": "朋友和我说了恋爱已经快要进入婚姻,最后却功败垂成的事情",
+      "translation": "My friend told me about how their relationship was heading towards marriage but failed at the last hurdle."
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "Idioms / Chengyu",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/gong/"
+}

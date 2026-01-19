@@ -1,0 +1,19 @@
+{
+  "slug": "pofang",
+  "chinese": "破防",
+  "pinyin": "pò fáng",
+  "meaning": "ใจบาง / เกราะแตก (สะเทือนใจ)",
+  "description": "ความรู้สึกที่ถูกกระทบจิตใจจนทนไม่ไหว",
+  "examples": [
+    {
+      "chinese": "这段话直接把我破防了",
+      "translation": "ประโยคนี้ทำฉันใจบางเลย"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์สแลงชาวเน็ต",
+  "relatedWords": [
+    "shangtou"
+  ],
+  "sourceUrl": "https://chineself.com/pofang/"
+}

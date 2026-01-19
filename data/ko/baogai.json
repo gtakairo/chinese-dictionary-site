@@ -1,0 +1,19 @@
+{
+  "slug": "baogai",
+  "chinese": "爆改",
+  "pinyin": "bào gǎi",
+  "meaning": "대개조 / 파격적인 리메이크",
+  "description": "외관이나 기능을 극적으로 개조하는 것. 패션이나 탈것에 사용된다.",
+  "examples": [
+    {
+      "chinese": "他把旧车爆改成跑车",
+      "translation": "그는 낡은 차를 스포츠카로 대개조했다"
+    }
+  ],
+  "category": "fashion",
+  "categoryName": "패션/개조",
+  "relatedWords": [
+    "oumeifaner"
+  ],
+  "sourceUrl": "https://chineself.com/baogai/"
+}

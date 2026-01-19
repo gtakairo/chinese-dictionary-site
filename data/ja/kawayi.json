@@ -1,0 +1,15 @@
+{
+  "slug": "kawayi",
+  "chinese": "卡哇伊",
+  "pinyin": "kǎ wa yī",
+  "meaning": "かわいい",
+  "description": "日本語の「カワイイ」の音訳。卡哇一も同じ。",
+  "examples": [
+    {"chinese": "樱花妹,卡哇伊伊伊～卡哇伊内", "japanese": "日本の女の子、カワイイ～～可愛いね"},
+    {"chinese": "这个设计真的好卡哇伊捏", "japanese": "このデザイン本当にとってもカワイイね"}
+  ],
+  "category": "wailaiyu",
+  "categoryName": "外来語・音訳",
+  "relatedWords": ["hongdouni", "diesinei"],
+  "sourceUrl": "https://chineself.com/kawayi/"
+}

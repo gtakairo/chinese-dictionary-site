@@ -1,0 +1,28 @@
+{
+  "slug": "jidong",
+  "chinese": "鸡冻",
+  "pinyin": "jī dòng",
+  "meaning": "ตื่นเต้น / ดีใจ",
+  "description": "ศัพท์อินเทอร์เน็ตของคำว่า 激动 (jī dòng)",
+  "examples": [
+    {
+      "chinese": "帅气酷盖！好鸡冻啊啊啊",
+      "translation": "หล่อเท่มาก! ตื่นเต้นจังเลย กรี๊ดๆๆ"
+    },
+    {
+      "chinese": "重磅好消息,我很鸡冻",
+      "translation": "ข่าวดีเรื่องใหญ่ ฉันตื่นเต้นมาก"
+    },
+    {
+      "chinese": "要冷静要冷静！怎么办还是很鸡冻",
+      "translation": "ใจเย็นๆ ใจเย็นๆ! ทำไงดี ยังตื่นเต้นอยู่เลย"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์สแลงอินเทอร์เน็ต",
+  "relatedWords": [
+    "kugai",
+    "zhongbang"
+  ],
+  "sourceUrl": "https://chineself.com/jidong/"
+}

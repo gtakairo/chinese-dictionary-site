@@ -1,0 +1,31 @@
+{
+  "slug": "wanghong",
+  "chinese": "网红",
+  "pinyin": "wǎng hóng",
+  "meaning": "Internet Celebrity / Influencer / Viral",
+  "description": "Abbreviation for Internet Celebrity. Places that become popular online are called 'wanghong' spots.",
+  "examples": [
+    {
+      "chinese": "你会关注什么样的网红",
+      "translation": "What kind of influencers do you follow?"
+    },
+    {
+      "chinese": "现在网红越来越多,大家不上班搞直播",
+      "translation": "There are more and more influencers now, everyone is streaming instead of working."
+    },
+    {
+      "chinese": "泰国今年突然就网红了,现在好多人打卡拍照",
+      "translation": "Thailand suddenly went viral this year, many people are checking in and taking photos."
+    }
+  ],
+  "category": "sns",
+  "categoryName": "Web / SNS Terms",
+  "relatedWords": [
+    "yijianlingxiu",
+    "wanghongdakadi",
+    "baohong",
+    "dakazu",
+    "cailei"
+  ],
+  "sourceUrl": "https://chineself.com/wanghong/"
+}

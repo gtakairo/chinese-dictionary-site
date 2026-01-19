@@ -1,0 +1,20 @@
+{
+  "slug": "duiye",
+  "chinese": "对耶",
+  "pinyin": "duì ye",
+  "meaning": "That's right / Indeed",
+  "description": "A casual expression used for agreement or backchanneling.",
+  "examples": [
+    {
+      "chinese": "这部剧很好看，对耶",
+      "translation": "This drama is great, isn't it? Yeah, it is."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [
+    "diesinei",
+    "sodiesinei"
+  ],
+  "sourceUrl": "https://chineself.com/duiye/"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "kaihei",
+  "chinese": "开黑",
+  "pinyin": "kāi hēi",
+  "meaning": "Gaming with friends (usually with voice chat)",
+  "description": "Playing games while chatting/calling with friends.",
+  "examples": [
+    {
+      "chinese": "今晚一起开黑吗",
+      "translation": "Want to play games and chat together tonight?"
+    }
+  ],
+  "category": "net",
+  "categoryName": "Gaming / Internet Slang",
+  "relatedWords": [
+    "xswl"
+  ],
+  "sourceUrl": "https://chineself.com/kaihei/"
+}

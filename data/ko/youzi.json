@@ -1,0 +1,25 @@
+{
+  "slug": "youzi",
+  "chinese": "柚子",
+  "pinyin": "yòu zi",
+  "meaning": "이오스 (EOS)",
+  "description": "일반적으로는 유자(과일)이나 여기서는 암호화폐 EOS를 의미.",
+  "examples": [
+    {
+      "chinese": "他在研究柚子生态",
+      "translation": "그는 이오스 생태계를 연구하고 있다"
+    },
+    {
+      "chinese": "柚子钱包怎么用",
+      "translation": "이오스 지갑 어떻게 써요?"
+    },
+    {
+      "chinese": "柚子价格波动很大",
+      "translation": "이오스 가격 변동이 크다"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "금융/투자",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/youzi/"
+}

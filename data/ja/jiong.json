@@ -1,0 +1,25 @@
+{
+  "slug": "jiong",
+  "chinese": "囧",
+  "pinyin": "jiǒng",
+  "meaning": "憂鬱だ、落胆する、がっかり、困った",
+  "description": "囧は部首が「くにがまえ」で中には「ハ」「口」の首部で構成されているが、そのカタチが悲しんでいる顔に似ているため顔文字のように使うネット用語となった。「囧rz」「囧TL」で使用されたりするが、それぞれ「r」と「T」が腕、「z」と「L」が脚で横から見て手と膝を床についているカタチに似ているため。",
+  "examples": [
+    {
+      "chinese": "囧事",
+      "translation": "困った事"
+    },
+    {
+      "chinese": "这两天我真囧了",
+      "translation": "この2日間本当に憂鬱だ"
+    },
+    {
+      "chinese": "突然停电了,人在囧途",
+      "translation": "突然の停電でみんな困っている"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/jiong/"
+}

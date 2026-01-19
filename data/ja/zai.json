@@ -1,0 +1,16 @@
+{
+  "slug": "zai",
+  "chinese": "再保险",
+  "pinyin": "zài bǎo xiǎn",
+  "meaning": "保険を分担する、再保険",
+  "description": "分保（fēn bǎo）と同じ意味。保険会社がリスクを他の保険会社に分散すること。",
+  "examples": [
+    {"chinese": "签订再保险合同分散风险", "japanese": "再保険契約を締結してリスクを分散する"},
+    {"chinese": "再保险覆盖巨灾风险", "japanese": "再保険が巨大災害リスクをカバーする"},
+    {"chinese": "与多家再保险公司合作", "japanese": "複数の再保険会社と提携する"}
+  ],
+  "category": "jinrong",
+  "categoryName": "金融・投資",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/zai/"
+}

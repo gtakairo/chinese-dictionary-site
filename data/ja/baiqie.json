@@ -1,0 +1,25 @@
+{
+  "slug": "baiqie",
+  "chinese": "白切黑",
+  "pinyin": "bái qiē hēi",
+  "meaning": "表面上はいい人に見えるが実は腹黒い人",
+  "description": "白（外見が良い）の中に黒（腹黒い）が隠れているという意味。",
+  "examples": [
+    {
+      "chinese": "表面上纯良,实际上傲娇白切黑",
+      "translation": "表面上は純真であるが、実はツンデレで腹黒い"
+    },
+    {
+      "chinese": "我以为你是个白切黑实际上只是个白切白",
+      "translation": "あなたは実は腹黒い人かと思ったが実は心も純心なだけだね"
+    },
+    {
+      "chinese": "一个白切黑一个黑切黑一个黑切白",
+      "translation": "ある人は外見はいい人で腹黒く、ある人は外見も内面も悪く、ある人は外見は怖いが実はいい人"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": ["aojiao"],
+  "sourceUrl": "https://chineself.com/baiqie/"
+}

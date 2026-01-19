@@ -1,0 +1,27 @@
+{
+  "slug": "leng",
+  "chinese": "冷白皮",
+  "pinyin": "lěng bái pí",
+  "meaning": "쿨톤 / 창백한 흰 피부",
+  "description": "색소가 옅고 투명감이 강해 심지어 건강하지 않아 보일 정도로 하얀 피부를 말한다. 흰 피부 중에서도 웜톤이 아닌 쿨톤에 속하는 피부를 뜻한다.",
+  "examples": [
+    {
+      "chinese": "女生为了白有多努力,想爆改冷白皮还想要好气色",
+      "translation": "여자들이 하얘지려고 얼마나 노력하는데, 쿨톤 피부로 바꾸고 싶어 하고 혈색도 좋길 원해"
+    },
+    {
+      "chinese": "我喜欢身量苗条,一头漆黑长发,冷白皮",
+      "translation": "나는 날씬하고 칠흑 같은 긴 머리에 창백한 흰 피부를 가진 사람을 좋아해"
+    },
+    {
+      "chinese": "出镜脸,而且给自己p脸p多了（我本人不是冷白皮）",
+      "translation": "사진 잘 받는 얼굴, 게다가 포토샵을 너무 많이 했다 (나 본인은 쿨톤 아님)"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 신조어",
+  "relatedWords": [
+    "shangjinglian"
+  ],
+  "sourceUrl": "https://chineself.com/leng/"
+}

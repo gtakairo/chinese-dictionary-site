@@ -1,0 +1,29 @@
+{
+  "slug": "xiaoxi",
+  "chinese": "小仙女",
+  "pinyin": "xiǎo xiān nǚ",
+  "meaning": "美しく可愛い女性",
+  "description": "ネット用語で顔、容姿が優れている女性・女の子を指す。仙气飘飘「荘厳な雰囲気で満ちている」のような美しさがある。",
+  "examples": [
+    {
+      "chinese": "这是什么小仙女啊,美鼠了",
+      "translation": "なんと美人な女性なんだ、美しすぎる"
+    },
+    {
+      "chinese": "幼儿园的小仙女走红",
+      "translation": "幼稚園の可愛い女の子が人気となっている"
+    },
+    {
+      "chinese": "白白胖胖的小仙女",
+      "translation": "色が白く太ったカワイイ女の子"
+    },
+    {
+      "chinese": "学生说老师你今天是小仙女",
+      "translation": "学生が今日の先生は美しく可愛いよって言っている"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": ["xianqi", "meishule"],
+  "sourceUrl": "https://chineself.com/xiaoxi/"
+}

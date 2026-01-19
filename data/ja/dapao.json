@@ -1,0 +1,25 @@
+{
+  "slug": "dapao",
+  "chinese": "打泡",
+  "pinyin": "dǎ pào",
+  "meaning": "①泡を立てる ②（手足に）まめができる ③いちゃつく",
+  "description": "③はネット用語。",
+  "examples": [
+    {
+      "chinese": "泡沫拿铁制作超简单,打泡成功秘诀",
+      "translation": "カフェラテは超簡単、泡を立てる成功の秘訣"
+    },
+    {
+      "chinese": "盖章盖了一百个人的资料,手都打泡了",
+      "translation": "百人分の資料に印を押していたら、手にまめができた"
+    },
+    {
+      "chinese": "你们俩不要再打泡了好不好",
+      "translation": "あなたたちもういちゃつかないでもらえる"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": ["jilao"],
+  "sourceUrl": "https://chineself.com/dapao/"
+}

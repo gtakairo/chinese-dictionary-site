@@ -1,0 +1,27 @@
+{
+  "slug": "yali",
+  "chinese": "压力怪",
+  "pinyin": "yā lì guài",
+  "meaning": "압박하는 사람 / 꼽주는 사람 (정치질)",
+  "description": "팀이나 동료에게 스트레스를 주고 압박하는 사람.",
+  "examples": [
+    {
+      "chinese": "找个游戏搭子,没有技术要求,不要压力怪",
+      "translation": "게임 친구 구함, 실력 상관없음, 꼽주는 사람 사절."
+    },
+    {
+      "chinese": "乒乓球单打还是压力比较大的,能不能少点压力怪呢",
+      "translation": "탁구 단식은 원래 부담이 큰데, 압박 좀 그만 줄 수 없나?"
+    },
+    {
+      "chinese": "我自己本身就是个压力怪了,不允许任何人给我压力",
+      "translation": "나 자체가 압박형 인간이라, 누가 나한테 압박 주는 건 못 참아."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [
+    "dazi"
+  ],
+  "sourceUrl": "https://chineself.com/yali/"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "xiaojingling",
+  "chinese": "小精灵",
+  "pinyin": "xiǎo jīnglíng",
+  "meaning": "요정 / 소악마",
+  "description": "귀엽고 장난꾸러기 같은 사람이나 분위기.",
+  "examples": [
+    {
+      "chinese": "她像个小精灵一样可爱",
+      "translation": "그녀는 요정처럼 귀엽다."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 속어",
+  "relatedWords": [
+    "mengmengda",
+    "qmeng"
+  ],
+  "sourceUrl": "https://chineself.com/xiaojingling/"
+}

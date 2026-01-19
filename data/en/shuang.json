@@ -1,0 +1,25 @@
+{
+    "slug": "shuang",
+    "chinese": "双柏忌",
+    "pinyin": "shuāng bǎi jì",
+    "meaning": "Double Bogey",
+    "description": "",
+    "category": "sport",
+    "categoryName": "Sports",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/shuang/",
+    "examples": [
+        {
+            "chinese": "这一洞我打了双柏忌",
+            "translation": "I got a double bogey on this hole"
+        },
+        {
+            "chinese": "连续两个双柏忌",
+            "translation": "Two consecutive double bogeys"
+        },
+        {
+            "chinese": "避免在关键洞打出双柏忌",
+            "translation": "Avoid getting a double bogey on key holes"
+        }
+    ]
+}

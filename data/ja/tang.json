@@ -1,0 +1,16 @@
+{
+  "slug": "tang",
+  "chinese": "糖醋肉",
+  "pinyin": "táng cù ròu",
+  "meaning": "酢豚",
+  "description": "日本の中華料理店の酢豚にピーマンなど野菜が入っていない肉だけのもの。",
+  "examples": [
+    {"chinese": "点一份糖醋肉配米饭", "japanese": "酢豚をライスと一緒に注文する"},
+    {"chinese": "这道糖醋肉偏甜", "japanese": "この酢豚は甘めの味付けだ"},
+    {"chinese": "糖醋肉没有青椒", "japanese": "この酢豚にはピーマンが入っていない"}
+  ],
+  "category": "liaoli",
+  "categoryName": "料理",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/tang/"
+}

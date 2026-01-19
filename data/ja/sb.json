@@ -1,0 +1,16 @@
+{
+  "slug": "sb",
+  "chinese": "sb",
+  "pinyin": "shǎ bī",
+  "meaning": "アホ、バカ",
+  "description": "傻屄（傻逼）の略記。傻B、傻x、傻鸟、煞笔、傻屌、傻吊、傻杯、啥比、啥b、沙杯、沙比、沙壁、沙币、厦币、神必、书杯など派生表記がある。",
+  "examples": [
+    {"chinese": "我是傻B", "japanese": "俺はバカだ"},
+    {"chinese": "真的是sb", "japanese": "ホントあほだな"},
+    {"chinese": "就是远离sb", "japanese": "バカはほっとけ"}
+  ],
+  "category": "ma",
+  "categoryName": "挑発・罵倒語",
+  "relatedWords": ["shabi"],
+  "sourceUrl": "https://chineself.com/sb/"
+}

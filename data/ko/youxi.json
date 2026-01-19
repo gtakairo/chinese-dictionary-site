@@ -1,0 +1,27 @@
+{
+  "slug": "youxi",
+  "chinese": "忧心忡忡",
+  "pinyin": "yōu xīn chōng chōng",
+  "meaning": "우심충충 / 근심이 가득하다",
+  "description": "걱정으로 마음이 무겁다.",
+  "examples": [
+    {
+      "chinese": "我忧心忡忡的看着未来",
+      "translation": "나는 우심충충하게 미래를 바라본다"
+    },
+    {
+      "chinese": "双减政策,对于学生成绩是否影响?家长忧心忡忡",
+      "translation": "쌍감 정책이 성적에 영향을 줄까? 학부모들은 우심충충하다"
+    },
+    {
+      "chinese": "好多事情细细一想,就会变得忧心忡忡",
+      "translation": "많은 일을 자세히 생각하면 우심충충해진다"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "성어/사자성어",
+  "relatedWords": [
+    "shuangjian"
+  ],
+  "sourceUrl": "https://chineself.com/youxi/"
+}

@@ -1,0 +1,35 @@
+{
+    "slug": "tou",
+    "chinese": "头部",
+    "pinyin": "tóu bù",
+    "meaning": "① Head ② Top/Leading",
+    "description": "Refers to top tier.",
+    "category": "net",
+    "categoryName": "Internet Slang",
+    "relatedWords": [
+        "wanghong"
+    ],
+    "sourceUrl": "https://chineself.com/tou/",
+    "examples": [
+        {
+            "chinese": "头部企业（龙头企业）",
+            "translation": "Top enterprise"
+        },
+        {
+            "chinese": "头部品牌",
+            "translation": "Top brand"
+        },
+        {
+            "chinese": "头部客户",
+            "translation": "Top client"
+        },
+        {
+            "chinese": "头部主播",
+            "translation": "Top streamer/anchor"
+        },
+        {
+            "chinese": "头部网红",
+            "translation": "Top influencer"
+        }
+    ]
+}

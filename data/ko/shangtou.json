@@ -1,0 +1,19 @@
+{
+  "slug": "shangtou",
+  "chinese": "上头",
+  "pinyin": "shàng tóu",
+  "meaning": "빠져들다 / 심취하다",
+  "description": "무언가에 빠져 이성을 잃을 정도가 되는 것.",
+  "examples": [
+    {
+      "chinese": "我最近对这部剧很上头",
+      "translation": "요즘 이 드라마에 완전 빠져 있다."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 속어",
+  "relatedWords": [
+    "pofang"
+  ],
+  "sourceUrl": "https://chineself.com/shangtou/"
+}

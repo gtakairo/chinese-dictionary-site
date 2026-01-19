@@ -1,0 +1,16 @@
+{
+  "slug": "huo",
+  "chinese": "火币",
+  "pinyin": "huǒ bì",
+  "meaning": "フォビ（Huobi）【仮想通貨の取引所】",
+  "description": "中国発の仮想通貨取引所Huobiの中国語表記。",
+  "examples": [
+    {"chinese": "在火币完成KYC", "japanese": "フォビでKYC（本人確認）を完了する"},
+    {"chinese": "火币上线新币种", "japanese": "フォビに新しい銘柄が上場した"},
+    {"chinese": "查询火币的交易手续费", "japanese": "フォビの取引手数料を確認する"}
+  ],
+  "category": "jinrong",
+  "categoryName": "金融・投資",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/huo/"
+}

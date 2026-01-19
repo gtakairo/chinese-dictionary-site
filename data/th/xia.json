@@ -1,0 +1,25 @@
+{
+  "slug": "xia",
+  "chinese": "下半场",
+  "pinyin": "xià bàn chǎng",
+  "meaning": "ครึ่งหลัง",
+  "description": "หมายถึงช่วงครึ่งหลังของการแข่งขัน",
+  "examples": [
+    {
+      "chinese": "比赛进入下半场",
+      "translation": "การแข่งขันเข้าสู่ช่วงครึ่งหลัง"
+    },
+    {
+      "chinese": "下半场表现更稳定",
+      "translation": "ฟอร์มการเล่นในครึ่งหลังนิ่งกว่า"
+    },
+    {
+      "chinese": "下半场战术调整奏效",
+      "translation": "การปรับแผนในครึ่งหลังได้ผล"
+    }
+  ],
+  "category": "sports",
+  "categoryName": "กีฬา",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/xia/"
+}

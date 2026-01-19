@@ -1,0 +1,31 @@
+{
+  "slug": "hui",
+  "chinese": "灰常",
+  "pinyin": "huī cháng",
+  "meaning": "มากๆ / สุดๆ",
+  "description": "ศัพท์อินเทอร์เน็ตของ 非常 (fēi cháng) เป็นคำสแลงที่เกิดจากการออกเสียงที่คล้ายคลึงกัน",
+  "examples": [
+    {
+      "chinese": "灰常灰常感谢！",
+      "translation": "ขอบคุณมากๆ!"
+    },
+    {
+      "chinese": "灰常罕见",
+      "translation": "หายากสุดๆ"
+    },
+    {
+      "chinese": "成长灰常多",
+      "translation": "เติบโตขึ้นมาก"
+    },
+    {
+      "chinese": "lo娘,灰常可爱",
+      "translation": "สาวโล, น่ารักมากๆ"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์สแลงอินเทอร์เน็ต",
+  "relatedWords": [
+    "loniang"
+  ],
+  "sourceUrl": "https://chineself.com/hui/"
+}

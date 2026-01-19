@@ -1,0 +1,21 @@
+{
+  "slug": "xifan",
+  "chinese": "稀饭",
+  "pinyin": "xī fàn",
+  "meaning": "①お粥 ②好き",
+  "description": "①もともと、お粥のこと。 ②転じて、喜欢（好き）と発音が同じであることから、好きという意味で使われる。③ファンになる。",
+  "examples": [
+    {
+      "chinese": "早饭我喜欢吃稀饭",
+      "translation": "朝ご飯はお粥が好き"
+    },
+    {
+      "chinese": "稀饭你",
+      "translation": "あなたが好き"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "未分類",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/xifan/"
+}

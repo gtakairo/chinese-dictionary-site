@@ -1,0 +1,14 @@
+{
+  "slug": "dbq",
+  "chinese": "DBQ",
+  "pinyin": "d b q",
+  "meaning": "ごめん（对不起の略）",
+  "description": "“对不起”の頭文字略で、軽い謝罪に使う。",
+  "examples": [
+    {"chinese": "今天迟到了DBQ", "japanese": "今日は遅刻しちゃってごめん"}
+  ],
+  "category": "wailaiyu",
+  "categoryName": "略語・頭字語",
+  "relatedWords": ["awsl", "xswl"],
+  "sourceUrl": "https://chineself.com/dbq/"
+}

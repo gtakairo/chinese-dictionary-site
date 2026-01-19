@@ -1,0 +1,25 @@
+{
+  "slug": "la",
+  "chinese": "喇叭",
+  "pinyin": "lǎ ba",
+  "meaning": "แตรรถ",
+  "description": "หากใช้ในบริบทอื่นที่ไม่ใช่รถยนต์ จะหมายถึงทรัมเป็ตหรือโทรโข่ง",
+  "examples": [
+    {
+      "chinese": "喇叭声音过大会扰民",
+      "translation": "เสียงแตรดังเกินไปจะรบกวนชาวบ้าน"
+    },
+    {
+      "chinese": "检查喇叭是否工作正常",
+      "translation": "ตรวจสอบว่าแตรทำงานปกติหรือไม่"
+    },
+    {
+      "chinese": "他拿起喇叭指挥交通",
+      "translation": "เขาหยิบโทรโข่งขึ้นมาเพื่ออำนวยความสะดวกการจราจร"
+    }
+  ],
+  "category": "car",
+  "categoryName": "รถยนต์",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/la/"
+}

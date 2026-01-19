@@ -1,0 +1,29 @@
+{
+  "slug": "bang",
+  "chinese": "棒棒哒",
+  "pinyin": "bàng bàng dá",
+  "meaning": "awesome, great, superb",
+  "description": "A cute way of saying 很棒 (very good). Similar to 牛牛哒, 溜溜哒.",
+  "examples": [
+    {
+      "chinese": "尊嘟素棒棒哒",
+      "translation": "Seriously awesome"
+    },
+    {
+      "chinese": "天啦噜,味道棒棒哒",
+      "translation": "OMG, the taste is amazing"
+    },
+    {
+      "chinese": "感觉自己棒棒哒",
+      "translation": "Feeling great about myself"
+    },
+    {
+      "chinese": "一次就学会,好棒棒哒,奥利给",
+      "translation": "Learned it in one go, so awesome, let's go!"
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/bang/"
+}

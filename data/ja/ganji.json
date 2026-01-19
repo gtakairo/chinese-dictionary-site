@@ -1,0 +1,25 @@
+{
+  "slug": "ganji",
+  "chinese": "赶脚",
+  "pinyin": "gǎn jiǎo",
+  "meaning": "感じ、感覚、気持ち",
+  "description": "一般的には、馬追い「馬に人や荷物を乗せて運ぶこと」の意味であるが、ネット用語として感觉（gǎn jué）の意味で使う。",
+  "examples": [
+    {
+      "chinese": "最近赶脚咋样？",
+      "translation": "最近調子はどう？"
+    },
+    {
+      "chinese": "到底啥赶脚呀",
+      "translation": "いったいどんな感じ？"
+    },
+    {
+      "chinese": "有一阵心绪不宁的赶脚",
+      "translation": "気持ちが落ち着かない感じ"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": ["shayangde"],
+  "sourceUrl": "https://chineself.com/ganji/"
+}

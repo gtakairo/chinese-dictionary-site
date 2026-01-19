@@ -1,0 +1,29 @@
+{
+  "slug": "996",
+  "chinese": "996福报",
+  "pinyin": "996 fú bào",
+  "meaning": "996 is a blessing",
+  "description": "Derived from the 996 working hour system (9am to 9pm, 6 days a week). Alibaba founder Jack Ma controversially called this grueling schedule a 「blessing」 (福报) for young workers.",
+  "examples": [
+    {
+      "chinese": "996福报哈,连续上班的第八天",
+      "translation": "996 blessing huh, 8th consecutive day of work"
+    },
+    {
+      "chinese": "货车司机连开10个小时叫疲劳驾驶,打工人996却叫福报,就是双标",
+      "translation": "Truck drivers driving 10 hours is called fatigue driving, but workers doing 996 is called a blessing, pure double standards"
+    },
+    {
+      "chinese": "员工因加班过劳死正在不断增加,996.007到底是谁的福报",
+      "translation": "Employees dying from overwork is increasing, whose blessing is 996/007 really?"
+    }
+  ],
+  "category": "jingji",
+  "categoryName": "Economy/Business",
+  "relatedWords": [
+    "fubao",
+    "shuangbiao",
+    "007-2"
+  ],
+  "sourceUrl": "https://chineself.com/996/"
+}

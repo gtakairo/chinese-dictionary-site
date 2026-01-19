@@ -1,0 +1,33 @@
+{
+  "slug": "miaosha",
+  "chinese": "秒殺",
+  "pinyin": "miǎo shā",
+  "meaning": "초살 / 순살 / 순삭",
+  "description": "1. 초살(순식간에 상대를 제압함). 2. 인기 상품이 순식간에 매진됨. 3. 순식간에 매료시키다.",
+  "examples": [
+    {
+      "chinese": "拳击比赛中最快的秒杀",
+      "translation": "복싱 경기 중 가장 빠른 KO(초살)."
+    },
+    {
+      "chinese": "足球赛10:0秒杀",
+      "translation": "축구 경기 10:0으로 압살하다."
+    },
+    {
+      "chinese": "今天特价品秒殺",
+      "translation": "오늘 특가 상품 순삭(매진)."
+    },
+    {
+      "chinese": "双十一优惠马上就要开始了,火爆抢秒杀",
+      "translation": "광군제 할인이 곧 시작된다. 치열한 순삭 경쟁(클릭 전쟁)에 참여하자."
+    },
+    {
+      "chinese": "难得一见的美人,一出场就秒杀全场",
+      "translation": "좀처럼 보기 힘든 미인, 등장하자마자 장내를 압도했다."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/miaosha/"
+}

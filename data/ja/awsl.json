@@ -1,0 +1,14 @@
+{
+  "slug": "awsl",
+  "chinese": "啊我死了",
+  "pinyin": "ā wǒ sǐ le",
+  "meaning": "尊死（可愛さにやられた）",
+  "description": "可愛さ・感動で“死んだ”という誇張表現。",
+  "examples": [
+    {"chinese": "这只猫太可爱了，AWSL", "japanese": "この猫、可愛すぎて尊死"}
+  ],
+  "category": "net",
+  "categoryName": "ネットスラング",
+  "relatedWords": ["mengmengda", "qmeng"],
+  "sourceUrl": "https://chineself.com/awsl/"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "ruanmeng",
+  "chinese": "软萌",
+  "pinyin": "ruǎn méng",
+  "meaning": "นุ่มนิ่มน่ารัก, สายแบ๊ว",
+  "description": "บรรยากาศหรือคาแรคเตอร์ที่ดูนุ่มนวลและน่ารัก",
+  "examples": [
+      { "chinese": "她走软萌风", "translation": "เธอเป็นสายละมุนน่ารัก" },
+      { "chinese": "这条裙子很软萌", "translation": "กระโปรงตัวนี้ละมุนมาก" },
+      { "chinese": "这个角色很软萌", "translation": "ตัวละครนี้น่ารักนุ่มนิ่มมาก" }
+    ],
+  "category": "fashion",
+  "categoryName": "แฟชั่น/บรรยากาศ",
+  "relatedWords": [
+    "mengmengda",
+    "qmeng"
+  ],
+  "sourceUrl": "https://chineself.com/ruanmeng/"
+}

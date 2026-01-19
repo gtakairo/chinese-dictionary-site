@@ -1,0 +1,19 @@
+{
+    "slug": "tuikeng",
+    "chinese": "退坑",
+    "pinyin": "tuì kēng",
+    "meaning": "เลิกเล่น, ออกจากวงการ (ออกจากหลุม)",
+    "description": "เลิกติดตามผลงานหรือเลิกเล่นเกม",
+    "category": "net",
+    "categoryName": "สแลงอินเทอร์เน็ต",
+    "relatedWords": [
+        "rukeng"
+    ],
+    "sourceUrl": "https://chineself.com/tuikeng/",
+    "examples": [
+        {
+            "chinese": "这个游戏我退坑了",
+            "translation": "เกมนี้ฉันเลิกเล่นแล้ว"
+        }
+    ]
+}

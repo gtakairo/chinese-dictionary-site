@@ -1,0 +1,28 @@
+{
+  "slug": "jiucai",
+  "chinese": "韭菜",
+  "pinyin": "jiǔ cài",
+  "meaning": "(투자에서) 호구, (자본주의에서) 착취당하는 사람들 (개미 투자자)",
+  "description": "「부추 베기(割韭菜)」는 「1. (투자 등에서) 호구 잡다 2. 교묘한 사기로 착취하다」라는 뜻이다. 부추는 척박한 땅에서도 잘 자라는 생명력이 있어 베어내도 금방 다시 자라난다. 그래서 투자 세계에 끊임없이 진입하는 초보 투자자들을 「부추」에 비유하여 수확당하는 존재로 표현한다.",
+  "examples": [
+    {
+      "chinese": "市场上骗子太多,韭菜们不够了",
+      "translation": "시장에 사기꾼은 너무 많은데, 호구들이 부족하다"
+    },
+    {
+      "chinese": "牛市来了,韭菜们看见一根大阳线就兴奋得不行",
+      "translation": "강세장이 오니, 개미들이 장대양봉 하나만 보고 흥분을 감추지 못한다"
+    },
+    {
+      "chinese": "股东是尼玛的冤大头,求求韭菜们早点醒悟吧",
+      "translation": "주주들은 젠장 봉이다, 제발 개미들아 빨리 정신 좀 차려라"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "금융/투자",
+  "relatedWords": [
+    "gejiucai",
+    "nima"
+  ],
+  "sourceUrl": "https://chineself.com/jiucaimen/"
+}

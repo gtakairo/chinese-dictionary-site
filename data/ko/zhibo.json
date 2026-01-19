@@ -1,0 +1,25 @@
+{
+  "slug": "zhibo",
+  "chinese": "直播带货",
+  "pinyin": "zhí bò dài huò",
+  "meaning": "라이브 커머스 / 라방",
+  "description": "라이브 방송을 통해 물건을 판매하는 것.",
+  "examples": [
+    {
+      "chinese": "直播带货已经成为中国电商行业的新热潮",
+      "translation": "라이브 커머스는 이미 중국 전자상거래의 새로운 붐이다"
+    },
+    {
+      "chinese": "知名网红做直播带货,一个月卖了100万的服装",
+      "translation": "유명 인플루언서가 라이브 커머스로 한 달에 100만 위안어치 옷을 팔았다"
+    }
+  ],
+  "category": "sns",
+  "categoryName": "웹/SNS 용어",
+  "relatedWords": [
+    "daihuoshengti",
+    "wanghong",
+    "fenyibeigeng"
+  ],
+  "sourceUrl": "https://chineself.com/zhibo/"
+}

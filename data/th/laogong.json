@@ -1,0 +1,29 @@
+{
+  "slug": "laogong",
+  "chinese": "老公姐",
+  "pinyin": "lǎo gōng jiě",
+  "meaning": "พี่สาวสามี (ผู้หญิงเท่ๆ ที่เป็นอุดมคติ)",
+  "description": "\"老公\" แปลว่า \"สามี\" แต่ในที่นี้เป็นสแลงหมายถึงผู้หญิงที่หล่อ เท่ และเป็นอุดมคติ",
+  "examples": [
+    {
+      "chinese": "美美哒,小说中的老公姐具象化了",
+      "translation": "สวยมาก พี่สาวสามีในนิยายออกมาสู่โลกความจริงแล้ว"
+    },
+    {
+      "chinese": "我的妈呀老公姐,美的好迷人",
+      "translation": "แม่เจ้า พี่สาวสามี สวยจนน่าหลงใหล"
+    },
+    {
+      "chinese": "老公姐,biubiubiu击中我的心,我爱你也爱老公",
+      "translation": "พี่สาวสามี ปิ้ว ปิ้ว ปิ้ว ยิงโดนใจฉันเลย ฉันรักพี่และก็รักสามีด้วย"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์อินเทอร์เน็ต",
+  "relatedWords": [
+    "meimeida",
+    "wodemaya",
+    "biubiubiu"
+  ],
+  "sourceUrl": "https://chineself.com/laogong/"
+}

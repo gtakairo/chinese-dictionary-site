@@ -1,0 +1,30 @@
+{
+  "slug": "renqi",
+  "chinese": "人前一套人后一套",
+  "pinyin": "rén qián yī tào, rén hòu yī tào",
+  "meaning": "겉과 속이 다름, 이중적인 태도",
+  "description": "'dang mian yi tao, bei hou yi tao'(면전에서는 잘하고 뒤에서는 딴짓한다)와 같은 의미. 사람이 있고 없음에 따라 태도를 바꾸는 것.",
+  "examples": [
+    {
+      "chinese": "我觉得女人都是人前一套人后一套的",
+      "translation": "나는 여자들이 다 겉과 속이 다르다고 느껴"
+    },
+    {
+      "chinese": "请不要给我人前一套人后一套",
+      "translation": "내 앞에서 겉과 속이 다르게 행동하지 마세요"
+    },
+    {
+      "chinese": "后知后觉,原来又被人背刺了,当面一套背后一套真有你的呢",
+      "translation": "뒤늦게 또 배신당했다는 걸 알게 됐다. 겉과 속이 다른 건 정말 너답네"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "사자성어",
+  "relatedWords": [
+    "dangminayitaobeihouyitao",
+    "houzhihoujue",
+    "beici",
+    "jiaoshegen"
+  ],
+  "sourceUrl": "https://chineself.com/renqi/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "han",
+  "chinese": "憨八嘎",
+  "pinyin": "hān bā gā",
+  "meaning": "ハンバーガー",
+  "description": "「Hamburger」のこと。八嘎は日本語の「バカ」の音訳。",
+  "examples": [
+    {
+      "chinese": "好久没吃憨八嘎了明天要吃",
+      "japanese": "長いことハンバーガー食べてない、明日食べよう"
+    },
+    {
+      "chinese": "你喜欢m记还是k记的憨八嘎",
+      "japanese": "あなたはマックとKFCのハンバーガーどっちが好き"
+    },
+    {
+      "chinese": "晚上吃汉堡王的憨八嘎,主要买一送一捏",
+      "japanese": "夜はバーガーキングのハンバーガーにする、1個買うと1個もらえるキャンペーンだからね"
+    }
+  ],
+  "category": "wailaiyu",
+  "categoryName": "外来語・音訳",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/han/"
+}

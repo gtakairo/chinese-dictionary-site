@@ -1,0 +1,25 @@
+{
+  "slug": "shei",
+  "chinese": "谁也说服不了谁",
+  "pinyin": "shéi yě shuō fú bù liǎo shéi",
+  "meaning": "누구도 누구를 설득할 수 없다 / 평행선 / 의견 불일치",
+  "description": "'설복(说服)'은 설득하다, 납득시키다는 뜻. 서로 상대방을 설득하기 어렵다는 의미로, 필연적으로 의견 차이가 생기고 평행선을 달리게 됨을 뜻함.",
+  "examples": [
+    {
+      "chinese": "大家各有各的意见,很难统一,谁也说服不了谁",
+      "translation": "다들 각자의 의견이 있어 통일하기 어렵고, 누구도 누구를 설득할 수 없다."
+    },
+    {
+      "chinese": "有不一样的看法很正常,别以理服人,谁也说服不了谁",
+      "translation": "다른 견해를 갖는 것은 정상이다. 이치로 따져 설득하려 하지 마라. 어차피 누구도 설득할 수 없다."
+    },
+    {
+      "chinese": "有时候没聊几句就转为争吵,习惯不同,想法不同,谁也说服不了谁",
+      "translation": "때로는 몇 마디 안 나눠도 말다툼이 된다. 습관도 생각도 다르니, 누구도 누구를 설득할 수 없다."
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "미분류",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/shei/"
+}

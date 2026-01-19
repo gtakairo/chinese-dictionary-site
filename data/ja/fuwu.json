@@ -1,0 +1,25 @@
+{
+  "slug": "fuwu",
+  "chinese": "福无双至,祸不单行",
+  "pinyin": "fú wú shuāng zhì, huò bù dān xíng",
+  "meaning": "福重ねて至らず禍必ず重ねて来る",
+  "description": "劉向の「説苑」から。幸運は次々と来ることはないが、不運な出来事は重なるものだという意味。",
+  "examples": [
+    {
+      "chinese": "福无双至祸不单行,越缺钱用钱的地方越多",
+      "translation": "福重ねて至らず禍必ず重ねて来る、金欠なときに限って入用になる"
+    },
+    {
+      "chinese": "时运不济,命途多舛,福无双至,祸不单行",
+      "translation": "ツキに恵まれず苦難や挫折ばかり、福重ねて至らず禍必ず重ねて来る"
+    },
+    {
+      "chinese": "人生哪有那么多幸运的事,福无双至,祸不单行",
+      "translation": "人生にそんな幸運がある訳ない、福重ねて至らず禍必ず重ねて来る"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "成語・四字熟語",
+  "relatedWords": ["shiyunbuji", "mingtuduochuan"],
+  "sourceUrl": "https://chineself.com/fuwu/"
+}

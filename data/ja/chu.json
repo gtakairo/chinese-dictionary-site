@@ -1,0 +1,33 @@
+{
+  "slug": "chu",
+  "chinese": "厨",
+  "pinyin": "chú",
+  "meaning": "①調理場、料理人 ②マニア、オタク、熱狂的ファン",
+  "description": "②はスラングで中毒の「ちゅう」の使い方。特定の作品やコンテンツに熱中しているファンを指す。",
+  "examples": [
+    {
+      "chinese": "厨厨们",
+      "translation": "オタクたち"
+    },
+    {
+      "chinese": "型月厨（＝月月厨厨）",
+      "translation": "TYPE-MOONオタク"
+    },
+    {
+      "chinese": "JO厨",
+      "translation": "ジョジョの奇妙な冒険の熱狂的ファン"
+    },
+    {
+      "chinese": "东方厨",
+      "translation": "東方Projectマニア"
+    },
+    {
+      "chinese": "原作厨",
+      "translation": "原作厨（原作以外は認めないオタク）"
+    }
+  ],
+  "category": "sub",
+  "categoryName": "サブカルチャー",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/chu/"
+}

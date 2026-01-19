@@ -1,0 +1,25 @@
+{
+  "slug": "zhun",
+  "chinese": "准备药检",
+  "pinyin": "zhǔn bèi yào jiǎn",
+  "meaning": "頭大丈夫？",
+  "description": "相手をからかう時に使用する。「薬や検査の準備しようか？→頭に異常があるんじゃないの？」という意味合い。",
+  "examples": [
+    {
+      "chinese": "是不是脑子短路了,准备药检吧你",
+      "japanese": "脳味噌働いてないだろ、おまえ頭大丈夫か？"
+    },
+    {
+      "chinese": "这个人真的准备药检吧",
+      "japanese": "この人本当に頭大丈夫なんだろうか？"
+    },
+    {
+      "chinese": "我怀疑你们精神状态,准备药检",
+      "japanese": "私はあなたらの精神状態を疑っている、頭大丈夫か？"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語・スラング",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/zhun/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "ai",
+  "chinese": "爱惨了",
+  "pinyin": "ài cǎn le",
+  "meaning": "죽도록 사랑하다, 뼈저리게 사랑하다",
+  "description": "미치도록 사랑한다는 강조 표현.",
+  "examples": [
+    {
+      "chinese": "爱惨了这个角色,像生活中的一个缩影",
+      "translation": "이 캐릭터를 너무 사랑했다, 마치 삶의 축소판 같다"
+    },
+    {
+      "chinese": "遇到你后心无旁骛地爱你,爱惨了",
+      "translation": "너를 만난 후 한눈팔지 않고 너만 사랑했어, 죽도록 사랑해"
+    },
+    {
+      "chinese": "爱惨了,分手真的很意难平,哭得泣不成声",
+      "translation": "너무 사랑해서, 헤어짐을 받아들이기 힘들고 목놓아 울었다"
+    }
+  ],
+  "category": "nannv",
+  "categoryName": "연애/결혼",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/ai/"
+}

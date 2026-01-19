@@ -1,0 +1,29 @@
+{
+  "slug": "ru",
+  "chinese": "rua",
+  "pinyin": "rua",
+  "meaning": "撫でる、触る",
+  "description": "撸（lū）には「撫でる」という意味もあるが、同じ意味である。ネット用語として動物などを撫でる行為を表す。",
+  "examples": [
+    {
+      "chinese": "那个腮腮肉好想rua",
+      "translation": "その頬肉とても触りたい"
+    },
+    {
+      "chinese": "碰见小金毛,狠狠rua了",
+      "translation": "ゴールデンレトリバーを見かけた、容赦なく撫でた"
+    },
+    {
+      "chinese": "可可爱爱的,真的被治愈,太好rua了",
+      "translation": "可愛い、本当に癒される、なでなでする"
+    },
+    {
+      "chinese": "好想现在去rua猫撸狗",
+      "translation": "いま猫と犬をとても撫でたくなった"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": ["saisairou"],
+  "sourceUrl": "https://chineself.com/ru/"
+}

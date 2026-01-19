@@ -1,0 +1,30 @@
+{
+  "slug": "wai",
+  "chinese": "外搭",
+  "pinyin": "wài dā",
+  "meaning": "Outerwear / Layering piece",
+  "description": "To wear as an outer layer. 'Neida' means inner layer.",
+  "examples": [
+    {
+      "chinese": "外搭一件粉色的连帽卫衣,轻盈减龄",
+      "translation": "Wearing a pink hoodie as an outer layer makes you look light and younger."
+    },
+    {
+      "chinese": "今天买了漏锁骨的T,外搭衫",
+      "translation": "Bought a T-shirt showing collarbone today, and an outer shirt."
+    },
+    {
+      "chinese": "这件短袖夏天也可以当外搭搭配哦",
+      "translation": "This short sleeve can also be worn as an outer layer in summer."
+    }
+  ],
+  "category": "fashion",
+  "categoryName": "Fashion / Beauty",
+  "relatedWords": [
+    "neida",
+    "lianmaoweiyi",
+    "jianling",
+    "chuanda"
+  ],
+  "sourceUrl": "https://chineself.com/wai/"
+}

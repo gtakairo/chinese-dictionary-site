@@ -1,0 +1,25 @@
+{
+  "slug": "lian",
+  "chinese": "连吃带拿",
+  "pinyin": "lián chī dài ná",
+  "meaning": "Eat and take away (Eat one's fill and pack more to go)",
+  "description": "To eat at a place and then take some food home with you.",
+  "examples": [
+    {
+      "chinese": "大学生吃50块钱自助餐,吃超时了,还连吃带拿",
+      "translation": "College student eats at a 50 yuan buffet, goes over time limit, and even packs food to go"
+    },
+    {
+      "chinese": "在好友家做客,连吃带拿的,回家后感到不好意思",
+      "translation": "Went to a close friend's house as a guest, ate and took some food home, felt embarrassed afterwards"
+    },
+    {
+      "chinese": "第一次去贵宾休息室,连吃带拿大包小包上飞机",
+      "translation": "Went to the VIP lounge for the first time, ate and packed bags of food onto the plane"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "Uncategorized",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/lian/"
+}

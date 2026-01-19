@@ -1,0 +1,28 @@
+{
+  "slug": "cifan",
+  "chinese": "次饭",
+  "pinyin": "cì fàn",
+  "meaning": "Have a meal / Eat",
+  "description": "Internet slang meaning 「to eat」 (chi fan). Same as 「qia fan」.",
+  "examples": [
+    {
+      "chinese": "你次饭没？",
+      "translation": "Have you eaten yet?"
+    },
+    {
+      "chinese": "一起次饭被吧",
+      "translation": "Let's eat together"
+    },
+    {
+      "chinese": "大家好久没在一起次饭啦",
+      "translation": "We haven't eaten together for a long time"
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [
+    "qiafan",
+    "shibuzhiwei"
+  ],
+  "sourceUrl": "https://chineself.com/cifan/"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "biaoqing",
+  "chinese": "表情包轰炸",
+  "pinyin": "biǎo qíng bāo hōng zhà",
+  "meaning": "Sticker bombing / Spamming stickers",
+  "description": "Sending a large number of stickers consecutively in a chat.",
+  "examples": [
+    {
+      "chinese": "他又开始对我语音轰炸+表情包轰炸",
+      "translation": "He started voice bombing + sticker bombing me again"
+    },
+    {
+      "chinese": "天杀的,给我100多条表情包轰炸",
+      "translation": "Damn it, sent me over 100 sticker bombs"
+    },
+    {
+      "chinese": "一打开手机,发现有人给我发了超多炸虾表情包",
+      "translation": "Opened my phone, found someone sent me a ton of fried shrimp stickers"
+    }
+  ],
+  "category": "sns",
+  "categoryName": "Web & SNS",
+  "relatedWords": [
+    "tianshade"
+  ],
+  "sourceUrl": "https://chineself.com/biaoqing/"
+}

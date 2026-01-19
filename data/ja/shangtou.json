@@ -1,0 +1,14 @@
+{
+  "slug": "shangtou",
+  "chinese": "上头",
+  "pinyin": "shàng tóu",
+  "meaning": "夢中になる／熱中する",
+  "description": "何かにハマって理性を失いがちになること。",
+  "examples": [
+    {"chinese": "我最近对这部剧很上头", "japanese": "最近このドラマに夢中だ"}
+  ],
+  "category": "net",
+  "categoryName": "ネットスラング",
+  "relatedWords": ["pofang"],
+  "sourceUrl": "https://chineself.com/shangtou/"
+}

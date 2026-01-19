@@ -1,0 +1,12 @@
+{
+  "slug": "baipiao",
+  "chinese": "白嫖",
+  "pinyin": "bái piáo",
+  "meaning": "ただ乗り／タダで利益を得る",
+  "description": "対価を払わずに恩恵だけ受けることを揶揄する。",
+  "examples": [{"chinese": "别白嫖了支持一下", "japanese": "ただ乗りせずに少し支援してよ"}],
+  "category": "net",
+  "categoryName": "経済・ネット文化",
+  "relatedWords": ["jiucai"],
+  "sourceUrl": "https://chineself.com/baipiao/"
+}

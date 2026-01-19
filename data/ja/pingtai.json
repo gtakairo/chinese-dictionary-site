@@ -1,0 +1,25 @@
+{
+  "slug": "pingtai",
+  "chinese": "共享经济",
+  "pinyin": "gòng xiǎng jīng jì",
+  "meaning": "シェアリングエコノミー",
+  "description": "分享经济も同じ。平台经济は「プラットフォームエコノミー」。",
+  "examples": [
+    {
+      "chinese": "终于有电瓶车了,不用做共享经济了",
+      "translation": "やっと電動自転車を手に入れた、もうシェアリングが必要ない"
+    },
+    {
+      "chinese": "现在共享经济越来越发达",
+      "translation": "いまはシェアリングエコノミーがだんだん拡大してきている"
+    },
+    {
+      "chinese": "零工经济是Airbnb,滴滴等共享经济的一种重要组成形式",
+      "translation": "ギグエコノミーは、Airbnbや滴滴などのシャアリングエコノミーの重要な組織形態だ"
+    }
+  ],
+  "category": "jingji",
+  "categoryName": "経済・ビジネス",
+  "relatedWords": ["linggongjingji"],
+  "sourceUrl": "https://chineself.com/pingtai/"
+}

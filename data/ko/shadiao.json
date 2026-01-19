@@ -1,0 +1,19 @@
+{
+  "slug": "shadiao",
+  "chinese": "沙雕",
+  "pinyin": "shā diāo",
+  "meaning": "바보 / 웃긴 바보",
+  "description": "멍청하지만 미워할 수 없는 바보, 웃기는 바보를 가리킴.",
+  "examples": [
+    {
+      "chinese": "你真沙雕",
+      "translation": "넌 정말 엉뚱하구나 (애교 섞인 말)"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 속어",
+  "relatedWords": [
+    "xswl"
+  ],
+  "sourceUrl": "https://chineself.com/shadiao/"
+}

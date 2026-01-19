@@ -1,0 +1,25 @@
+{
+  "slug": "zai",
+  "chinese": "再保险",
+  "pinyin": "zài bǎo xiǎn",
+  "meaning": "การประกันภัยต่อ",
+  "description": "การที่บริษัทประกันภัยกระจายความเสี่ยงไปยังบริษัทอื่น",
+  "examples": [
+    {
+      "chinese": "签订再保险合同分散风险",
+      "translation": "เซ็นสัญญาประกันภัยต่อเพื่อกระจายความเสี่ยง"
+    },
+    {
+      "chinese": "再保险覆盖巨灾风险",
+      "translation": "การประกันภัยต่อคุ้มครองความเสี่ยงจากภัยพิบัติใหญ่"
+    },
+    {
+      "chinese": "与多家再保险公司合作",
+      "translation": "ร่วมมือกับบริษัทประกันภัยต่อหลายแห่ง"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "การเงิน/การลงทุน",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/zai/"
+}

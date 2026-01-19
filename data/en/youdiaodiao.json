@@ -1,0 +1,24 @@
+{
+  "slug": "youdiaodiao",
+  "chinese": "有调调",
+  "pinyin": "yǒu diàodiào",
+  "meaning": "Classy / Atmospheric",
+  "description": "Having a specific tone, good taste, or vibe.",
+  "examples": [
+    {
+      "chinese": "这家咖啡店很有调调",
+      "translation": "This cafe is very atmospheric"
+    },
+    {
+      "chinese": "她穿衣很有调调",
+      "translation": "She dresses with great style"
+    }
+  ],
+  "category": "fashion",
+  "categoryName": "Fashion/Atmosphere",
+  "relatedWords": [
+    "oumeifaner",
+    "baida"
+  ],
+  "sourceUrl": "https://chineself.com/youdiaodiao/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "yitaifang",
+  "chinese": "以太坊",
+  "pinyin": "yǐ tài fang",
+  "meaning": "อีเธอเรียม",
+  "description": "แพลตฟอร์มแบบกระจายศูนย์ที่มีฟังก์ชันสัญญาอัจฉริยะ สกุลเงินคือ ETH",
+  "examples": [
+    {
+      "chinese": "以太坊升级提高了效率",
+      "translation": "การอัปเกรดอีเธอเรียมช่วยปรับปรุงประสิทธิภาพ"
+    },
+    {
+      "chinese": "在以太坊上部署智能合约",
+      "translation": "ติดตั้งสัญญาอัจฉริยะบนอีเธอเรียม"
+    },
+    {
+      "chinese": "ETH的手续费下降了",
+      "translation": "ค่าแก๊ส ETH ลดลงแล้ว"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "การเงิน/การลงทุน",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/yitaifang/"
+}

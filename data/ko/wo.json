@@ -1,0 +1,25 @@
+{
+  "slug": "wo",
+  "chinese": "握柄",
+  "pinyin": "wò bǐng",
+  "meaning": "그립 / 손잡이",
+  "description": "골프채 등의 잡는 부분을 가리킴.",
+  "examples": [
+    {
+      "chinese": "更换磨损的握柄",
+      "translation": "마모된 그립을 교체하다."
+    },
+    {
+      "chinese": "握柄要保持干燥",
+      "translation": "그립은 건조하게 유지해야 한다."
+    },
+    {
+      "chinese": "选择合适的握柄粗细",
+      "translation": "적절한 굵기의 그립을 선택하다."
+    }
+  ],
+  "category": "sports",
+  "categoryName": "스포츠",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/wo/"
+}

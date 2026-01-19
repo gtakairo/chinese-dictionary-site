@@ -1,0 +1,25 @@
+{
+  "slug": "lin",
+  "chinese": "淋巴瘤",
+  "pinyin": "lín bā liú",
+  "meaning": "Lymphoma",
+  "description": "A malignant tumor originating from cells of the lymphatic system. Treatment often involves chemotherapy, radiation therapy, and other methods.",
+  "examples": [
+    {
+      "chinese": "医生怀疑是淋巴瘤",
+      "translation": "The doctor suspects it is lymphoma."
+    },
+    {
+      "chinese": "淋巴瘤需要规范化治疗",
+      "translation": "Lymphoma requires standardized treatment."
+    },
+    {
+      "chinese": "定期复查淋巴瘤指标",
+      "translation": "Regularly recheck lymphoma indicators."
+    }
+  ],
+  "category": "yiliao",
+  "categoryName": "Medical & Health",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/lin/"
+}

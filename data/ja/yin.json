@@ -1,0 +1,25 @@
+{
+  "slug": "yin",
+  "chinese": "银",
+  "pinyin": "yín",
+  "meaning": "人",
+  "description": "ネット用語では「ひと」の意味になる。東北、山東省の方言。",
+  "examples": [
+    {
+      "chinese": "我真的是一个好银",
+      "japanese": "私は本当によい人だよ"
+    },
+    {
+      "chinese": "你真是好银啊",
+      "japanese": "あなたは本当にとても良い人だよね"
+    },
+    {
+      "chinese": "什么样的男银算是好男银？",
+      "japanese": "どのような男性が良い男性なのか？"
+    }
+  ],
+  "category": "fangyan",
+  "categoryName": "方言",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/yin/"
+}

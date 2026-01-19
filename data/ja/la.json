@@ -1,0 +1,16 @@
+{
+  "slug": "la",
+  "chinese": "喇叭",
+  "pinyin": "lǎ ba",
+  "meaning": "クラクション",
+  "description": "自動車以外の話題で使用する場合は、ラッパの意味。",
+  "examples": [
+    {"chinese": "喇叭声音过大会扰民", "japanese": "クラクション音が大きすぎると迷惑だ"},
+    {"chinese": "检查喇叭是否工作正常", "japanese": "クラクションの動作を点検する"},
+    {"chinese": "他拿起喇叭指挥交通", "japanese": "彼はメガホン（ラッパ）を手に交通整理をした"}
+  ],
+  "category": "car",
+  "categoryName": "自動車",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/la/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "ming",
+  "chinese": "敏感词",
+  "pinyin": "mǐn gǎn cí",
+  "meaning": "Sensitive words / Banned words",
+  "description": "Words that are censored or prohibited. Also refers to taboo subjects. Synonyms include 屏蔽词 (blocked words) and 违禁词 (prohibited words).",
+  "examples": [
+    {
+      "chinese": "emmm～敏感词查这么严",
+      "translation": "Emmm~ the check for sensitive words is so strict."
+    },
+    {
+      "chinese": "不知道碰到哪个敏感词了,发不出来",
+      "translation": "I don't know which sensitive word I hit, I can't post it."
+    },
+    {
+      "chinese": "发个讨论都直接ban,有什么敏感词吗",
+      "translation": "I got banned just for posting a discussion; were there any sensitive words?"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "Uncategorized",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/ming/"
+}

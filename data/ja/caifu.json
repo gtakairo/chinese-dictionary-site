@@ -1,0 +1,25 @@
+{
+  "slug": "caifu",
+  "chinese": "财富密码",
+  "pinyin": "cái fù mì mǎ",
+  "meaning": "金儲けの秘訣・コツ、金の生る木",
+  "description": "密码は「暗号、暗証番号」の意味。",
+  "examples": [
+    {
+      "chinese": "虚拟货币是财富密码还是被割韭菜",
+      "translation": "仮想通貨は金の生る木かそれともカモにされるだけか"
+    },
+    {
+      "chinese": "一个月销量暴涨10倍,掌握了什么财富密码?",
+      "translation": "1カ月の販売量が10倍に急増した、どういった金儲けのコツを身につけたの？"
+    },
+    {
+      "chinese": "这几年娱乐圈最快速的财富密码是什么？",
+      "translation": "この数年のエンタメで最も急上昇した金の生る木は何だ？"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": ["gejiucai"],
+  "sourceUrl": "https://chineself.com/caifu/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "hua",
+  "chinese": "花呗",
+  "pinyin": "huā bei",
+  "meaning": "Huabei / Ant Check Later",
+  "description": "Refers to 「Ant Huabei」. A consumer credit service provided by Ant Financial, an affiliate of Alibaba. Allows payment by credit when using Alipay. Offers up to 41 days interest-free and installment options. According to the 「2017 Young People Consumption Trend Data Report」, over 76% of young people with a monthly income of over 4000 yuan hold a credit card. Meanwhile, the 「2017 Young People Consumption Life Report」 by Ant Huabei states that over half of young people born in the 90s use Ant Huabei.",
+  "examples": [
+    {
+      "chinese": "短信提醒我本月花呗已还多少未还多少",
+      "translation": "Received a text reminding me how much Huabei I've repaid and how much is left this month"
+    },
+    {
+      "chinese": "花呗和信用卡要无力偿还了",
+      "translation": "Can't afford to repay Huabei and credit cards anymore"
+    },
+    {
+      "chinese": "透支消费捆绑了现代年轻人,以前是月光族,现在是花呗族",
+      "translation": "Overdraft consumption has bound modern young people; used to be the Moonlight Clan, now the Huabei Clan"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "Finance/Investment",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/hua/"
+}

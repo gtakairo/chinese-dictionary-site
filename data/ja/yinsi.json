@@ -1,0 +1,25 @@
+{
+  "slug": "yinsi",
+  "chinese": "隐私可言",
+  "pinyin": "yǐn sī kě yán",
+  "meaning": "内緒事、プライバシー",
+  "description": "隐私「プライバシー、私生活の秘密、プライベートなこと」とほぼ同じ意味となる。",
+  "examples": [
+    {
+      "chinese": "大数据时代,个人毫无隐私可言",
+      "translation": "ビッグデータ時代、個人のプライバシーはなにもない"
+    },
+    {
+      "chinese": "办公室安装了摄像头,太可怕了,哪有什么隐私可言",
+      "translation": "事務所に監視カメラを設置、怖すぎ、どこにプライバシーがあるというのか"
+    },
+    {
+      "chinese": "手机支付没有一点隐私可言,每一笔消费都会记录的清清楚楚",
+      "translation": "スマホ払いは内緒事がなにもできない、毎回の消費はきれいに記録されている"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "未分類",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/yinsi/"
+}

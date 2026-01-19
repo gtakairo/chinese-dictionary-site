@@ -1,0 +1,25 @@
+{
+  "slug": "piaoliang",
+  "chinese": "漂亮国",
+  "pinyin": "piào liang guó",
+  "meaning": "米国",
+  "description": "アメリカは「美国」のため「美＝漂亮」としてスラングとして使われる。阿美莉卡も同じ。樱花国「日本」、泡菜国「韓国」、枫叶国「カナダ」。",
+  "examples": [
+    {
+      "chinese": "漂亮国华人目前有多少",
+      "translation": "米国の華人はいまどれくらいいるの"
+    },
+    {
+      "chinese": "现在的漂亮国年轻人对「美国梦」持怀疑态度",
+      "translation": "現在の米国の若い人はアメリカンドリームに対して懐疑的だ"
+    },
+    {
+      "chinese": "博士屯称为「漂亮国的雅典」,拥有众多世界一流大学",
+      "translation": "ボストンは米国のアテネと称され、世界の一流大学がが集中している"
+    }
+  ],
+  "category": "lvyou",
+  "categoryName": "旅行・海外",
+  "relatedWords": ["ameilika", "yinghuamei", "fengyeguo", "boshitun"],
+  "sourceUrl": "https://chineself.com/piaoliang/"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "dangong",
+  "chinese": "当工",
+  "pinyin": "dāng gōng",
+  "meaning": "ทำงานเป็นลูกจ้าง (อีกคำหนึ่งของ 「打工」)",
+  "description": "คำที่คล้ายกับ 「打工」 (ทำงานพาร์ทไทม์/ทำงานรับจ้าง) บางครั้งใช้บนอินเทอร์เน็ต",
+  "examples": [
+    {
+      "chinese": "为了生活只能当工",
+      "translation": "เพื่อความอยู่รอดจึงต้องทำงานรับจ้าง"
+    }
+  ],
+  "category": "net",
+  "categoryName": "การทำงาน",
+  "relatedWords": [
+    "dagongren"
+  ],
+  "sourceUrl": "https://chineself.com/dangong/"
+}

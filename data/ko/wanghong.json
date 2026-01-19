@@ -1,0 +1,31 @@
+{
+  "slug": "wanghong",
+  "chinese": "网红",
+  "pinyin": "wǎng hóng",
+  "meaning": "인플루언서 / 인터넷 스타 / 핫한",
+  "description": "인터넷 유명인사의 줄임말. 인터넷에서 유명해진 장소나 물건에도 쓰임.",
+  "examples": [
+    {
+      "chinese": "你会关注什么样的网红",
+      "translation": "어떤 인플루언서를 팔로우하나요?"
+    },
+    {
+      "chinese": "现在网红越来越多,大家不上班搞直播",
+      "translation": "요즘 인플루언서가 점점 많아져서, 다들 출근 안 하고 방송한다."
+    },
+    {
+      "chinese": "泰国今年突然就网红了,现在好多人打卡拍照",
+      "translation": "올해 태국이 갑자기 핫해져서, 많은 사람이 인증샷을 찍는다."
+    }
+  ],
+  "category": "sns",
+  "categoryName": "웹 / SNS 용어",
+  "relatedWords": [
+    "yijianlingxiu",
+    "wanghongdakadi",
+    "baohong",
+    "dakazu",
+    "cailei"
+  ],
+  "sourceUrl": "https://chineself.com/wanghong/"
+}

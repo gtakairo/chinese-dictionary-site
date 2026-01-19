@@ -1,0 +1,27 @@
+{
+  "slug": "lengnuan",
+  "chinese": "冷暖自知",
+  "pinyin": "lěng nuǎn zì zhī",
+  "meaning": "본인만이 알 수 있다 / 겪어봐야 안다",
+  "description": "컵에 든 물이 차가운지 따뜻한지는 마셔보지 않으면 모른다. 불교 용어로 '사물은 남이 말해서 아는 것이 아니라, 스스로 실제로 경험하고 체득해야만 깨달을 수 있다'는 뜻이다.",
+  "examples": [
+    {
+      "chinese": "这世上根本不存在感同身受,只有冷暖自知",
+      "translation": "세상에 진정한 공감이란 존재하지 않아, 오직 스스로만이 알 뿐이야"
+    },
+    {
+      "chinese": "冷暖自知,大部分女人婚姻都不幸福",
+      "translation": "겪어보면 안다, 대부분의 여자는 결혼 생활이 행복하지 않다는 것을"
+    },
+    {
+      "chinese": "如人饮水,冷暖自知,很多事情只有自己经历了才能够真正体会",
+      "translation": "마치 물을 마시는 것처럼 차갑고 따뜻함은 스스로 아는 법, 많은 일들은 직접 겪어봐야 진정으로 이해할 수 있다"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "성어·사자성어",
+  "relatedWords": [
+    "gantongshenshou"
+  ],
+  "sourceUrl": "https://chineself.com/lengnuan/"
+}

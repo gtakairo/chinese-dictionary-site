@@ -1,0 +1,12 @@
+{
+  "slug": "yinghe",
+  "chinese": "硬核",
+  "pinyin": "yìng hé",
+  "meaning": "ハードコア／骨太",
+  "description": "内容やスタイルが骨太で本格的なこと。",
+  "examples": [{"chinese": "这部纪录片很硬核", "japanese": "このドキュメンタリーはハードコアだ"}],
+  "category": "net",
+  "categoryName": "評価・スタイル",
+  "relatedWords": ["yinglunfan"],
+  "sourceUrl": "https://chineself.com/yinghe/"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "xiaoxi",
+  "chinese": "小仙女",
+  "pinyin": "xiǎo xiān nǚ",
+  "meaning": "นางฟ้าตัวน้อย / สาวสวย",
+  "description": "คำเรียกผู้หญิงที่สวยและน่ารักเหมือนนางฟ้า",
+  "examples": [
+    {
+      "chinese": "这是什么小仙女啊,美鼠了",
+      "translation": "นี่นางฟ้าที่ไหนเนี่ย สวยเกินไปแล้ว"
+    },
+    {
+      "chinese": "幼儿园的小仙女走红",
+      "translation": "นางฟ้าตัวน้อยในโรงเรียนอนุบาลกลายเป็นกระแส"
+    },
+    {
+      "chinese": "白白胖胖的小仙女",
+      "translation": "นางฟ้าตัวน้อยขาวหมวยอ้วนท้วน"
+    },
+    {
+      "chinese": "学生说老师你今天是小仙女",
+      "translation": "นักเรียนบอกว่าครูคะ วันนี้ครูเหมือนนางฟ้าเลย"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์อินเทอร์เน็ต",
+  "relatedWords": [
+    "xianqi",
+    "meishule"
+  ],
+  "sourceUrl": "https://chineself.com/xiaoxi/"
+}

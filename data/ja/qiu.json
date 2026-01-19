@@ -1,0 +1,16 @@
+{
+  "slug": "qiu",
+  "chinese": "球场通道",
+  "pinyin": "qiú chǎng tōng dào",
+  "meaning": "スルーザグリーン",
+  "description": "ゴルフコースのプレー可能区域（スルーザグリーン）を指す表現。",
+  "examples": [
+    {"chinese": "球在球场通道内可击", "japanese": "スルーザグリーン内のボールはそのまま打てる"},
+    {"chinese": "从球场通道推进果岭", "japanese": "スルーザグリーンからグリーンへ寄せる"},
+    {"chinese": "了解球场通道的规则", "japanese": "スルーザグリーンの規則を理解する"}
+  ],
+  "category": "sport",
+  "categoryName": "運動・スポーツ",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/qiu/"
+}

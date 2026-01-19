@@ -1,0 +1,31 @@
+{
+  "slug": "wanghong",
+  "chinese": "网红",
+  "pinyin": "wǎng hóng",
+  "meaning": "เน็ตไอดอล / อินฟลูเอนเซอร์ / ดังในเน็ต",
+  "description": "ย่อมาจากคนดังในอินเทอร์เน็ต ใช้เรียกสถานที่หรือสิ่งที่กำลังเป็นกระแสไวรัลได้ด้วย",
+  "examples": [
+    {
+      "chinese": "你会关注什么样的网红",
+      "translation": "คุณติดตามเน็ตไอดอลแบบไหน?"
+    },
+    {
+      "chinese": "现在网红越来越多,大家不上班搞直播",
+      "translation": "เดี๋ยวนี้เน็ตไอดอลเยอะขึ้นเรื่อยๆ ทุกคนไม่ทำงานแต่มาไลฟ์สดแทน"
+    },
+    {
+      "chinese": "泰国今年突然就网红了,现在好多人打卡拍照",
+      "translation": "ปีนี้ไทยกลายเป็นกระแสไวรัลเฉยเลย ตอนนี้คนแห่ไปเช็คอินถ่ายรูปกันเพียบ"
+    }
+  ],
+  "category": "sns",
+  "categoryName": "ศัพท์เว็บ / โซเชียล",
+  "relatedWords": [
+    "yijianlingxiu",
+    "wanghongdakadi",
+    "baohong",
+    "dakazu",
+    "cailei"
+  ],
+  "sourceUrl": "https://chineself.com/wanghong/"
+}

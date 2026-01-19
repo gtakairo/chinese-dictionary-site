@@ -1,0 +1,25 @@
+{
+    "slug": "tama",
+    "chinese": "踏马",
+    "pinyin": "tà mǎ",
+    "meaning": "แม่ง / ไอ้เหี้ย",
+    "description": "ความหมายเดียวกับ 他妈 (คำหยาบ)",
+    "category": "tanci",
+    "categoryName": "คำอุทาน",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/tama/",
+    "examples": [
+        {
+            "chinese": "真踏马离谱",
+            "translation": "แม่งโครตไร้สาระ"
+        },
+        {
+            "chinese": "踏马的,现在才来",
+            "translation": "ไอ้เหี้ย เพิ่งจะมา"
+        },
+        {
+            "chinese": "这种事谁踏马知道呢",
+            "translation": "เรื่องแบบนี้ใครแม่งจะไปรู้"
+        }
+    ]
+}

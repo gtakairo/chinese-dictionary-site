@@ -1,0 +1,19 @@
+{
+  "slug": "ruanwen",
+  "chinese": "软文",
+  "pinyin": "ruǎn wén",
+  "meaning": "บทความโฆษณาแฝง (Tie-in)",
+  "description": "บทความหรือโพสต์ที่มีการโฆษณาแฝงอยู่ แต่ทำเนียนว่าเป็นกลาง",
+  "examples": [
+    {
+      "chinese": "这篇是软文吧",
+      "translation": "นี่มันบทความโฆษณาแฝงชัดๆ"
+    }
+  ],
+  "category": "net",
+  "categoryName": "สื่อ/โฆษณา",
+  "relatedWords": [
+    "kongping"
+  ],
+  "sourceUrl": "https://chineself.com/ruanwen/"
+}

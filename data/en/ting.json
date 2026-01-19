@@ -1,0 +1,28 @@
+{
+    "slug": "ting",
+    "chinese": "听岔了",
+    "pinyin": "tīng chà le",
+    "meaning": "Heard wrong, misunderstood",
+    "description": "\"Cha\" means mistake or deviation.",
+    "category": "uncategorized",
+    "categoryName": "Uncategorized",
+    "relatedWords": [
+        "youhe",
+        "zundujiadu"
+    ],
+    "sourceUrl": "https://chineself.com/ting/",
+    "examples": [
+        {
+            "chinese": "哟呵,他结婚了也不知道是不是我听岔了",
+            "translation": "Oh, he got married? Dig I hear wrong?"
+        },
+        {
+            "chinese": "尊嘟假嘟,我以为我耳朵听岔了",
+            "translation": "Real or fake? I thought I heard wrong"
+        },
+        {
+            "chinese": "别听岔了,我不是喜欢你",
+            "translation": "Don't misunderstand, I don't like you"
+        }
+    ]
+}

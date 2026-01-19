@@ -1,0 +1,25 @@
+{
+  "slug": "rong",
+  "chinese": "容错机制",
+  "pinyin": "róng cuò jī zhì",
+  "meaning": "Fault tolerance mechanism",
+  "description": "A mechanism that allows a system to continue operating properly in the event of the failure of some of its components.",
+  "examples": [
+    {
+      "chinese": "设计容错机制提高可靠性",
+      "translation": "Design fault tolerance mechanisms to improve reliability."
+    },
+    {
+      "chinese": "系统具备故障转移能力",
+      "translation": "The system has failover capabilities."
+    },
+    {
+      "chinese": "通过冗余实现容错",
+      "translation": "Achieve fault tolerance through redundancy."
+    }
+  ],
+  "category": "jingji",
+  "categoryName": "Economics/Business",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/rong/"
+}

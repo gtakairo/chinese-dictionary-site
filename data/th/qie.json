@@ -1,0 +1,25 @@
+{
+  "slug": "qie",
+  "chinese": "切拜",
+  "pinyin": "qiè bài",
+  "meaning": "พลีส / ขอร้อง (เชบัล)",
+  "description": "เสียงอ่านจากภาษาเกาหลี \"เชบัล\" (제발)",
+  "examples": [
+    {
+      "chinese": "欧尼,切拜切拜,求求你了",
+      "translation": "ออนนี่ พลีสๆ ขอร้องล่ะ"
+    },
+    {
+      "chinese": "切拜,让我看看吧",
+      "translation": "ขอร้องล่ะ ให้ฉันดูหน่อย"
+    },
+    {
+      "chinese": "希望我可以在你家多呆一段时间,切拜",
+      "translation": "หวังว่าจะให้ฉันอยู่บ้านเธอต่ออีกหน่อยนะ พลีส"
+    }
+  ],
+  "category": "wailaiyu",
+  "categoryName": "คำทับศัพท์",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/qie/"
+}

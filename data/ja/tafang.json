@@ -1,0 +1,14 @@
+{
+  "slug": "tafang",
+  "chinese": "塌房",
+  "pinyin": "tā fáng",
+  "meaning": "推しの不祥事で崩れる（信頼が崩壊）",
+  "description": "アイドル・推しの不祥事で信頼が崩れること。",
+  "examples": [
+    {"chinese": "他又塌房了", "japanese": "彼はまた不祥事で崩れた"}
+  ],
+  "category": "net",
+  "categoryName": "ネットスラング",
+  "relatedWords": ["poquan"],
+  "sourceUrl": "https://chineself.com/tafang/"
+}

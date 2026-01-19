@@ -1,0 +1,19 @@
+{
+  "slug": "zhainan",
+  "chinese": "宅男",
+  "pinyin": "zhái nán",
+  "meaning": "หนุ่มโอตาคุ / หนุ่มติดบ้าน",
+  "description": "ผู้ชายที่ชอบเก็บตัวอยู่บ้าน",
+  "examples": [
+    {
+      "chinese": "他是典型宅男",
+      "translation": "เขาเป็นหนุ่มโอตาคุตามแบบฉบับ"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ไลฟ์สไตล์",
+  "relatedWords": [
+    "nvshen"
+  ],
+  "sourceUrl": "https://chineself.com/zhainan/"
+}

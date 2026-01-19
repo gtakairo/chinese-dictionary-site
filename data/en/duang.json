@@ -1,0 +1,27 @@
+{
+  "slug": "duang",
+  "chinese": "断更",
+  "pinyin": "duàn gèng",
+  "meaning": "Discontinue updates / Stop updating",
+  "description": "Refers to the interruption or cessation of serialization for novels, comics, dramas, etc. In China, many individuals publish novels online, and since they write freely, they often stop updating. Similar to 「unfinished novel」 (烂尾小说).",
+  "examples": [
+    {
+      "chinese": "为什么每次我追的小说都断更啊",
+      "translation": "Why does every novel I follow stop updating?"
+    },
+    {
+      "chinese": "之前喜欢的作者断更蛮久了",
+      "translation": "The author I liked before has stopped updating for a long time."
+    },
+    {
+      "chinese": "这个微博断更了一次后就不想再发了",
+      "translation": "After stopping updates on this Weibo once, I didn't want to post anymore."
+    }
+  ],
+  "category": "sub",
+  "categoryName": "Subculture",
+  "relatedWords": [
+    "lanwei"
+  ],
+  "sourceUrl": "https://chineself.com/duang/"
+}

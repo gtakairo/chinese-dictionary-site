@@ -1,0 +1,19 @@
+{
+  "slug": "baipiao",
+  "chinese": "白嫖",
+  "pinyin": "bái piáo",
+  "meaning": "ดูฟรี (ไม่เปย์), เกาะกิน, ชุบมือเปิบ",
+  "description": "เดิมแปลว่าเที่ยวโสเภณีแล้วไม่จ่ายเงิน ในเน็ตใช้ด่าคนที่เสพคอนเทนต์ฟรีๆ โดยไม่กดไลค์ ไม่แชร์ หรือไม่สนับสนุนผู้สร้าง",
+  "examples": [
+    {
+      "chinese": "别白嫖了支持一下",
+      "translation": "อย่าเอาแต่ดูฟรี ช่วยสนับสนุนกันหน่อย"
+    }
+  ],
+  "category": "net",
+  "categoryName": "อินเทอร์เน็ต/เศรษฐกิจ",
+  "relatedWords": [
+    "jiucai"
+  ],
+  "sourceUrl": "https://chineself.com/baipiao/"
+}

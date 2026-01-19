@@ -1,0 +1,16 @@
+{
+  "slug": "menluobi",
+  "chinese": "门罗币",
+  "pinyin": "mén luó bì",
+  "meaning": "モネロ（Monero）",
+  "description": "プライバシー重視の暗号資産。送金の匿名性が高い。",
+  "examples": [
+    {"chinese": "门罗币强调隐私保护", "japanese": "モネロはプライバシー保護を重視している"},
+    {"chinese": "使用门罗币进行支付", "japanese": "モネロで支払いを行う"},
+    {"chinese": "研究门罗币的匿名技术", "japanese": "モネロの匿名化技術を研究する"}
+  ],
+  "category": "jinrong",
+  "categoryName": "金融・投資",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/menluobi/"
+}

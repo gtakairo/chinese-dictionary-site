@@ -1,0 +1,25 @@
+{
+  "slug": "yinhang",
+  "chinese": "银行不良资产",
+  "pinyin": "yín háng bù liáng zī chǎn",
+  "meaning": "หนี้เสีย (NPL)",
+  "description": "สินทรัพย์สินเชื่อที่ธนาคารกู้คืนได้ยาก",
+  "examples": [
+    {
+      "chinese": "银行不良资产率上升",
+      "translation": "อัตราส่วนหนี้เสียของธนาคารเพิ่มขึ้น"
+    },
+    {
+      "chinese": "处置不良资产需要时间",
+      "translation": "การจัดการหนี้เสียต้องใช้เวลา"
+    },
+    {
+      "chinese": "监管要求披露不良资产情况",
+      "translation": "หน่วยงานกำกับดูแลต้องการให้เปิดเผยรายละเอียดหนี้เสีย"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "การเงิน/การลงทุน",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/yinhang/"
+}

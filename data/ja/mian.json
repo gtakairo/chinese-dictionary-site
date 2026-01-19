@@ -1,0 +1,25 @@
+{
+  "slug": "mian",
+  "chinese": "绵薄之力",
+  "pinyin": "mián bó zhī lì",
+  "meaning": "微力、僅かな力",
+  "description": "绵薄だけでも「微力」の意味。自分の力を謙遜して表現する言葉。",
+  "examples": [
+    {
+      "chinese": "我一定会贡献出我的绵薄之力的",
+      "translation": "私は絶対に僅かであっても貢献します"
+    },
+    {
+      "chinese": "愿尽绵薄之力,继续捐赠",
+      "translation": "微力ながら続けて寄贈させて頂きます"
+    },
+    {
+      "chinese": "希望在有需要的时候为你尽一点绵薄之力",
+      "translation": "必要な時にあなたのために僅かながらでも尽力させてもらいたい"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "成語・四字熟語",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/mian/"
+}

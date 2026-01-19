@@ -1,0 +1,28 @@
+{
+  "slug": "chongya",
+  "chinese": "冲鸭",
+  "pinyin": "chōng yā",
+  "meaning": "돌격!, 가자~",
+  "description": "충야(chōng ya, 돌격야)의 의미를 가진 인터넷 용어. 충충충(chong chong chong)과 같은 의미.",
+  "examples": [
+    {
+      "chinese": "新的一周继续冲鸭",
+      "translation": "새로운 한 주 계속해서 돌격!"
+    },
+    {
+      "chinese": "珍惜时光,把握机遇,赶紧冲鸭",
+      "translation": "시간을 소중히 하고, 기회를 잡아서 빨리 돌격!"
+    },
+    {
+      "chinese": "给你打call！加油！冲鸭！",
+      "translation": "너를 응원해! 힘내! 가즈아!"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [
+    "chongchongchong",
+    "dacall"
+  ],
+  "sourceUrl": "https://chineself.com/chongya/"
+}

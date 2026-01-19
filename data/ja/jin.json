@@ -1,0 +1,25 @@
+{
+  "slug": "jin",
+  "chinese": "金榜题名",
+  "pinyin": "jīn bǎng tí míng",
+  "meaning": "試験に合格する",
+  "description": "古代の官僚登用試験である「科挙」において、放榜「合格発表」が金榜「黄金の札」に名前が書かれていたということから。",
+  "examples": [
+    {
+      "chinese": "愿今天一切顺顺利利,锦鲤护体,金榜题名",
+      "translation": "今日すべてが順調で、強運が共にあり、試験に合格しますように"
+    },
+    {
+      "chinese": "一起为高考加油！祝莘莘学子,金榜题名,前程似锦",
+      "translation": "一緒に大学受験のために頑張ろう、多くの学生が試験に合格して前途洋々でありますように"
+    },
+    {
+      "chinese": "祝看见这条的朋友们金榜题名,顺利上岸,高考必胜",
+      "translation": "みんな試験に合格して無事に成功しますように、受験に必ず勝ちますように"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "成語・四字熟語",
+  "relatedWords": ["jinli", "qianchengsijin", "shangan"],
+  "sourceUrl": "https://chineself.com/jin/"
+}

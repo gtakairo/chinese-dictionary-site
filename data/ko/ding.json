@@ -1,0 +1,25 @@
+{
+  "slug": "ding",
+  "chinese": "顶饱",
+  "pinyin": "dǐng bǎo",
+  "meaning": "배부르다, 든든하다",
+  "description": "음식이 배부르다는 뜻입니다. 정아(顶饿)는 「배고픔을 면하다/든든하다」라는 뜻의 동의어입니다. 정포(顶饱)는 배가 부르다는 것을 강조합니다.",
+  "examples": [
+    {
+      "chinese": "超级顶饱,我感觉一天都不会饿",
+      "translation": "엄청 든든해서 하루 종일 배가 안 고플 것 같아."
+    },
+    {
+      "chinese": "肥肉很腻,这玩意儿是真顶饱啊",
+      "translation": "비계가 너무 느끼해, 이건 정말 배부르네."
+    },
+    {
+      "chinese": "吃了几个饺子,还是超级饿啊,根本不顶饱",
+      "translation": "만두 몇 개 먹었는데 아직도 엄청 배고파, 전혀 배가 안 차."
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "미분류",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/ding/"
+}

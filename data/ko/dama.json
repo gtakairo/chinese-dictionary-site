@@ -1,0 +1,27 @@
+{
+  "slug": "dama",
+  "chinese": "大马",
+  "pinyin": "dà mǎ",
+  "meaning": "말레이시아",
+  "description": "말레이시아(马来西亚)의 통칭입니다. 참고로 소마(小马)는 몰디브(马尔代夫)를 의미합니다.",
+  "examples": [
+    {
+      "chinese": "大马羽毛球实力如何",
+      "translation": "말레이시아 배드민턴 실력은 어느 정도인가요?"
+    },
+    {
+      "chinese": "刚从大马旅游回来,不吹不黑,分享一下",
+      "translation": "막 말레이시아 여행에서 돌아왔는데, 과장이나 비하 없이 공유합니다."
+    },
+    {
+      "chinese": "青岛到大马飞机多久,机票几月份买最便宜",
+      "translation": "칭다오에서 말레이시아까지 비행기로 얼마나 걸리나요? 항공권은 몇 월에 사는 게 가장 저렴한가요?"
+    }
+  ],
+  "category": "lvyou",
+  "categoryName": "여행/해외",
+  "relatedWords": [
+    "buchuibuhei"
+  ],
+  "sourceUrl": "https://chineself.com/dama/"
+}

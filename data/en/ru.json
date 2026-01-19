@@ -1,0 +1,31 @@
+{
+  "slug": "ru",
+  "chinese": "rua",
+  "pinyin": "rua",
+  "meaning": "To pet / To rub",
+  "description": "Similar meaning to 'lu'. Used as internet slang to describe the act of petting animals.",
+  "examples": [
+    {
+      "chinese": "那个腮腮肉好想rua",
+      "translation": "I really want to squish those cheeks."
+    },
+    {
+      "chinese": "碰见小金毛,狠狠rua了",
+      "translation": "Saw a Golden Retriever and petted it enthusiastically."
+    },
+    {
+      "chinese": "可可爱爱的,真的被治愈,太好rua了",
+      "translation": "So cute, really healing, just want to pet it."
+    },
+    {
+      "chinese": "好想现在去rua猫撸狗",
+      "translation": "I really want to go pet some cats and dogs right now."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [
+    "saisairou"
+  ],
+  "sourceUrl": "https://chineself.com/ru/"
+}

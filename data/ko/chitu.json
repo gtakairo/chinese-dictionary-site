@@ -1,0 +1,20 @@
+{
+  "slug": "chitu",
+  "chinese": "吃土",
+  "pinyin": "chī tǔ",
+  "meaning": "돈이 없어 흙을 파먹다 (극심한 자금난)",
+  "description": "돈이 없어서 아무것도 살 수 없는 상태를 자조적으로 이르는 인터넷 용어.",
+  "examples": [
+    {
+      "chinese": "发工资前我又要吃土了",
+      "translation": "월급 전이라 또 흙 파먹게 생겼네"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 속어",
+  "relatedWords": [
+    "moyu",
+    "dagongren"
+  ],
+  "sourceUrl": "https://chineself.com/chitu/"
+}

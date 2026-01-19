@@ -1,0 +1,30 @@
+{
+  "slug": "xiaofei",
+  "chinese": "消费降级",
+  "pinyin": "xiāo fèi jiàng jí",
+  "meaning": "Consumption Downgrade",
+  "description": "Lowering one's spending level, buying cheaper alternatives or necessary items only.",
+  "examples": [
+    {
+      "chinese": "消费降级大家第一个舍弃掉的是啥",
+      "translation": "What's the first thing you give up in a consumption downgrade?"
+    },
+    {
+      "chinese": "消费降级,我还在用五年前的老款iPhone",
+      "translation": "Consumption downgrade, I'm still using an iPhone from 5 years ago."
+    },
+    {
+      "chinese": "city walk这个词能流行起来就很说明消费降级了",
+      "translation": "The popularity of 'city walk' illustrates consumption downgrade well."
+    }
+  ],
+  "category": "jingji",
+  "categoryName": "Economy / Business",
+  "relatedWords": [
+    "pingti",
+    "bumailisheng",
+    "zhimaiduidebumaiguide",
+    "citywalk"
+  ],
+  "sourceUrl": "https://chineself.com/xiaofei/"
+}

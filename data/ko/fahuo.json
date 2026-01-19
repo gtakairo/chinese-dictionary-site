@@ -1,0 +1,25 @@
+{
+  "slug": "fahuo",
+  "chinese": "发火线圈",
+  "pinyin": "fā huǒ xiàn quān",
+  "meaning": "점화 코일",
+  "description": "점화 플러그에 고전압을 공급하기 위한 자동차용 코일 부품.",
+  "examples": [
+    {
+      "chinese": "检查发火线圈的电阻",
+      "translation": "점화 코일의 저항값을 확인하다"
+    },
+    {
+      "chinese": "发火线圈老化会导致点火不良",
+      "translation": "코일의 노후화는 점화 불량의 원인이 된다"
+    },
+    {
+      "chinese": "更换发火线圈后故障消除",
+      "translation": "코일 교환 후 고장이 해결되었다"
+    }
+  ],
+  "category": "car",
+  "categoryName": "자동차",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/fahuo/"
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "qinianzhiyang",
+  "chinese": "七年之痒",
+  "pinyin": "qī nián zhī yǎng",
+  "meaning": "七年目の浮気、魔が差しやすい倦怠期",
+  "description": "アメリカの映画「The Seven Year Itch」の題名由来。結婚生活7年の周期に危機が訪れやすいという比喩。痒には「（したくて／欲しくて）むずむずする」の意。",
+  "examples": [
+    {"chinese": "俩人未能走过七年之痒便结束", "japanese": "2人は7年目の浮気を越えられず関係が終わった"},
+    {"chinese": "双方婚变或许已分居,七年之痒亮红灯", "japanese": "双方は離婚の危機か、すでに別居かもしれない、七年目の浮気で赤信号が点滅"}
+  ],
+  "category": "nannv",
+  "categoryName": "恋愛・結婚",
+  "relatedWords": ["xinyangyang", "hunbian"],
+  "sourceUrl": "https://chineself.com/qinianzhiyang/"
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "kawayi",
+  "chinese": "卡哇伊",
+  "pinyin": "kǎ wa yī",
+  "meaning": "คาวาอี้ (น่ารัก)",
+  "description": "คำทับศัพท์ภาษาญี่ปุ่นของคำว่า \"คาวาอี้\" (Kawaii) ใช้คำว่า 卡哇一 ได้เช่นกัน",
+  "examples": [
+    {
+      "chinese": "樱花妹,卡哇伊伊伊～卡哇伊内",
+      "translation": "สาวญี่ปุ่น คาวาอี้~~ น่ารักเนอะ"
+    },
+    {
+      "chinese": "这个设计真的好卡哇伊捏",
+      "translation": "ดีไซน์นี้คาวาอี้ฝุดๆ"
+    }
+  ],
+  "category": "wailaiyu",
+  "categoryName": "คำยืม/คำทับศัพท์",
+  "relatedWords": [
+    "hongdouni",
+    "diesinei"
+  ],
+  "sourceUrl": "https://chineself.com/kawayi/"
+}

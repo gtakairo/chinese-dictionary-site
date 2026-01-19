@@ -1,0 +1,27 @@
+{
+  "slug": "sangxin",
+  "chinese": "桑心",
+  "pinyin": "sāng xīn",
+  "meaning": "슬프다, 속상하다",
+  "description": "'shang xin'(상심하다)의 인터넷 용어.",
+  "examples": [
+    {
+      "chinese": "真是让人桑心",
+      "translation": "정말 슬프게 하네"
+    },
+    {
+      "chinese": "心里有一点点桑心",
+      "translation": "마음이 좀 속상해"
+    },
+    {
+      "chinese": "我发现头顶一根白发,好桑心",
+      "translation": "정수리에 흰머리 하나 발견했다. 너무 슬퍼"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 신조어/속어",
+  "relatedWords": [
+    "wokule"
+  ],
+  "sourceUrl": "https://chineself.com/sangxin/"
+}

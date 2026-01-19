@@ -1,0 +1,27 @@
+{
+  "slug": "dongtai",
+  "chinese": "动态定价",
+  "pinyin": "dòng tài dìng jià",
+  "meaning": "다이내믹 프라이싱 (변동 가격제)",
+  "description": "상품이나 서비스의 가격을 수요와 공급 상황에 맞춰 변동시키는 가격 전략을 말합니다. 대수거살숙(大数据杀熟)은 빅데이터를 이용한 기존 고객 차별 가격 정책(퍼스널 프라이싱)을 의미합니다.",
+  "examples": [
+    {
+      "chinese": "这个动态定价,不一定啥时候便宜",
+      "translation": "이 다이내믹 프라이싱은 언제 저렴해질지 알 수가 없다."
+    },
+    {
+      "chinese": "买车票机票酒店都可以搞动态定价",
+      "translation": "기차표, 비행기표, 호텔 예약 모두 다이내믹 프라이싱을 적용할 수 있다."
+    },
+    {
+      "chinese": "动态定价是一种根据市场需求和供应情况实时调整价格的策略",
+      "translation": "다이내믹 프라이싱은 시장 수요와 공급 상황에 따라 실시간으로 가격을 조정하는 전략이다."
+    }
+  ],
+  "category": "jingji",
+  "categoryName": "경제/비즈니스",
+  "relatedWords": [
+    "dashujushashu"
+  ],
+  "sourceUrl": "https://chineself.com/dongtai/"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "heizi",
+  "chinese": "黑子",
+  "pinyin": "hēi zi",
+  "meaning": "안티, 악플러",
+  "description": "특정 대상을 항상 비판하거나 공격하는 사람.",
+  "examples": [
+    {
+      "chinese": "别理那些黑子",
+      "translation": "저런 안티들은 상대하지 마."
+    }
+  ],
+  "category": "net",
+  "categoryName": "팬덤 문화/대립",
+  "relatedWords": [
+    "fanquan",
+    "poquan"
+  ],
+  "sourceUrl": "https://chineself.com/heizi/"
+}

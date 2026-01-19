@@ -1,0 +1,25 @@
+{
+  "slug": "wai",
+  "chinese": "外搭",
+  "pinyin": "wài dā",
+  "meaning": "アウター（上着）として合わせる、外側に羽織る",
+  "description": "外穿と同じ。内搭は「インナーで合わせる」となる。外搭衫「アウターブラウス、アウターシャツ」。",
+  "examples": [
+    {
+      "chinese": "外搭一件粉色的连帽卫衣,轻盈减龄",
+      "translation": "アウターでピンクのパーカーを合わせるとしなやかで若く見える"
+    },
+    {
+      "chinese": "今天买了漏锁骨的T,外搭衫",
+      "translation": "今日、スクエアネックTシャツとアウターブラウスを購入した"
+    },
+    {
+      "chinese": "这件短袖夏天也可以当外搭搭配哦",
+      "translation": "この半袖シャツは夏に外側に羽織ってコーディネイトしてもよいね"
+    }
+  ],
+  "category": "fashion",
+  "categoryName": "ファッション・美容",
+  "relatedWords": ["neida", "lianmaoweiyi", "jianling", "chuanda"],
+  "sourceUrl": "https://chineself.com/wai/"
+}

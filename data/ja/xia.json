@@ -1,0 +1,16 @@
+{
+  "slug": "xia",
+  "chinese": "下半场",
+  "pinyin": "xià bàn chǎng",
+  "meaning": "後半",
+  "description": "スポーツ試合などの後半戦を指す言葉。",
+  "examples": [
+    {"chinese": "比赛进入下半场", "japanese": "試合は後半に入った"},
+    {"chinese": "下半场表现更稳定", "japanese": "後半のほうが安定したプレーだった"},
+    {"chinese": "下半场战术调整奏效", "japanese": "後半の戦術変更が効いた"}
+  ],
+  "category": "sports",
+  "categoryName": "スポーツ",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/xia/"
+}

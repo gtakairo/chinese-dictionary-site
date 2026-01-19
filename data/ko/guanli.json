@@ -1,0 +1,25 @@
+{
+  "slug": "guanli",
+  "chinese": "管理层收购",
+  "pinyin": "guǎn lǐ céng shōu gòu",
+  "meaning": "경영진 인수 (MBO)",
+  "description": "경영진이 자사를 인수하는 MBO를 말한다. 상장 폐지나 사업 재편의 수단으로 사용된다.",
+  "examples": [
+    {
+      "chinese": "公司计划进行管理层收购",
+      "translation": "회사는 경영진 인수를 계획하고 있다."
+    },
+    {
+      "chinese": "管理层收购后公司将退市",
+      "translation": "경영진 인수 후 회사는 상장 폐지될 예정이다."
+    },
+    {
+      "chinese": "投资者关注管理层收购的估值",
+      "translation": "투자자들은 경영진 인수의 밸류에이션에 주목하고 있다."
+    }
+  ],
+  "category": "jingji",
+  "categoryName": "경제/비즈니스",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/guanli/"
+}

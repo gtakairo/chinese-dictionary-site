@@ -1,0 +1,33 @@
+{
+  "slug": "chu",
+  "chinese": "厨",
+  "pinyin": "chú",
+  "meaning": "① ห้องครัว, พ่อครัว ② คนคลั่งไคล้, โอตาคุ, แฟนพันธุ์แท้",
+  "description": "ความหมายที่ 2 เป็นคำสแลง มาจากคำว่า \"chu\" (เสพติด) ในภาษาญี่ปุ่น หมายถึงแฟนคลับที่คลั่งไคล้ผลงานหรือคอนเทนต์บางอย่าง",
+  "examples": [
+    {
+      "chinese": "厨厨们",
+      "translation": "พวกโอตาคุ"
+    },
+    {
+      "chinese": "型月厨（＝月月厨厨）",
+      "translation": "แฟนคลับ TYPE-MOON"
+    },
+    {
+      "chinese": "JO厨",
+      "translation": "แฟนพันธุ์แท้ JoJo's Bizarre Adventure"
+    },
+    {
+      "chinese": "东方厨",
+      "translation": "คนบ้า Touhou Project"
+    },
+    {
+      "chinese": "原作厨",
+      "translation": "พวกยึดติดต้นฉบับ (โอตาคุที่ไม่ยอมรับเวอร์ชันอื่นนอกจากต้นฉบับ)"
+    }
+  ],
+  "category": "sub",
+  "categoryName": "วัฒนธรรมย่อย",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/chu/"
+}

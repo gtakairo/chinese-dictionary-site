@@ -1,0 +1,27 @@
+{
+  "slug": "ganji",
+  "chinese": "赶脚",
+  "pinyin": "gǎn jiǎo",
+  "meaning": "Feeling / Sense",
+  "description": "Internet slang for 「Ganjue」 (Feeling). Literally means driving a horse/cart, but used phonetically for 「Feeling」.",
+  "examples": [
+    {
+      "chinese": "最近赶脚咋样？",
+      "translation": "How are you feeling lately?"
+    },
+    {
+      "chinese": "到底啥赶脚呀",
+      "translation": "What exactly is the feeling?"
+    },
+    {
+      "chinese": "有一阵心绪不宁的赶脚",
+      "translation": "I have a feeling of uneasiness."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [
+    "shayangde"
+  ],
+  "sourceUrl": "https://chineself.com/ganji/"
+}

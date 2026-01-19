@@ -1,0 +1,16 @@
+{
+  "slug": "liaotian",
+  "chinese": "聊天机器人",
+  "pinyin": "liáo tiān jī qì rén",
+  "meaning": "チャットボット（自動会話プログラム）",
+  "description": "AI技術を使った自動応答プログラム。",
+  "examples": [
+    {"chinese": "聊天机器人自动回答问题", "japanese": "チャットボットが自動で質問に答える"},
+    {"chinese": "为客服部署聊天机器人", "japanese": "サポート向けにチャットボットを導入する"},
+    {"chinese": "训练聊天机器人的语料库", "japanese": "チャットボットのコーパスを学習させる"}
+  ],
+  "category": "technology",
+  "categoryName": "テクノロジー",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/liaotian/"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "guomienasai",
+  "chinese": "果咩那塞",
+  "pinyin": "guǒ miē nà sāi",
+  "meaning": "고멘나사이 (미안합니다)",
+  "description": "일본어 「고멘나사이(ごめんなさい)」의 음차 표기이다.",
+  "examples": [
+    {
+      "chinese": "再麻烦一次果咩那塞",
+      "translation": "또 폐를 끼쳐서 미안합니다(고멘나사이)."
+    }
+  ],
+  "category": "wailaiyu",
+  "categoryName": "외래어/음역",
+  "relatedWords": [
+    "sumimasai",
+    "hongdouni"
+  ],
+  "sourceUrl": "https://chineself.com/guomienasai/"
+}

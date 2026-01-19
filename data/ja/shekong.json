@@ -1,0 +1,15 @@
+{
+  "slug": "shekong",
+  "chinese": "社恐",
+  "pinyin": "shè kǒng",
+  "meaning": "社交恐怖症、社交不安症（SAD）",
+  "description": "社交恐惧症（社会恐怖症）の略語。反義語は社牛（社交牛逼症）。関連語：社杂（社交牛杂症）、社冷（社交冷漠症）。",
+  "examples": [
+    {"chinese": "人越多越局促,见的人越多越社恐", "japanese": "人が多いほど縮こまり、見られる人が多いほど社交恐怖症になる"},
+    {"chinese": "啥时候可以面试不紧张呢,社恐人哭哭", "japanese": "いつになったら面接で緊張しなくなるのか？社恐で泣ける"}
+  ],
+  "category": "net",
+  "categoryName": "ネット用語・スラング",
+  "relatedWords": ["sheniu", "sheza", "sheleng"],
+  "sourceUrl": "https://chineself.com/shekong/"
+}

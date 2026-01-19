@@ -1,0 +1,30 @@
+{
+  "slug": "laotie",
+  "chinese": "老铁",
+  "pinyin": "lǎo tiě",
+  "meaning": "Bro, Buddy, Mate",
+  "description": "Meaning similar to \"buddy\" or \"bro\". Synonyms include 铁子, 铁哥们, 铁汁. Refers to a relationship as strong as iron. Used to address close friends affectionately.",
+  "examples": [
+    {
+      "chinese": "欢迎各位老铁关注",
+      "translation": "Welcome everyone (bros) to follow"
+    },
+    {
+      "chinese": "各位老铁们分享一下",
+      "translation": "Share this, bros"
+    },
+    {
+      "chinese": "老铁们你们知道吗？",
+      "translation": "Bros, do you know?"
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [
+    "tiezhi",
+    "guanzhu",
+    "wao",
+    "zhaxinle"
+  ],
+  "sourceUrl": "https://chineself.com/laotie/"
+}

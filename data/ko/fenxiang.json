@@ -1,0 +1,27 @@
+{
+  "slug": "fenxiang",
+  "chinese": "分享欲",
+  "pinyin": "fēn xiǎng yù",
+  "meaning": "공유 욕구",
+  "description": "자신이 느낀 것을 함께 나누고(공유하고) 싶은 욕구로, 무엇이든지 남에게 이야기하고 싶은 욕구라고도 할 수 있다. 「경소욕(倾诉欲)」은 「생각을 전함으로써 공감이나 동의를 얻고 싶은」 승인 욕구를 의미한다.",
+  "examples": [
+    {
+      "chinese": "我好想和人聊天,控制不住的分享欲",
+      "translation": "누군가와 이야기하고 싶다, 공유 욕구를 억제할 수 없다."
+    },
+    {
+      "chinese": "有时候忍一忍自己的分享欲,会发现也没有什么话非要说",
+      "translation": "때로는 공유 욕구를 참아보면, 굳이 말할 필요가 없는 말이라는 것을 알게 된다."
+    },
+    {
+      "chinese": "应该减少没必要的倾诉及分享欲",
+      "translation": "불필요한 하소연과 공유 욕구를 줄여야 한다."
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "미분류",
+  "relatedWords": [
+    "qingsuyu"
+  ],
+  "sourceUrl": "https://chineself.com/fenxiang/"
+}

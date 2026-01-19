@@ -1,0 +1,25 @@
+{
+  "slug": "bailan",
+  "chinese": "摆烂",
+  "pinyin": "bǎi làn",
+  "meaning": "to give up; to let things fall apart; to stop trying; to throw in the towel",
+  "description": "Expresses a mode of giving up, a passive attitude toward things. 开摆 (kāi bǎi) = 开始摆烂 means 「to enter give-up mode.」",
+  "examples": [
+    {
+      "chinese": "放弃减肥摆烂了,胖怎么了!",
+      "translation": "Gave up on dieting, whatever! So what if I'm fat!"
+    },
+    {
+      "chinese": "摆烂不会让生活更好,加油！冲鸭",
+      "translation": "Giving up won't make life better, keep pushing! Let's go!"
+    },
+    {
+      "chinese": "不要摆烂!不要敷衍",
+      "translation": "Don't give up! Don't half-ass it"
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": ["chongya", "tangping", "geyoutang", "aizadizadi", "foxi"],
+  "sourceUrl": "https://chineself.com/bailan/"
+}

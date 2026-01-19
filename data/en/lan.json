@@ -1,0 +1,25 @@
+{
+  "slug": "lan",
+  "chinese": "蓝筹股",
+  "pinyin": "lán chóu gǔ",
+  "meaning": "Blue chip stocks",
+  "description": "Stocks of companies with strong performance and sound financials. Often considered suitable for long-term investment.",
+  "examples": [
+    {
+      "chinese": "我更偏好蓝筹股",
+      "translation": "I prefer blue chip stocks"
+    },
+    {
+      "chinese": "蓝筹股估值相对稳定",
+      "translation": "Valuations of blue chip stocks are relatively stable"
+    },
+    {
+      "chinese": "把资金转到蓝筹股",
+      "translation": "Shifted capital to blue chip stocks"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "Finance/Investment",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/lan/"
+}

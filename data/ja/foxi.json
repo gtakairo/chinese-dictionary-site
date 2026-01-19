@@ -1,0 +1,25 @@
+{
+  "slug": "foxi",
+  "chinese": "佛系",
+  "pinyin": "fó xì",
+  "meaning": "マイペースな、これといったこだわりがない、もうどうでもよい、成り行き任せな",
+  "description": "佛系（仏系）とは自由人でこだわりもなく、顕示欲や競争心もなく、マイペースなことを指す。些細なことは気にしない自由奔放なタイプのこと。「90后」（90年代生まれ）の代名詞として使われ、一人っ子のプレッシャーからの反動の特徴とも言える。外面的な地位、名誉、お金ではなく、内面的な充実を追求する。ある意味で悟りを得た仏陀のようであると仏教精神になぞらえている。",
+  "examples": [
+    {
+      "chinese": "他是佛系男子，什么都无所谓",
+      "translation": "彼は仏系男子だ、何でもどうでもいい"
+    },
+    {
+      "chinese": "我很佛系，不想争",
+      "translation": "私はマイペースだから、争いたくない"
+    },
+    {
+      "chinese": "性格特别佛",
+      "translation": "性格が超マイペース"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語・スラング",
+  "relatedWords": ["tangping", "bailan", "suiyuan", "buqiushangjin", "juanbuying"],
+  "sourceUrl": "https://chineself.com/foxi/"
+}

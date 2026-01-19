@@ -1,0 +1,27 @@
+{
+  "slug": "sb",
+  "chinese": "sb",
+  "pinyin": "shǎ bī",
+  "meaning": "병신, 바보",
+  "description": "'Sha Bi'(멍청한 놈)의 약어. 傻B, 傻x 등 다양한 파생 표기가 있음.",
+  "examples": [
+    {
+      "chinese": "我是傻B",
+      "translation": "난 병신이야"
+    },
+    {
+      "chinese": "真的是sb",
+      "translation": "진짜 병신이네"
+    },
+    {
+      "chinese": "就是远离sb",
+      "translation": "그냥 병신 피하는 게 상책"
+    }
+  ],
+  "category": "ma",
+  "categoryName": "도발/욕설",
+  "relatedWords": [
+    "shabi"
+  ],
+  "sourceUrl": "https://chineself.com/sb/"
+}

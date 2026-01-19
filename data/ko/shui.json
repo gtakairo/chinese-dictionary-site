@@ -1,0 +1,25 @@
+{
+    "slug": "shui",
+    "chinese": "水泵",
+    "pinyin": "Shuǐ bèng",
+    "meaning": "워터 펌프",
+    "description": "자동차 엔진 냉각 시스템 등에서 물을 순환시키는 데 사용되는 펌프.",
+    "category": "car",
+    "categoryName": "자동차",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/shui/",
+    "examples": [
+        {
+            "chinese": "检查水泵是否漏水",
+            "translation": "워터 펌프 누수 확인"
+        },
+        {
+            "chinese": "水泵驱动皮带需要更换",
+            "translation": "워터 펌프 구동 벨트 교체 필요"
+        },
+        {
+            "chinese": "更换水泵后散热改善",
+            "translation": "워터 펌프 교체 후 냉각 개선"
+        }
+    ]
+}

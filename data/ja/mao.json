@@ -1,0 +1,25 @@
+{
+  "slug": "mao",
+  "chinese": "貌不惊人",
+  "pinyin": "mào bù jīng rén",
+  "meaning": "見た目がごく平凡、容貌が普通",
+  "description": "「容貌が普通で人目を引くことはない」ということ。",
+  "examples": [
+    {
+      "chinese": "刺角瓜,虽貌不惊人,但还真的好吃",
+      "japanese": "ツノニガウリは見た目は平凡だが本当に美味しい"
+    },
+    {
+      "chinese": "他普普通通,平平无奇,貌不惊人,脑子空空",
+      "japanese": "彼は月並みで平凡過ぎ、容貌も普通だし頭は空っぽ"
+    },
+    {
+      "chinese": "我出生于平凡的家庭,才不出众,貌不惊人,羡慕神仙颜值的",
+      "japanese": "私は平凡な家庭で生まれ、突出した才能もなく、容貌が普通すぎる、超美人が羨ましい"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "成語・四字熟語",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/mao/"
+}

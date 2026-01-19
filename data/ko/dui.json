@@ -1,0 +1,25 @@
+{
+  "slug": "dui",
+  "chinese": "对标",
+  "pinyin": "duì biāo",
+  "meaning": "벤치마킹",
+  "description": "제품, 서비스 등의 품질을 타사의 우수 사례와 비교, 분석하여 개선하는 경영 기법입니다.",
+  "examples": [
+    {
+      "chinese": "小米汽车应该在对标特斯拉",
+      "translation": "샤오미 자동차는 테슬라를 벤치마킹하고 있을 것이다."
+    },
+    {
+      "chinese": "门店想要发展为什么一定要找对标",
+      "translation": "매장을 발전시키려면 왜 꼭 벤치마킹 대상을 찾아야 하는가?"
+    },
+    {
+      "chinese": "国产手机对标苹果,越来越像iPhone",
+      "translation": "국산 휴대폰이 애플을 벤치마킹하더니 점점 아이폰과 비슷해지고 있다."
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "미분류",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/dui/"
+}

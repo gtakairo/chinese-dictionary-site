@@ -1,0 +1,25 @@
+{
+  "slug": "rong",
+  "chinese": "容错机制",
+  "pinyin": "róng cuò jī zhì",
+  "meaning": "결함 허용 체제 (폴트 톨러런스)",
+  "description": "장애가 발생해도 전체적으로 동작을 계속할 수 있는 구조.",
+  "examples": [
+    {
+      "chinese": "设计容错机制提高可靠性",
+      "translation": "결함 허용 설계로 신뢰성을 높이다"
+    },
+    {
+      "chinese": "系统具备故障转移能力",
+      "translation": "시스템은 페일오버 능력을 갖추고 있다"
+    },
+    {
+      "chinese": "通过冗余实现容错",
+      "translation": "이중화를 통해 결함 허용을 실현하다"
+    }
+  ],
+  "category": "jingji",
+  "categoryName": "경제/비즈니스",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/rong/"
+}

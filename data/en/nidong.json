@@ -1,0 +1,27 @@
+{
+  "slug": "nidong",
+  "chinese": "你懂的",
+  "pinyin": "nǐ dǒng de",
+  "meaning": "You know; You get it",
+  "description": "Used like the English phrase 'You know'. Implies understanding without explicitly stating it.",
+  "examples": [
+    {
+      "chinese": "今天周六,周六哦?你懂的",
+      "translation": "Today is Saturday, Saturday, oh? You know."
+    },
+    {
+      "chinese": "蛋糕是真的好吃哦,你懂的",
+      "translation": "The cake is really delicious, you know."
+    },
+    {
+      "chinese": "答案不言自明,你懂的",
+      "translation": "The answer is self-evident, you know."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [
+    "buyanziming"
+  ],
+  "sourceUrl": "https://chineself.com/nidong/"
+}

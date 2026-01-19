@@ -1,0 +1,25 @@
+{
+  "slug": "huan",
+  "chinese": "缓冲存储器",
+  "pinyin": "huǎn chōng cún chú qì",
+  "meaning": "หน่วยความจำบัฟเฟอร์",
+  "description": "พื้นที่จัดเก็บข้อมูลชั่วคราวเพื่อประสิทธิภาพในการรับส่งข้อมูล",
+  "examples": [
+    {
+      "chinese": "优化缓冲存储器策略",
+      "translation": "ปรับปรุงกลยุทธ์หน่วยความจำบัฟเฟอร์ให้เหมาะสม"
+    },
+    {
+      "chinese": "缓冲存储器能提高吞吐量",
+      "translation": "หน่วยความจำบัฟเฟอร์ช่วยเพิ่มปริมาณการประมวลผลได้"
+    },
+    {
+      "chinese": "检查缓冲存储器溢出问题",
+      "translation": "ตรวจสอบปัญหาหน่วยความจำบัฟเฟอร์ล้น"
+    }
+  ],
+  "category": "technology",
+  "categoryName": "เทคโนโลยี",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/huan/"
+}

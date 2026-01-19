@@ -1,0 +1,25 @@
+{
+    "slug": "shou",
+    "chinese": "手癌",
+    "pinyin": "shǒu ái",
+    "meaning": "Typo, Mistype",
+    "description": "This expression is slang, implying a \"cancer\" in the hand causing typing errors.",
+    "category": "sns",
+    "categoryName": "Web/SNS Terms",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/shou/",
+    "examples": [
+        {
+            "chinese": "为什么没有撤回功能,手癌犯了,真的很尴尬",
+            "translation": "Why is there no unsend function? I made a typo, it's really awkward."
+        },
+        {
+            "chinese": "我的话,手指甲剪了之后手癌概率提升",
+            "translation": "For me, the probability of typos increases after I cut my fingernails."
+        },
+        {
+            "chinese": "换了个输入法感觉手机都变新了,手癌更严重了",
+            "translation": "Changed the input method and it feels like a new phone, but my typos got worse."
+        }
+    ]
+}

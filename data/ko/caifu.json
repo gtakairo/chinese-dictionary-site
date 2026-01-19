@@ -1,0 +1,27 @@
+{
+  "slug": "caifu",
+  "chinese": "财富密码",
+  "pinyin": "cái fù mì mǎ",
+  "meaning": "부의 비밀번호, 돈 버는 비결, 황금알을 낳는 거위",
+  "description": "「미마(密码)」는 「암호, 비밀번호」라는 뜻.",
+  "examples": [
+    {
+      "chinese": "虚拟货币是财富密码还是被割韭菜",
+      "translation": "가상화폐는 부의 비밀번호인가 아니면 호구가 되는 길인가?"
+    },
+    {
+      "chinese": "一个月销量暴涨10倍,掌握了什么财富密码?",
+      "translation": "한 달 판매량이 10배 폭등했는데, 어떤 돈 버는 비결을 얻은 걸까?"
+    },
+    {
+      "chinese": "这几年娱乐圈最快速的财富密码是什么？",
+      "translation": "요즘 연예계에서 가장 빠르게 돈 버는 비결은 무엇일까?"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [
+    "gejiucai"
+  ],
+  "sourceUrl": "https://chineself.com/caifu/"
+}

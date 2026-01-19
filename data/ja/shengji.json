@@ -1,0 +1,25 @@
+{
+  "slug": "shengji",
+  "chinese": "生姜脱不了辣气",
+  "pinyin": "shēng jiāng tuō bù liǎo là qì",
+  "meaning": "無患子（むくろじ）は三年磨いても黒い、性格は簡単には直らない",
+  "description": "「生姜の匂いは簡単には抜けない」。持って生まれた性質を改めることは、困難であることにたとえ。",
+  "examples": [
+    {
+      "chinese": "生姜脱不了辣气,狗改不了吃屎",
+      "translation": "無患子は三年磨いても黒い、犬が糞を食べる習性は直るものではない"
+    },
+    {
+      "chinese": "弯树掰不直,犟性改不了,正如生姜脱不了辣气",
+      "translation": "曲がった樹を真っ直ぐにできないように強情さは直らない、無患子は三年磨いても黒い"
+    },
+    {
+      "chinese": "江山易改,本性难移,生姜脱不了辣气",
+      "translation": "本性を変えることより山や川を移動するのが簡単だ、性格は簡単には直らない"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "成語・四字熟語",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/shengji/"
+}

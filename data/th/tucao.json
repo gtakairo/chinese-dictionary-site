@@ -1,0 +1,35 @@
+{
+    "slug": "tucao",
+    "chinese": "吐槽",
+    "pinyin": "tǔ cáo",
+    "meaning": "① บ่น/นินทา ② ตบมุก/แขวะ",
+    "description": "มาจากคำว่า Tsukkomi ในภาษาญี่ปุ่น หมายถึงการตบมุก หรือการบ่นแซว",
+    "category": "net",
+    "categoryName": "ศัพท์อินเทอร์เน็ต",
+    "relatedWords": [
+        "dingbuzhu"
+    ],
+    "sourceUrl": "https://chineself.com/tucao/",
+    "examples": [
+        {
+            "chinese": "外国人吐槽中文难学",
+            "translation": "ชาวต่างชาติบ่นว่าภาษาจีนเรียนยาก"
+        },
+        {
+            "chinese": "互相吐槽人生不满,家庭不好的地方,互相安慰",
+            "translation": "ต่างฝ่ายต่างบ่นเรื่องชีวิตและครอบครัว ปลอบใจกันและกัน"
+        },
+        {
+            "chinese": "每天都在断电!民众吐槽不断",
+            "translation": "ไฟดับทุกวัน! ชาวบ้านบ่นกันไม่หยุด"
+        },
+        {
+            "chinese": "为什么没人吐槽我!!!",
+            "translation": "ทำไมไม่มีใครตบมุกฉันเลย!!!"
+        },
+        {
+            "chinese": "顶不住,还是想吐槽一句",
+            "translation": "ไม่ไหวละ ขอแซวสักประโยคเถอะ"
+        }
+    ]
+}

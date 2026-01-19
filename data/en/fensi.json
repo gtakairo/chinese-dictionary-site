@@ -1,0 +1,29 @@
+{
+  "slug": "fensi",
+  "chinese": "粉丝滤镜",
+  "pinyin": "fěn sī lǜ jìng",
+  "meaning": "Fan filter / Rose-tinted glasses",
+  "description": "Literally \"Fan Filter\". Refers to the phenomenon where a fan loves a celebrity so much that they have a biased view, unable to see flaws or negative aspects.",
+  "examples": [
+    {
+      "chinese": "真的帅出天际,这句话真的不是粉丝滤镜",
+      "translation": "Really handsome beyond limits, this statement is really not through a fan filter."
+    },
+    {
+      "chinese": "不带粉丝滤镜的说,每部都理中客就好看",
+      "translation": "Speaking without a fan filter, every part is objectively good to watch."
+    },
+    {
+      "chinese": "求推荐一部没有粉丝滤镜,纯粹吸引路人的剧",
+      "translation": "Please recommend a drama without fan filter, one that purely attracts passers-by."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [
+    "chutianji",
+    "lizhongke",
+    "chunluren"
+  ],
+  "sourceUrl": "https://chineself.com/fensi/"
+}

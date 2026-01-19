@@ -1,0 +1,16 @@
+{
+  "slug": "chigu",
+  "chinese": "吃谷",
+  "pinyin": "chī gǔ",
+  "meaning": "（キャラクター商品・キャラグッズ）を買う",
+  "description": "谷圈（キャラグッズ業界）用語。谷子は goods（グッズ）の音訳。恰谷も同じ。",
+  "examples": [
+    {"chinese": "从今天开始吃谷只买特别喜欢的", "japanese": "今日から特別に気に入ったキャラものだけを買う"},
+    {"chinese": "昨天吃谷好像花了一千多块有点罪恶", "japanese": "昨日1000元余りをキャラグッズに消費してちょっと罪悪感がある"},
+    {"chinese": "特么的,不是必需品,但是不能不吃谷啊", "japanese": "クソッ、必需品ではないがキャラクター商品を買わずにはいられない"}
+  ],
+  "category": "net",
+  "categoryName": "ネット用語・スラング",
+  "relatedWords": ["guzi"],
+  "sourceUrl": "https://chineself.com/chigu/"
+}

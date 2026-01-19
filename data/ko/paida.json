@@ -1,0 +1,29 @@
+{
+  "slug": "paida",
+  "chinese": "拍大腿",
+  "pinyin": "pāi dà tuǐ",
+  "meaning": "1. (허벅지를 치며) 후회하다 2. (허벅지를 치며) 박장대소하다",
+  "description": "허벅지를 치며 후회하거나 크게 웃는 것을 의미. 'Bao da tui'는 '줄을 서다, 빽을 믿다'의 의미.",
+  "examples": [
+    {
+      "chinese": "手快有手慢无,错过拍大腿啊",
+      "translation": "빠르면 얻고 늦으면 없다, 놓치면 땅을 치고 후회한다"
+    },
+    {
+      "chinese": "必看剧,不看后悔拍大腿哦",
+      "translation": "필관 드라마, 안 보면 후회막심 할거야"
+    },
+    {
+      "chinese": "有人笑到拍大腿,有人笑到眼泪",
+      "translation": "어떤 사람은 허벅지 치며 웃고, 어떤 사람은 눈물 흘리며 웃는다"
+    }
+  ],
+  "category": "qingxu",
+  "categoryName": "희로애락",
+  "relatedWords": [
+    "baodatui",
+    "shoukuaiyoushoumanwu",
+    "yuqizhuci"
+  ],
+  "sourceUrl": "https://chineself.com/paida/"
+}

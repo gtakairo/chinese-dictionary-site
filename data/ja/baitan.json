@@ -1,0 +1,12 @@
+{
+  "slug": "baitan",
+  "chinese": "摆摊",
+  "pinyin": "bǎi tān",
+  "meaning": "屋台を出す／露店を開く",
+  "description": "路上や市場で簡易の露店を開いて商売すること。",
+  "examples": [{"chinese": "周末去夜市摆摊", "japanese": "週末はナイトマーケットで屋台を出す"}],
+  "category": "jingji",
+  "categoryName": "経済・生活",
+  "relatedWords": ["shangxin"],
+  "sourceUrl": "https://chineself.com/baitan/"
+}

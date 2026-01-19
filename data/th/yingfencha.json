@@ -1,0 +1,25 @@
+{
+  "slug": "yingfencha",
+  "chinese": "硬分叉",
+  "pinyin": "yìng fēn chā",
+  "meaning": "ฮาร์ดฟอร์ก",
+  "description": "การแยกสายของบล็อกเชนอย่างถาวร ไม่สามารถใช้งานร่วมกับเวอร์ชันเก่าได้",
+  "examples": [
+    {
+      "chinese": "社区投票决定硬分叉",
+      "translation": "ชุมชนโหวตตัดสินใจทำฮาร์ดฟอร์ก"
+    },
+    {
+      "chinese": "硬分叉后链分成两条",
+      "translation": "หลังฮาร์ดฟอร์ก เชนแยกออกเป็นสองสาย"
+    },
+    {
+      "chinese": "准备升级以避免硬分叉",
+      "translation": "เตรียมอัปเกรดเพื่อหลีกเลี่ยงฮาร์ดฟอร์ก"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "การเงิน / การลงทุน",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/yingfencha/"
+}

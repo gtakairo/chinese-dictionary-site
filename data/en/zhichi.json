@@ -1,0 +1,27 @@
+{
+  "slug": "zhichi",
+  "chinese": "知耻而后勇",
+  "pinyin": "zhī chǐ ér hòu yǒng",
+  "meaning": "Knowing shame leads to courage",
+  "description": "Acknowledging one's shortcomings is the first step to courage and improvement.",
+  "examples": [
+    {
+      "chinese": "要懂得知耻而后勇,知错能改,善莫大焉",
+      "translation": "Must understand that knowing shame leads to courage; correcting mistakes is a great virtue"
+    },
+    {
+      "chinese": "学生成绩不好就应该知耻而后勇吧",
+      "translation": "Students with bad grades should know shame and be courageous"
+    },
+    {
+      "chinese": "知耻而后勇,终于拿到了世界杯的首胜",
+      "translation": "Knowing shame led to courage, finally won the first World Cup victory"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "Idioms",
+  "relatedWords": [
+    "zhicuonenggaishanmodayan"
+  ],
+  "sourceUrl": "https://chineself.com/zhichi/"
+}

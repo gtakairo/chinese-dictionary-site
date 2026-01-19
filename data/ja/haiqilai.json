@@ -1,0 +1,16 @@
+{
+  "slug": "haiqilai",
+  "chinese": "嗨起来",
+  "pinyin": "hāi qǐ lái",
+  "meaning": "テンションが上がる、嬉しくて気分が高揚する、盛り上がる",
+  "description": "high の音訳として嗨が使われる。太嗨了（興奮する）、玩嗨（遊びまくる）。",
+  "examples": [
+    {"chinese": "我已经开始嗨起来了", "japanese": "すでにハイテンションになってきた"},
+    {"chinese": "嗨起来啊,气氛搞起来", "japanese": "とても嬉しい、気分が高まっている"},
+    {"chinese": "早点下班回家嗨起来吧", "japanese": "早く退社して家に帰って盛り上がろうぜ"}
+  ],
+  "category": "net",
+  "categoryName": "ネット用語・スラング",
+  "relatedWords": ["taihaile", "wanhai"],
+  "sourceUrl": "https://chineself.com/haiqilai/"
+}

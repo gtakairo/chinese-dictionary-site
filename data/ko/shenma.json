@@ -1,0 +1,27 @@
+{
+  "slug": "shenma",
+  "chinese": "神马都是浮云",
+  "pinyin": "shén mǎ dōu shì fú yún",
+  "meaning": "모든 것이 뜬구름과 같다 / 다 부질없다",
+  "description": "'션마(神马)'는 '무엇(什么)'과 발음이 비슷하여 유래됨. 하늘의 구름은 허무하게 순간 사라져 버리므로, 모든 것이 의미 없고 부질없다는 뜻.",
+  "examples": [
+    {
+      "chinese": "如果没了健康,其他神马都是浮云",
+      "translation": "건강을 잃으면 다른 모든 것은 뜬구름일 뿐이다."
+    },
+    {
+      "chinese": "金钱,名誉,这些东西,原来在生死面前神马都是浮云",
+      "translation": "돈도 명예도 죽음 앞에서는 다 부질없는 뜬구름이다."
+    },
+    {
+      "chinese": "人生短短几十年,人生如白马过隙,神马都是浮云？",
+      "translation": "인생은 짧은 수십 년, 쏜살같이 지나가는데 모든 게 다 부질없는 뜬구름인가?"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [
+    "baijuguoxi"
+  ],
+  "sourceUrl": "https://chineself.com/shenma/"
+}

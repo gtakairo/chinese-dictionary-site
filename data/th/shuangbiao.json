@@ -1,0 +1,20 @@
+{
+    "slug": "shuangbiao",
+    "chinese": "双标",
+    "pinyin": "shuāng biāo",
+    "meaning": "สองมาตรฐาน",
+    "description": "คำวิจารณ์การเปลี่ยนมาตรฐานตามสถานการณ์หรือบุคคล",
+    "category": "net",
+    "categoryName": "การอภิปราย/การประเมิน",
+    "relatedWords": [
+        "gangjing",
+        "yinyangguaiqi"
+    ],
+    "sourceUrl": "https://chineself.com/shuangbiao/",
+    "examples": [
+        {
+            "chinese": "别双标了",
+            "translation": "เลิกสองมาตรฐานได้แล้ว"
+        }
+    ]
+}

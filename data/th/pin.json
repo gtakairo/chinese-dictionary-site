@@ -1,0 +1,25 @@
+{
+  "slug": "pin",
+  "chinese": "平标准杆",
+  "pinyin": "píng biāo zhǔn gān",
+  "meaning": "พาร์ (กอล์ฟ)",
+  "description": "บางทีก็เรียกว่า \"เปียวจุ่นกาน\"",
+  "examples": [
+    {
+      "chinese": "这一洞我打到了平标准杆",
+      "translation": "หลุมนี้ฉันได้พาร์"
+    },
+    {
+      "chinese": "保持平标准杆已经不错了",
+      "translation": "รักษาพาร์ไว้ได้ก็เก่งแล้ว"
+    },
+    {
+      "chinese": "平标准杆是该洞的标准成绩",
+      "translation": "พาร์คือคะแนนมาตรฐานของหลุมนี้"
+    }
+  ],
+  "category": "sports",
+  "categoryName": "กีฬา",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/pin/"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "shanggan",
+  "chinese": "上纲上线",
+  "pinyin": "shàng gāng shàng xiàn",
+  "meaning": "1. 사상이나 이론을 들먹이다; 2. 트집 잡다; 3. 낙인찍다",
+  "description": "'상강'은 사소한 문제를 원칙적인 문제로 격상시키는 것을 의미. 작은 실수를 중대한 이념적 문제로 확대 해석하는 것을 말하며, 문화대혁명 때 자주 사용된 용어임.",
+  "examples": [
+    {
+      "chinese": "不要上纲上线的政治正确",
+      "translation": "정치적 올바름을 들먹이며 확대해석하지 마라."
+    },
+    {
+      "chinese": "不必事事都要上纲上线",
+      "translation": "모든 일을 확대해석하여 원칙 문제로 삼을 필요는 없다."
+    },
+    {
+      "chinese": "最烦学校这种小事上纲上线",
+      "translation": "학교가 이런 사소한 일을 확대해석하는 게 제일 짜증 난다."
+    }
+  ],
+  "category": "zhengzhi",
+  "categoryName": "정치",
+  "relatedWords": [
+    "zzzq"
+  ],
+  "sourceUrl": "https://chineself.com/shanggan/"
+}

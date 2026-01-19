@@ -1,0 +1,28 @@
+{
+  "slug": "emo",
+  "chinese": "emo动车",
+  "pinyin": "emo dòng chē",
+  "meaning": "Emo Bullet Train",
+  "description": "Refers to the high-speed train that college students take to return to the city where their school is located, from their hometown in the countryside after a long vacation, feeling reluctant to go back to school. \"emo\" stands for emotional, used here to mean \"depressed\" or \"gloomy.\"",
+  "examples": [
+    {
+      "chinese": "明天开学,要坐上emo动车了",
+      "translation": "School starts tomorrow, I have to get on the emo bullet train."
+    },
+    {
+      "chinese": "坐上emo动车,心如死灰",
+      "translation": "Sitting on the emo bullet train, my heart is as dead as ashes."
+    },
+    {
+      "chinese": "下午要坐上emo动车了,有点坐立不安",
+      "translation": "I have to take the emo bullet train this afternoon, feeling a bit restless."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [
+    "emole",
+    "xinrusihui"
+  ],
+  "sourceUrl": "https://chineself.com/emo/"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "hui",
+  "chinese": "灰常",
+  "pinyin": "huī cháng",
+  "meaning": "매우 / 정말",
+  "description": "非常(fēi cháng)의 인터넷 용어. 발음이 비슷한 데서 유래한 슬랭.",
+  "examples": [
+    {
+      "chinese": "灰常灰常感谢！",
+      "translation": "정말 정말 감사합니다!"
+    },
+    {
+      "chinese": "灰常罕见",
+      "translation": "정말 보기 드물다"
+    },
+    {
+      "chinese": "成长灰常多",
+      "translation": "매우 많이 성장했다"
+    },
+    {
+      "chinese": "lo娘,灰常可爱",
+      "translation": "로리타 패션 소녀, 정말 귀엽다"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [
+    "loniang"
+  ],
+  "sourceUrl": "https://chineself.com/hui/"
+}

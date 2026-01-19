@@ -1,0 +1,14 @@
+{
+  "slug": "gangjing",
+  "chinese": "杠精",
+  "pinyin": "gàng jīng",
+  "meaning": "揚げ足取りがち／何でも反論する人",
+  "description": "議論で必要以上に反論し揚げ足を取る人。",
+  "examples": [
+    {"chinese": "别当杠精", "japanese": "揚げ足取りしないで"}
+  ],
+  "category": "net",
+  "categoryName": "ネットスラング",
+  "relatedWords": ["ningmengjing"],
+  "sourceUrl": "https://chineself.com/gangjing/"
+}

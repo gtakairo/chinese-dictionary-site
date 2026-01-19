@@ -1,0 +1,19 @@
+{
+  "slug": "bacao",
+  "chinese": "拔草",
+  "pinyin": "bá cǎo",
+  "meaning": "지름신 퇴치, 구입하여 욕구 해소",
+  "description": "직역하면 「풀을 뽑다」. 사고 싶었던 물건을 사서 욕망을 해소하거나, 실제 확인 후 구매 의욕이 사라지는 것을 뜻함. 种草(지름신 강림)의 반대말.",
+  "examples": [
+    {
+      "chinese": "试过后我拔草了",
+      "translation": "써보고 나니 구매 의욕이 싹 사라졌다 (혹은 사서 속이 시원하다)"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 슬랭",
+  "relatedWords": [
+    "zhongcao"
+  ],
+  "sourceUrl": "https://chineself.com/bacao/"
+}

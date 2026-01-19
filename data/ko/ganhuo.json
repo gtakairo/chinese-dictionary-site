@@ -1,0 +1,28 @@
+{
+  "slug": "ganhuo",
+  "chinese": "干货",
+  "pinyin": "gān huò",
+  "meaning": "알짜배기 정보 / 유익한 지식 / 꿀팁",
+  "description": "원래는 「건어물」을 뜻하지만, 수분이 없고 알맹이가 꽉 찼다는 의미에서 「유익한 정보」, 「도움이 되는 지식」을 뜻한다.",
+  "examples": [
+    {
+      "chinese": "干货满满超实用,速戳下图",
+      "translation": "알짜배기 정보만 가득해서 완전 실용적, 아래 이미지를 클릭하세요."
+    },
+    {
+      "chinese": "干货满满,值得反复咀嚼",
+      "translation": "유익한 정보가 가득하다. 두고두고 곱씹을 만하다."
+    },
+    {
+      "chinese": "课程内容干货满满,涨姿势了",
+      "translation": "수업 내용이 알차서 지식이 늘었다."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 유행어/은어",
+  "relatedWords": [
+    "suchuo",
+    "zhangzishi"
+  ],
+  "sourceUrl": "https://chineself.com/ganhuomanman/"
+}

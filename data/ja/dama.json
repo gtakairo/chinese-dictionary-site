@@ -1,0 +1,25 @@
+{
+  "slug": "dama",
+  "chinese": "大马",
+  "pinyin": "dà mǎ",
+  "meaning": "マレーシア",
+  "description": "马来西亚の通称。ちなみに小马＝马尔代夫「モルディブ」。",
+  "examples": [
+    {
+      "chinese": "大马羽毛球实力如何",
+      "translation": "マレーシアのバドミントンの実力はどの程度か"
+    },
+    {
+      "chinese": "刚从大马旅游回来,不吹不黑,分享一下",
+      "translation": "マレーシア旅行から帰ってきた、旅の公正な評価をシェアする"
+    },
+    {
+      "chinese": "青岛到大马飞机多久,机票几月份买最便宜",
+      "translation": "青島からマレーシアは飛行機でどれくらいかかる、チケットは何月が最も安い？"
+    }
+  ],
+  "category": "lvyou",
+  "categoryName": "旅行・海外",
+  "relatedWords": ["buchuibuhei"],
+  "sourceUrl": "https://chineself.com/dama/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "tiao",
+  "chinese": "挑柄",
+  "pinyin": "tiāo bǐng",
+  "meaning": "キャラ商品を揃える",
+  "description": "柄＝柄图で日本語の柄（がら）から。同じキャラクターのグッズや商品を揃えること。",
+  "examples": [
+    {
+      "chinese": "欧耶,终于会挑柄图了",
+      "translation": "やったー、やっとお目当てのキャラの柄にありつけた"
+    },
+    {
+      "chinese": "我吃谷都挑柄,不是所有我推的柄我都溺爱的",
+      "translation": "私はグッズを買うのもすべて同じキャラ商品を集める、すべての推しのものを欲しがる訳ではない"
+    },
+    {
+      "chinese": "想做一个痛包,但是手里面没有合适的柄图,我要挑柄吃",
+      "translation": "痛バを作りたいが適したデザインがない、同じキャラ商品を買いたい"
+    }
+  ],
+  "category": "sub",
+  "categoryName": "サブカルチャー",
+  "relatedWords": ["bingtu", "ouye", "chigu", "tongbao"],
+  "sourceUrl": "https://chineself.com/tiao/"
+}

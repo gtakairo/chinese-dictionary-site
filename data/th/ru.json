@@ -1,0 +1,31 @@
+{
+  "slug": "ru",
+  "chinese": "rua",
+  "pinyin": "rua",
+  "meaning": "ลูบ, คลำ, ขยำ",
+  "description": "มีความหมายเดียวกับ 撸 (lū) ที่แปลว่าลูบหรือคลำ เป็นศัพท์แสลงอินเทอร์เน็ตที่ใช้แสดงอาการเอ็นดูสัตว์เลี้ยง",
+  "examples": [
+    {
+      "chinese": "那个腮腮肉好想rua",
+      "translation": "อยากจะขยำแก้มยุ้ยๆ นั่นจัง"
+    },
+    {
+      "chinese": "碰见小金毛,狠狠rua了",
+      "translation": "เจอโกลเด้นรีทริฟเวอร์ เลยเข้าไปฟัดซะหนำใจ"
+    },
+    {
+      "chinese": "可可爱爱的,真的被治愈,太好rua了",
+      "translation": "น่ารักน่าเอ็นดู ฮีลใจจริงๆ น่าขยำมาก"
+    },
+    {
+      "chinese": "好想现在去rua猫撸狗",
+      "translation": "อยากจะไปลูบแมวฟัดหมาซะเดี๋ยวนี้เลย"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์แสลงทางอินเทอร์เน็ต",
+  "relatedWords": [
+    "saisairou"
+  ],
+  "sourceUrl": "https://chineself.com/ru/"
+}

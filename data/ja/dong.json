@@ -1,0 +1,29 @@
+{
+  "slug": "dong",
+  "chinese": "东百",
+  "pinyin": "dōng bǎi",
+  "meaning": "東北",
+  "description": "东北（dōng běi）のこと。百京=北京、沙东＝山東。",
+  "examples": [
+    {
+      "chinese": "就是东百这天太冷了",
+      "translation": "本当に東北のこの天気は寒すぎる"
+    },
+    {
+      "chinese": "东百话好带劲",
+      "translation": "東北弁は実に力がある"
+    },
+    {
+      "chinese": "我爱东百菜,真的套吃",
+      "translation": "私は東北料理が好き、本当に超美味しい"
+    },
+    {
+      "chinese": "吃饭时候旁边坐东百人喝酒太多",
+      "translation": "ご飯を食べているとき隣に座った東北人の酒の量は多すぎる"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": ["taochi"],
+  "sourceUrl": "https://chineself.com/dong/"
+}

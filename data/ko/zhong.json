@@ -1,0 +1,37 @@
+{
+  "slug": "zhong",
+  "chinese": "重磅",
+  "pinyin": "zhòng bàng",
+  "meaning": "중대 / 대형 / 빅뉴스",
+  "description": "매우 중요하고 영향력 있는 뉴스나 정보.",
+  "examples": [
+    {
+      "chinese": "市场有重磅的利好消息",
+      "translation": "시장에 대형 호재가 있다"
+    },
+    {
+      "chinese": "央视重磅发声！",
+      "translation": "CCTV가 중대 발표를 했다!"
+    },
+    {
+      "chinese": "今天教育部发布了重磅消息!",
+      "translation": "오늘 교육부가 중대 뉴스를 발표했다!"
+    },
+    {
+      "chinese": "「新能源」是车市最重磅的关键词之一",
+      "translation": "'신에너지'는 자동차 시장의 가장 핫한 키워드 중 하나다"
+    },
+    {
+      "chinese": "重磅标题：台湾问题显危险信号",
+      "translation": "충격 헤드라인: 대만 문제 위험 신호"
+    },
+    {
+      "chinese": "重磅！美联储要提前开始降息了",
+      "translation": "대박 뉴스! 연준이 조기 금리 인하를 시작한다"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "미분류",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/zhong/"
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "diss",
+  "chinese": "diss",
+  "pinyin": "d i s s",
+  "meaning": "ディスる／けなす",
+  "description": "英語由来。相手を貶す、皮肉ること。",
+  "examples": [{"chinese": "别在评论区diss人", "japanese": "コメント欄で人をディスらないで"}],
+  "category": "wailaiyu",
+  "categoryName": "外来語・ネット",
+  "relatedWords": ["yinyangguaiqi", "shuangbiao"],
+  "sourceUrl": "https://chineself.com/diss/"
+}

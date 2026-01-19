@@ -1,0 +1,29 @@
+{
+  "slug": "lv",
+  "chinese": "屡败屡战",
+  "pinyin": "lǚ bài lǜ zhàn",
+  "meaning": "Keep fighting despite repeated setbacks; never give up",
+  "description": "Similar to 「lǚ zhàn lǚ bài」 (defeat in every battle), but emphasizes the spirit of continuing to fight.",
+  "examples": [
+    {
+      "chinese": "你是如何屡败屡战坚持下来的？",
+      "translation": "How did you manage to persevere despite repeated failures?"
+    },
+    {
+      "chinese": "屡败屡战才能战无不胜",
+      "translation": "Only by keeping fighting despite setbacks can one become invincible."
+    },
+    {
+      "chinese": "他屡败屡战,获得最后的胜利",
+      "translation": "He kept fighting despite repeated defeats and won the final victory."
+    },
+    {
+      "chinese": "不要再考一次,屡败屡战屡战屡败恶性循环",
+      "translation": "Don't take the exam again; it's a vicious cycle of trying, failing, trying again, and failing again."
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "Idioms",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/lv/"
+}

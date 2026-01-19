@@ -1,0 +1,20 @@
+{
+  "slug": "lacai",
+  "chinese": "拉踩",
+  "pinyin": "lā cǎi",
+  "meaning": "เหยียบย่ำ (กดคนอื่นให้ต่ำลงเพื่อยกตัวเองให้สูงขึ้น)",
+  "description": "การกระทำที่ดึงผู้อื่นมาวิจารณ์ในทางลบเพื่อทำให้ตัวเองหรือไอดอลที่ชอบดูดีขึ้น",
+  "examples": [
+    {
+      "chinese": "别拉踩其他艺人",
+      "translation": "อย่าเหยียบศิลปินคนอื่นเพื่อให้ตัวเองดูดีเลย"
+    }
+  ],
+  "category": "net",
+  "categoryName": "วัฒนธรรมแฟนคลับ/ความขัดแย้ง",
+  "relatedWords": [
+    "heizi",
+    "fanquan"
+  ],
+  "sourceUrl": "https://chineself.com/lacai/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "yingfencha",
+  "chinese": "硬分叉",
+  "pinyin": "yìng fēn chā",
+  "meaning": "Hard Fork",
+  "description": "A permanent divergence in the blockchain, incompatible with older versions.",
+  "examples": [
+    {
+      "chinese": "社区投票决定硬分叉",
+      "translation": "The community voted for a hard fork."
+    },
+    {
+      "chinese": "硬分叉后链分成两条",
+      "translation": "The chain split into two after the hard fork."
+    },
+    {
+      "chinese": "准备升级以避免硬分叉",
+      "translation": "Preparing upgrade to avoid a hard fork."
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "Finance / Investment",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/yingfencha/"
+}

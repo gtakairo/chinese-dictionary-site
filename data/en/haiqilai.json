@@ -1,0 +1,28 @@
+{
+  "slug": "haiqilai",
+  "chinese": "嗨起来",
+  "pinyin": "hāi qǐ lái",
+  "meaning": "Get high (excited); Let's party; Get pumped up",
+  "description": "\"Hāi\" is a transliteration of \"high\". It means to get very excited or energetic. \"Tài hāi le\" (So excited), \"Wán hāi\" (Play excessively/wildly).",
+  "examples": [
+    {
+      "chinese": "我已经开始嗨起来了",
+      "translation": "I'm already starting to get excited."
+    },
+    {
+      "chinese": "嗨起来啊,气氛搞起来",
+      "translation": "Let's get hyped, liven up the atmosphere."
+    },
+    {
+      "chinese": "早点下班回家嗨起来吧",
+      "translation": "Let's transform off work early and go home to party."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Net Slang",
+  "relatedWords": [
+    "taihaile",
+    "wanhai"
+  ],
+  "sourceUrl": "https://chineself.com/haiqilai/"
+}

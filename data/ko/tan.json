@@ -1,0 +1,25 @@
+{
+    "slug": "tan",
+    "chinese": "贪大求全",
+    "pinyin": "tān dà qiú quán",
+    "meaning": "욕심내어 크고 온전한 것을 구하다",
+    "description": "(실정을 고려하지 않고) 무작정 규모를 키우는 것을 목표로 하다.",
+    "category": "chengyu",
+    "categoryName": "성어/사자성어",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/tan/",
+    "examples": [
+        {
+            "chinese": "部分学校贪大求全,为了更名,升格盲目向综合性",
+            "translation": "일부 학교는 개명을 위해 맹목적으로 종합성을 추구하며 덩치를 키운다"
+        },
+        {
+            "chinese": "机场建设不能贪大求全大,越大越不方便的",
+            "translation": "공항 건설은 무작정 크게만 지으면 안 된다. 크면 클수록 불편하다"
+        },
+        {
+            "chinese": "投资不能啥都想要,贪大求全是最大忌讳",
+            "translation": "투자는 모든 걸 다 원해선 안 된다. 욕심내어 판을 벌이는 게 가장 큰 금기다"
+        }
+    ]
+}

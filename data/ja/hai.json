@@ -1,0 +1,25 @@
+{
+  "slug": "hai",
+  "chinese": "还不成吗",
+  "pinyin": "hái bù chéng ma",
+  "meaning": "ダメなの？",
+  "description": "北京の方言。成=可以の意味となる。",
+  "examples": [
+    {
+      "chinese": "又考砸了,老天爷,我努力学习还不成吗",
+      "japanese": "また不合格だった、神様、努力して勉強したのにまだ駄目ですか"
+    },
+    {
+      "chinese": "几毛钱的事,我自己倒贴还不成吗",
+      "japanese": "ちょっとしたお金のこと、私が代わりに払うからダメなの？"
+    },
+    {
+      "chinese": "领导太不容易了,我下次不休息了,还不成吗",
+      "japanese": "リーダーは一筋縄でいかない、次は休まないから、ダメですか？"
+    }
+  ],
+  "category": "fangyan",
+  "categoryName": "方言",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/hai/"
+}

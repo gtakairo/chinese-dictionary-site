@@ -1,0 +1,23 @@
+{
+  "slug": "niaodian",
+  "chinese": "尿点",
+  "pinyin": "niào diǎn",
+  "meaning": "지루한 장면 (화장실 타이밍)",
+  "description": "지루하고 뻔해서 자리를 비워도(화장실에 가도) 지장이 없는 장면을 말함. 부정형 '무요점(无尿点)'은 '재미있다, 눈을 뗄 수 없다'는 뜻.",
+  "examples": [
+    {
+      "chinese": "这部电影全程毫无尿点",
+      "translation": "이 영화는 처음부터 끝까지 지루한 장면이 하나도 없다."
+    },
+    {
+      "chinese": "反战的战争片三个小时但是节奏很快,没什么尿点",
+      "translation": "반전 전쟁 영화인데 3시간짜리지만 전개가 빨라서 지루할 틈이 없었어."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 유행어",
+  "relatedWords": [
+    "wuniaodian"
+  ],
+  "sourceUrl": "https://chineself.com/niaodian/"
+}

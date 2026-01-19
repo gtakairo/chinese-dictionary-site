@@ -1,0 +1,25 @@
+{
+  "slug": "duang",
+  "chinese": "断更",
+  "pinyin": "duàn gèng",
+  "meaning": "連載が中断する",
+  "description": "小説、漫画、ドラマ、作品などが中断すること。烂尾小说などと同じ意味となる。中国ではネット上で個人が小説などを書いて公開することが多いが、自由に書いているため中断することも多い。",
+  "examples": [
+    {
+      "chinese": "为什么每次我追的小说都断更啊",
+      "translation": "どうして毎回私が追っかけていた小説はいつも連載が中断するの"
+    },
+    {
+      "chinese": "之前喜欢的作者断更蛮久了",
+      "translation": "以前好きだった作者は連載を中断してもう長い"
+    },
+    {
+      "chinese": "这个微博断更了一次后就不想再发了",
+      "translation": "このブログ一度中断したらもう発信したくなくなった"
+    }
+  ],
+  "category": "sub",
+  "categoryName": "サブカルチャー",
+  "relatedWords": ["lanwei"],
+  "sourceUrl": "https://chineself.com/duang/"
+}

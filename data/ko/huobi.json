@@ -1,0 +1,25 @@
+{
+  "slug": "huobi",
+  "chinese": "火币",
+  "pinyin": "huǒ bì",
+  "meaning": "후오비 (Huobi)",
+  "description": "대형 암호화폐 거래소 중 하나. 현물, 선물, 스테이킹 등의 서비스를 제공.",
+  "examples": [
+    {
+      "chinese": "我在火币交易比特币",
+      "translation": "저는 후오비에서 비트코인을 거래합니다"
+    },
+    {
+      "chinese": "火币的手续费调整了",
+      "translation": "후오비의 수수료가 조정되었습니다"
+    },
+    {
+      "chinese": "火币上线了新币",
+      "translation": "후오비가 새 코인을 상장했습니다"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "금융/투자",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/huobi/"
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "tuofen",
+  "chinese": "脱粉",
+  "pinyin": "tuō fěn",
+  "meaning": "推し離れ／ファンをやめる",
+  "description": "不祥事や価値観の違いで推しから離れること。",
+  "examples": [{"chinese": "事件后很多人脱粉", "japanese": "事件の後、脱粉する人が多かった"}],
+  "category": "net",
+  "categoryName": "推し文化",
+  "relatedWords": ["tafang", "poquan"],
+  "sourceUrl": "https://chineself.com/tuofen/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "lao",
+  "chinese": "老毕登",
+  "pinyin": "lǎo bì dēng",
+  "meaning": "老いぼれ、年寄り",
+  "description": "老登、老逼灯、老b灯と同じ。もう先が長くない人という意味合い。",
+  "examples": [
+    {
+      "chinese": "真该死啊,老毕登",
+      "japanese": "本当にくたばれ、老いぼれ"
+    },
+    {
+      "chinese": "老毕登老板,你真的见不到明天的太阳了",
+      "japanese": "年寄り社長め、お前は明日の太陽を見ることがない"
+    },
+    {
+      "chinese": "没见过这么烦的人,老毕登有多远滚多远",
+      "japanese": "こんなムカつくやつは見たことない、老いぼれ近寄んな"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語・スラング",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/lao/"
+}

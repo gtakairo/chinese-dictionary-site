@@ -1,0 +1,19 @@
+{
+  "slug": "pua",
+  "chinese": "PUA",
+  "pinyin": "p u a",
+  "meaning": "가스라이팅, 심리 조종",
+  "description": "타인을 심리적으로 조종하고 의존하게 만드는 기술. 부정적 맥락.",
+  "examples": [
+    {
+      "chinese": "小心PUA",
+      "translation": "가스라이팅 조심해"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 유행어",
+  "relatedWords": [
+    "gangjing"
+  ],
+  "sourceUrl": "https://chineself.com/pua/"
+}

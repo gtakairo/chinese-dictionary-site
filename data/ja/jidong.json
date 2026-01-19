@@ -1,0 +1,25 @@
+{
+  "slug": "jidong",
+  "chinese": "鸡冻",
+  "pinyin": "jī dòng",
+  "meaning": "（感情が）高ぶる、興奮する",
+  "description": "激动（jī dòng）のネット用語。",
+  "examples": [
+    {
+      "chinese": "帅气酷盖！好鸡冻啊啊啊",
+      "translation": "カッコよくクールガイ、とても興奮する"
+    },
+    {
+      "chinese": "重磅好消息,我很鸡冻",
+      "translation": "超ビッグニュース、私はとても感情が高ぶる"
+    },
+    {
+      "chinese": "要冷静要冷静！怎么办还是很鸡冻",
+      "translation": "冷静にならねば冷静にならねば、どうしてまだ興奮するんだ"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": ["kugai", "zhongbang"],
+  "sourceUrl": "https://chineself.com/jidong/"
+}

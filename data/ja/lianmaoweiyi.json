@@ -1,0 +1,16 @@
+{
+  "slug": "lianmaoweiyi",
+  "chinese": "连帽卫衣",
+  "pinyin": "lián mào wèi yī",
+  "meaning": "パーカー",
+  "description": "フード付きのトレーナー。フーディー、パーカー。",
+  "examples": [
+    {"chinese": "这件连帽卫衣很保暖", "japanese": "このパーカーはとても暖かい"},
+    {"chinese": "穿黑色连帽卫衣出门", "japanese": "黒いパーカーを着て出かける"},
+    {"chinese": "连帽卫衣搭配牛仔裤", "japanese": "パーカーにジーンズを合わせる"}
+  ],
+  "category": "fashion",
+  "categoryName": "ファッション・美容",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/lianmaoweiyi/"
+}

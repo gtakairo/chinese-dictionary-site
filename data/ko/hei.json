@@ -1,0 +1,25 @@
+{
+  "slug": "hei",
+  "chinese": "黑别人",
+  "pinyin": "hēi bié rén",
+  "meaning": "남을 헐뜯다, 비방하다, 음해하다",
+  "description": "「헤이(黑)」는 동사로 쓰여 남을 헐뜯거나 비방하는 것을 의미한다.",
+  "examples": [
+    {
+      "chinese": "到处黑别人,不要造口舌之祸",
+      "translation": "여기저기서 남을 헐뜯지 마라, 말로 화를 자초하지 마."
+    },
+    {
+      "chinese": "黑别人赚钱多了,做个人吧",
+      "translation": "남 헐뜯어서 돈 많이 벌었으면, 이제 사람답게 좀 살아라."
+    },
+    {
+      "chinese": "无中生有黑别人的话,很不道德的,这是缺德的",
+      "translation": "없는 사실을 지어내 남을 헐뜯는 건 비도덕적인 짓이야. 천벌 받을 짓이지."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어/은어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/hei/"
+}

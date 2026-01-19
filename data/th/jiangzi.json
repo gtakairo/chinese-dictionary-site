@@ -1,0 +1,25 @@
+{
+  "slug": "jiangzi",
+  "chinese": "酱紫",
+  "pinyin": "jiàng zǐ",
+  "meaning": "แบบนี้ / อย่างนี้ (จ้างจึ)",
+  "description": "ความหมายเหมือนกับ 这样子 (zhè yàng zi) เกิดจากการพิมพ์ผิด ในภาษาถิ่นหนานจิง เสียงของ 这样子 จะฟังดูเหมือน jiàng zǐ",
+  "examples": [
+    {
+      "chinese": "就是酱紫",
+      "translation": "ก็แบบนี้แหละ"
+    },
+    {
+      "chinese": "原来你是酱紫的人",
+      "translation": "ที่แท้เธอก็เป็นคนแบบนี้"
+    },
+    {
+      "chinese": "你总是怎么酱紫啊",
+      "translation": "ทำไมเธอถึงเป็นแบบนี้ตลอดเลย"
+    }
+  ],
+  "category": "fangyan",
+  "categoryName": "ภาษาถิ่น",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/jiangzi/"
+}

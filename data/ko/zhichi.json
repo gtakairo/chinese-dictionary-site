@@ -1,0 +1,27 @@
+{
+  "slug": "zhichi",
+  "chinese": "知耻而后勇",
+  "pinyin": "zhī chǐ ér hòu yǒng",
+  "meaning": "부끄러움을 아는 것이 용기에 가깝다 (지치후용)",
+  "description": "자신의 부족함을 알고 고쳐나가는 것이 진정한 용기다.",
+  "examples": [
+    {
+      "chinese": "要懂得知耻而后勇,知错能改,善莫大焉",
+      "translation": "부끄러움을 아는 것이 용기임을 알아야 한다. 잘못을 고치는 것이 가장 큰 선이다"
+    },
+    {
+      "chinese": "学生成绩不好就应该知耻而后勇吧",
+      "translation": "성적이 나쁜 학생은 부끄러움을 알고 분발해야 한다"
+    },
+    {
+      "chinese": "知耻而后勇,终于拿到了世界杯的首胜",
+      "translation": "절치부심하여 드디어 월드컵 첫 승을 거두었다"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "성어/사자성어",
+  "relatedWords": [
+    "zhicuonenggaishanmodayan"
+  ],
+  "sourceUrl": "https://chineself.com/zhichi/"
+}

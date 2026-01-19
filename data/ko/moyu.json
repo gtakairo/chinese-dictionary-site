@@ -1,0 +1,19 @@
+{
+  "slug": "moyu",
+  "chinese": "摸鱼",
+  "pinyin": "mō yú",
+  "meaning": "농땡이 치다 / 월급 루팡",
+  "description": "근무 중에 몰래 딴짓하거나 게으름 피우는 것을 뜻하는 인터넷 용어.",
+  "examples": [
+    {
+      "chinese": "上班摸鱼被发现了",
+      "translation": "출근해서 농땡이 피우다가 들켰다."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [
+    "dagongren"
+  ],
+  "sourceUrl": "https://chineself.com/moyu/"
+}

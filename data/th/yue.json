@@ -1,0 +1,25 @@
+{
+  "slug": "yue",
+  "chinese": "跃层",
+  "pinyin": "yuè céng",
+  "meaning": "ดูเพล็กซ์ / เมโซเนต",
+  "description": "ห้องชุดที่มีบันไดภายในเชื่อมต่อสองชั้น",
+  "examples": [
+    {
+      "chinese": "跃层一室一厅",
+      "translation": "ดูเพล็กซ์ 1 ห้องนอน"
+    },
+    {
+      "chinese": "三室两厅两卫,190平,上下跃层,带院,带车库",
+      "translation": "3 ห้องนอน 190 ตร.ม. ดูเพล็กซ์ มีสวนและโรงรถ"
+    },
+    {
+      "chinese": "你真的清楚复式和跃层的区别吗",
+      "translation": "คุณรู้ความแตกต่างระหว่าง 'Loft' และ 'Duplex' จริงๆ หรือไม่"
+    }
+  ],
+  "category": "fangzi",
+  "categoryName": "ที่อยู่อาศัย/การตกแต่งภายใน",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/yue/"
+}

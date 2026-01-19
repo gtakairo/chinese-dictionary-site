@@ -1,0 +1,19 @@
+{
+  "slug": "geng",
+  "chinese": "梗番",
+  "pinyin": "gěng fān",
+  "meaning": "개그 만화 / 개그물 / 병맛 애니",
+  "description": "「겅(梗)」은 인터넷 용어로 「웃음 포인트, 개그」를 뜻한다. 개그나 코미디 위주의 애니메이션이나 만화 작품을 가리킨다.",
+  "examples": [
+    {
+      "chinese": "无尿点的玩梗番,笑到下巴脱臼",
+      "translation": "지루할 틈이 없는 개그물, 턱 빠지게 웃었다."
+    }
+  ],
+  "category": "sub",
+  "categoryName": "서브컬처",
+  "relatedWords": [
+    "niaodian"
+  ],
+  "sourceUrl": "https://chineself.com/geng/"
+}

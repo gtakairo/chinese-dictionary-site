@@ -1,0 +1,28 @@
+{
+  "slug": "2b",
+  "chinese": "2B",
+  "pinyin": "èr bī",
+  "meaning": "โง่, ปัญญาอ่อน, ติงต๊อง",
+  "description": "เขียนได้ว่า 二笔, 二币, 二比 เดิมเป็นคำด่าแรงๆ แต่ปัจจุบันใช้หยอกล้อได้",
+  "examples": [
+    {
+      "chinese": "没人比你更2B",
+      "translation": "ไม่มีใครติงต๊องไปกว่าแกแล้ว"
+    },
+    {
+      "chinese": "你是2B吗？",
+      "translation": "แกบ้ารึเปล่า?"
+    },
+    {
+      "chinese": "不忍直视的2B狗狗",
+      "translation": "เจ้าหมาติงต๊องจนทนดูไม่ได้"
+    }
+  ],
+  "category": "ma",
+  "categoryName": "คำด่า",
+  "relatedWords": [
+    "erhuo",
+    "wuyu"
+  ],
+  "sourceUrl": "https://chineself.com/2b/"
+}

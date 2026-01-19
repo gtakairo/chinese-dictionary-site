@@ -1,0 +1,25 @@
+{
+  "slug": "zheng",
+  "chinese": "蒸不熟煮不烂",
+  "pinyin": "zhēng bù shú zhǔ bù làn",
+  "meaning": "구제불능 / 다루기 힘들다 / 고집불통",
+  "description": "삶아도 쪄도 안 익는다. 처치 곤란하고 비협조적인 사람.",
+  "examples": [
+    {
+      "chinese": "我就是那蒸不熟煮不烂",
+      "translation": "나는 삶아도 구워도 안 익는 놈이다 (고집불통)"
+    },
+    {
+      "chinese": "脸皮厚,真是快蒸不熟煮不烂",
+      "translation": "낯짝 두껍네, 진짜 구제불능이다"
+    },
+    {
+      "chinese": "希望这种蒸不熟煮不烂的生活真的能到此彻底结束",
+      "translation": "이런 구제불능의 삶이 여기서 완전히 끝나길 바란다"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "성어/사자성어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/zheng/"
+}

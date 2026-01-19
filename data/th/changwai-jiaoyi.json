@@ -1,0 +1,16 @@
+{
+  "slug": "changwai-jiaoyi",
+  "chinese": "场外交易",
+  "pinyin": "chǎng wài jiāo yì",
+  "meaning": "การซื้อขายนอกตลาดหลักทรัพย์ (OTC)",
+  "description": "การซื้อขายระหว่างคู่สัญญาโดยไม่ผ่านตลาดซื้อขายกลาง มักใช้กับรายการขนาดใหญ่หรือแลกเปลี่ยนเงินสกุล",
+  "examples": [
+    { "chinese": "通过场外交易购买USDT", "translation": "ซื้อ USDT ผ่านการซื้อขายแบบ OTC" },
+    { "chinese": "场外交易需要注意对手风险", "translation": "การซื้อขายนอกตลาดต้องระวังความเสี่ยงของคู่สัญญา" },
+    { "chinese": "选择信誉好的场外平台", "translation": "เลือกแพลตฟอร์ม OTC ที่มีความน่าเชื่อถือ" }
+  ],
+  "category": "jinrong",
+  "categoryName": "การเงินและการลงทุน",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/changwai-jiaoyi/"
+}

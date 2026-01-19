@@ -1,0 +1,27 @@
+{
+  "slug": "baiqie",
+  "chinese": "白切黑",
+  "pinyin": "bái qiē hēi",
+  "meaning": "innocent outside but dark inside",
+  "description": "Like a boiled egg (white outside, dark yolk). Refers to someone who appears innocent and kind but has a dark, scheming, or sharp personality underneath.",
+  "examples": [
+    {
+      "chinese": "表面上纯良,实际上傲娇白切黑",
+      "translation": "Innocent on the surface, but actually a scheming tsundere inside"
+    },
+    {
+      "chinese": "我以为你是个白切黑实际上只是个白切白",
+      "translation": "I thought you were dark inside, but actually you「re just innocent through and through"
+    },
+    {
+      "chinese": "一个白切黑一个黑切黑一个黑切白",
+      "translation": "One innocent-looking but dark, one dark looking and dark inside, one dark looking but innocent inside"
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [
+    "aojiao"
+  ],
+  "sourceUrl": "https://chineself.com/baiqie/"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "gangjing",
+  "chinese": "杠精",
+  "pinyin": "gàng jīng",
+  "meaning": "พวกชอบหาเรื่อง / คนขวางโลก / นักแซะ",
+  "description": "คนที่ชอบโต้เถียงหรือจับผิดผู้อื่นโดยไม่จำเป็น",
+  "examples": [
+    {
+      "chinese": "别当杠精",
+      "translation": "อย่ามาทำตัวขวางโลกแถวนี้"
+    }
+  ],
+  "category": "net",
+  "categoryName": "คำสแลงอินเทอร์เน็ต",
+  "relatedWords": [
+    "ningmengjing"
+  ],
+  "sourceUrl": "https://chineself.com/gangjing/"
+}

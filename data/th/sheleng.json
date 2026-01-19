@@ -1,0 +1,21 @@
+{
+  "slug": "sheleng",
+  "chinese": "社冷",
+  "pinyin": "shè lěng",
+  "meaning": "เฉยชากับการเข้าสังคม / ชอบอยู่คนเดียว / เย็นชาทางสังคม",
+  "description": "คำย่อของโรคเฉยชาต่อสังคม (Social Apathy) คำที่เกี่ยวข้อง: เช่อนิว (เก่งเรื่องเข้าสังคม), เช่อข่ง (โรคกลัวการเข้าสังคม), เช่อจ๋า (ขี้อายแต่พอสนิทแล้วพูดเก่ง)",
+  "examples": [
+    {
+      "chinese": "原来不是社恐,只是社冷",
+      "translation": "ที่แท้ก็ไม่ได้เป็นโรคกลัวสังคม แค่เฉยชากับสังคมเฉยๆ"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์สแลงอินเทอร์เน็ต",
+  "relatedWords": [
+    "sheniu",
+    "shekong",
+    "sheza"
+  ],
+  "sourceUrl": "https://chineself.com/sheleng/"
+}

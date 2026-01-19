@@ -1,0 +1,25 @@
+{
+  "slug": "nan",
+  "chinese": "难绷",
+  "pinyin": "nán bēng",
+  "meaning": "（感情、圧力を）堪えきれない、隠しきれない、耐えきれない",
+  "description": "绷不住了と同じ意味。感情や圧力を抑えきれない状態を表す。",
+  "examples": [
+    {
+      "chinese": "我全程笑麻了,真的难绷啊",
+      "translation": "ずっと笑い続けた、本当に笑いを隠し切れない"
+    },
+    {
+      "chinese": "我有点难绷,冷得我直接关空调",
+      "translation": "私はちょっと堪えられず、寒くてエアコンを切った"
+    },
+    {
+      "chinese": "最近压力真是太难绷了,但是坚持才有希望吧",
+      "translation": "最近プレッシャーに本当に耐えられないが頑張り続ければ希望があるさ"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "未分類",
+  "relatedWords": ["bengbuzhule"],
+  "sourceUrl": "https://chineself.com/nan/"
+}

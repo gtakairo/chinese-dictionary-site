@@ -1,0 +1,25 @@
+{
+  "slug": "ba",
+  "chinese": "叭叭叭叭",
+  "pinyin": "bā bā bā bā",
+  "meaning": "chatter endlessly, blah blah blah",
+  "description": "Onomatopoeia for constant talking or nagging. Often implies annoyance.",
+  "examples": [
+    {
+      "chinese": "这嘴叭叭叭叭叭个不停",
+      "translation": "This mouth won't stop chattering"
+    },
+    {
+      "chinese": "别叭叭那么多",
+      "translation": "Don't blabber so much"
+    },
+    {
+      "chinese": "喝醉了的人都会叭叭叭叭的",
+      "translation": "Drunk people always babble endlessly"
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/ba/"
+}

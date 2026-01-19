@@ -1,0 +1,12 @@
+{
+  "slug": "zhenghuo",
+  "chinese": "整活",
+  "pinyin": "zhěng huó",
+  "meaning": "ノリの良い企画／面白いネタ作り",
+  "description": "配信者やUP主が面白企画・ネタで盛り上げること。",
+  "examples": [{"chinese": "今天UP主整活了", "japanese": "今日UP主が面白企画をやった"}],
+  "category": "net",
+  "categoryName": "コンテンツ・企画",
+  "relatedWords": ["upzhu"],
+  "sourceUrl": "https://chineself.com/zhenghuo/"
+}

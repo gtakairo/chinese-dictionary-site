@@ -1,0 +1,16 @@
+{
+  "slug": "lingbi",
+  "chinese": "零币",
+  "pinyin": "líng bì",
+  "meaning": "ゼロコイン（Zerocoin）",
+  "description": "匿名性向上を目的とした暗号プロトコル（Zerocoin関連）。",
+  "examples": [
+    {"chinese": "了解零币协议的原理", "japanese": "Zerocoinプロトコルの原理を理解する"},
+    {"chinese": "零币提升交易隐私", "japanese": "Zerocoinは取引のプライバシーを高める"},
+    {"chinese": "研究零币的实现方案", "japanese": "Zerocoinの実装方式を研究する"}
+  ],
+  "category": "jinrong",
+  "categoryName": "金融・投資",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/lingbi/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "zhui",
+  "chinese": "坠吊",
+  "pinyin": "zhuì diào",
+  "meaning": "一番だね、スゴイ、最高、素晴らしい",
+  "description": "最吊と同じ。ネット用語で吊＝厉害となる。",
+  "examples": [
+    {
+      "chinese": "还是父母爱情是坠吊的",
+      "japanese": "やっぱり父母の愛情が一番だね"
+    },
+    {
+      "chinese": "天气预报就是坠吊的,下午真下雨了",
+      "japanese": "天気予報はやっぱりスゴイ、午後に本当に雨になった"
+    },
+    {
+      "chinese": "我帮助了所有人,我就是坠吊的",
+      "japanese": "私はすべての人を助けた、私ってやっぱり最高だ"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語・スラング",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/zhui/"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "bacao",
+  "chinese": "拔草",
+  "pinyin": "bá cǎo",
+  "meaning": "ถอนหญ้า (หายอยากได้, เลิกเห่อ)",
+  "description": "หมายถึงการได้ซื้อหรือลองสินค้าที่อยากได้มานานจนหายอยาก หรือลองแล้วรู้สึกเฉยๆ จนเลิกอยากได้ (ตรงข้ามกับ 种草 = ปลูกหญ้า/ป้ายยา)",
+  "examples": [
+    {
+      "chinese": "试过后我拔草了",
+      "translation": "พอลองแล้วก็หายอยากเลย (เลิกเห่อ)"
+    }
+  ],
+  "category": "net",
+  "categoryName": "สแลงอินเทอร์เน็ต",
+  "relatedWords": [
+    "zhongcao"
+  ],
+  "sourceUrl": "https://chineself.com/bacao/"
+}

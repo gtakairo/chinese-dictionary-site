@@ -1,0 +1,25 @@
+{
+  "slug": "shengji",
+  "chinese": "生姜脱不了辣气",
+  "pinyin": "shēng jiāng tuō bù liǎo là qì",
+  "meaning": "제 버릇 개 못 준다 / 본성은 고치기 어렵다",
+  "description": "'생강은 매운 기운을 없앨 수 없다'. 타고난 천성은 고치기 어렵다는 비유.",
+  "examples": [
+    {
+      "chinese": "生姜脱不了辣气,狗改不了吃屎",
+      "translation": "제 버릇 개 못 준다더니, 개가 똥 먹는 버릇 못 고친다."
+    },
+    {
+      "chinese": "弯树掰不直,犟性改不了,正如生姜脱不了辣气",
+      "translation": "굽은 나무를 펴지 못하듯 고집은 고치 못하고, 생강은 매운맛을 잃지 않는다."
+    },
+    {
+      "chinese": "江山易改,本性难移,生姜脱不了辣气",
+      "translation": "강산은 변하기 쉬워도 본성은 바꾸기 어렵다. 생강은 매운맛을 잃지 않는다."
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "사자성어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/shengji/"
+}

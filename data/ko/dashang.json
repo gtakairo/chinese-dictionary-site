@@ -1,0 +1,27 @@
+{
+  "slug": "dashang",
+  "chinese": "打赏",
+  "pinyin": "dǎ shǎng",
+  "meaning": "후원금, 팁, 별풍선(인터넷 방송)",
+  "description": "과거에는 신분이 높은 사람이 낮은 사람에게 주는 포상으로 사용되었습니다. 지금은 대부분 인터넷 방송 등의 후원금(도네이션) 의미로 사용됩니다. 투비(投币)도 같은 의미입니다. 직파타상(直播打赏)은 「라이브 방송 중 후원」을 의미합니다.",
+  "examples": [
+    {
+      "chinese": "我刚打赏了5.00元,略表心意",
+      "translation": "방금 5위안 후원했어요, 약소하지만 제 마음입니다."
+    },
+    {
+      "chinese": "我刚打赏了1元,很喜欢作者",
+      "translation": "방금 1위안 후원했어요, 작가님 정말 좋아해요."
+    },
+    {
+      "chinese": "我爱看网络直播,频频给主播打赏",
+      "translation": "나는 인터넷 라이브 방송 보는 걸 좋아해서, BJ에게 자주 후원한다."
+    }
+  ],
+  "category": "sns",
+  "categoryName": "웹/SNS 용어",
+  "relatedWords": [
+    "lvebiaoxinyi"
+  ],
+  "sourceUrl": "https://chineself.com/dashang/"
+}

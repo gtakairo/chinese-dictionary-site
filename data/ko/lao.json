@@ -1,0 +1,25 @@
+{
+  "slug": "lao",
+  "chinese": "老毕登",
+  "pinyin": "lǎo bì dēng",
+  "meaning": "늙은이 / 꼰대 (비하 표현)",
+  "description": "老登, 老逼灯, 老b灯과 같습니다. 앞으로 살 날이 얼마 남지 않았다는 의미를 내포합니다.",
+  "examples": [
+    {
+      "chinese": "真该死啊,老毕登",
+      "translation": "죽어라, 늙은이"
+    },
+    {
+      "chinese": "老毕登老板,你真的见不到明天的太阳了",
+      "translation": "늙은이 사장, 넌 정말 내일 태양을 못 볼 줄 알아라"
+    },
+    {
+      "chinese": "没见过这么烦的人,老毕登有多远滚多远",
+      "translation": "이렇게 짜증나는 사람은 본 적 없어, 늙은이는 꺼져버려"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어/은어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/lao/"
+}

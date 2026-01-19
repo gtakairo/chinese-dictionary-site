@@ -1,0 +1,25 @@
+{
+  "slug": "meng",
+  "chinese": "懵逼",
+  "pinyin": "měng bī",
+  "meaning": "ハッとする、唖然とする、ビックリ仰天、あっけにとられる",
+  "description": "目の前で起きたことや現象に唖然とすること。一脸懵、一脸懵逼、一脸懵bでも同じ。",
+  "examples": [
+    {
+      "chinese": "困懵逼了,差点儿一头扎进男厕所",
+      "translation": "ハッとする、間違えて男子便所に入るとこだった"
+    },
+    {
+      "chinese": "这个视频看完绝对一脸懵逼",
+      "translation": "この動画は見たら絶対に唖然となる"
+    },
+    {
+      "chinese": "我知道对方身份后,瞬间一脸懵逼",
+      "translation": "私は相手の身分を知った瞬間驚きあっけにとられた"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/meng/"
+}

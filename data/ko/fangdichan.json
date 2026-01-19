@@ -1,0 +1,25 @@
+{
+  "slug": "fangdichan",
+  "chinese": "房地产信托基金",
+  "pinyin": "fáng dì chǎn xìn tuō jī jīn",
+  "meaning": "부동산 투자 신탁 (REIT)",
+  "description": "부동산을 중심으로 투자 대상을 구성한 투자 신탁. 임대 수입이나 매각 차익 등을 투자자에게 분배한다.",
+  "examples": [
+    {
+      "chinese": "我准备配置一点房地产信托基金",
+      "translation": "부동산 투자 신탁을 조금 넣어둘 생각이다"
+    },
+    {
+      "chinese": "房地产信托基金收益比较稳定",
+      "translation": "부동산 투자 신탁은 수익이 비교적 안정적이다"
+    },
+    {
+      "chinese": "他通过房地产信托基金分散风险",
+      "translation": "그는 부동산 투자 신탁을 통해 위험을 분산한다"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "금융·투자",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/fangdichan/"
+}

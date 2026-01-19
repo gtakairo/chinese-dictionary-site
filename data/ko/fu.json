@@ -1,0 +1,25 @@
+{
+  "slug": "fu",
+  "chinese": "福报",
+  "pinyin": "fú bào",
+  "meaning": "복보(福報) / 복 / 선행의 보답",
+  "description": "복덕의 보응을 말한다. 선한 원인에 선한 결과가 있다는 뜻.",
+  "examples": [
+    {
+      "chinese": "福报不请自来",
+      "translation": "복은 청하지 않아도 스스로 온다(선인선과는 반드시 이루어진다)."
+    },
+    {
+      "chinese": "有钱就算是有福报吗",
+      "translation": "돈이 있으면 복이 있다고 할 수 있는가?"
+    },
+    {
+      "chinese": "厚道的人,常常能够获得较多的福报",
+      "translation": "너그러운 사람은 종종 더 많은 복을 받는다."
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "미분류",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/fu/"
+}

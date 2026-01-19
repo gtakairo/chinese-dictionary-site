@@ -1,0 +1,16 @@
+{
+  "slug": "shanzhaibi",
+  "chinese": "山寨币",
+  "pinyin": "shān zhài bì",
+  "meaning": "アルトコイン（altcoin）",
+  "description": "ビットコイン以外の暗号資産の総称。文脈により粗悪コインを指すことも。",
+  "examples": [
+    {"chinese": "市场上有很多山寨币", "japanese": "市場には多くのアルトコインがある"},
+    {"chinese": "谨慎投资小众山寨币", "japanese": "マイナーなアルトコインへの投資は慎重に"},
+    {"chinese": "关注山寨币赛道的机会", "japanese": "アルトコイン市場のチャンスに注目する"}
+  ],
+  "category": "jinrong",
+  "categoryName": "金融・投資",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/shanzhaibi/"
+}

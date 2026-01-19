@@ -1,0 +1,24 @@
+{
+  "slug": "kawayi",
+  "chinese": "卡哇伊",
+  "pinyin": "kǎ wa yī",
+  "meaning": "Kawaii (Cute)",
+  "description": "Transliteration of the Japanese word \"Kawaii\". 卡哇一 (kǎ wa yī) is also used.",
+  "examples": [
+    {
+      "chinese": "樱花妹,卡哇伊伊伊～卡哇伊内",
+      "translation": "Japanese girls, kawaii~~ cute, isn't it"
+    },
+    {
+      "chinese": "这个设计真的好卡哇伊捏",
+      "translation": "This design is truly very kawaii"
+    }
+  ],
+  "category": "wailaiyu",
+  "categoryName": "Loanwords",
+  "relatedWords": [
+    "hongdouni",
+    "diesinei"
+  ],
+  "sourceUrl": "https://chineself.com/kawayi/"
+}

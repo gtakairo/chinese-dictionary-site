@@ -1,0 +1,30 @@
+{
+    "slug": "tiao",
+    "chinese": "挑柄",
+    "pinyin": "tiāo bǐng",
+    "meaning": "특정 캐릭터 굿즈만 골라 사기 (병 픽)",
+    "description": "병(柄)은 일본어 가라(무늬)에서 유래. 같은 캐릭터 굿즈나 상품을 갖추는 것.",
+    "category": "sub",
+    "categoryName": "서브컬처",
+    "relatedWords": [
+        "bingtu",
+        "ouye",
+        "chigu",
+        "tongbao"
+    ],
+    "sourceUrl": "https://chineself.com/tiao/",
+    "examples": [
+        {
+            "chinese": "欧耶,终于会挑柄图了",
+            "translation": "오예, 드디어 굿즈 고르는 법 알았다"
+        },
+        {
+            "chinese": "我吃谷都挑柄,不是所有我推的柄我都溺爱的",
+            "translation": "난 굿즈 살 때 골라서 사, 내 최애의 모든 도안을 다 좋아하는 건 아니야"
+        },
+        {
+            "chinese": "想做一个痛包,但是手里面没有合适的柄图,我要挑柄吃",
+            "translation": "이타백 만들고 싶은데 적당한 도안(굿즈)이 없네, 골라서 사야겠다"
+        }
+    ]
+}

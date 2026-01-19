@@ -1,0 +1,25 @@
+{
+  "slug": "gun",
+  "chinese": "棍棒教育",
+  "pinyin": "gùn bàng jiào yù",
+  "meaning": "体罰を厭わない厳しい教育",
+  "description": "棍棒式教育とも言う。棍棒式家教は「体罰による厳しい躾け」となる。",
+  "examples": [
+    {
+      "chinese": "我觉得棍棒教育不是教育而是对弱小的暴力",
+      "japanese": "私は厳しい体罰教育は教育と言うより小さな暴力に感じる"
+    },
+    {
+      "chinese": "大多数是棍棒教育「治标不治本」",
+      "japanese": "多くの体罰教育は、根本的に改善できる対処法ではない"
+    },
+    {
+      "chinese": "到底是树大自然直,还是棍棒之下出孝子？",
+      "japanese": "樹は大自然の中でまっすぐ育つ、それなのに体罰教育で孝子が育つのか？"
+    }
+  ],
+  "category": "jiaoyu",
+  "categoryName": "教育・学校",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/gun/"
+}

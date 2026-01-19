@@ -1,0 +1,27 @@
+{
+  "slug": "aojiao",
+  "chinese": "傲娇",
+  "pinyin": "ào jiāo",
+  "meaning": "tsundere",
+  "description": "Refers to a character type who is initially cold or hostile (tsun/傲) but gradually shows a warmer, friendlier side (dere/娇).",
+  "examples": [
+    {
+      "chinese": "他家里的小傲娇,外边的边角料",
+      "translation": "A little tsundere at home, but useless outside"
+    },
+    {
+      "chinese": "女人带着些许傲娇,男人越爱女的",
+      "translation": "The more a woman shows some tsundere traits, the more the man loves her"
+    },
+    {
+      "chinese": "最近发现自己好喜欢带点傲娇属性的男生",
+      "translation": "Recently discovered I really like guys with tsundere attributes"
+    }
+  ],
+  "category": "sub",
+  "categoryName": "Subculture",
+  "relatedWords": [
+    "shehuibianjiaoliao"
+  ],
+  "sourceUrl": "https://chineself.com/aojiao/"
+}

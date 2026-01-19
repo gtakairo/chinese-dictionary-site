@@ -1,0 +1,29 @@
+{
+  "slug": "chigua",
+  "chinese": "吃瓜不信瓜",
+  "pinyin": "chī guā bù xìn guā",
+  "meaning": "ฟังข่าวลือแต่ไม่ปักใจเชื่อ, ไม่เชื่อข้อมูลที่ไม่มีมูลความจริง",
+  "description": "\"ชือ กวา ฉวิน จ้ง\" (Chi gua qun zhong) หมายถึง \"ไทยมุง, คนวงนอก (ที่ไม่รู้ความจริง)\"",
+  "examples": [
+    {
+      "chinese": "又来啦,吃瓜不信瓜,非官宣不约",
+      "translation": "มาอีกแล้ว ฟังหูไว้หู ไม่เชื่อจนกว่าจะมีประกาศอย่างเป็นทางการ"
+    },
+    {
+      "chinese": "吃瓜不信瓜,但是真的好期待",
+      "translation": "ฟังหูไว้หูนะ แต่ก็คาดหวังจริงๆ แหละ"
+    },
+    {
+      "chinese": "吃瓜不信瓜,信瓜是傻瓜,一切等官宣吧",
+      "translation": "ฟังหูไว้หู ใครเชื่อนี่บื้อเลย รอประกาศทางการดีกว่า"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์อินเทอร์เน็ต",
+  "relatedWords": [
+    "chiguaqunzhong",
+    "feiguanxuanbuyue",
+    "guanxuan"
+  ],
+  "sourceUrl": "https://chineself.com/chigua/"
+}

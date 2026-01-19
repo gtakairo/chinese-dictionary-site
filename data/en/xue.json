@@ -1,0 +1,29 @@
+{
+  "slug": "xue",
+  "chinese": "学霸",
+  "pinyin": "xué bà",
+  "meaning": "Top Student / Straight A Student",
+  "description": "Someone who is very good at studying. Opposite of 'Xuezha' (Slacker student).",
+  "examples": [
+    {
+      "chinese": "这位初中学霸的学习方法,转出来供大家借鉴",
+      "translation": "Sharing this middle school top student's study method for everyone's reference."
+    },
+    {
+      "chinese": "学霸的经验之谈就算了,不是他们的做法不可取,而是你基本做不到",
+      "translation": "Forget the top student's advice, not because it's bad, but because you basically can't do it."
+    },
+    {
+      "chinese": "普通学霸和顶级学霸之间的区别,比学霸和学渣之间大得多",
+      "translation": "The difference between a normal top student and an elite top student is bigger than between a top student and a slacker."
+    }
+  ],
+  "category": "jiaoyu",
+  "categoryName": "Education / School",
+  "relatedWords": [
+    "xueshen",
+    "jingyanzhitan",
+    "bukequ"
+  ],
+  "sourceUrl": "https://chineself.com/xue/"
+}

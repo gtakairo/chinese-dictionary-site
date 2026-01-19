@@ -1,0 +1,27 @@
+{
+  "slug": "dakai",
+  "chinese": "打开天窗说亮话",
+  "pinyin": "dǎ kāi tiān chuāng liàng huà",
+  "meaning": "Speak frankly, open one's heart not to hide anything",
+  "description": "To speak openly without hiding anything.",
+  "examples": [
+    {
+      "chinese": "咱们就打开天窗说亮话吧",
+      "translation": "Let's speak frankly"
+    },
+    {
+      "chinese": "有些事不妨打开天窗说亮话吧",
+      "translation": "Some things are better spoken about frankly"
+    },
+    {
+      "chinese": "打开天窗说亮话,我喜欢你",
+      "translation": "To be frank, I like you"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "Idioms",
+  "relatedWords": [
+    "lanwei"
+  ],
+  "sourceUrl": "https://chineself.com/dakai/"
+}

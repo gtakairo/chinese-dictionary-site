@@ -1,0 +1,25 @@
+{
+  "slug": "saoqi",
+  "chinese": "骚气",
+  "pinyin": "sāo qì",
+  "meaning": "①生臭い ②自由気まま、いい加減、淫らな、色っぽい",
+  "description": "①は腥臭と同じ意味。②はネット用語として使われ、你好骚啊と同じ使い方。",
+  "examples": [
+    {
+      "chinese": "大街上有很多银杏树,臭白果味儿还有骚气",
+      "translation": "街路樹のイチョウが多い、臭い実の生臭さがする"
+    },
+    {
+      "chinese": "这个西服颜色很骚气",
+      "translation": "このスーツの色はちょっと自由すぎる（奇抜だ）"
+    },
+    {
+      "chinese": "你这操作也太骚气了吧",
+      "translation": "あなたのこの仕事はいい加減すぎるだろ"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": ["nihaosaoa"],
+  "sourceUrl": "https://chineself.com/saoqi/"
+}

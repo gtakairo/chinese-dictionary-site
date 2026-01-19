@@ -1,0 +1,25 @@
+{
+    "slug": "sui",
+    "chinese": "虽败犹荣",
+    "pinyin": "suī bài yóu róng",
+    "meaning": "졌지만 잘 싸웠다 (석패)",
+    "description": "「비록 실패했으나, 여전히 매우 영광스럽다」의 줄임말.",
+    "category": "uncategorized",
+    "categoryName": "미분류",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/sui/",
+    "examples": [
+        {
+            "chinese": "虽然最后失手了,但虽败犹荣",
+            "translation": "비록 마지막에 실패했지만, 영광스러운 패배다"
+        },
+        {
+            "chinese": "虽败犹荣,他们也积累了经验",
+            "translation": "졌잘싸, 그들도 경험을 쌓았으니"
+        },
+        {
+            "chinese": "今晚的比赛真的打得非常精彩,虽败犹荣啊",
+            "translation": "오늘 밤 경기는 정말 훌륭했다, 졌지만 영광스러워"
+        }
+    ]
+}

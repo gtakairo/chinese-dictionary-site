@@ -1,0 +1,12 @@
+{
+  "slug": "dangong",
+  "chinese": "当工",
+  "pinyin": "dāng gōng",
+  "meaning": "雇われ仕事をする（打工の別表現）",
+  "description": "打工（アルバイト・雇われ）と似た語。ネット上で使われることがある。",
+  "examples": [{"chinese": "为了生活只能当工", "japanese": "生活のために雇われ仕事をするしかない"}],
+  "category": "net",
+  "categoryName": "働き方",
+  "relatedWords": ["dagongren"],
+  "sourceUrl": "https://chineself.com/dangong/"
+}

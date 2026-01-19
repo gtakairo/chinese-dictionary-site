@@ -1,0 +1,16 @@
+{
+  "slug": "bibao",
+  "chinese": "币宝",
+  "pinyin": "bì bǎo",
+  "meaning": "ビットポイント（BIT Point）【仮想通貨の取引所】",
+  "description": "暗号資産取引所の一つ。口座開設や売買が可能。",
+  "examples": [
+    {"chinese": "在币宝完成实名认证", "japanese": "BIT Pointで本人確認を完了する"},
+    {"chinese": "在币宝下单买入", "japanese": "BIT Pointで買い注文を出す"},
+    {"chinese": "币宝的手续费是多少?", "japanese": "BIT Pointの手数料はいくら？"}
+  ],
+  "category": "jinrong",
+  "categoryName": "金融・投資",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/bibao/"
+}

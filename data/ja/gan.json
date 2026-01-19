@@ -1,0 +1,33 @@
+{
+  "slug": "gan",
+  "chinese": "淦",
+  "pinyin": "gàn",
+  "meaning": "クソッ、ちぇっ、やれやれ、何だよ～",
+  "description": "干（gàn）のネット用語と同じ。淦啊、淦哦、淦了なども同じ。",
+  "examples": [
+    {
+      "chinese": "淦…后知后觉",
+      "translation": "ちぇっ～後から気づいた"
+    },
+    {
+      "chinese": "淦了,我的脑子进屎",
+      "translation": "やれやれ～私の頭はまともではない"
+    },
+    {
+      "chinese": "真的淦了,又喝大了",
+      "translation": "やれやれ、また飲み過ぎちゃった"
+    },
+    {
+      "chinese": "一大早起来就肚子痛,淦",
+      "translation": "早朝に起きるとお腹が痛い、クソッ"
+    },
+    {
+      "chinese": "妈的一下雨就堵车淦啊",
+      "translation": "クソッ、雨が降ってきたらすぐ渋滞、何だよ～"
+    }
+  ],
+  "category": "tanci",
+  "categoryName": "感嘆詞",
+  "relatedWords": ["houzhihoujue", "naozijinshi"],
+  "sourceUrl": "https://chineself.com/gan/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "chigua",
+  "chinese": "吃瓜不信瓜",
+  "pinyin": "chī guā bù xìn guā",
+  "meaning": "噂は聞いても信じない、根拠のない情報は信用しない",
+  "description": "吃瓜群众は「野次馬、（事実を知らない）外野の人」の意味。",
+  "examples": [
+    {
+      "chinese": "又来啦,吃瓜不信瓜,非官宣不约",
+      "translation": "また来た、噂は聞いても信じない、正式発表がない限り信用しない"
+    },
+    {
+      "chinese": "吃瓜不信瓜,但是真的好期待",
+      "translation": "噂は聞いても信じないが、本当に期待はしている"
+    },
+    {
+      "chinese": "吃瓜不信瓜,信瓜是傻瓜,一切等官宣吧",
+      "translation": "噂は聞いても信じない、信じているとバカを見る、すべては公式発表を待とう"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": ["chiguaqunzhong", "feiguanxuanbuyue", "guanxuan"],
+  "sourceUrl": "https://chineself.com/chigua/"
+}

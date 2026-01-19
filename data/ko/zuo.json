@@ -1,0 +1,28 @@
+{
+  "slug": "zuo",
+  "chinese": "坐标",
+  "pinyin": "zuò biāo",
+  "meaning": "좌표 / 위치",
+  "description": "SNS에서 위치나 장소를 의미.",
+  "examples": [
+    {
+      "chinese": "在上海哪里买到特大码鞋子啊,求坐标",
+      "translation": "상하이 어디서 특대 사이즈 신발 사나요? 좌표 좀 주세요"
+    },
+    {
+      "chinese": "本人坐标青岛,想在附近的城市（高铁5h之内）求城市推荐及攻略",
+      "translation": "본인 좌표 칭다오, 근처 도시 추천 바람"
+    },
+    {
+      "chinese": "评论区留下你的坐标,找个同城搭子",
+      "translation": "댓글에 좌표 남겨서 동네 친구 찾기"
+    }
+  ],
+  "category": "sns",
+  "categoryName": "웹/SNS 용어",
+  "relatedWords": [
+    "tongcheng",
+    "dazi"
+  ],
+  "sourceUrl": "https://chineself.com/zuo/"
+}

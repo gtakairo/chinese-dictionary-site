@@ -1,0 +1,25 @@
+{
+  "slug": "lianmaoweiyi",
+  "chinese": "连帽卫衣",
+  "pinyin": "lián mào wèi yī",
+  "meaning": "후드티 (후드 스웨트셔츠)",
+  "description": "모자가 달린 트레이닝복 상의입니다.",
+  "examples": [
+    {
+      "chinese": "这件连帽卫衣很保暖",
+      "translation": "이 후드티는 정말 따뜻하다"
+    },
+    {
+      "chinese": "穿黑色连帽卫衣出门",
+      "translation": "검은색 후드티를 입고 외출하다"
+    },
+    {
+      "chinese": "连帽卫衣搭配牛仔裤",
+      "translation": "후드티에 청바지를 매치하다"
+    }
+  ],
+  "category": "fashion",
+  "categoryName": "패션/미용",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/lianmaoweiyi/"
+}

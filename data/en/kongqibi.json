@@ -1,0 +1,25 @@
+{
+  "slug": "kongqibi",
+  "chinese": "空气币",
+  "pinyin": "kōng qì bì",
+  "meaning": "Scam Coin / Air Coin",
+  "description": "Cryptocurrency used for fraud, having no actual value or application.",
+  "examples": [
+    {
+      "chinese": "这种项目像空气币",
+      "translation": "This project looks like a scam coin"
+    },
+    {
+      "chinese": "别被空气币骗了",
+      "translation": "Don't be fooled by scam coins"
+    },
+    {
+      "chinese": "空气币没有实际应用",
+      "translation": "Scam coins have no practical application"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "Finance & Investment",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/kongqibi/"
+}

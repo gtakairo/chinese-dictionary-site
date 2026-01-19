@@ -1,0 +1,29 @@
+{
+  "slug": "xue",
+  "chinese": "学霸",
+  "pinyin": "xué bà",
+  "meaning": "공부의 신 / 우등생",
+  "description": "공부를 아주 잘하는 사람. 반대말은 '학사(学渣, 공부 못하는 사람)'.",
+  "examples": [
+    {
+      "chinese": "这位初中学霸的学习方法,转出来供大家借鉴",
+      "translation": "이 중학생 우등생의 공부법을 공유하니 참고하세요."
+    },
+    {
+      "chinese": "学霸的经验之谈就算了,不是他们的做法不可取,而是你基本做不到",
+      "translation": "공신들의 경험담은 됐어, 방법이 나쁜 게 아니라 네가 따라 할 수 없는 거야."
+    },
+    {
+      "chinese": "普通学霸和顶级学霸之间的区别,比学霸和学渣之间大得多",
+      "translation": "평범한 우등생과 최상위 우등생의 차이는, 우등생과 꼴찌의 차이보다 크다."
+    }
+  ],
+  "category": "jiaoyu",
+  "categoryName": "교육 / 학교",
+  "relatedWords": [
+    "xueshen",
+    "jingyanzhitan",
+    "bukequ"
+  ],
+  "sourceUrl": "https://chineself.com/xue/"
+}

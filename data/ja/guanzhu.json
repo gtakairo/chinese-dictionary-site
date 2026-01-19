@@ -1,0 +1,29 @@
+{
+  "slug": "guanzhu",
+  "chinese": "关注",
+  "pinyin": "guān zhù",
+  "meaning": "①関心を持つ、重大な注意を払う ②（SNSで）フォローする、（YouTubeなど）チャンネル登録",
+  "description": "请关注＝敬请关注＝请点关注＝求关注＝关注一下「フォローお願いします、チャンネル登録よろしく」。加关注「お気に入りに登録する」、互关（＝互相关注）「相互フォロー」、回关「フォロバ（フォローバック）」。",
+  "examples": [
+    {
+      "chinese": "聊聊最近大家关注的事件",
+      "translation": "最近みんなが関心を示している出来事について話そう"
+    },
+    {
+      "chinese": "令人震惊的爆料在网络上引发广泛关注",
+      "translation": "あっと驚く特ダネがネット上で多くの関心を集めている"
+    },
+    {
+      "chinese": "喜欢就关注一下,谢谢!",
+      "translation": "気に入ったらフォローよろしくお願いします"
+    },
+    {
+      "chinese": "球球了,点个赞,关注我",
+      "translation": "いいねボタンとチャンネル登録よろしく"
+    }
+  ],
+  "category": "sns",
+  "categoryName": "Web・SNS用語",
+  "relatedWords": ["huguan", "huiguan", "baoliao", "qiuqiule", "dianzan"],
+  "sourceUrl": "https://chineself.com/guanzhu/"
+}

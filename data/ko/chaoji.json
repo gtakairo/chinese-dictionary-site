@@ -1,0 +1,21 @@
+{
+  "slug": "chaoji",
+  "chinese": "炒鸡",
+  "pinyin": "chǎo jī",
+  "meaning": "짱, 엄청, 매우, 대박",
+  "description": "「차오지(超级)」의 발음을 인터넷에서 장난스럽게 바꾼 것. 의미는 같음. 귀여운 척하는 표현(모에)으로도 쓰임.",
+  "examples": [
+    {
+      "chinese": "炒鸡可爱",
+      "translation": "엄청 귀엽다"
+    },
+    {
+      "chinese": "炒鸡好吃",
+      "translation": "완전 맛있다"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/chaoji/"
+}

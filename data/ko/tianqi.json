@@ -1,0 +1,25 @@
+{
+    "slug": "tianqi",
+    "chinese": "天启宗教",
+    "pinyin": "tiān qǐ zōng jiào",
+    "meaning": "계시 종교 (아브라함 계통 종교)",
+    "description": "아브라함 종교라고도 함. 유대교, 기독교, 이슬람교 등.",
+    "category": "religion",
+    "categoryName": "종교/철학",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/tianqi/",
+    "examples": [
+        {
+            "chinese": "天启宗教包括犹太教、基督教、伊斯兰教",
+            "translation": "계시 종교는 유대교, 기독교, 이슬람교를 포함한다"
+        },
+        {
+            "chinese": "研究天启宗教的起源与传播",
+            "translation": "계시 종교의 기원과 전파 연구"
+        },
+        {
+            "chinese": "天启宗教强调唯一真神",
+            "translation": "계시 종교는 유일신을 강조한다"
+        }
+    ]
+}

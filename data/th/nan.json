@@ -1,0 +1,27 @@
+{
+  "slug": "nan",
+  "chinese": "难绷",
+  "pinyin": "nán bēng",
+  "meaning": "ยากที่จะกลั้นไว้; ทนไม่ไหว (อารมณ์, ความกดดัน)",
+  "description": "ความหมายเดียวกับ 'bengbuzhule' (bēngbùzhùle) อธิบายสภาวะที่ไม่สามารถระงับอารมณ์หรือความกดดันได้",
+  "examples": [
+    {
+      "chinese": "我全程笑麻了,真的难绷啊",
+      "translation": "ขำตลอดทั้งเรื่องเลย กลั้นขำไม่ไหวจริงๆ"
+    },
+    {
+      "chinese": "我有点难绷,冷得我直接关空调",
+      "translation": "ฉันทนไม่ไหวแล้ว หนาวจนต้องรีบปิดแอร์เลย"
+    },
+    {
+      "chinese": "最近压力真是太难绷了,但是坚持才有希望吧",
+      "translation": "ช่วงนี้ความกดดันมันหนักจนทนไม่ไหวจริงๆ แต่ต้องอดทนถึงจะมีความหวังสินะ"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "ไม่มีหมวดหมู่",
+  "relatedWords": [
+    "bengbuzhule"
+  ],
+  "sourceUrl": "https://chineself.com/nan/"
+}

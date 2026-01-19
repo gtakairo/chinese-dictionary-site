@@ -1,0 +1,25 @@
+{
+  "slug": "ruibobi",
+  "chinese": "瑞波币",
+  "pinyin": "ruì bō bì",
+  "meaning": "리플 (Ripple)",
+  "description": "리플사의 송금 네트워크 관련 자산. 티커는 XRP.",
+  "examples": [
+    {
+      "chinese": "使用瑞波币跨境汇款",
+      "translation": "XRP로 국제 송금을 하다"
+    },
+    {
+      "chinese": "瑞波相关的监管消息",
+      "translation": "리플 관련 규제 뉴스"
+    },
+    {
+      "chinese": "持有一部分XRP",
+      "translation": "XRP를 일부 보유하고 있다"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "금융/투자",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/ruibobi/"
+}

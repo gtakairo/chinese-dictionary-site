@@ -1,0 +1,25 @@
+{
+  "slug": "ya",
+  "chinese": "牙白",
+  "pinyin": "yá bái",
+  "meaning": "야바이 / 대박 / 위험해",
+  "description": "일본어 '야바이'의 음역. 좋지 않거나 위험한 상황, 또는 대단히 좋을 때 사용.",
+  "examples": [
+    {
+      "chinese": "牙白～,阔耐的笑容",
+      "translation": "대박~, 귀여운 미소."
+    },
+    {
+      "chinese": "红豆泥有点牙白牙白啊",
+      "translation": "혼또니(진짜) 좀 야바이(위험)하네."
+    },
+    {
+      "chinese": "牙白吶,真的太容易感觉累了",
+      "translation": "위험하네, 진짜 너무 쉽게 피곤해진다."
+    }
+  ],
+  "category": "wailaiyu",
+  "categoryName": "외래어 / 음역",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/ya/"
+}

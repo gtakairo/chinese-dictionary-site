@@ -1,0 +1,25 @@
+{
+  "slug": "name",
+  "chinese": "那么问题来了",
+  "pinyin": "nà me wèn tí lái le",
+  "meaning": "So, here comes the problem; That is indeed a troubling issue; An unavoidable problem",
+  "description": "Often used to introduce a difficult question or a turning point in a discussion.",
+  "examples": [
+    {
+      "chinese": "6亿人每月人均收入1000元,那么问题来了",
+      "translation": "600 million people have a monthly income of 1000 yuan, so here comes the problem."
+    },
+    {
+      "chinese": "我想请问呢,未来该何去何从呢,那么问题来了",
+      "translation": "I want to ask, where should we go in the future? So, here comes the problem."
+    },
+    {
+      "chinese": "企业采购成本越来越高,那么问题来了",
+      "translation": "Corporate purchasing costs are getting higher and higher, so here comes the problem."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/name/"
+}

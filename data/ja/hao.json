@@ -1,0 +1,25 @@
+{
+  "slug": "hao",
+  "chinese": "好不到哪去",
+  "pinyin": "hǎo bù dào nǎ qù",
+  "meaning": "大したことない、それほどではない",
+  "description": "事柄や人、物がある一定の水準まで達していないという意味。",
+  "examples": [
+    {
+      "chinese": "言而无信的人,人品好不到哪去",
+      "translation": "言う事が当てにならない人は、人格も大したことない"
+    },
+    {
+      "chinese": "狗血剧情好不到哪去,完了眼泪还哗哗流,眼睛都肿了",
+      "translation": "ありきたりのストーリーでそれほどではないのに、見たあと涙が溢れ目が腫れた"
+    },
+    {
+      "chinese": "一个常常看别人缺点的人,那么自己本身也是好不到哪里去",
+      "translation": "人の欠点を指摘するような人は、そういう自身も大したことがない"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "未分類",
+  "relatedWords": ["gouxie"],
+  "sourceUrl": "https://chineself.com/hao/"
+}

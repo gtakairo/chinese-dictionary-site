@@ -1,0 +1,33 @@
+{
+  "slug": "jian",
+  "chinese": "简报",
+  "pinyin": "jiǎn bào",
+  "meaning": "①短いニュース、速報 ②簡単な書面報告、ブリーフィング",
+  "description": "記者ブリーフィングは「媒体吹风会、新闻吹风会」となる。",
+  "examples": [
+    {
+      "chinese": "新闻简报",
+      "japanese": "ニュースダイジェスト"
+    },
+    {
+      "chinese": "每日简报",
+      "japanese": "今日の速報（トピックス）"
+    },
+    {
+      "chinese": "每月工作简报",
+      "japanese": "月報（業務報告書）"
+    },
+    {
+      "chinese": "会议简报",
+      "japanese": "ブリーフィング（簡単な報告）"
+    },
+    {
+      "chinese": "信息简报",
+      "japanese": "簡易なお知らせ（取り急ぎ連絡）"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "未分類",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/jian/"
+}

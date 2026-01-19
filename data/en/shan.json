@@ -1,0 +1,27 @@
+{
+  "slug": "shan",
+  "chinese": "闪崩",
+  "pinyin": "shǎn bēng",
+  "meaning": "Flash Crash",
+  "description": "Refers to a sudden plunge in price. Originates from the flash crash of the British Pound on Oct 7, 2016.",
+  "examples": [
+    {
+      "chinese": "深夜闪崩！知名巨头股价大跌",
+      "translation": "Midnight flash crash! Stock prices of famous giants plummet."
+    },
+    {
+      "chinese": "重磅!闪崩暴跌50%",
+      "translation": "Big news! Flash crash plunges 50%."
+    },
+    {
+      "chinese": "比特币闪崩,单日暴跌29%",
+      "translation": "Bitcoin flash crash, single-day drop of 29%."
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "Finance & Investment",
+  "relatedWords": [
+    "zhongbang"
+  ],
+  "sourceUrl": "https://chineself.com/shan/"
+}

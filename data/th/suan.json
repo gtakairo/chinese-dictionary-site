@@ -1,0 +1,25 @@
+{
+    "slug": "suan",
+    "chinese": "算吧啦",
+    "pinyin": "suàn ba la",
+    "meaning": "ช่างมันเถอะ",
+    "description": "คำสแลงที่เพี้ยนมาจาก 算了 (Suàn le)",
+    "category": "net",
+    "categoryName": "ศัพท์อินเทอร์เน็ต/สแลง",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/suan/",
+    "examples": [
+        {
+            "chinese": "做不完的,没用的了,算吧啦",
+            "translation": "ทำไม่เสร็จหรอก ไร้ประโยชน์ ช่างมันเถอะ"
+        },
+        {
+            "chinese": "这本书太难了,还是读不下去,算吧啦",
+            "translation": "เล่มนี้ยากไป อ่านต่อไม่ไหว ช่างมันเถอะ"
+        },
+        {
+            "chinese": "算吧啦,健完身估计要吃蛋糕吧",
+            "translation": "ช่างมันเถอะ ออกกำลังกายเสร็จคงกินเค้กแหละ"
+        }
+    ]
+}

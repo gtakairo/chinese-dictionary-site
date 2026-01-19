@@ -1,0 +1,23 @@
+{
+  "slug": "xianhunhouai",
+  "chinese": "先婚后爱",
+  "pinyin": "xiān hūn hòu ài",
+  "meaning": "แต่งงานก่อนค่อยรักทีหลัง",
+  "description": "การแต่งงานไปก่อนแล้วค่อยพัฒนาความรักตามมา มักใช้กับการคลุมถุงชน",
+  "examples": [
+    {
+      "chinese": "先婚后爱,虽然很土,但是很上头",
+      "translation": "แต่งก่อนค่อยรัก แม้จะเชยแต่ก็ฟินมาก"
+    },
+    {
+      "chinese": "先婚后爱,先爱后婚,有大的区别",
+      "translation": "แต่งก่อนรักกับรักก่อนแต่งเนี่ย ต่างกันเยอะนะ"
+    }
+  ],
+  "category": "nannv",
+  "categoryName": "ความรัก / การแต่งงาน",
+  "relatedWords": [
+    "baobanhunyin"
+  ],
+  "sourceUrl": "https://chineself.com/xianhunhouai/"
+}

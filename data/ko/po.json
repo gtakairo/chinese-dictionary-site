@@ -1,0 +1,25 @@
+{
+  "slug": "po",
+  "chinese": "破冰价",
+  "pinyin": "pò bīng jià",
+  "meaning": "1. 한계 가격 2. 원가 파괴 가격",
+  "description": "얼음이 녹는 점, 즉 원가에 가까운 가격 혹은 원가 이하의 가격.",
+  "examples": [
+    {
+      "chinese": "新史低的破冰价,机不可失",
+      "translation": "역대 최저 파격가, 기회를 놓치지 마세요"
+    },
+    {
+      "chinese": "大促开始,全平台最低,跳水清仓破冰价",
+      "translation": "대박 세일 시작, 전 플랫폼 최저가, 투신 재고 정리 파격가"
+    },
+    {
+      "chinese": "你去买二手都买不到这价格,限时破冰价",
+      "translation": "중고로도 이 가격엔 못 사, 한정 시간 파격가"
+    }
+  ],
+  "category": "jingji",
+  "categoryName": "경제·비즈니스",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/po/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "quan",
+  "chinese": "拳不离手,曲不离口",
+  "pinyin": "quán bù lí shǒu,qǔ bù lí kǒu",
+  "meaning": "Practice makes perfect",
+  "description": "Literally 'fists never leave the hand, songs never leave the mouth'. Martial artists must constantly practice their fists, and singers must constantly practice their songs. Only then can one achieve mastery.",
+  "examples": [
+    {
+      "chinese": "拳不离手,曲不离口,还是得多唱唱",
+      "translation": "Practice makes perfect; I still need to sing more."
+    },
+    {
+      "chinese": "拳不离手,曲不离口,任何能力都需要积累",
+      "translation": "Practice makes perfect; any skill requires accumulation."
+    },
+    {
+      "chinese": "学语言都一样都讲究拳不离手,曲不离口",
+      "translation": "Learning a language is the same; you must be persistent. Practice makes perfect."
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "Idiom",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/quan/"
+}

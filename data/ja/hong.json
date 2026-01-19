@@ -1,0 +1,16 @@
+{
+  "slug": "hong",
+  "chinese": "红扒鱼翅",
+  "pinyin": "hóng bā yú chì",
+  "meaning": "フカヒレの醤油煮",
+  "description": "フカヒレを醤油ベースで煮込んだ料理。",
+  "examples": [
+    {"chinese": "点了一份红扒鱼翅", "japanese": "フカヒレの醤油煮を一皿注文した"},
+    {"chinese": "这家店的红扒鱼翅很有名", "japanese": "この店のフカヒレ醤油煮は有名だ"},
+    {"chinese": "红扒鱼翅口感很细腻", "japanese": "フカヒレの醤油煮は食感がとても繊細だ"}
+  ],
+  "category": "liaoli",
+  "categoryName": "料理",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/hong/"
+}

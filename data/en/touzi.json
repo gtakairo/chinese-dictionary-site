@@ -1,0 +1,25 @@
+{
+    "slug": "touzi",
+    "chinese": "投资组合",
+    "pinyin": "tóu zī zǔ hé",
+    "meaning": "Investment Portfolio",
+    "description": "Allocation of assets or combination of funds.",
+    "category": "jinrong",
+    "categoryName": "Finance/Investment",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/touzi/",
+    "examples": [
+        {
+            "chinese": "优化投资组合的风险收益",
+            "translation": "Optimize risk-return of investment portfolio"
+        },
+        {
+            "chinese": "定期再平衡投资组合",
+            "translation": "Regularly rebalance investment portfolio"
+        },
+        {
+            "chinese": "多元化投资组合配置",
+            "translation": "Diversify investment portfolio allocation"
+        }
+    ]
+}

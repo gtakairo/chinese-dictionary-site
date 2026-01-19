@@ -1,0 +1,20 @@
+{
+  "slug": "xianyu",
+  "chinese": "咸鱼",
+  "pinyin": "xián yú",
+  "meaning": "ปลาเค็ม / คนไร้ไฟ",
+  "description": "ล้อเลียนตัวเองว่าเป็นคนไม่มีความกระตือรือร้น (เหมือนปลาเค็มตากแห้ง)",
+  "examples": [
+    {
+      "chinese": "我就是个咸鱼",
+      "translation": "ฉันมันก็แค่ปลาเค็มตัวนึง (คนหมดไฟ)"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ไลฟ์สไตล์",
+  "relatedWords": [
+    "tangping",
+    "moyu"
+  ],
+  "sourceUrl": "https://chineself.com/xianyu/"
+}

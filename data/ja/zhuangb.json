@@ -1,0 +1,25 @@
+{
+  "slug": "zhuangb",
+  "chinese": "装B",
+  "pinyin": "zhuāng B",
+  "meaning": "①粋がる、偉そうにする、カッコつける ②マウントを取る",
+  "description": "装逼の意味。装13、装杯も同じ。Bはbigから。装逼族は「ええ格好しい」の意味。",
+  "examples": [
+    {
+      "chinese": "最烦装b的人",
+      "translation": "最も嫌なのは粋がっている人"
+    },
+    {
+      "chinese": "只是为了装B而买的奔驰",
+      "translation": "ただイキがるためにベンツを購入した"
+    },
+    {
+      "chinese": "老板装Ｂ说这问题太简单",
+      "translation": "社長がマウントを取ってこの問題は簡単だと言ってきた"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": ["zhuang13", "zhuangbei"],
+  "sourceUrl": "https://chineself.com/zhuangb/"
+}

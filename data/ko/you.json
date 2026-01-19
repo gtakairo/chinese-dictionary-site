@@ -1,0 +1,32 @@
+{
+  "slug": "you",
+  "chinese": "又a又飒",
+  "pinyin": "yòu a yòu sà",
+  "meaning": "쿨하고 멋지다 (A하고 Sa하다)",
+  "description": "A는 Alpha(상남자/걸크러시), Sa는 씩씩하고 멋진 모습. 자신감 있고 당당한 스타일.",
+  "examples": [
+    {
+      "chinese": "又a又飒的穿搭",
+      "translation": "쿨하고 멋진 코디"
+    },
+    {
+      "chinese": "又A又飒的女老板",
+      "translation": "쿨하고 멋진 여사장님"
+    },
+    {
+      "chinese": "她真的是又飒又A",
+      "translation": "그녀는 정말 쿨하고 멋지다"
+    },
+    {
+      "chinese": "又A又酷又美又飒又性感",
+      "translation": "쿨하고 멋지고 예쁘고 섹시하다"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 은어",
+  "relatedWords": [
+    "sa",
+    "chuanda"
+  ],
+  "sourceUrl": "https://chineself.com/you/"
+}

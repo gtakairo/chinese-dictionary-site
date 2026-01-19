@@ -1,0 +1,29 @@
+{
+  "slug": "wei",
+  "chinese": "喂饱",
+  "pinyin": "wèi bǎo",
+  "meaning": "배불리 먹이다 / 만족시키다",
+  "description": "1. 배부르게 먹이다. 2. 마음이나 욕구를 충족시키다.",
+  "examples": [
+    {
+      "chinese": "肚子喂饱饱才有力气走路路",
+      "translation": "배를 든든히 채워야 걸을 힘이 나지."
+    },
+    {
+      "chinese": "不仅满足你的胃,也要喂饱你的心",
+      "translation": "너의 위장뿐만 아니라 마음도 채워줄게."
+    },
+    {
+      "chinese": "我没法喂饱你,但我很爱你",
+      "translation": "너를 풍족하게 해줄 순 없지만, 널 많이 사랑해."
+    },
+    {
+      "chinese": "夫妻两人的爱情真的太让人羡慕了,又是被狗粮喂饱的一天",
+      "translation": "부부의 사랑이 너무 부럽다, 오늘도 염장질에 배부른 하루네."
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "미분류",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/wei/"
+}

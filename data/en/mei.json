@@ -1,0 +1,27 @@
+{
+  "slug": "mei",
+  "chinese": "美本",
+  "pinyin": "měi běn",
+  "meaning": "US Undergraduate",
+  "description": "Abbreviation for studying for an undergraduate degree in the United States.",
+  "examples": [
+    {
+      "chinese": "我很想读美高,因为我想上美本",
+      "translation": "I really want to go to a US high school because I want to attend a US undergraduate program."
+    },
+    {
+      "chinese": "美本的话,选美研还是英硕?差距有多大",
+      "translation": "If I have a US undergraduate degree, should I choose a US grad school or a UK master's? How big is the difference?"
+    },
+    {
+      "chinese": "怎么花几百万让学渣买上美本（甚至爬藤）",
+      "translation": "How to spend millions to get a poor student into a US undergraduate program (or even an Ivy League school)."
+    }
+  ],
+  "category": "jiaoyu",
+  "categoryName": "Education & School",
+  "relatedWords": [
+    "pateng"
+  ],
+  "sourceUrl": "https://chineself.com/mei/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "nian",
+  "chinese": "年代久远",
+  "pinyin": "nián dài jiǔ yuǎn",
+  "meaning": "年代物の、ビンテージの",
+  "description": "長い年月を経た、歴史のある物を指す表現。",
+  "examples": [
+    {
+      "chinese": "年代久远又罕见的破二手车",
+      "translation": "年代物で滅多に見ることのないポルシェ"
+    },
+    {
+      "chinese": "年代久远一条老街,回忆杀",
+      "translation": "年代を感じる古い町並み、ノスタルジーに浸る"
+    },
+    {
+      "chinese": "这是一条年代久远的牛仔裤",
+      "translation": "これはビンテージもののジーパンだ"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "未分類",
+  "relatedWords": ["poershouche", "huiyisha"],
+  "sourceUrl": "https://chineself.com/nian/"
+}

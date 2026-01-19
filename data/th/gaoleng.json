@@ -1,0 +1,19 @@
+{
+  "slug": "gaoleng",
+  "chinese": "高冷",
+  "pinyin": "gāo lěng",
+  "meaning": "เย็นชา / หยิ่ง / ลุคคุณหนู",
+  "description": "ไม่ได้แปลว่าใจร้าย แต่เป็นลุคที่ดูนิ่งๆ เข้าถึงยาก",
+  "examples": [
+    {
+      "chinese": "她气质高冷",
+      "translation": "เธอมีออร่าความเย็นชาเข้าถึงยาก"
+    }
+  ],
+  "category": "net",
+  "categoryName": "นิสัย・บรรยากาศ",
+  "relatedWords": [
+    "oumeifaner"
+  ],
+  "sourceUrl": "https://chineself.com/gaoleng/"
+}

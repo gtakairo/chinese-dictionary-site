@@ -1,0 +1,25 @@
+{
+  "slug": "yingfencha",
+  "chinese": "硬分叉",
+  "pinyin": "yìng fēn chā",
+  "meaning": "하드 포크",
+  "description": "블록체인이 양 갈래로 나뉘는 현상. 이전 버전과 호환되지 않음.",
+  "examples": [
+    {
+      "chinese": "社区投票决定硬分叉",
+      "translation": "커뮤니티 투표로 하드 포크를 결정했다."
+    },
+    {
+      "chinese": "硬分叉后链分成两条",
+      "translation": "하드 포크 후 체인이 두 개로 나뉘었다."
+    },
+    {
+      "chinese": "准备升级以避免硬分叉",
+      "translation": "하드 포크를 피하기 위해 업그레이드를 준비한다."
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "금융 / 투자",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/yingfencha/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "fo",
+  "chinese": "佛是金装,人是衣装",
+  "pinyin": "fó shì jīn zhuāng, rén shì yī zhuāng",
+  "meaning": "外面が重要視される、身なりの影響が大きい",
+  "description": "佛靠金装,人靠衣装でも同じ。直訳すると「仏は金箔で人は衣装だ」となるが、内面的なものよりも外面的なものが重要視されがちだという意味。",
+  "examples": [
+    {
+      "chinese": "佛是金装,人是衣装,世人眼孔浅的多,只看皮相,不看骨相",
+      "japanese": "外面が重要視される、世間は物質的な人が多い、表面だけみて骨格（本質）を見ない"
+    },
+    {
+      "chinese": "人靠衣装,佛靠金装,真的服装穿着很重要",
+      "japanese": "身なりの影響が大きい、本当に服装が重要である"
+    },
+    {
+      "chinese": "佛靠金装,人靠衣装：三分长相,七分打扮",
+      "japanese": "外面が重要視される、3割が容貌で7割が服など装いだ"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "成語・四字熟語",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/fo/"
+}

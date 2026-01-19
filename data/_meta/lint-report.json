@@ -1,0 +1,736 @@
+{
+  "timestamp": "2026-01-17T03:33:45.836Z",
+  "summary": {
+    "totalFiles": 1234,
+    "validFiles": 1113,
+    "invalidFiles": 121
+  },
+  "errors": [
+    {
+      "lang": "en",
+      "file": "anpaishang.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/en/anpaishang.json"
+    },
+    {
+      "lang": "en",
+      "file": "bitebi.json",
+      "error": "Missing required fields: pinyin",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/en/bitebi.json"
+    },
+    {
+      "lang": "en",
+      "file": "fanchameng.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/en/fanchameng.json"
+    },
+    {
+      "lang": "en",
+      "file": "fanersai.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/en/fanersai.json"
+    },
+    {
+      "lang": "en",
+      "file": "fanquan.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/en/fanquan.json"
+    },
+    {
+      "lang": "en",
+      "file": "kou.json",
+      "error": "Empty file",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/en/kou.json"
+    },
+    {
+      "lang": "en",
+      "file": "kouhai.json",
+      "error": "Empty file",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/en/kouhai.json"
+    },
+    {
+      "lang": "en",
+      "file": "lacai.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/en/lacai.json"
+    },
+    {
+      "lang": "en",
+      "file": "neiweir.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/en/neiweir.json"
+    },
+    {
+      "lang": "en",
+      "file": "neiyu.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/en/neiyu.json"
+    },
+    {
+      "lang": "en",
+      "file": "nitian.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/en/nitian.json"
+    },
+    {
+      "lang": "en",
+      "file": "nvshen.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/en/nvshen.json"
+    },
+    {
+      "lang": "en",
+      "file": "pua.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/en/pua.json"
+    },
+    {
+      "lang": "en",
+      "file": "qiushengyu.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/en/qiushengyu.json"
+    },
+    {
+      "lang": "en",
+      "file": "ruanmeng.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/en/ruanmeng.json"
+    },
+    {
+      "lang": "en",
+      "file": "ruanwen.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/en/ruanwen.json"
+    },
+    {
+      "lang": "en",
+      "file": "shangresou.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/en/shangresou.json"
+    },
+    {
+      "lang": "en",
+      "file": "sheniu.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/en/sheniu.json"
+    },
+    {
+      "lang": "en",
+      "file": "shuaexist.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/en/shuaexist.json"
+    },
+    {
+      "lang": "en",
+      "file": "shuangbiao.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/en/shuangbiao.json"
+    },
+    {
+      "lang": "en",
+      "file": "shuanq.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/en/shuanq.json"
+    },
+    {
+      "lang": "en",
+      "file": "tangying.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/en/tangying.json"
+    },
+    {
+      "lang": "en",
+      "file": "tuikeng.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/en/tuikeng.json"
+    },
+    {
+      "lang": "en",
+      "file": "tuofen.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/en/tuofen.json"
+    },
+    {
+      "lang": "en",
+      "file": "weikuanren.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/en/weikuanren.json"
+    },
+    {
+      "lang": "en",
+      "file": "wuyuzi.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/en/wuyuzi.json"
+    },
+    {
+      "lang": "en",
+      "file": "xianyu.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/en/xianyu.json"
+    },
+    {
+      "lang": "en",
+      "file": "xiaozuowen.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/en/xiaozuowen.json"
+    },
+    {
+      "lang": "en",
+      "file": "yankong.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/en/yankong.json"
+    },
+    {
+      "lang": "en",
+      "file": "yanzhi.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/en/yanzhi.json"
+    },
+    {
+      "lang": "en",
+      "file": "yeqinghui.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/en/yeqinghui.json"
+    },
+    {
+      "lang": "en",
+      "file": "yinghe.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/en/yinghe.json"
+    },
+    {
+      "lang": "en",
+      "file": "zhainan.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/en/zhainan.json"
+    },
+    {
+      "lang": "en",
+      "file": "zhalie.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/en/zhalie.json"
+    },
+    {
+      "lang": "en",
+      "file": "zhenghuo.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/en/zhenghuo.json"
+    },
+    {
+      "lang": "ja",
+      "file": "bitebi.json",
+      "error": "Missing required fields: pinyin",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ja/bitebi.json"
+    },
+    {
+      "lang": "ja",
+      "file": "chi.json",
+      "error": "Expected "," or "}" after property value in JSON at position 542 (line 21 column 36)",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ja/chi.json"
+    },
+    {
+      "lang": "ja",
+      "file": "dang.json",
+      "error": "Expected "," or "}" after property value in JSON at position 332 (line 17 column 25)",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ja/dang.json"
+    },
+    {
+      "lang": "ja",
+      "file": "duoshao.json",
+      "error": "Expected "," or "}" after property value in JSON at position 115 (line 6 column 20)",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ja/duoshao.json"
+    },
+    {
+      "lang": "ja",
+      "file": "gun.json",
+      "error": "Expected "," or "}" after property value in JSON at position 303 (line 13 column 28)",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ja/gun.json"
+    },
+    {
+      "lang": "ja",
+      "file": "guo.json",
+      "error": "Expected "," or "}" after property value in JSON at position 399 (line 17 column 28)",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ja/guo.json"
+    },
+    {
+      "lang": "ja",
+      "file": "huang.json",
+      "error": "Expected "," or "}" after property value in JSON at position 159 (line 6 column 41)",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ja/huang.json"
+    },
+    {
+      "lang": "ja",
+      "file": "lu.json",
+      "error": "Expected "," or "}" after property value in JSON at position 592 (line 17 column 38)",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ja/lu.json"
+    },
+    {
+      "lang": "ja",
+      "file": "piaoliang.json",
+      "error": "Expected "," or "}" after property value in JSON at position 316 (line 13 column 30)",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ja/piaoliang.json"
+    },
+    {
+      "lang": "ja",
+      "file": "rechaoyong.json",
+      "error": "Missing required fields: pinyin",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ja/rechaoyong.json"
+    },
+    {
+      "lang": "ja",
+      "file": "se.json",
+      "error": "Expected "," or "}" after property value in JSON at position 115 (line 6 column 24)",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ja/se.json"
+    },
+    {
+      "lang": "ja",
+      "file": "shu.json",
+      "error": "Expected "," or "}" after property value in JSON at position 240 (line 13 column 26)",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ja/shu.json"
+    },
+    {
+      "lang": "ja",
+      "file": "tui.json",
+      "error": "Expected "," or "}" after property value in JSON at position 384 (line 17 column 40)",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ja/tui.json"
+    },
+    {
+      "lang": "ja",
+      "file": "xian.json",
+      "error": "Expected "," or "}" after property value in JSON at position 424 (line 18 column 35)",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ja/xian.json"
+    },
+    {
+      "lang": "ja",
+      "file": "yitaifang.json",
+      "error": "Missing required fields: pinyin",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ja/yitaifang.json"
+    },
+    {
+      "lang": "ja",
+      "file": "yuyin.json",
+      "error": "Expected "," or "}" after property value in JSON at position 241 (line 6 column 134)",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ja/yuyin.json"
+    },
+    {
+      "lang": "ja",
+      "file": "zhong.json",
+      "error": "Expected "," or "}" after property value in JSON at position 460 (line 21 column 20)",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ja/zhong.json"
+    },
+    {
+      "lang": "ko",
+      "file": "anpaishang.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ko/anpaishang.json"
+    },
+    {
+      "lang": "ko",
+      "file": "bitebi.json",
+      "error": "Missing required fields: pinyin",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ko/bitebi.json"
+    },
+    {
+      "lang": "ko",
+      "file": "fanchameng.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ko/fanchameng.json"
+    },
+    {
+      "lang": "ko",
+      "file": "fanersai.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ko/fanersai.json"
+    },
+    {
+      "lang": "ko",
+      "file": "fanquan.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ko/fanquan.json"
+    },
+    {
+      "lang": "ko",
+      "file": "kou.json",
+      "error": "Empty file",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ko/kou.json"
+    },
+    {
+      "lang": "ko",
+      "file": "kouhai.json",
+      "error": "Empty file",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ko/kouhai.json"
+    },
+    {
+      "lang": "ko",
+      "file": "lacai.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ko/lacai.json"
+    },
+    {
+      "lang": "ko",
+      "file": "neiweir.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ko/neiweir.json"
+    },
+    {
+      "lang": "ko",
+      "file": "neiyu.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ko/neiyu.json"
+    },
+    {
+      "lang": "ko",
+      "file": "nitian.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ko/nitian.json"
+    },
+    {
+      "lang": "ko",
+      "file": "nvshen.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ko/nvshen.json"
+    },
+    {
+      "lang": "ko",
+      "file": "pua.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ko/pua.json"
+    },
+    {
+      "lang": "ko",
+      "file": "qiushengyu.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ko/qiushengyu.json"
+    },
+    {
+      "lang": "ko",
+      "file": "ruanmeng.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ko/ruanmeng.json"
+    },
+    {
+      "lang": "ko",
+      "file": "ruanwen.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ko/ruanwen.json"
+    },
+    {
+      "lang": "ko",
+      "file": "shangresou.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ko/shangresou.json"
+    },
+    {
+      "lang": "ko",
+      "file": "sheniu.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ko/sheniu.json"
+    },
+    {
+      "lang": "ko",
+      "file": "shuaexist.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ko/shuaexist.json"
+    },
+    {
+      "lang": "ko",
+      "file": "shuangbiao.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ko/shuangbiao.json"
+    },
+    {
+      "lang": "ko",
+      "file": "shuanq.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ko/shuanq.json"
+    },
+    {
+      "lang": "ko",
+      "file": "tangying.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ko/tangying.json"
+    },
+    {
+      "lang": "ko",
+      "file": "tuikeng.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ko/tuikeng.json"
+    },
+    {
+      "lang": "ko",
+      "file": "tuofen.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ko/tuofen.json"
+    },
+    {
+      "lang": "ko",
+      "file": "weikuanren.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ko/weikuanren.json"
+    },
+    {
+      "lang": "ko",
+      "file": "wuyuzi.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ko/wuyuzi.json"
+    },
+    {
+      "lang": "ko",
+      "file": "xianyu.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ko/xianyu.json"
+    },
+    {
+      "lang": "ko",
+      "file": "xiaozuowen.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ko/xiaozuowen.json"
+    },
+    {
+      "lang": "ko",
+      "file": "yankong.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ko/yankong.json"
+    },
+    {
+      "lang": "ko",
+      "file": "yanzhi.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ko/yanzhi.json"
+    },
+    {
+      "lang": "ko",
+      "file": "yeqinghui.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ko/yeqinghui.json"
+    },
+    {
+      "lang": "ko",
+      "file": "yinghe.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ko/yinghe.json"
+    },
+    {
+      "lang": "ko",
+      "file": "zhainan.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ko/zhainan.json"
+    },
+    {
+      "lang": "ko",
+      "file": "zhalie.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ko/zhalie.json"
+    },
+    {
+      "lang": "ko",
+      "file": "zhenghuo.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/ko/zhenghuo.json"
+    },
+    {
+      "lang": "th",
+      "file": "anpaishang.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/th/anpaishang.json"
+    },
+    {
+      "lang": "th",
+      "file": "bitebi.json",
+      "error": "Missing required fields: pinyin",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/th/bitebi.json"
+    },
+    {
+      "lang": "th",
+      "file": "fanchameng.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/th/fanchameng.json"
+    },
+    {
+      "lang": "th",
+      "file": "fanersai.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/th/fanersai.json"
+    },
+    {
+      "lang": "th",
+      "file": "fanquan.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/th/fanquan.json"
+    },
+    {
+      "lang": "th",
+      "file": "kou.json",
+      "error": "Empty file",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/th/kou.json"
+    },
+    {
+      "lang": "th",
+      "file": "lacai.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/th/lacai.json"
+    },
+    {
+      "lang": "th",
+      "file": "neiweir.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/th/neiweir.json"
+    },
+    {
+      "lang": "th",
+      "file": "neiyu.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/th/neiyu.json"
+    },
+    {
+      "lang": "th",
+      "file": "nitian.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/th/nitian.json"
+    },
+    {
+      "lang": "th",
+      "file": "nvshen.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/th/nvshen.json"
+    },
+    {
+      "lang": "th",
+      "file": "pua.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/th/pua.json"
+    },
+    {
+      "lang": "th",
+      "file": "qiushengyu.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/th/qiushengyu.json"
+    },
+    {
+      "lang": "th",
+      "file": "ruanmeng.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/th/ruanmeng.json"
+    },
+    {
+      "lang": "th",
+      "file": "ruanwen.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/th/ruanwen.json"
+    },
+    {
+      "lang": "th",
+      "file": "shangresou.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/th/shangresou.json"
+    },
+    {
+      "lang": "th",
+      "file": "sheniu.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/th/sheniu.json"
+    },
+    {
+      "lang": "th",
+      "file": "shuaexist.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/th/shuaexist.json"
+    },
+    {
+      "lang": "th",
+      "file": "shuangbiao.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/th/shuangbiao.json"
+    },
+    {
+      "lang": "th",
+      "file": "shuanq.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/th/shuanq.json"
+    },
+    {
+      "lang": "th",
+      "file": "tangying.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/th/tangying.json"
+    },
+    {
+      "lang": "th",
+      "file": "tuikeng.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/th/tuikeng.json"
+    },
+    {
+      "lang": "th",
+      "file": "tuofen.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/th/tuofen.json"
+    },
+    {
+      "lang": "th",
+      "file": "weikuanren.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/th/weikuanren.json"
+    },
+    {
+      "lang": "th",
+      "file": "wuyuzi.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/th/wuyuzi.json"
+    },
+    {
+      "lang": "th",
+      "file": "xianyu.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/th/xianyu.json"
+    },
+    {
+      "lang": "th",
+      "file": "xiaozuowen.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/th/xiaozuowen.json"
+    },
+    {
+      "lang": "th",
+      "file": "yankong.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/th/yankong.json"
+    },
+    {
+      "lang": "th",
+      "file": "yanzhi.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/th/yanzhi.json"
+    },
+    {
+      "lang": "th",
+      "file": "yeqinghui.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/th/yeqinghui.json"
+    },
+    {
+      "lang": "th",
+      "file": "yinghe.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/th/yinghe.json"
+    },
+    {
+      "lang": "th",
+      "file": "zhainan.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/th/zhainan.json"
+    },
+    {
+      "lang": "th",
+      "file": "zhalie.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/th/zhalie.json"
+    },
+    {
+      "lang": "th",
+      "file": "zhenghuo.json",
+      "error": "Missing required fields: meaning",
+      "path": "/home/takahiro-gushiken/project/chinese-dictionary-site/data/th/zhenghuo.json"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "geng",
+  "chinese": "梗番",
+  "pinyin": "gěng fān",
+  "meaning": "ギャグ漫画、ギャグアニメ",
+  "description": "「梗」はネット用語で「笑いのツボ、ギャグ」の意味。ギャグやコメディを中心としたアニメや漫画作品を指す。",
+  "examples": [
+    {
+      "chinese": "无尿点的玩梗番,笑到下巴脱臼",
+      "translation": "とても面白いギャグ漫画、笑って顎が外れそう"
+    }
+  ],
+  "category": "sub",
+  "categoryName": "サブカルチャー",
+  "relatedWords": ["niaodian"],
+  "sourceUrl": "https://chineself.com/geng/"
+}

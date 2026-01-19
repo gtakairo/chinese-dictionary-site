@@ -1,0 +1,25 @@
+{
+  "slug": "dashibi",
+  "chinese": "达世币",
+  "pinyin": "dá shì bì",
+  "meaning": "대시 (Dash)",
+  "description": "익명성과 즉시성이 특징인 암호화폐 Dash의 중국어 이름입니다.",
+  "examples": [
+    {
+      "chinese": "达世币价格波动很大",
+      "translation": "대시 코인의 가격 변동이 매우 크다."
+    },
+    {
+      "chinese": "了解达世币的隐私特性",
+      "translation": "대시의 개인정보 보호 특성 이해하기."
+    },
+    {
+      "chinese": "交易所新增达世币交易对",
+      "translation": "거래소에 대시 거래 쌍이 새로 추가되었다."
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "금융/투자",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/dashibi/"
+}

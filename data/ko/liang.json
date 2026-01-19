@@ -1,0 +1,25 @@
+{
+  "slug": "liang",
+  "chinese": "连杆",
+  "pinyin": "lián gān",
+  "meaning": "커넥팅 로드 (연결봉)",
+  "description": "왕복 운동을 회전 운동으로 변환하는 기계 요소입니다.",
+  "examples": [
+    {
+      "chinese": "检查发动机的连杆磨损",
+      "translation": "엔진의 커넥팅 로드 마모를 점검하다"
+    },
+    {
+      "chinese": "更换损坏的连杆",
+      "translation": "손상된 커넥팅 로드를 교체하다"
+    },
+    {
+      "chinese": "连杆连接活塞与曲轴",
+      "translation": "커넥팅 로드는 피스톤과 크랭크축을 연결한다"
+    }
+  ],
+  "category": "car",
+  "categoryName": "자동차",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/liang/"
+}

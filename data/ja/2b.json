@@ -1,0 +1,25 @@
+{
+  "slug": "2b",
+  "chinese": "2B",
+  "pinyin": "èr bī",
+  "meaning": "①ばか、アホ、間抜け、とんま ②ダウン症",
+  "description": "二笔、二币、二比も同じ。もともと（2007年頃から）は、バカのように罵る言葉として使われていたが、いまは軽蔑するような緩い使い方の方が一般的。また「B」を取って単独で「2」だけでも使われる。②は21三体综合征「ダウン症」が213と略され、13の数字を近づけると「B」になるため。",
+  "examples": [
+    {
+      "chinese": "没人比你更2B",
+      "translation": "あなたより鈍くさい人はいない"
+    },
+    {
+      "chinese": "你是2B吗？",
+      "translation": "あんたアホなの？"
+    },
+    {
+      "chinese": "不忍直视的2B狗狗",
+      "translation": "間抜けなイヌ見ていられない"
+    }
+  ],
+  "category": "ma",
+  "categoryName": "挑発・罵倒語",
+  "relatedWords": ["erhuo", "wuyu"],
+  "sourceUrl": "https://chineself.com/2b/"
+}

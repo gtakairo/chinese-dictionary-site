@@ -1,0 +1,25 @@
+{
+    "slug": "shou",
+    "chinese": "手癌",
+    "pinyin": "shǒu ái",
+    "meaning": "오타, 打ち間違い",
+    "description": "이 표현은 속어로, 손에 생긴 암을 의미하기도 한다.",
+    "category": "sns",
+    "categoryName": "웹/SNS 용어",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/shou/",
+    "examples": [
+        {
+            "chinese": "为什么没有撤回功能,手癌犯了,真的很尴尬",
+            "translation": "왜 전송 취소 기능이 없지, 오타 냈어, 진짜 쪽팔려"
+        },
+        {
+            "chinese": "我的话,手指甲剪了之后手癌概率提升",
+            "translation": "나 같은 경우, 손톱 깎고 나면 오타 확률이 올라가"
+        },
+        {
+            "chinese": "换了个输入法感觉手机都变新了,手癌更严重了",
+            "translation": "입력법 바꿨더니 폰 새로 산 것 같은데, 오타는 더 심해졌어"
+        }
+    ]
+}

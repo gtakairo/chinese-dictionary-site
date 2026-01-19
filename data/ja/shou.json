@@ -1,0 +1,25 @@
+{
+  "slug": "shou",
+  "chinese": "手癌",
+  "pinyin": "shǒu ái",
+  "meaning": "タイプミス、打ち間違い",
+  "description": "この言い方はスラングで、手に現れる癌を表すこともある。",
+  "examples": [
+    {
+      "chinese": "为什么没有撤回功能,手癌犯了,真的很尴尬",
+      "japanese": "どうして送信取り消し機能がないの、打ち間違えた、本当に気恥ずかしい"
+    },
+    {
+      "chinese": "我的话,手指甲剪了之后手癌概率提升",
+      "japanese": "私の場合、手の爪を切った後にタイプミスする確率が上がる"
+    },
+    {
+      "chinese": "换了个输入法感觉手机都变新了,手癌更严重了",
+      "japanese": "入力方法を変えるとスマホを新しくしたみたい、打ち間違いが更に酷くなる"
+    }
+  ],
+  "category": "sns",
+  "categoryName": "Web・SNS用語",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/shou/"
+}

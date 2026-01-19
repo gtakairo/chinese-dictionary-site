@@ -1,0 +1,25 @@
+{
+  "slug": "yang",
+  "chinese": "养膘",
+  "pinyin": "yǎng biāo",
+  "meaning": "ขุนให้อ้วน / สะสมไขมัน",
+  "description": "หมายถึงการทำให้อ้วนขึ้น (มักใช้ล้อเลียนตัวเอง)",
+  "examples": [
+    {
+      "chinese": "春节回家养膘了",
+      "translation": "กลับบ้านตรุษจีนไปขุนตัวเองจนอ้วน"
+    },
+    {
+      "chinese": "肉眼可见地变胖了,养膘过头了",
+      "translation": "อ้วนขึ้นผิดหูผิดตา ขุนตัวเองมากไปหน่อย"
+    },
+    {
+      "chinese": "熬这几天都成养膘加烂脸了",
+      "translation": "อดนอนมาหลายวัน ทั้งอ้วนขึ้นทั้งหน้าพัง"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์อินเทอร์เน็ต / แสลง",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/yang/"
+}

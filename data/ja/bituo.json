@@ -1,0 +1,16 @@
+{
+  "slug": "bituo",
+  "chinese": "币托",
+  "pinyin": "bì tuō",
+  "meaning": "BitoEX【仮想通貨の取引所】",
+  "description": "仮想通貨取引所BitoEXを指す略称。文脈によっては広義の取引所を指す場合も。",
+  "examples": [
+    {"chinese": "我在币托开户了", "japanese": "BitoEXで口座を開いた"},
+    {"chinese": "币托的手续费怎么样", "japanese": "BitoEXの手数料はどう？"},
+    {"chinese": "从币托提币到钱包", "japanese": "取引所からウォレットへ出金した"}
+  ],
+  "category": "jinrong",
+  "categoryName": "金融・投資",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/bituo/"
+}

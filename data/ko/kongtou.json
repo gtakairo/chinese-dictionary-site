@@ -1,0 +1,25 @@
+{
+  "slug": "kongtou",
+  "chinese": "空投",
+  "pinyin": "kōng tóu",
+  "meaning": "에어드랍 (Airdrop)",
+  "description": "프로젝트가 커뮤니티에 무료로 배포(할당)하는 토큰. 참여 조건이나 스냅샷이 설정되는 경우가 많다.",
+  "examples": [
+    {
+      "chinese": "项目宣布空投规则",
+      "translation": "프로젝트가 에어드랍 규칙을 발표했다"
+    },
+    {
+      "chinese": "满足条件即可参与空投",
+      "translation": "조건을 충족하면 에어드랍에 참여할 수 있다"
+    },
+    {
+      "chinese": "空投快照时间公布",
+      "translation": "에어드랍 스냅샷 시간이 발표되었다"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "금융/투자",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/kongtou/"
+}

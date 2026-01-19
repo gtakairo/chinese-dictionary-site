@@ -1,0 +1,25 @@
+{
+  "slug": "kou",
+  "chinese": "口碑",
+  "pinyin": "kǒu bēi",
+  "meaning": "ปากต่อปาก / ชื่อเสียง, คำวิจารณ์",
+  "description": "มีแอปชื่อ \"Koubei\" ซึ่งเป็นบริการสำหรับดูรีวิวจากผู้ใช้",
+  "examples": [
+    {
+      "chinese": "想问问集美们这个女生口碑怎么样啊",
+      "translation": "อยากถามพวกซิสว่าผู้หญิงคนนี้ชื่อเสียงเป็นไงบ้าง"
+    },
+    {
+      "chinese": "这部电影口碑不错,我想去影院看看",
+      "translation": "หนังเรื่องนี้กระแสตอบรับดี ฉันอยากไปดูที่โรงหนัง"
+    },
+    {
+      "chinese": "访日游客实施了分析谷歌地图上的评分和口碑",
+      "translation": "นักท่องเที่ยวที่มาเยือนญี่ปุ่นได้ทำการวิเคราะห์คะแนนและรีวิวบน Google Maps"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "ไม่ระบุหมวดหมู่",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/kou/"
+}

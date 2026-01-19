@@ -1,0 +1,20 @@
+{
+  "slug": "dagongren",
+  "chinese": "打工人",
+  "pinyin": "dǎ gōng rén",
+  "meaning": "사축 / 직장인 (자조적인 말투)",
+  "description": "고생하며 일하는 사람을 자조적으로 표현하는 인터넷 용어.",
+  "examples": [
+    {
+      "chinese": "打工人，打工魂",
+      "translation": "직장인, 직장인의 혼"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 속어",
+  "relatedWords": [
+    "neijuan",
+    "bailan"
+  ],
+  "sourceUrl": "https://chineself.com/dagongren/"
+}

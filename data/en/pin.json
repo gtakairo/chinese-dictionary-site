@@ -1,0 +1,25 @@
+{
+  "slug": "pin",
+  "chinese": "平标准杆",
+  "pinyin": "píng biāo zhǔn gān",
+  "meaning": "Par (Golf)",
+  "description": "Sometimes called \"Biao zhun gan\".",
+  "examples": [
+    {
+      "chinese": "这一洞我打到了平标准杆",
+      "translation": "I shot par on this hole"
+    },
+    {
+      "chinese": "保持平标准杆已经不错了",
+      "translation": "Keeping to par is already pretty good"
+    },
+    {
+      "chinese": "平标准杆是该洞的标准成绩",
+      "translation": "Par is the standard score for this hole"
+    }
+  ],
+  "category": "sports",
+  "categoryName": "Sports",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/pin/"
+}

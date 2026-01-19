@@ -1,0 +1,20 @@
+{
+  "slug": "diss",
+  "chinese": "diss",
+  "pinyin": "d i s s",
+  "meaning": "Diss / Disrespect",
+  "description": "Derived from English. To disparage or mock someone.",
+  "examples": [
+    {
+      "chinese": "别在评论区diss人",
+      "translation": "Don't diss people in the comments section."
+    }
+  ],
+  "category": "wailaiyu",
+  "categoryName": "Loanwords/Internet Slang",
+  "relatedWords": [
+    "yinyangguaiqi",
+    "shuangbiao"
+  ],
+  "sourceUrl": "https://chineself.com/diss/"
+}

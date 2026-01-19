@@ -1,0 +1,25 @@
+{
+  "slug": "cheng",
+  "chinese": "臣告退",
+  "pinyin": "chén gào tuì",
+  "meaning": "신(臣) 물러가옵니다 (먼저 실례하겠습니다)",
+  "description": "고대 신하가 군주에게 \"물러가겠습니다\"라고 할 때 쓰는 말. 인터넷에서 농담조로 사용됨.",
+  "examples": [
+    {
+      "chinese": "臣告退、、拜拜",
+      "translation": "신은 물러갑니다... 바이바이."
+    },
+    {
+      "chinese": "进去店铺看到价格后臣告退",
+      "translation": "가게에 들어가 가격을 보고 난 후 신은 물러갑니다."
+    },
+    {
+      "chinese": "根本就玩不过臣告退了",
+      "translation": "도저히 못 당해내겠네요, 신은 물러갑니다."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어/은어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/cheng/"
+}

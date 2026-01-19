@@ -1,0 +1,27 @@
+{
+  "slug": "kaifa",
+  "chinese": "开放式结局",
+  "pinyin": "kāi fàng shì jié jú",
+  "meaning": "Open Ending",
+  "description": "Unlike a happy ending or bad ending, the conclusion is not clearly depicted, leaving it up to the viewer's interpretation. Also referred to as OE, oe结局, 结局oe, 完结oe. 结局he means \"Happy Ending\", 结局be means \"Bad Ending\".",
+  "examples": [
+    {
+      "chinese": "到底为什么是个开放式结局",
+      "translation": "Why on earth is it an open ending?"
+    },
+    {
+      "chinese": "不喜欢开放式结局,感觉好空虚",
+      "translation": "I don't like open endings, feels very empty"
+    },
+    {
+      "chinese": "结局不要oe啊,be也不行",
+      "translation": "Don't be an open ending, bad ending is also a no-no"
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [
+    "jiejube"
+  ],
+  "sourceUrl": "https://chineself.com/kaifa/"
+}

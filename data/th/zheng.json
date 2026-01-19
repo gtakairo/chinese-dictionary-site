@@ -1,0 +1,25 @@
+{
+  "slug": "zheng",
+  "chinese": "蒸不熟煮不烂",
+  "pinyin": "zhēng bù shú zhǔ bù làn",
+  "meaning": "ดื้อด้าน / สอนไม่จำ / เกินเยียวยา",
+  "description": "เปรียบเปรยถึงคนที่จัดการยาก ดื้อรั้นมาก",
+  "examples": [
+    {
+      "chinese": "我就是那蒸不熟煮不烂",
+      "translation": "ฉันมันพวกหัวแข็ง สั่งสอนไม่จำ"
+    },
+    {
+      "chinese": "脸皮厚,真是快蒸不熟煮不烂",
+      "translation": "หน้าหนาจริงๆ เกินเยียวยาแล้ว"
+    },
+    {
+      "chinese": "希望这种蒸不熟煮不烂的生活真的能到此彻底结束",
+      "translation": "หวังว่าชีวิตอันเฮงซวยนี้จะจบสิ้นลงตรงนี้เสียที"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "สำนวน",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/zheng/"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "zhongcao",
+  "chinese": "种草",
+  "pinyin": "zhòng cǎo",
+  "meaning": "ป้ายยา",
+  "description": "ทำให้คนอื่นอยากซื้อสินค้าตามคำแนะนำ",
+  "examples": [
+    {
+      "chinese": "这款口红被我种草了",
+      "translation": "ฉันโดนป้ายยาลิปสติกแท่งนี้เข้าแล้ว"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์สแลงเน็ต",
+  "relatedWords": [
+    "bacao"
+  ],
+  "sourceUrl": "https://chineself.com/zhongcao/"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "shenghuo",
+  "chinese": "牲活",
+  "pinyin": "shēng huó",
+  "meaning": "가축 같은 삶 / 짐승 같은 생활",
+  "description": "'생(牲)'은 가축을 의미. 돼지처럼 먹고 자고, 일어나면 다시 먹기만 하는 생활.",
+  "examples": [
+    {
+      "chinese": "该死的一天从这里开始牲活",
+      "translation": "빌어먹을 짐승 같은 하루가 여기서 시작된다."
+    },
+    {
+      "chinese": "放假归来,继续大学牲活",
+      "translation": "방학 끝나고 돌아와서 다시 가축 같은 대학 생활을 계속한다."
+    },
+    {
+      "chinese": "牲活枯燥无味,疲倦的牲活",
+      "translation": "짐승 같은 삶은 무미건조하고 피곤하다."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [
+    "gaiside"
+  ],
+  "sourceUrl": "https://chineself.com/shenghuo/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "lengnuan",
+  "chinese": "冷暖自知",
+  "pinyin": "lěng nuǎn zì zhī",
+  "meaning": "（体験・経験して）はじめて分かる、経験しないと分からない",
+  "description": "コップに入った水が、冷たいか温かいかは飲んでみないと分からない。仏教用語であり「物事は人から言われて分かるものではなく、自身が実際に経験し体得・感得したからこそ悟ることができる」という意味。",
+  "examples": [
+    {
+      "chinese": "这世上根本不存在感同身受,只有冷暖自知",
+      "translation": "世界には全く同じ感情を味わった人はいない、体験してはじめて分かるものだ"
+    },
+    {
+      "chinese": "冷暖自知,大部分女人婚姻都不幸福",
+      "translation": "経験してはじめて悟る、大部分の女性が結婚しても不幸せだ"
+    },
+    {
+      "chinese": "如人饮水,冷暖自知,很多事情只有自己经历了才能够真正体会",
+      "translation": "水を飲むのと同じ、経験しないと分からない、多くの事は自分で経験してみて体得できるもの"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "成語・四字熟語",
+  "relatedWords": ["gantongshenshou"],
+  "sourceUrl": "https://chineself.com/lengnuan/"
+}

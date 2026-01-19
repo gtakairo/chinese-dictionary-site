@@ -1,0 +1,27 @@
+{
+  "slug": "zou",
+  "chinese": "揍扁",
+  "pinyin": "zòu biǎn",
+  "meaning": "Beat up / Flatten",
+  "description": "To hit or beat someone up.",
+  "examples": [
+    {
+      "chinese": "我焯,我来揍扁你了",
+      "translation": "Damn, I'm coming to beat you up"
+    },
+    {
+      "chinese": "再说我就揍扁你!",
+      "translation": "Say it again and I'll beat you up!"
+    },
+    {
+      "chinese": "想揍扁电梯里抽烟的人",
+      "translation": "Want to beat up people smoking in elevator"
+    }
+  ],
+  "category": "ma",
+  "categoryName": "Insult/Provocation",
+  "relatedWords": [
+    "wochao-2"
+  ],
+  "sourceUrl": "https://chineself.com/zou/"
+}

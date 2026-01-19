@@ -1,0 +1,25 @@
+{
+  "slug": "yin",
+  "chinese": "银",
+  "pinyin": "yín",
+  "meaning": "사람 (방언)",
+  "description": "'사람(인)'의 동북/산동 사투리 발음.",
+  "examples": [
+    {
+      "chinese": "我真的是一个好银",
+      "translation": "난 진짜 좋은 사람이야 (사투리)."
+    },
+    {
+      "chinese": "你真是好银啊",
+      "translation": "너 진짜 좋은 사람이구나."
+    },
+    {
+      "chinese": "什么样的男银算是好男银？",
+      "translation": "어떤 남자가 좋은 남자야?"
+    }
+  ],
+  "category": "fangyan",
+  "categoryName": "방언",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/yin/"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "bailan",
+  "chinese": "摆烂",
+  "pinyin": "bǎi làn",
+  "meaning": "やけくそになる、捨て鉢になる、自暴自棄になる、投げやりになる、破れかぶれ",
+  "description": "物事に対する諦めモード、消極的態度を表す。开摆＝开始摆烂で「諦めモードになる」。",
+  "examples": [
+    {
+      "chinese": "放弃减肥摆烂了,胖怎么了!",
+      "translation": "ダイエットや～めた、やけくそだ、デブがどうした"
+    },
+    {
+      "chinese": "摆烂不会让生活更好,加油！冲鸭",
+      "translation": "捨て鉢になっても生活は良くならないよ、頑張れ、突き進め"
+    },
+    {
+      "chinese": "不要摆烂!不要敷衍",
+      "translation": "自暴自棄になるな、おざなりにするな"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語・スラング",
+  "relatedWords": ["chongya", "tangping", "geyoutang", "aizadizadi", "foxi"],
+  "sourceUrl": "https://chineself.com/bailan/"
+}

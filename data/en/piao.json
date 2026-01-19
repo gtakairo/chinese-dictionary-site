@@ -1,0 +1,29 @@
+{
+  "slug": "piao",
+  "chinese": "飘忽不定",
+  "pinyin": "piāo hū bù dìng",
+  "meaning": "Drifting, erratic, unstable",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "眼神飘忽不定,看起来有很迷离",
+      "translation": "Eyes drifting, looks very dazed"
+    },
+    {
+      "chinese": "我注意力难以集中,思绪飘忽不定,一句话也没听进去",
+      "translation": "Hard to focus attention, thoughts drifting, didn't hear a word"
+    },
+    {
+      "chinese": "血压飘忽不定,未必就是高血压",
+      "translation": "Blood pressure fluctuates, doesn't necessarily mean high blood pressure"
+    },
+    {
+      "chinese": "因为我真的成绩飘忽不定,考试可咋办",
+      "translation": "Because my grades are really fluctuating, what to do about the exam"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "Idioms",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/piao/"
+}

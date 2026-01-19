@@ -1,0 +1,27 @@
+{
+  "slug": "youxi",
+  "chinese": "忧心忡忡",
+  "pinyin": "yōu xīn chōng chōng",
+  "meaning": "Deeply worried / Anxious",
+  "description": "Heavy-hearted with worry.",
+  "examples": [
+    {
+      "chinese": "我忧心忡忡的看着未来",
+      "translation": "I look at the future with deep worry"
+    },
+    {
+      "chinese": "双减政策,对于学生成绩是否影响?家长忧心忡忡",
+      "translation": "Does the Double Reduction policy affect grades? Parents are deeply worried"
+    },
+    {
+      "chinese": "好多事情细细一想,就会变得忧心忡忡",
+      "translation": "Thinking about many things carefully makes one anxious"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "Idioms",
+  "relatedWords": [
+    "shuangjian"
+  ],
+  "sourceUrl": "https://chineself.com/youxi/"
+}

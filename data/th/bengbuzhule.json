@@ -1,0 +1,20 @@
+{
+  "slug": "bengbuzhule",
+  "chinese": "蚌埠住了",
+  "pinyin": "bèng bù zhù le",
+  "meaning": "กลั้นไม่อยู่ / ทนไม่ไหวแล้ว (ขำ/ช็อก)",
+  "description": "มีมอินเทอร์เน็ต ใช้เมื่อตลกหรือช็อกจนทนไม่ไหว",
+  "examples": [
+    {
+      "chinese": "这段子蚌埠住了",
+      "translation": "มุขนี้ไม่ไหวแล้ว (กลั้นขำไม่อยู่)"
+    }
+  ],
+  "category": "net",
+  "categoryName": "มีมและปฏิกิริยา",
+  "relatedWords": [
+    "xswl",
+    "awsl"
+  ],
+  "sourceUrl": "https://chineself.com/bengbuzhule/"
+}

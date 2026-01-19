@@ -1,0 +1,28 @@
+{
+  "slug": "keng",
+  "chinese": "坑爹",
+  "pinyin": "kēng diē",
+  "meaning": "기대 이하, 사기당한 기분, 창렬하다",
+  "description": "이전에는 坑跌을 썼으나 지금은 坑爹가 주류가 되었다. 원래 산둥성 내륙에서 장쑤성 북부 지방의 방언이었다. 상상했던 것과 실제가 상당히 동떨어져 있을 때 자주 쓰인다. (아빠를 구덩이에 빠트린다는 뜻으로, 그만큼 황당하고 어이없음을 의미)",
+  "examples": [
+    {
+      "chinese": "太差了,这个坑爹货",
+      "translation": "너무 별로다, 완전 사기네"
+    },
+    {
+      "chinese": "点了个蓝山咖啡,味道属实有点坑爹",
+      "translation": "블루마운틴 커피를 시켰는데, 맛이 진짜 좀 창렬하다"
+    },
+    {
+      "chinese": "停车场停车也扣3分罚200?太坑爹了",
+      "translation": "주차장에 주차했는데 벌점 3점에 벌금 200위안? 완전 사기 수준이네"
+    }
+  ],
+  "category": "fangyan",
+  "categoryName": "방언",
+  "relatedWords": [
+    "caikeng",
+    "taikengle"
+  ],
+  "sourceUrl": "https://chineself.com/keng/"
+}

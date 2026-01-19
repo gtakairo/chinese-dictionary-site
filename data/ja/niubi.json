@@ -1,0 +1,25 @@
+{
+  "slug": "niubi",
+  "chinese": "牛逼",
+  "pinyin": "niú bī",
+  "meaning": "スゴイ、すげぇ、マジ最高、やばい、イケてる",
+  "description": "俗っぽい表現。牛B、NB、牛掰、牛X、流弊、牛比、牛批、牛叉、newbee、太牛了、太逼了、太nb了、太b了でも同じ。",
+  "examples": [
+    {
+      "chinese": "你这么牛逼！",
+      "translation": "あんたスゴイな！"
+    },
+    {
+      "chinese": "我牛逼大了",
+      "translation": "俺ってスゲ～"
+    },
+    {
+      "chinese": "勇敢很牛逼",
+      "translation": "超勇敢でやばい"
+    }
+  ],
+  "category": "tanci",
+  "categoryName": "感嘆詞",
+  "relatedWords": ["tainble", "niubai", "liubi", "niucha", "newbee", "wocao"],
+  "sourceUrl": "https://chineself.com/niubi/"
+}

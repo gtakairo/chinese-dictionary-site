@@ -1,0 +1,25 @@
+{
+  "slug": "rou",
+  "chinese": "肉包铁",
+  "pinyin": "ròu bāo tiě",
+  "meaning": "이륜차 (오토바이, 전기 자전거, 자전거)",
+  "description": "글자 그대로 '살이 쇠를 감싸다'. 사고가 났을 때 사용됨. 'rou bao tie'는 이륜차, 'tie bao rou'(쇠가 살을 감싸다)는 자동차를 의미함. 자동차는 쇠가 몸을 보호하지만, 이륜차는 몸이 직접 충격을 받기 때문.",
+  "examples": [
+    {
+      "chinese": "肉包铁出去都一定要小心",
+      "translation": "이륜차를 타고 나갈 때는 반드시 조심해야 한다"
+    },
+    {
+      "chinese": "现在自行车速度不是一般的快,自行车肉包铁很危险",
+      "translation": "요즘 자전거 속도는 보통이 아니다. 자전거 타는 건 매우 위험하다"
+    },
+    {
+      "chinese": "开车是铁包肉，你骑车是肉包铁,安全意识都没有,真的是不要命",
+      "translation": "운전은 쇠가 살을 감싸는 것이지만, 네가 타는 건 살이 쇠를 감싸는 것이다. 안전 의식이 전혀 없으니 정말 목숨을 내놓은 셈이다"
+    }
+  ],
+  "category": "car",
+  "categoryName": "자동차",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/rou/"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "yyds",
+  "chinese": "yyds",
+  "pinyin": "yǒng yuǎn de shén",
+  "meaning": "신이다 / 쩐다 / 대박",
+  "description": "'영원한 신(Yong Yuan De Shen)'의 약자. 최고라는 뜻.",
+  "examples": [
+    {
+      "chinese": "这个新口味真的yyds",
+      "translation": "이 새로운 맛 진짜 쩐다"
+    },
+    {
+      "chinese": "她全开麦yyds,很666",
+      "translation": "그녀의 라이브는 신이다, 진짜 쩐다"
+    },
+    {
+      "chinese": "套装歪歪滴艾斯,氛围感拉满",
+      "translation": "의상 완전 대박, 분위기 깡패다"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 은어",
+  "relatedWords": [
+    "quankaimai",
+    "666-2",
+    "laman",
+    "suogufa",
+    "jianling",
+    "dajieju"
+  ],
+  "sourceUrl": "https://chineself.com/yyds/"
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "ze",
+  "chinese": "贼",
+  "pinyin": "zéi",
+  "meaning": "매우 / 겁나 / 엄청",
+  "description": "동북 방언으로 형용사나 부사를 강조함.",
+  "examples": [
+    {
+      "chinese": "今天孩子们睡得贼香",
+      "translation": "오늘 아이들이 엄청 잘 잔다"
+    },
+    {
+      "chinese": "这件拉链卫衣贼好穿",
+      "translation": "이 후드 집업 겁나 편하다"
+    },
+    {
+      "chinese": "熊孩子一进厕所开始疯狂放炮,声贼大",
+      "translation": "말썽꾸러기가 화장실 가서 폭죽 터뜨렸는데 소리 겁나 컸다"
+    },
+    {
+      "chinese": "心态已经好成贼贼歪了",
+      "translation": "멘탈이 이미 겁나 비뚤어졌다"
+    }
+  ],
+  "category": "fangyan",
+  "categoryName": "방언",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/ze/"
+}

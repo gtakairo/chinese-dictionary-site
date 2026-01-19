@@ -1,0 +1,25 @@
+{
+  "slug": "jiangzi",
+  "chinese": "酱紫",
+  "pinyin": "jiàng zǐ",
+  "meaning": "이런 / 이렇다 (짱즈)",
+  "description": "저양쯔(这样子, zhè yàng zi)와 같은 의미로, 오타에서 유래됨. 난징 방언에서는 저양쯔의 발음이 장쯔(jiàng zǐ)로 들린다고 함.",
+  "examples": [
+    {
+      "chinese": "就是酱紫",
+      "translation": "그래 이런 거야"
+    },
+    {
+      "chinese": "原来你是酱紫的人",
+      "translation": "알고 보니 넌 이런 사람이었구나"
+    },
+    {
+      "chinese": "你总是怎么酱紫啊",
+      "translation": "너 왜 항상 이러니?"
+    }
+  ],
+  "category": "fangyan",
+  "categoryName": "방언/사투리",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/jiangzi/"
+}

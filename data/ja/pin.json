@@ -1,0 +1,16 @@
+{
+  "slug": "pin",
+  "chinese": "平标准杆",
+  "pinyin": "píng biāo zhǔn gān",
+  "meaning": "パー",
+  "description": "标准杆だけで呼ぶ場合もある。",
+  "examples": [
+    {"chinese": "这一洞我打到了平标准杆", "japanese": "このホールはパーで上がった"},
+    {"chinese": "保持平标准杆已经不错了", "japanese": "パー維持なら上出来だ"},
+    {"chinese": "平标准杆是该洞的标准成绩", "japanese": "このホールの標準スコアはパーだ"}
+  ],
+  "category": "sports",
+  "categoryName": "スポーツ",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/pin/"
+}

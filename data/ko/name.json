@@ -1,0 +1,25 @@
+{
+  "slug": "name",
+  "chinese": "那么问题来了",
+  "pinyin": "nà me wèn tí lái le",
+  "meaning": "그럼 여기서 문제입니다; 정말 곤란한 문제입니다; 피할 수 없는 문제입니다",
+  "description": "어려운 문제나 논의의 전환점을 소개할 때 자주 사용됩니다.",
+  "examples": [
+    {
+      "chinese": "6亿人每月人均收入1000元,那么问题来了",
+      "translation": "6억 명의 월수입이 1000위안이라면, 그럼 여기서 문제입니다."
+    },
+    {
+      "chinese": "我想请问呢,未来该何去何从呢,那么问题来了",
+      "translation": "묻고 싶은 게 있는데, 미래에는 어디로 가야 할까요? 그럼 여기서 문제입니다."
+    },
+    {
+      "chinese": "企业采购成本越来越高,那么问题来了",
+      "translation": "기업 구매 비용이 점점 높아지고 있는데, 그럼 여기서 문제입니다."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 유행어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/name/"
+}

@@ -1,0 +1,19 @@
+{
+    "slug": "tuwei",
+    "chinese": "土味",
+    "pinyin": "tǔ wèi",
+    "meaning": "촌스러운데 매력 있음 (쌈마이 감성)",
+    "description": "촌스럽지만 어딘가 매력적인 스타일이나 표현.",
+    "category": "net",
+    "categoryName": "인터넷 슬랭",
+    "relatedWords": [
+        "youdiaodiao"
+    ],
+    "sourceUrl": "https://chineself.com/tuwei/",
+    "examples": [
+        {
+            "chinese": "土味情话很有趣",
+            "translation": "촌스러운 멘트(주접 멘트)가 꽤 재밌어"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "slug": "shuaiguo",
+    "chinese": "甩锅",
+    "pinyin": "shuǎi guō",
+    "meaning": "책임 전가, 남 탓하기",
+    "description": "「남에게 덤터기 씌우다」와 같다. 「배흑과(背黑锅)」는 타인의 죄를 뒤집어쓰다, 덤터기 쓰다의 의미. 「솔(甩)」은 던지다의 의미로 사용.",
+    "category": "net",
+    "categoryName": "인터넷 용어",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/shuaiguo/",
+    "examples": [
+        {
+            "chinese": "他真的爱甩锅",
+            "translation": "그는 정말 책임 전가하는 걸 좋아해"
+        },
+        {
+            "chinese": "不要甩锅给我",
+            "translation": "나한테 책임 떠넘기지 마"
+        },
+        {
+            "chinese": "一出问题就甩锅,要脸不要啊",
+            "translation": "문제만 생기면 남 탓, 체면도 없냐"
+        }
+    ]
+}

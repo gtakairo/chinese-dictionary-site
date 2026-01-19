@@ -1,0 +1,33 @@
+{
+  "slug": "pa",
+  "chinese": "拍大腿",
+  "pinyin": "pāi dà tuǐ",
+  "meaning": "1. ตบขาฉาด (เสียดาย) 2. ตบขาฉาด (ขำก๊าก)",
+  "description": "อาการตบต้นขาเมื่อเสียดายหรือหัวเราะหนักมาก ส่วน \"Bao da tui\" หมายถึง \"เกาะแข้งเกาะขา\"",
+  "examples": [
+    {
+      "chinese": "手快有手慢无,错过拍大腿啊",
+      "translation": "มือไวได้มือช้าอด พลาดไปเสียดายแย่เลย"
+    },
+    {
+      "chinese": "必看剧,不看后悔拍大腿哦",
+      "translation": "ละครต้องดู ไม่ดูเสียดายแย่"
+    },
+    {
+      "chinese": "有人笑到拍大腿,有人笑到眼泪",
+      "translation": "บางคนขำจนตบขา บางคนขำจนน้ำตาไหล"
+    },
+    {
+      "chinese": "好幽默,哈哈哈哈哈,笑得拍大腿啦",
+      "translation": "ตลกมาก ฮ่าๆๆๆ ขำจนตบขาเลย"
+    }
+  ],
+  "category": "qingxu",
+  "categoryName": "อารมณ์",
+  "relatedWords": [
+    "baodatui",
+    "shoukuaiyoushoumanwu",
+    "yuqizhuci"
+  ],
+  "sourceUrl": "https://chineself.com/pa/"
+}

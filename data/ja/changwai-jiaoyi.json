@@ -1,0 +1,16 @@
+{
+  "slug": "changwai-jiaoyi",
+  "chinese": "场外交易",
+  "pinyin": "chǎng wài jiāo yì",
+  "meaning": "店頭取引（OTC取引）",
+  "description": "取引所を通さずに当事者間で行う店頭（OTC）取引。大口や法定通貨⇄暗号資産の交換で用いられる。",
+  "examples": [
+    {"chinese": "通过场外交易购买USDT", "japanese": "OTCでUSDTを購入する"},
+    {"chinese": "场外交易需要注意对手风险", "japanese": "店頭取引は相手方リスクに注意が必要だ"},
+    {"chinese": "选择信誉好的场外平台", "japanese": "評判の良いOTCプラットフォームを選ぶ"}
+  ],
+  "category": "jinrong",
+  "categoryName": "金融・投資",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/changwai-jiaoyi/"
+}

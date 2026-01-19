@@ -1,0 +1,12 @@
+{
+  "slug": "chitu",
+  "chinese": "吃土",
+  "pinyin": "chī tǔ",
+  "meaning": "金欠で土を食う（極端な金欠）",
+  "description": "お金がなくて何も買えない状態を自虐的に言うネット語。",
+  "examples": [{"chinese": "发工资前我又要吃土了", "japanese": "給料日前、また金欠で土を食う状態だ"}],
+  "category": "net",
+  "categoryName": "ネットスラング",
+  "relatedWords": ["moyu", "dagongren"],
+  "sourceUrl": "https://chineself.com/chitu/"
+}

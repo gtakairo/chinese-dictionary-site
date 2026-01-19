@@ -1,0 +1,25 @@
+{
+  "slug": "xing",
+  "chinese": "行百里者半九十",
+  "pinyin": "xíng bǎi lǐ zhě bàn jiǔ shí",
+  "meaning": "The last leg is the hardest",
+  "description": "Literally: 'One hundred miles, ninety is but half'. Meaning the end of a journey is the most difficult.",
+  "examples": [
+    {
+      "chinese": "行百里者半九十,再坚持一下,曙光在前方",
+      "translation": "The last leg is the hardest, hold on, dawn is ahead."
+    },
+    {
+      "chinese": "成功可能近在咫尺,行百里者半九十",
+      "translation": "Success might be close, but the last part is the hardest."
+    },
+    {
+      "chinese": "行百里者半九十,越接近成功越困难,越需要坚持",
+      "translation": "The closer to success, the harder it gets, and the more you need to persist."
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "Idioms",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/xing/"
+}

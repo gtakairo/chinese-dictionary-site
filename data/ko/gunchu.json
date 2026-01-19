@@ -1,0 +1,27 @@
+{
+  "slug": "gunchu",
+  "chinese": "滚床单",
+  "pinyin": "gǔn chuáng dān",
+  "meaning": "잠자리를 갖다 (성관계를 하다)",
+  "description": "「이불(침대 시트) 위에서 뒹굴다」라는 뜻으로, 성관계를 묘사하는 완곡한 표현이다.",
+  "examples": [
+    {
+      "chinese": "滚完床单之后就开始谈话",
+      "translation": "잠자리를 가진 후 바로 대화를 시작했다."
+    },
+    {
+      "chinese": "好想跟她滚床单",
+      "translation": "그녀와 자고 싶어 미치겠다."
+    },
+    {
+      "chinese": "女生同意和男生去旅行就是同意和他滚床单吗？",
+      "translation": "여자가 남자와 여행 가기로 한 게 잠자리에 동의한다는 뜻인가요?"
+    }
+  ],
+  "category": "nannv",
+  "categoryName": "연애/결혼",
+  "relatedWords": [
+    "haoxiang"
+  ],
+  "sourceUrl": "https://chineself.com/gunchu/"
+}

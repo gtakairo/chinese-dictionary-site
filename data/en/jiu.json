@@ -1,0 +1,27 @@
+{
+  "slug": "jiu",
+  "chinese": "久别重逢",
+  "pinyin": "jiǔ bié chóng féng",
+  "meaning": "Reunion after a long separation",
+  "description": "Meeting someone again after not seeing them for a long time.",
+  "examples": [
+    {
+      "chinese": "每一次遇见都像久别重逢高兴",
+      "translation": "Every meeting feels like a happy reunion after a long separation"
+    },
+    {
+      "chinese": "跟男朋友久别重逢的是什么感觉",
+      "translation": "What does it feel like to reunite with a boyfriend after a long time?"
+    },
+    {
+      "chinese": "如果我们能够久别重逢,我希望你别来无恙",
+      "translation": "If we can reunite after a long time, I hope you have been well"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "Idiom",
+  "relatedWords": [
+    "bielaiwuyang"
+  ],
+  "sourceUrl": "https://chineself.com/jiu/"
+}

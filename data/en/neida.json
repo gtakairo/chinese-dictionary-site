@@ -1,0 +1,28 @@
+{
+  "slug": "neida",
+  "chinese": "内搭",
+  "pinyin": "nèi dā",
+  "meaning": "Inner wear; Layering underneath",
+  "description": "Same as 'nèichuān'. Refers to coordinating inner layers. Wearing something as an outer layer is called 'wàichuān' (or 'wàidā').",
+  "examples": [
+    {
+      "chinese": "时尚百搭的高领衫,内搭,单穿,叠穿,怎么穿都好看",
+      "translation": "Stylish and versatile turtlenecks look good as an inner layer, worn alone, or layered."
+    },
+    {
+      "chinese": "风衣里面穿什么？建议选这4种内搭",
+      "translation": "What to wear inside a trench coat? I recommend these 4 types of inner wear."
+    },
+    {
+      "chinese": "她穿衬衫没内搭不过扣子系到了最上面",
+      "translation": "She wore a shirt with no inner layer, but buttoned it to the top."
+    }
+  ],
+  "category": "fashion",
+  "categoryName": "Fashion & Beauty",
+  "relatedWords": [
+    "waida",
+    "chuanda"
+  ],
+  "sourceUrl": "https://chineself.com/neida/"
+}

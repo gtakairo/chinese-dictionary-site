@@ -1,0 +1,25 @@
+{
+  "slug": "wenhua",
+  "chinese": "文化创意产业",
+  "pinyin": "wén huà chuàng yì chǎn yè",
+  "meaning": "Cultural and Creative Industries",
+  "description": "Industries that capitalize on culture and creativity, like content and design.",
+  "examples": [
+    {
+      "chinese": "发展文化创意产业集群",
+      "translation": "Develop cultural and creative industry clusters."
+    },
+    {
+      "chinese": "文化创意产业带动城市更新",
+      "translation": "Cultural and creative industries drive urban renewal."
+    },
+    {
+      "chinese": "支持原创内容与设计",
+      "translation": "Support original content and design."
+    }
+  ],
+  "category": "jingji",
+  "categoryName": "Economy / Business",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/wenhua/"
+}

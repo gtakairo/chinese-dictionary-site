@@ -1,0 +1,20 @@
+{
+  "slug": "duiye",
+  "chinese": "对耶",
+  "pinyin": "duì ye",
+  "meaning": "ใช่ๆ / จริงด้วย",
+  "description": "คำอุทานแสดงความเห็นด้วยหรือตอบรับแบบเป็นกันเอง",
+  "examples": [
+    {
+      "chinese": "这部剧很好看，对耶",
+      "translation": "ละครเรื่องนี้สนุกเนอะ ใช่ๆ"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์สแลงอินเทอร์เน็ต",
+  "relatedWords": [
+    "diesinei",
+    "sodiesinei"
+  ],
+  "sourceUrl": "https://chineself.com/duiye/"
+}

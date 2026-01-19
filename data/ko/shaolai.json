@@ -1,0 +1,25 @@
+{
+  "slug": "shaolai",
+  "chinese": "少来",
+  "pinyin": "shǎo lái",
+  "meaning": "그만해 / 됐어 / 농담하지 마",
+  "description": "사전적 의미로는 '오지 마라', '드물게 오다', '적게' 등이 있지만, 여기서는 '적게'의 의미에서 파생된 인터넷 용어로 '그만해라', '작작해라'라는 뜻으로 쓰임.",
+  "examples": [
+    {
+      "chinese": "少来这一套甜言蜜语",
+      "translation": "그만해, 그런 감언이설은 관둬."
+    },
+    {
+      "chinese": "你少来这套",
+      "translation": "너 그만 좀 해라."
+    },
+    {
+      "chinese": "你真的少来啊",
+      "translation": "너 진짜 그만 좀 해."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어 / 속어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/shaolai/"
+}

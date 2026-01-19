@@ -1,0 +1,20 @@
+{
+    "slug": "shuaexist",
+    "chinese": "刷存在感",
+    "pinyin": "shuā cún zài gǎn",
+    "meaning": "Seek attention, assert presence",
+    "description": "Doing conspicuous things on SNS etc. to make an impression.",
+    "category": "net",
+    "categoryName": "SNS/Behavior",
+    "relatedWords": [
+        "ruanwen",
+        "kongping"
+    ],
+    "sourceUrl": "https://chineself.com/shuaexist/",
+    "examples": [
+        {
+            "chinese": "他在群里刷存在感",
+            "translation": "He is seeking attention in the group"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "anpaishang",
+  "chinese": "安排上",
+  "pinyin": "ān pái shàng",
+  "meaning": "준비 완료; 모든 세팅 끝",
+  "description": "계획·준비가 마무리되어 모든 것이 갖춰졌음을 뜻한다.",
+  "examples": [
+    { "chinese": "周末的行程都安排上了", "translation": "주말 일정은 전부 세팅 완료." },
+    { "chinese": "机票酒店都安排上", "translation": "항공권과 호텔 모두 준비 끝." },
+    { "chinese": "晚饭安排上", "translation": "저녁 식사 준비 완료." }
+  ],
+  "category": "net",
+  "categoryName": "계획/준비",
+  "relatedWords": [
+    "shangxin",
+    "gaoqian"
+  ],
+  "sourceUrl": "https://chineself.com/anpaishang/"
+}

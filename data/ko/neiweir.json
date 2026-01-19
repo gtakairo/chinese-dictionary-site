@@ -1,0 +1,19 @@
+{
+  "slug": "neiweir",
+  "chinese": "内味儿",
+  "pinyin": "nèi wèi r",
+  "meaning": "그 느낌; 그 맛; (추억의) 분위기",
+  "description": "예전의 '그 맛', '그 분위기'를 느끼는 것.",
+  "examples": [
+    {
+      "chinese": "这家店有内味儿",
+      "translation": "이 가게 그 느낌 있네."
+    }
+  ],
+  "category": "net",
+  "categoryName": "감각/분위기",
+  "relatedWords": [
+    "yeqinghui"
+  ],
+  "sourceUrl": "https://chineself.com/neiweir/"
+}

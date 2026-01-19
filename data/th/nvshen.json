@@ -1,0 +1,18 @@
+{
+  "slug": "nvshen",
+  "chinese": "女神",
+  "pinyin": "nǚ shén",
+  "meaning": "เทพธิดา/ผู้หญิงในอุดมคติ",
+  "description": "คำยกย่องผู้หญิงที่น่าชื่นชม หรือภาพลักษณ์ผู้หญิงในอุดมคติ",
+  "examples": [
+    { "chinese": "她是我们的女神", "translation": "เธอคือเทพธิดาของพวกเรา" },
+    { "chinese": "校园女神", "translation": "เทพธิดาแห่งรั้วมหาวิทยาลัย" },
+    { "chinese": "她是我的女神", "translation": "เธอคือผู้หญิงในอุดมคติของฉัน" }
+  ],
+  "category": "net",
+  "categoryName": "บุคลิกลักษณะ",
+  "relatedWords": [
+    "baifumei"
+  ],
+  "sourceUrl": "https://chineself.com/nvshen/"
+}

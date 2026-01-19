@@ -1,0 +1,19 @@
+{
+    "slug": "tuikeng",
+    "chinese": "退坑",
+    "pinyin": "tuì kēng",
+    "meaning": "탈덕하다 (접다)",
+    "description": "취미나 작품에서 떠나다/그만두다.",
+    "category": "net",
+    "categoryName": "인터넷 슬랭",
+    "relatedWords": [
+        "rukeng"
+    ],
+    "sourceUrl": "https://chineself.com/tuikeng/",
+    "examples": [
+        {
+            "chinese": "这个游戏我退坑了",
+            "translation": "나 이 게임 접었어"
+        }
+    ]
+}

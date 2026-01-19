@@ -1,0 +1,25 @@
+{
+    "slug": "ti",
+    "chinese": "天崩开局",
+    "pinyin": "tiān bēng kāi jú",
+    "meaning": "최악의 시작, 망한 스타트",
+    "description": "처음부터 상황이 터무니없이 나쁜 것. 반의어는 천호개국(天胡开局, 최고의 스타트).",
+    "category": "net",
+    "categoryName": "인터넷 용어/슬랭",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/ti/",
+    "examples": [
+        {
+            "chinese": "天崩开局的一次旅行,下飞机行李箱被人拿错了",
+            "translation": "최악의 시작인 여행, 비행기 내리자마자 캐리어 바뀜"
+        },
+        {
+            "chinese": "今年工作第一天,发生交通事故住院,天崩开局",
+            "translation": "올해 첫 출근인데 교통사고로 입원, 시작부터 망함"
+        },
+        {
+            "chinese": "天崩开局,刚上的火车,车动了,邻座小孩把一杯可乐全洒我腿上了",
+            "translation": "최악의 스타트, 기차 타자마자 출발하는데 옆 자리 꼬맹이가 콜라 내 다리에 다 쏟음"
+        }
+    ]
+}

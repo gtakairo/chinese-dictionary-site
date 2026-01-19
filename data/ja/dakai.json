@@ -1,0 +1,25 @@
+{
+  "slug": "dakai",
+  "chinese": "打开天窗说亮话",
+  "pinyin": "dǎ kāi tiān chuāng liàng huà",
+  "meaning": "ざっくばらんに話す、腹を割った話をする",
+  "description": "隠し事なくオープンに話をすること。",
+  "examples": [
+    {
+      "chinese": "咱们就打开天窗说亮话吧",
+      "translation": "ざっくばらんに話をしようよ"
+    },
+    {
+      "chinese": "有些事不妨打开天窗说亮话吧",
+      "translation": "ある事柄は腹を割った話をしてもよいだろう"
+    },
+    {
+      "chinese": "打开天窗说亮话,我喜欢你",
+      "translation": "腹を割って話をすると、私はあなたが好き"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "成語・四字熟語",
+  "relatedWords": ["lanwei"],
+  "sourceUrl": "https://chineself.com/dakai/"
+}

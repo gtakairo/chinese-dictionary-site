@@ -1,0 +1,33 @@
+{
+  "slug": "pang",
+  "chinese": "滂臭",
+  "pinyin": "pāng chòu",
+  "meaning": "超臭い、マジ臭い",
+  "description": "四川地域の方言。",
+  "examples": [
+    {
+      "chinese": "我的jio滂臭滂臭的",
+      "japanese": "俺の脚は超～臭い"
+    },
+    {
+      "chinese": "银杏果掉地上滂臭滂臭的",
+      "japanese": "銀杏の実が落ちた場所は超～臭い"
+    },
+    {
+      "chinese": "早上起来没刷牙嘴巴滂臭",
+      "japanese": "朝起きて歯を磨かないと口がマジ臭い"
+    },
+    {
+      "chinese": "那些鞋子滂臭的人,自己真的闻不到吗",
+      "japanese": "あのように靴が臭い人は、自分で本当に臭わないの？"
+    },
+    {
+      "chinese": "小说中经常描写男女亲吻香烟味,后知后觉,真是滂臭",
+      "japanese": "小説でよく男女がキスしてタバコの味がするシーンを描写しているが、あとで気づく、本当に超臭い"
+    }
+  ],
+  "category": "fangyan",
+  "categoryName": "方言",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/pang/"
+}

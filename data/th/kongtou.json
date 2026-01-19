@@ -1,0 +1,25 @@
+{
+  "slug": "kongtou",
+  "chinese": "空投",
+  "pinyin": "kōng tóu",
+  "meaning": "แอร์ดรอป (แจกเหรียญฟรี)",
+  "description": "โทเค็นที่โปรเจกต์แจกจ่ายให้ชุนชนฟรี มักมีการกำหนดเงื่อนไขการเข้าร่วมหรือการ Snapshot",
+  "examples": [
+    {
+      "chinese": "项目宣布空投规则",
+      "translation": "โปรเจกต์ประกาศกฎการแจกเหรียญฟรี"
+    },
+    {
+      "chinese": "满足条件即可参与空投",
+      "translation": "เพียงทำตามเงื่อนไขก็เข้าร่วมรับเหรียญฟรีได้"
+    },
+    {
+      "chinese": "空投快照时间公布",
+      "translation": "ประกาศเวลา Snapshot สำหรับแอร์ดรอปแล้ว"
+    }
+  ],
+  "category": "jinrong",
+  "categoryName": "การเงินและการลงทุน",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/kongtou/"
+}

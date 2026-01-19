@@ -1,0 +1,25 @@
+{
+    "slug": "softfork",
+    "chinese": "软分叉",
+    "pinyin": "ruǎn fēn chā",
+    "meaning": "소프트 포크",
+    "description": "하위 호환성을 유지하면서 프로토콜을 변경하는 분기.",
+    "category": "jinrong",
+    "categoryName": "금융/투자",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/softfork/",
+    "examples": [
+        {
+            "chinese": "通过软分叉升级协议",
+            "translation": "소프트 포크를 통한 프로토콜 업그레이드"
+        },
+        {
+            "chinese": "矿工需配合软分叉规则",
+            "translation": "채굴자는 소프트 포크 규칙을 따라야 함"
+        },
+        {
+            "chinese": "软分叉不会造成链分裂",
+            "translation": "소프트 포크는 체인 분열을 초래하지 않음"
+        }
+    ]
+}

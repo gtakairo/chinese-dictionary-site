@@ -1,0 +1,25 @@
+{
+  "slug": "cifan",
+  "chinese": "次饭",
+  "pinyin": "cì fàn",
+  "meaning": "ご飯を食べる",
+  "description": "吃饭（chī fàn）の意味のネット用語。恰饭も同じ。",
+  "examples": [
+    {
+      "chinese": "你次饭没？",
+      "translation": "ご飯食べた？"
+    },
+    {
+      "chinese": "一起次饭被吧",
+      "translation": "一緒にご飯食べよう"
+    },
+    {
+      "chinese": "大家好久没在一起次饭啦",
+      "translation": "みんなで長いこと一緒にご飯食べてない"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語・スラング",
+  "relatedWords": ["qiafan", "shibuzhiwei"],
+  "sourceUrl": "https://chineself.com/cifan/"
+}

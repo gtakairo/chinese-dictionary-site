@@ -1,0 +1,25 @@
+{
+  "slug": "shanggan",
+  "chinese": "上纲上线",
+  "pinyin": "shàng gāng shàng xiàn",
+  "meaning": "①（思想・理論などを）振りかざす ②咎め立てる ③レールを敷く、レッテル貼りする",
+  "description": "上纲は「思想・理論などの原則問題に引き上げて批判する、些細なことを教条的に大げさに取り上げる」の意味。「上纲」は文化大革命の時によく使われた用語で、階級闘争・路線闘争までエスカレートさせるという意味がある。",
+  "examples": [
+    {
+      "chinese": "不要上纲上线的政治正确",
+      "translation": "ポリコレを振りかざすのはよそう"
+    },
+    {
+      "chinese": "不必事事都要上纲上线",
+      "translation": "すべてのことに理屈を振りかざす必要はない"
+    },
+    {
+      "chinese": "最烦学校这种小事上纲上线",
+      "translation": "学校がこのような小さなことで咎めたてるのが最もムカつく"
+    }
+  ],
+  "category": "zhengzhi",
+  "categoryName": "政治",
+  "relatedWords": ["zzzq"],
+  "sourceUrl": "https://chineself.com/shanggan/"
+}

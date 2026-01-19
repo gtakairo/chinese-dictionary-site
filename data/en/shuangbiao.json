@@ -1,0 +1,20 @@
+{
+    "slug": "shuangbiao",
+    "chinese": "双标",
+    "pinyin": "shuāng biāo",
+    "meaning": "Double Standards",
+    "description": "Criticism of changing standards depending on the situation or person.",
+    "category": "net",
+    "categoryName": "Discussion/Evaluation",
+    "relatedWords": [
+        "gangjing",
+        "yinyangguaiqi"
+    ],
+    "sourceUrl": "https://chineself.com/shuangbiao/",
+    "examples": [
+        {
+            "chinese": "别双标了",
+            "translation": "Stop with the double standards"
+        }
+    ]
+}

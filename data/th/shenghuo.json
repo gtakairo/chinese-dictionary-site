@@ -1,0 +1,27 @@
+{
+  "slug": "shenghuo",
+  "chinese": "牲活",
+  "pinyin": "shēng huó",
+  "meaning": "ชีวิตเหมือนปศุสัตว์ / ชีวิตไร้จุดหมาย",
+  "description": "'Shēng' หมายถึงปศุสัตว์ หมายถึงชีวิตที่เอาแต่กินและนอนเหมือนหมู",
+  "examples": [
+    {
+      "chinese": "该死的一天从这里开始牲活",
+      "translation": "วันแย่ๆ แบบชีวิตสัตว์เริ่มขึ้นที่นี่"
+    },
+    {
+      "chinese": "放假归来,继续大学牲活",
+      "translation": "กลับจากวันหยุด ชีวิตมหาวิทยาลัยแบบสัตว์ๆ ก็ดำเนินต่อไป"
+    },
+    {
+      "chinese": "牲活枯燥无味,疲倦的牲活",
+      "translation": "ชีวิตแบบสัตว์ช่างน่าเบื่อจืดชืด เป็นชีวิตที่เหนื่อยหน่าย"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์อินเทอร์เน็ต",
+  "relatedWords": [
+    "gaiside"
+  ],
+  "sourceUrl": "https://chineself.com/shenghuo/"
+}

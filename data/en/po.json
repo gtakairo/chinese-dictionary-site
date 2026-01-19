@@ -1,0 +1,25 @@
+{
+  "slug": "po",
+  "chinese": "破冰价",
+  "pinyin": "pò bīng jià",
+  "meaning": "1. Breaking point price 2. Below cost price",
+  "description": "Ice melts at 0°C, meaning price hits rock bottom or goes below cost. Similar terms: cabbage price (dirt cheap), vomiting blood price (slashing price), jumping off building price (fire sale), diving price (huge drop), loss price, parachuting price, terror price.",
+  "examples": [
+    {
+      "chinese": "新史低的破冰价,机不可失",
+      "translation": "New historical low breaking ice price, don't miss chance"
+    },
+    {
+      "chinese": "大促开始,全平台最低,跳水清仓破冰价",
+      "translation": "Big promo starts, lowest on all platforms, diving clearance breaking ice price"
+    },
+    {
+      "chinese": "你去买二手都买不到这价格,限时破冰价",
+      "translation": "Can't even buy at this price secondhand, limited time breaking ice price"
+    }
+  ],
+  "category": "jingji",
+  "categoryName": "Economy & Business",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/po/"
+}

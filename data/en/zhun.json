@@ -1,0 +1,25 @@
+{
+  "slug": "zhun",
+  "chinese": "准备药检",
+  "pinyin": "zhǔn bèi yào jiǎn",
+  "meaning": "Are you crazy? / Prepare for drug test",
+  "description": "Sarcastic remark implying someone is acting crazy (like on drugs).",
+  "examples": [
+    {
+      "chinese": "是不是脑子短路了,准备药检吧你",
+      "translation": "Brain short-circuit? Prepare for drug test (Go seek help)"
+    },
+    {
+      "chinese": "这个人真的准备药检吧",
+      "translation": "This person really needs a drug test (is crazy)"
+    },
+    {
+      "chinese": "我怀疑你们精神状态,准备药检",
+      "translation": "Doubt your mental state, prepare for drug test"
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/zhun/"
+}

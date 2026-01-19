@@ -1,0 +1,25 @@
+{
+  "slug": "quan",
+  "chinese": "拳不离手,曲不离口",
+  "pinyin": "quán bù lí shǒu,qǔ bù lí kǒu",
+  "meaning": "숙련되려면 끊임없이 연습해야 한다",
+  "description": "주먹은 손을 떠나지 않고, 노래는 입을 떠나지 않는다는 뜻. 무술가는 항상 주먹을 연습하고, 가수는 항상 노래를 불러야 숙달될 수 있다는 의미.",
+  "examples": [
+    {
+      "chinese": "拳不离手,曲不离口,还是得多唱唱",
+      "translation": "숙련되려면 끊임없이 연습해야 하니, 역시 더 많이 불러봐야겠다"
+    },
+    {
+      "chinese": "拳不离手,曲不离口,任何能力都需要积累",
+      "translation": "숙련되려면 끊임없이 연습해야 한다. 어떤 능력이든 축적이 필요하다"
+    },
+    {
+      "chinese": "学语言都一样都讲究拳不离手,曲不离口",
+      "translation": "언어 학습도 마찬가지로 꾸준히 해야 한다. 숙련되려면 끊임없이 연습해야 한다"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "사자성어",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/quan/"
+}

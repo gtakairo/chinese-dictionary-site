@@ -1,0 +1,25 @@
+{
+    "slug": "sun",
+    "chinese": "损坏事故",
+    "pinyin": "sǔn huài shì gù",
+    "meaning": "อุบัติเหตุที่ทรัพย์สินเสียหาย",
+    "description": "อุบัติเหตุที่มีทรัพย์สินเสียหายเท่านั้น ไม่มีผู้บาดเจ็บ",
+    "category": "car",
+    "categoryName": "ยานยนต์",
+    "relatedWords": [],
+    "sourceUrl": "https://chineself.com/sun/",
+    "examples": [
+        {
+            "chinese": "发生了车辆物损事故",
+            "translation": "เกิดอุบัติเหตุรถยนต์เสียหาย (ไม่มีคนเจ็บ)"
+        },
+        {
+            "chinese": "报案处理物损事故",
+            "translation": "แจ้งเคลมอุบัติเหตุทรัพย์สิน"
+        },
+        {
+            "chinese": "保险公司核定物损事故",
+            "translation": "บริษัทประกันประเมินความเสียหายของทรัพย์สิน"
+        }
+    ]
+}

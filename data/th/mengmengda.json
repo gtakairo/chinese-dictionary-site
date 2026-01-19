@@ -1,0 +1,29 @@
+{
+  "slug": "mengmengda",
+  "chinese": "萌萌哒",
+  "pinyin": "méng méng da",
+  "meaning": "น่ารักมุ้งมิ้ง / โมเอะ / น่าร้ากกก",
+  "description": "มาจากคำแสลงภาษาญี่ปุ่นว่า \"โมเอะ\" (ความหลงใหล/ความรักอย่างแรงกล้า) หมายถึงความน่ารักแบบเด็กๆ ไร้เดียงสา",
+  "examples": [
+    {
+      "chinese": "好萌",
+      "translation": "น่ารักมาก"
+    },
+    {
+      "chinese": "卖萌",
+      "translation": "แอ๊บแบ๊ว / ทำตัวน่ารัก"
+    },
+    {
+      "chinese": "Q萌",
+      "translation": "น่ารักจิ้มลิ้ม"
+    }
+  ],
+  "category": "sub",
+  "categoryName": "วัฒนธรรมย่อย",
+  "relatedWords": [
+    "mengdian",
+    "mengfan",
+    "chunmeng"
+  ],
+  "sourceUrl": "https://chineself.com/mengmengda/"
+}

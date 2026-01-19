@@ -1,0 +1,29 @@
+{
+  "slug": "chan",
+  "chinese": "缠缠绵绵",
+  "pinyin": "chán chán mián mián",
+  "meaning": "つきまとう、しつこい、愛情が深いこと",
+  "description": "缠绵は「①（病気や感情が）まつわりつく、つきまとう ②感情がこまやかで人を引きつける」の意味。",
+  "examples": [
+    {
+      "chinese": "这个感冒缠缠绵绵,啥时候才能好",
+      "japanese": "この風邪しつこい、いつになったら治るんだ"
+    },
+    {
+      "chinese": "别缠缠绵绵粘上来甩都甩不掉",
+      "japanese": "いつまでもしつこく離れずに付きまとうな"
+    },
+    {
+      "chinese": "我在努力的维持这段缠缠绵绵的爱情",
+      "japanese": "私は愛情を持続させようと努力している"
+    },
+    {
+      "chinese": "缠缠绵绵了5年,还是要拜拜了",
+      "japanese": "愛情（付き合いが）5年続いた、やっぱりサヨナラしよう"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "成語・四字熟語",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/chan/"
+}

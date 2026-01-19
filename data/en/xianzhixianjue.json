@@ -1,0 +1,23 @@
+{
+  "slug": "xianzhixianjue",
+  "chinese": "先知先觉",
+  "pinyin": "xiān zhī xiān jué",
+  "meaning": "Foresight / Visionary",
+  "description": "Having foresight, perceiving things before they happen.",
+  "examples": [
+    {
+      "chinese": "投资高手们都是先知先觉的人",
+      "translation": "Investment experts are all visionaries."
+    },
+    {
+      "chinese": "女人先知先觉,男人后知后觉",
+      "translation": "Women have foresight, men realize things later."
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "Idioms",
+  "relatedWords": [
+    "houzhihoujue"
+  ],
+  "sourceUrl": "https://chineself.com/xianzhixianjue/"
+}

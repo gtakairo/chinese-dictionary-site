@@ -1,0 +1,15 @@
+{
+  "slug": "youdiaodiao",
+  "chinese": "有调调",
+  "pinyin": "yǒu diàodiào",
+  "meaning": "センスがある／雰囲気がある",
+  "description": "調子(調調)がある→いい雰囲気やセンスを持っている。インテリアやファッションを褒める時によく使う。",
+  "examples": [
+    {"chinese": "这家咖啡店很有调调", "japanese": "このカフェ、すごく雰囲気があるね"},
+    {"chinese": "她穿衣很有调调", "japanese": "彼女は服のセンスがいい"}
+  ],
+  "category": "fashion",
+  "categoryName": "ファッション・雰囲気",
+  "relatedWords": ["oumeifaner", "baida"],
+  "sourceUrl": "https://chineself.com/youdiaodiao/"
+}

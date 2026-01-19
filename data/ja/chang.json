@@ -1,0 +1,16 @@
+{
+  "slug": "chang",
+  "chinese": "长草区",
+  "pinyin": "cháng cǎo qū",
+  "meaning": "ラフ",
+  "description": "ゴルフ用語。粗草区は「深いラフ」の意味。",
+  "examples": [
+    {"chinese": "球落在长草区很难打", "japanese": "ボールがラフに入って打ちにくい"},
+    {"chinese": "从长草区切回球道", "japanese": "ラフからフェアウェイに戻す"},
+    {"chinese": "长草区的草很深", "japanese": "ラフの芝が深い"}
+  ],
+  "category": "sports",
+  "categoryName": "スポーツ",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/chang/"
+}

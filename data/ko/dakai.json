@@ -1,0 +1,27 @@
+{
+  "slug": "dakai",
+  "chinese": "打开天窗说亮话",
+  "pinyin": "dǎ kāi tiān chuāng liàng huà",
+  "meaning": "솔직하게 털어놓고 말하다, 허심탄회하게 이야기하다",
+  "description": "숨기는 것 없이 오픈해서 이야기하는 것.",
+  "examples": [
+    {
+      "chinese": "咱们就打开天窗说亮话吧",
+      "translation": "우리 솔직하게 이야기 좀 하자"
+    },
+    {
+      "chinese": "有些事不妨打开天窗说亮话吧",
+      "translation": "어떤 일은 솔직하게 털어놓고 이야기하는 게 좋아"
+    },
+    {
+      "chinese": "打开天窗说亮话,我喜欢你",
+      "translation": "솔직하게 말할게, 나 너 좋아해"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "성어/사자성어",
+  "relatedWords": [
+    "lanwei"
+  ],
+  "sourceUrl": "https://chineself.com/dakai/"
+}

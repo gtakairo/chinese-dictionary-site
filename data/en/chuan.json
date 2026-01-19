@@ -1,0 +1,21 @@
+{
+  "slug": "chuan",
+  "chinese": "传播途径",
+  "pinyin": "chuán bò tú jìng",
+  "meaning": "Transmission route / Route of infection",
+  "description": "Also called 「chuan ran tu jing」.",
+  "examples": [
+    {
+      "chinese": "一个多月了,连个传播途径都没有搞清楚",
+      "translation": "It's been over a month, and the transmission route hasn't even been clarified yet"
+    },
+    {
+      "chinese": "性接触是梅毒的主要传播途径,比例占95%",
+      "translation": "Sexual contact is the main transmission route of syphilis, accounting for 95%"
+    }
+  ],
+  "category": "yiliao",
+  "categoryName": "Medical / Disease",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/chuan/"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "zhalie",
+  "chinese": "炸裂",
+  "pinyin": "zhà liè",
+  "meaning": "ระเบิดเถิดเทิง / สุดยอด / ปังมาก",
+  "description": "การแสดงหรือผลงานที่สุดยอดจนน่าตกใจ",
+  "examples": [
+    {
+      "chinese": "舞台效果太炸裂了",
+      "translation": "เอฟเฟกต์เวทีคือระเบิดเถิดเทิงมาก (สุดยอดมาก)"
+    }
+  ],
+  "category": "net",
+  "categoryName": "การวิจารณ์/ปฏิกิริยา",
+  "relatedWords": [
+    "yyds",
+    "nitian"
+  ],
+  "sourceUrl": "https://chineself.com/zhalie/"
+}

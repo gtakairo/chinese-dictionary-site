@@ -1,0 +1,25 @@
+{
+  "slug": "fenxiang",
+  "chinese": "分享欲",
+  "pinyin": "fēn xiǎng yù",
+  "meaning": "共感欲求",
+  "description": "自分が感じたものを共に分かち合いたい（シェアしたい）という欲求のことで、なんでもかんでも他人に話したい欲求とも言える。倾诉欲は「思いを伝えることで共感や同意を得たい」という承認欲求のこと。",
+  "examples": [
+    {
+      "chinese": "我好想和人聊天,控制不住的分享欲",
+      "translation": "誰かと話がしたい、共感欲求が抑えきれない"
+    },
+    {
+      "chinese": "有时候忍一忍自己的分享欲,会发现也没有什么话非要说",
+      "translation": "ある時は自分の共感欲求を抑えると、敢えて言う必要がないということが分かる"
+    },
+    {
+      "chinese": "应该减少没必要的倾诉及分享欲",
+      "translation": "必要でない承認欲求と共感欲求を減らすべき"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "未分類",
+  "relatedWords": ["qingsuyu"],
+  "sourceUrl": "https://chineself.com/fenxiang/"
+}

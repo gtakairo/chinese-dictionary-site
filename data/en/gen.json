@@ -1,0 +1,25 @@
+{
+  "slug": "gen",
+  "chinese": "搁哪",
+  "pinyin": "gē nǎ",
+  "meaning": "Where? / Where at?",
+  "description": "Dialect from Northeast China meaning 「where」.",
+  "examples": [
+    {
+      "chinese": "搁哪呢,我找不到啊",
+      "translation": "Where are you? I can't find you."
+    },
+    {
+      "chinese": "天天搁哪吹牛,没实力别瞎bb",
+      "translation": "Always bragging out there, don't talk nonsense if you have no real skill."
+    },
+    {
+      "chinese": "天啦噜,我充电器搁那放着",
+      "translation": "Oh my god, where did I put my charger?"
+    }
+  ],
+  "category": "fangyan",
+  "categoryName": "Dialect",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/gen/"
+}

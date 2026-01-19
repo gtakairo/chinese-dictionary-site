@@ -1,0 +1,30 @@
+{
+  "slug": "laotie",
+  "chinese": "老铁",
+  "pinyin": "lǎo tiě",
+  "meaning": "형제, 친구 (친한 사이)",
+  "description": "「형제」, 「친구」라는 뜻입니다. 철(铁)처럼 단단한 관계를 의미합니다. 친한 친구를 부를 때 사용합니다.",
+  "examples": [
+    {
+      "chinese": "欢迎各位老铁关注",
+      "translation": "형제님들의 많은 팔로우 부탁드립니다"
+    },
+    {
+      "chinese": "各位老铁们分享一下",
+      "translation": "형제님들 공유 좀 해주세요"
+    },
+    {
+      "chinese": "老铁们你们知道吗？",
+      "translation": "형제님들 아시나요?"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [
+    "tiezhi",
+    "guanzhu",
+    "wao",
+    "zhaxinle"
+  ],
+  "sourceUrl": "https://chineself.com/laotie/"
+}

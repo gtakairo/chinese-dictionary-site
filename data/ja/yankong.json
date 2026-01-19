@@ -1,0 +1,12 @@
+{
+  "slug": "yankong",
+  "chinese": "颜控",
+  "pinyin": "yán kòng",
+  "meaning": "顔にこだわる人（見た目重視）",
+  "description": "顔の良さに強く惹かれ、外見重視の人。",
+  "examples": [{"chinese": "我是颜控", "japanese": "私は顔にこだわるタイプだ"}],
+  "category": "net",
+  "categoryName": "外見・好み",
+  "relatedWords": ["yanzhi"],
+  "sourceUrl": "https://chineself.com/yankong/"
+}

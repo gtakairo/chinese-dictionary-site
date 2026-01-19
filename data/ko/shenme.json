@@ -1,0 +1,25 @@
+{
+  "slug": "shenme",
+  "chinese": "什么鬼",
+  "pinyin": "shén me guǐ",
+  "meaning": "이게 뭐야 / 헐 / 무슨 귀신 씨나락 까먹는 소리",
+  "description": "원래 남방 방언으로 '무슨 일이냐'와 같은 의미였으나, 점차 인터넷 등에서 널리 쓰이게 됨. 이해하기 어렵거나 황당할 때 자주 쓰는 감탄사.",
+  "examples": [
+    {
+      "chinese": "这是什么鬼天气,没见过这么大的雨",
+      "translation": "이게 무슨 날벼락 같은 날씨야, 이렇게 비가 많이 오는 건 처음 본다."
+    },
+    {
+      "chinese": "昨天才吃的火锅现在又想吃了是什么鬼",
+      "translation": "어제 훠궈 먹었는데 또 먹고 싶다니, 이게 무슨 일이람."
+    },
+    {
+      "chinese": "真的没有一件顺心的事情,我是什么倒霉鬼",
+      "translation": "되는 일이 하나도 없네, 내가 무슨 불행의 아이콘인가."
+    }
+  ],
+  "category": "tanci",
+  "categoryName": "감탄사",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/shenme/"
+}

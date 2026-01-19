@@ -1,0 +1,12 @@
+{
+  "slug": "pua",
+  "chinese": "PUA",
+  "pinyin": "p u a",
+  "meaning": "心理操作（恋愛などでの洗脳的テク）",
+  "description": "他者を心理的に操作し依存させるテクニックを指す。否定的文脈で使われる。",
+  "examples": [{"chinese": "小心PUA", "japanese": "PUAに気をつけて"}],
+  "category": "net",
+  "categoryName": "ネットスラング・人間関係",
+  "relatedWords": ["gangjing"],
+  "sourceUrl": "https://chineself.com/pua/"
+}

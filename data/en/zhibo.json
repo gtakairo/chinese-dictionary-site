@@ -1,0 +1,25 @@
+{
+  "slug": "zhibo",
+  "chinese": "直播带货",
+  "pinyin": "zhí bò dài huò",
+  "meaning": "Livestream shopping / Live Commerce",
+  "description": "Introduction and sale of products via live streaming.",
+  "examples": [
+    {
+      "chinese": "直播带货已经成为中国电商行业的新热潮",
+      "translation": "Livestream selling has become a new trend in China's e-commerce"
+    },
+    {
+      "chinese": "知名网红做直播带货,一个月卖了100万的服装",
+      "translation": "Famous influencer sold 1 million in clothes via livestream"
+    }
+  ],
+  "category": "sns",
+  "categoryName": "Web/SNS Terms",
+  "relatedWords": [
+    "daihuoshengti",
+    "wanghong",
+    "fenyibeigeng"
+  ],
+  "sourceUrl": "https://chineself.com/zhibo/"
+}

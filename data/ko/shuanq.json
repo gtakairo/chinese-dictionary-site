@@ -1,0 +1,20 @@
+{
+    "slug": "shuanq",
+    "chinese": "栓Q",
+    "pinyin": "shuān Q",
+    "meaning": "솬큐 (Thank you)",
+    "description": "영어 \"Thank you\"를 중국어 억양으로 희화화한 밈.",
+    "category": "wailaiyu",
+    "categoryName": "외래어/밈",
+    "relatedWords": [
+        "diesinei",
+        "kawayi"
+    ],
+    "sourceUrl": "https://chineself.com/shuanq/",
+    "examples": [
+        {
+            "chinese": "谢谢你，栓Q",
+            "translation": "고마워, 솬큐"
+        }
+    ]
+}

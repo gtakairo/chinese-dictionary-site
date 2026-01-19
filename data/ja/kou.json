@@ -1,0 +1,25 @@
+{
+  "slug": "kou",
+  "chinese": "口碑",
+  "pinyin": "kǒu bēi",
+  "meaning": "口コミ、評判",
+  "description": "「口碑」というアプリがあるが、口コミのレビューが見れるサービス。",
+  "examples": [
+    {
+      "chinese": "想问问集美们这个女生口碑怎么样啊",
+      "japanese": "姉妹たちこの女性の評判はどうなの"
+    },
+    {
+      "chinese": "这部电影口碑不错,我想去影院看看",
+      "japanese": "この映画の評判はよい、映画館で見たい"
+    },
+    {
+      "chinese": "访日游客实施了分析谷歌地图上的评分和口碑",
+      "japanese": "訪日客はグーグルマップ上の評価と口コミを分析している"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "未分類",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/kou/"
+}

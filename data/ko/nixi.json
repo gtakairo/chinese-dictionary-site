@@ -1,0 +1,19 @@
+{
+  "slug": "nixi",
+  "chinese": "逆袭",
+  "pinyin": "nì xí",
+  "meaning": "역습; 인생 역전",
+  "description": "열세에서 회복하여 성공하는 것.",
+  "examples": [
+    {
+      "chinese": "他从小公司逆袭到了名企",
+      "translation": "그는 작은 회사에서 시작해 대기업으로 인생 역전에 성공했다."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 유행어",
+  "relatedWords": [
+    "neijuan"
+  ],
+  "sourceUrl": "https://chineself.com/nixi/"
+}

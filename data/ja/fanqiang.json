@@ -1,0 +1,25 @@
+{
+  "slug": "fanqiang",
+  "chinese": "翻墙",
+  "pinyin": "fān qiáng",
+  "meaning": "①壁を乗り越える、脱走 ②インターネットの規制回避（VPN）",
+  "description": "②は爬墙、破网ともいう。ネット規制に遭うことを「被墙了」と言う。ネットに設置された検閲システムを万里の長城「金盾（Great Firewall）」の壁（＝中国国家防火墙）と呼ぶが、その壁越えをして海外のサイトにアクセスすることを指している。中国ではネット上にも見えない情報の国境が政府により設定され、多くの海外サイトが閲覧できないように規制されている（例えばYouTube、Instagram、X：旧Twitterなど）。",
+  "examples": [
+    {
+      "chinese": "两男子偷偷翻墙离开封控小区",
+      "translation": "2人の男性がこっそりと壁を乗り越え封鎖管理中の住宅から脱走する"
+    },
+    {
+      "chinese": "通过VPN翻墙访问油管",
+      "translation": "VPNの規制回避によりユーチューブにアクセスする"
+    },
+    {
+      "chinese": "关于翻墙服务,违法浏览境外网站",
+      "translation": "ネット検閲の回避サービスにより、違法に海外サイトを閲覧する"
+    }
+  ],
+  "category": "sns",
+  "categoryName": "Web・SNS用語",
+  "relatedWords": ["paqiang", "minganci", "youguan"],
+  "sourceUrl": "https://chineself.com/fanqiang/"
+}

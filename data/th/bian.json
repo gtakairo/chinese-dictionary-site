@@ -1,0 +1,16 @@
+{
+  "slug": "bian",
+  "chinese": "币安",
+  "pinyin": "bì ān",
+  "meaning": "ไบแนนซ์ (Binance)",
+  "description": "กระดานเทรดคริปโตเคอร์เรนซี",
+  "examples": [
+    { "chinese": "在币安进行现货交易", "translation": "ทำสปอตเทรดบน Binance" },
+    { "chinese": "币安推出新活动", "translation": "Binance เปิดกิจกรรมใหม่" },
+    { "chinese": "学习使用币安的API", "translation": "เรียนรู้การใช้ API ของ Binance" }
+  ],
+  "category": "jinrong",
+  "categoryName": "การเงินและการลงทุน",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/bian/"
+}

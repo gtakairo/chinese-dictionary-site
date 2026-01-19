@@ -1,0 +1,33 @@
+{
+  "slug": "jian",
+  "chinese": "简报",
+  "pinyin": "jiǎn bào",
+  "meaning": "ข่าวสั้น / รายงานสรุป / จดหมายข่าว",
+  "description": "การบรรยายสรุปแก่สื่อมวลชนเรียกว่า 「媒体吹风会」 หรือ 「新闻吹风会」",
+  "examples": [
+    {
+      "chinese": "新闻简报",
+      "translation": "สรุปข่าว"
+    },
+    {
+      "chinese": "每日简报",
+      "translation": "สรุปข่าวประจำวัน"
+    },
+    {
+      "chinese": "每月工作简报",
+      "translation": "ราบงานผลการทำงานประจำเดือน"
+    },
+    {
+      "chinese": "会议简报",
+      "translation": "สรุปการประชุม"
+    },
+    {
+      "chinese": "信息简报",
+      "translation": "แจ้งข่าวสารสั้นๆ"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "หมวดอื่นๆ",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/jian/"
+}

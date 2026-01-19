@@ -1,0 +1,29 @@
+{
+  "slug": "re",
+  "chinese": "热潮涌",
+  "pinyin": "rè cháo yǒng",
+  "meaning": "ブーム到来、大注目、大評判、大人気",
+  "description": "热潮涌动も同じ。热潮は「①ブーム ②急激な高まり ③高揚」の意味。热潮涌はその強調形。涌动（yǒng dòng）は「①逆巻く ②わき返る」の意味。",
+  "examples": [
+    {
+      "chinese": "全民健身热潮涌",
+      "translation": "全国的にフットネスブームが巻き起こる"
+    },
+    {
+      "chinese": "局部板块热潮涌动",
+      "translation": "一部セクター（業界）が大人気"
+    },
+    {
+      "chinese": "今年建设热潮涌",
+      "translation": "今年建設ラッシュとなっている"
+    },
+    {
+      "chinese": "消费市场热潮涌",
+      "translation": "消費市場が盛り上がっている"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/re/"
+}

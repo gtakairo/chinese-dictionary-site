@@ -1,0 +1,25 @@
+{
+  "slug": "shuo",
+  "chinese": "说不清道不明的",
+  "pinyin": "shuō bu qīng dào bù míng de",
+  "meaning": "はっきりしない、よく分からない",
+  "description": "何かがはっきりせず、よく分からない状態を表す表現。",
+  "examples": [
+    {
+      "chinese": "心情比较复杂,说不清道不明的",
+      "translation": "心情は比較的複雑でよく分からないものだ"
+    },
+    {
+      "chinese": "说不清道不明的事,人生无常,这也是人生常态吧",
+      "translation": "はっきり分からない、人生は移り変わるもの、それが人生の常だ"
+    },
+    {
+      "chinese": "感情真的像是梅雨时节的天气,说不清道不明的",
+      "translation": "感情は本当に梅雨時の天気のようではっきりしない"
+    }
+  ],
+  "category": "uncategorized",
+  "categoryName": "未分類",
+  "relatedWords": ["renshengwuchang"],
+  "sourceUrl": "https://chineself.com/shuo/"
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "ku",
+  "chinese": "快动眼睡眠",
+  "pinyin": "kuài dòng yǎn shuì mián",
+  "meaning": "レム睡眠",
+  "description": "快速动眼睡眠、REM睡眠とも呼ばれる。非快动眼睡眠「ノンレム睡眠」。浅い睡眠のため做梦高峰期とも言われる。",
+  "examples": [
+    {"chinese": "进入快动眼睡眠阶段", "japanese": "レム睡眠の段階に入る"},
+    {"chinese": "快动眼睡眠时间延长", "japanese": "レム睡眠の時間が延びた"},
+    {"chinese": "研究快动眼睡眠与记忆", "japanese": "レム睡眠と記憶の関係を研究する"}
+  ],
+  "category": "uncategorized",
+  "categoryName": "未分類",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/ku/"
+}

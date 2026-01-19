@@ -1,0 +1,25 @@
+{
+  "slug": "qie",
+  "chinese": "切拜",
+  "pinyin": "qiè bài",
+  "meaning": "お願い、どうか",
+  "description": "ハングルの「제발」（チェバル）の音訳。",
+  "examples": [
+    {
+      "chinese": "欧尼,切拜切拜,求求你了",
+      "japanese": "お姉さん、どうかどうかお願い"
+    },
+    {
+      "chinese": "切拜,让我看看吧",
+      "japanese": "お願い、私に見せて"
+    },
+    {
+      "chinese": "希望我可以在你家多呆一段时间,切拜",
+      "japanese": "あなたの家にもう少し滞在したい、お願い"
+    }
+  ],
+  "category": "wailaiyu",
+  "categoryName": "外来語・音訳",
+  "relatedWords": [],
+  "sourceUrl": "https://chineself.com/qie/"
+}

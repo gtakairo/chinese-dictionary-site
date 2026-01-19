@@ -1,0 +1,28 @@
+{
+  "slug": "dagong",
+  "chinese": "打工狗",
+  "pinyin": "dǎ gōng gǒu",
+  "meaning": "고용 노동자 (자조적 표현), 월급쟁이 개",
+  "description": "무효타공인(wuxiaodagongren, 보답받지 못하는 노동자)과 같이 자조적인 표현.",
+  "examples": [
+    {
+      "chinese": "周六还在工作的打工狗",
+      "translation": "토요일에도 일하는 월급쟁이 개"
+    },
+    {
+      "chinese": "我们打工狗没有休息,真是太摆烂了",
+      "translation": "우리 월급쟁이들은 쉴 틈이 없어, 정말 막나가고 싶네"
+    },
+    {
+      "chinese": "哪个打工狗初一回单位上班,哦,原来是我自己",
+      "translation": "어떤 월급쟁이가 설날에 출근하냐, 아, 원래 나였구나"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [
+    "wuxiaodagongren",
+    "bailan"
+  ],
+  "sourceUrl": "https://chineself.com/dagong/"
+}

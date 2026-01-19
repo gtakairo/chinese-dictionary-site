@@ -1,0 +1,16 @@
+{
+  "slug": "mengmengda",
+  "chinese": "萌萌哒",
+  "pinyin": "méng méng da",
+  "meaning": "萌え、かわちぃ",
+  "description": "日本のスラング「萌え」（強い愛着心・情熱・欲望）が語源。幼く子供っぽい可愛らしさのこと。",
+  "examples": [
+    {"chinese": "好萌", "japanese": "めちゃかわ"},
+    {"chinese": "卖萌", "japanese": "可愛いふりをする、ぶりっこする"},
+    {"chinese": "Q萌", "japanese": "萌えキュート、萌え可愛い"}
+  ],
+  "category": "sub",
+  "categoryName": "サブカルチャー",
+  "relatedWords": ["mengdian", "mengfan", "chunmeng"],
+  "sourceUrl": "https://chineself.com/mengmengda/"
+}
