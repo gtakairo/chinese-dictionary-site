@@ -1,10 +1,10 @@
 import type { WordEntry } from './data';
-import Fuse from 'fuse.js';
+import Fuse, { type FuseResultMatch } from 'fuse.js';
 
 export interface SearchResult {
   item: WordEntry;
   score?: number;
-  matches?: readonly Fuse.FuseResultMatch[];
+  matches?: readonly FuseResultMatch[];
 }
 
 /**
