@@ -5,7 +5,7 @@ import Layout from '../../layouts/Layout.astro';
 import { getAllWords, getAvailableLanguages } from '../../lib/data';
 
 export function getStaticPaths() {
-  return getAvailableLanguages().map(lang => ({
+  return getAvailableLanguages().map((lang) => ({
     params: { lang },
   }));
 }
@@ -15,29 +15,29 @@ const allWords = getAllWords(lang);
 
 const labels: Record<string, Record<string, string>> = {
   title: { en: 'Search', ko: '검색', ja: '検索', th: 'ค้นหา' },
-  placeholder: { 
-    en: 'Search Chinese words, pinyin, or meaning...', 
-    ko: '중국어 단어, 병음, 의미 검색...', 
-    ja: '中国語、ピンイン、意味で検索...', 
-    th: 'ค้นหาคำภาษาจีน พินอิน หรือความหมาย...' 
+  placeholder: {
+    en: 'Search Chinese words, pinyin, or meaning...',
+    ko: '중국어 단어, 병음, 의미 검색...',
+    ja: '中国語、ピンイン、意味で検索...',
+    th: 'ค้นหาคำภาษาจีน พินอิน หรือความหมาย...',
   },
-  noResults: { 
-    en: 'No results found. Try different keywords.', 
-    ko: '검색 결과가 없습니다. 다른 키워드를 시도해보세요.', 
-    ja: '検索結果がありません。別のキーワードを試してください。', 
-    th: 'ไม่พบผลลัพธ์ ลองใช้คำค้นหาอื่น' 
+  noResults: {
+    en: 'No results found. Try different keywords.',
+    ko: '검색 결과가 없습니다. 다른 키워드를 시도해보세요.',
+    ja: '検索結果がありません。別のキーワードを試してください。',
+    th: 'ไม่พบผลลัพธ์ ลองใช้คำค้นหาอื่น',
   },
   searchTips: {
     en: 'Search by Chinese characters, pinyin, or English meaning',
     ko: '중국어 한자, 병음 또는 한국어 의미로 검색하세요',
     ja: '中国語の漢字、ピンイン、または日本語の意味で検索できます',
-    th: 'ค้นหาด้วยตัวอักษรจีน พินอิน หรือความหมายภาษาไทย'
+    th: 'ค้นหาด้วยตัวอักษรจีน พินอิน หรือความหมายภาษาไทย',
   },
 };
 ---
 
-<Layout 
-  title={`${labels.title[lang] || labels.title.en} - ChineseDict`} 
+<Layout
+  title={`${labels.title[lang] || labels.title.en} - ChineseDict`}
   lang={lang}
   description={labels.searchTips[lang] || labels.searchTips.en}
 >
@@ -62,13 +62,25 @@ const labels: Record<string, Record<string, string>> = {
           class="w-full px-6 py-4 text-lg border-2 border-gray-300 rounded-xl focus:ring-2 focus:ring-red-500 focus:border-transparent"
           autocomplete="off"
         />
-        <svg class="absolute left-4 top-5 h-6 w-6 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+        <svg
+          class="absolute left-4 top-5 h-6 w-6 text-gray-400"
+          fill="none"
+          stroke="currentColor"
+          viewBox="0 0 24 24"
+        >
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
         </svg>
       </div>
-      
+
       <!-- Search suggestions dropdown -->
-      <div id="suggestions" class="hidden mt-2 bg-white border border-gray-200 rounded-lg shadow-lg max-h-96 overflow-y-auto">
+      <div
+        id="suggestions"
+        class="hidden mt-2 bg-white border border-gray-200 rounded-lg shadow-lg max-h-96 overflow-y-auto"
+      >
         <!-- Populated by JavaScript -->
       </div>
     </div>
@@ -76,25 +88,51 @@ const labels: Record<string, Record<string, string>> = {
     <!-- Search Results -->
     <div id="searchResults" class="space-y-4">
       <div class="text-center py-12 text-gray-500">
-        <svg class="w-16 h-16 mx-auto mb-4 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+        <svg
+          class="w-16 h-16 mx-auto mb-4 text-gray-300"
+          fill="none"
+          stroke="currentColor"
+          viewBox="0 0 24 24"
+        >
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
         </svg>
-        <p>{lang === 'ja' ? '検索キーワードを入力してください' : lang === 'ko' ? '검색어를 입력하세요' : lang === 'th' ? 'กรอกคำค้นหา' : 'Enter search keywords'}</p>
+        <p>
+          {
+            lang === 'ja'
+              ? '検索キーワードを入力してください'
+              : lang === 'ko'
+                ? '검색어를 입력하세요'
+                : lang === 'th'
+                  ? 'กรอกคำค้นหา'
+                  : 'Enter search keywords'
+          }
+        </p>
       </div>
     </div>
 
     <!-- No results message -->
     <div id="noResults" class="hidden text-center py-12 text-gray-500">
-      <svg class="w-16 h-16 mx-auto mb-4 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.172 16.172a4 4 0 015.656 0M9 10h.01M15 10h.01M12 12h.01M12 12h.01M12 12h.01"></path>
+      <svg
+        class="w-16 h-16 mx-auto mb-4 text-gray-300"
+        fill="none"
+        stroke="currentColor"
+        viewBox="0 0 24 24"
+      >
+        <path
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+          d="M9.172 16.172a4 4 0 015.656 0M9 10h.01M15 10h.01M12 12h.01M12 12h.01M12 12h.01"></path>
       </svg>
       <p class="text-lg font-medium mb-2">{labels.noResults[lang] || labels.noResults.en}</p>
     </div>
 
     <!-- Ad Space -->
-    <div class="my-8 p-8 bg-gray-100 rounded-lg text-center text-gray-400">
-      Ad Space
-    </div>
+    <div class="my-8 p-8 bg-gray-100 rounded-lg text-center text-gray-400">Ad Space</div>
   </div>
 
   <script define:vars={{ allWords, lang }}>
@@ -121,10 +159,10 @@ const labels: Record<string, Record<string, string>> = {
 
     searchInput?.addEventListener('input', (e) => {
       clearTimeout(debounceTimer);
-      
+
       debounceTimer = setTimeout(() => {
         const query = e.target.value.trim();
-        
+
         if (query.length === 0) {
           searchResults.innerHTML = `
             <div class="text-center py-12 text-gray-500">
@@ -142,20 +180,25 @@ const labels: Record<string, Record<string, string>> = {
         // Show suggestions
         if (query.length >= 1) {
           const suggestionResults = allWords
-            .filter(word => 
-              word.chinese.toLowerCase().includes(query.toLowerCase()) ||
-              word.pinyin.toLowerCase().includes(query.toLowerCase()) ||
-              word.meaning.toLowerCase().includes(query.toLowerCase())
+            .filter(
+              (word) =>
+                word.chinese.toLowerCase().includes(query.toLowerCase()) ||
+                word.pinyin.toLowerCase().includes(query.toLowerCase()) ||
+                word.meaning.toLowerCase().includes(query.toLowerCase())
             )
             .slice(0, 5);
 
           if (suggestionResults.length > 0) {
-            suggestions.innerHTML = suggestionResults.map(word => `
+            suggestions.innerHTML = suggestionResults
+              .map(
+                (word) => `
               <a href="/${lang}/word/${word.slug}" class="block px-4 py-3 hover:bg-gray-50 border-b border-gray-100 last:border-0">
                 <div class="font-medium text-gray-900">${word.chinese}</div>
                 <div class="text-sm text-gray-500">${word.pinyin} - ${word.meaning}</div>
               </a>
-            `).join('');
+            `
+              )
+              .join('');
             suggestions.classList.remove('hidden');
           } else {
             suggestions.classList.add('hidden');
@@ -164,7 +207,7 @@ const labels: Record<string, Record<string, string>> = {
 
         // Perform search
         const results = fuse.search(query);
-        
+
         if (results.length === 0) {
           searchResults.innerHTML = '';
           noResults.classList.remove('hidden');
@@ -172,10 +215,11 @@ const labels: Record<string, Record<string, string>> = {
         }
 
         noResults.classList.add('hidden');
-        
-        searchResults.innerHTML = results.map(result => {
-          const word = result.item;
-          return `
+
+        searchResults.innerHTML = results
+          .map((result) => {
+            const word = result.item;
+            return `
             <a href="/${lang}/word/${word.slug}" class="block p-6 bg-white border border-gray-200 rounded-lg hover:shadow-md transition-shadow">
               <div class="flex items-start justify-between">
                 <div class="flex-1">
@@ -187,7 +231,8 @@ const labels: Record<string, Record<string, string>> = {
               </div>
             </a>
           `;
-        }).join('');
+          })
+          .join('');
       }, 300);
     });
 

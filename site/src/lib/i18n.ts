@@ -20,24 +20,25 @@ const translations: Record<string, Translations> = {
  */
 export function t(lang: string, key: string): string {
   const langTranslations = translations[lang] || translations.en;
-  
+
   // Split key by dot notation (e.g., 'common.search' -> ['common', 'search'])
   const keys = key.split('.');
-  
+
   // Navigate through nested object
-  let value: any = langTranslations;
+  let value: unknown = langTranslations;
   for (const k of keys) {
-    value = value?.[k];
+    value = (value as Record<string, unknown>)?.[k];
     if (value === undefined) {
       // Fallback to English if translation not found
-      value = translations.en;
+      let fallbackValue: unknown = translations.en;
       for (const fallbackKey of keys) {
-        value = value?.[fallbackKey];
+        fallbackValue = (fallbackValue as Record<string, unknown>)?.[fallbackKey];
       }
+      value = fallbackValue;
       break;
     }
   }
-  
+
   return typeof value === 'string' ? value : key;
 }
 

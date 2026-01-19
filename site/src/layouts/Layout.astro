@@ -12,9 +12,9 @@ interface Props {
   structuredData?: object;
 }
 
-const { 
-  title, 
-  description = 'Modern Chinese Dictionary - Learn Chinese slang and internet terms', 
+const {
+  title,
+  description = 'Modern Chinese Dictionary - Learn Chinese slang and internet terms',
   lang = 'en',
   canonical,
   ogImage = '/og-default.svg',
@@ -41,41 +41,74 @@ const languages = [
     <meta name="description" content={description} />
     {keywords && <meta name="keywords" content={keywords} />}
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    
+
     <!-- Canonical URL -->
     {canonical && <link rel="canonical" href={currentUrl} />}
-    
+
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content={ogType} />
     <meta property="og:url" content={currentUrl} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:image" content={ogImageUrl} />
-    <meta property="og:locale" content={lang === 'ja' ? 'ja_JP' : lang === 'ko' ? 'ko_KR' : lang === 'th' ? 'th_TH' : 'en_US'} />
-    
+    <meta
+      property="og:locale"
+      content={lang === 'ja'
+        ? 'ja_JP'
+        : lang === 'ko'
+          ? 'ko_KR'
+          : lang === 'th'
+            ? 'th_TH'
+            : 'en_US'}
+    />
+
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:url" content={currentUrl} />
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={ogImageUrl} />
-    
+
     <!-- hreflang for multilingual SEO -->
-    {canonical && (
-      <>
-        <link rel="alternate" hreflang="en" href={`https://chinesedict.com${canonical.replace(/\/(ja|ko|th)\//, '/en/')}`} />
-        <link rel="alternate" hreflang="ja" href={`https://chinesedict.com${canonical.replace(/\/(en|ko|th)\//, '/ja/')}`} />
-        <link rel="alternate" hreflang="ko" href={`https://chinesedict.com${canonical.replace(/\/(en|ja|th)\//, '/ko/')}`} />
-        <link rel="alternate" hreflang="th" href={`https://chinesedict.com${canonical.replace(/\/(en|ja|ko)\//, '/th/')}`} />
-        <link rel="alternate" hreflang="x-default" href={`https://chinesedict.com${canonical.replace(/\/(ja|ko|th)\//, '/en/')}`} />
-      </>
-    )}
-    
+    {
+      canonical && (
+        <>
+          <link
+            rel="alternate"
+            hreflang="en"
+            href={`https://chinesedict.com${canonical.replace(/\/(ja|ko|th)\//, '/en/')}`}
+          />
+          <link
+            rel="alternate"
+            hreflang="ja"
+            href={`https://chinesedict.com${canonical.replace(/\/(en|ko|th)\//, '/ja/')}`}
+          />
+          <link
+            rel="alternate"
+            hreflang="ko"
+            href={`https://chinesedict.com${canonical.replace(/\/(en|ja|th)\//, '/ko/')}`}
+          />
+          <link
+            rel="alternate"
+            hreflang="th"
+            href={`https://chinesedict.com${canonical.replace(/\/(en|ja|ko)\//, '/th/')}`}
+          />
+          <link
+            rel="alternate"
+            hreflang="x-default"
+            href={`https://chinesedict.com${canonical.replace(/\/(ja|ko|th)\//, '/en/')}`}
+          />
+        </>
+      )
+    }
+
     <!-- Structured Data (JSON-LD) -->
-    {structuredData && (
-      <script type="application/ld+json" set:html={JSON.stringify(structuredData)} />
-    )}
-    
+    {
+      structuredData && (
+        <script type="application/ld+json" set:html={JSON.stringify(structuredData)} />
+      )
+    }
+
     <title>{title}</title>
   </head>
   <body class="bg-gray-50 text-gray-900 min-h-screen flex flex-col">
@@ -88,7 +121,7 @@ const languages = [
             <span class="text-2xl">🀄</span>
             <span class="font-bold text-xl text-red-600">ChineseDict</span>
           </a>
-          
+
           <!-- Search Bar -->
           <div class="flex-1 max-w-lg mx-8 hidden md:block">
             <form action={`/${lang}/search`} method="get" class="relative">
@@ -98,22 +131,33 @@ const languages = [
                 placeholder="Search Chinese words..."
                 class="w-full pl-10 pr-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-red-500 focus:border-transparent"
               />
-              <svg class="absolute left-3 top-2.5 h-5 w-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+              <svg
+                class="absolute left-3 top-2.5 h-5 w-5 text-gray-400"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
               </svg>
             </form>
           </div>
-          
+
           <!-- Language Switcher -->
           <div class="flex items-center gap-2">
-            {languages.map((l) => (
-              <a
-                href={`/${l.code}/`}
-                class={`px-3 py-1 rounded text-sm ${lang === l.code ? 'bg-red-100 text-red-700 font-medium' : 'text-gray-600 hover:bg-gray-100'}`}
-              >
-                {l.flag} {l.name}
-              </a>
-            ))}
+            {
+              languages.map((l) => (
+                <a
+                  href={`/${l.code}/`}
+                  class={`px-3 py-1 rounded text-sm ${lang === l.code ? 'bg-red-100 text-red-700 font-medium' : 'text-gray-600 hover:bg-gray-100'}`}
+                >
+                  {l.flag} {l.name}
+                </a>
+              ))
+            }
           </div>
         </div>
       </div>
@@ -129,34 +173,46 @@ const languages = [
               <h3 class="font-semibold text-gray-900 mb-4">Categories</h3>
               <ul class="space-y-2">
                 <li>
-                  <a href={`/${lang}/category/net`} class="flex items-center gap-2 text-gray-600 hover:text-red-600 py-1">
+                  <a
+                    href={`/${lang}/category/net`}
+                    class="flex items-center gap-2 text-gray-600 hover:text-red-600 py-1"
+                  >
                     <span>💬</span> Internet Slang
                   </a>
                 </li>
                 <li>
-                  <a href={`/${lang}/category/jinrong`} class="flex items-center gap-2 text-gray-600 hover:text-red-600 py-1">
+                  <a
+                    href={`/${lang}/category/jinrong`}
+                    class="flex items-center gap-2 text-gray-600 hover:text-red-600 py-1"
+                  >
                     <span>💰</span> Finance
                   </a>
                 </li>
                 <li>
-                  <a href={`/${lang}/category/sns`} class="flex items-center gap-2 text-gray-600 hover:text-red-600 py-1">
+                  <a
+                    href={`/${lang}/category/sns`}
+                    class="flex items-center gap-2 text-gray-600 hover:text-red-600 py-1"
+                  >
                     <span>📱</span> Social Media
                   </a>
                 </li>
                 <li>
-                  <a href={`/${lang}/category/tanci`} class="flex items-center gap-2 text-gray-600 hover:text-red-600 py-1">
+                  <a
+                    href={`/${lang}/category/tanci`}
+                    class="flex items-center gap-2 text-gray-600 hover:text-red-600 py-1"
+                  >
                     <span>😮</span> Interjections
                   </a>
                 </li>
               </ul>
-              
+
               <!-- Ad Space (Sidebar) -->
               <div class="mt-8 p-4 bg-gray-100 rounded-lg text-center text-gray-400 text-sm">
                 Ad Space
               </div>
             </nav>
           </aside>
-          
+
           <!-- Content -->
           <div class="flex-1 min-w-0">
             <slot />
@@ -169,9 +225,7 @@ const languages = [
     <footer class="bg-white border-t border-gray-200 mt-auto">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <div class="flex flex-col md:flex-row justify-between items-center gap-4">
-          <div class="text-gray-500 text-sm">
-            © 2025 ChineseDict. All rights reserved.
-          </div>
+          <div class="text-gray-500 text-sm">© 2025 ChineseDict. All rights reserved.</div>
           <div class="flex gap-6 text-sm text-gray-500">
             <a href="/about" class="hover:text-gray-700">About</a>
             <a href="/privacy" class="hover:text-gray-700">Privacy</a>

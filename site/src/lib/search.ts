@@ -27,17 +27,14 @@ export function createSearchIndex(words: WordEntry[]): Fuse<WordEntry> {
 /**
  * Search for words
  */
-export function searchWords(
-  fuse: Fuse<WordEntry>,
-  query: string
-): SearchResult[] {
+export function searchWords(fuse: Fuse<WordEntry>, query: string): SearchResult[] {
   if (!query || query.trim().length === 0) {
     return [];
   }
 
   const results = fuse.search(query);
-  
-  return results.map(result => ({
+
+  return results.map((result) => ({
     item: result.item,
     score: result.score,
     matches: result.matches,
@@ -57,13 +54,14 @@ export function getSearchSuggestions(
   }
 
   const lowerQuery = query.toLowerCase();
-  
+
   // Simple prefix matching for fast suggestions
   return words
-    .filter(word => 
-      word.chinese.toLowerCase().includes(lowerQuery) ||
-      word.pinyin.toLowerCase().includes(lowerQuery) ||
-      word.meaning.toLowerCase().includes(lowerQuery)
+    .filter(
+      (word) =>
+        word.chinese.toLowerCase().includes(lowerQuery) ||
+        word.pinyin.toLowerCase().includes(lowerQuery) ||
+        word.meaning.toLowerCase().includes(lowerQuery)
     )
     .slice(0, limit);
 }

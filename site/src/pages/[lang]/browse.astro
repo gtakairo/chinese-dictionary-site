@@ -5,7 +5,7 @@ import Layout from '../../layouts/Layout.astro';
 import { getAllWords, getAvailableLanguages } from '../../lib/data';
 
 export function getStaticPaths() {
-  return getAvailableLanguages().map(lang => ({
+  return getAvailableLanguages().map((lang) => ({
     params: { lang },
   }));
 }
@@ -17,36 +17,39 @@ const allWords = getAllWords(lang);
 const sortedWords = allWords.sort((a, b) => a.pinyin.localeCompare(b.pinyin));
 
 // Group words by first letter of pinyin
-const groupedWords = sortedWords.reduce((acc, word) => {
-  const firstLetter = word.pinyin.charAt(0).toUpperCase();
-  if (!acc[firstLetter]) {
-    acc[firstLetter] = [];
-  }
-  acc[firstLetter].push(word);
-  return acc;
-}, {} as Record<string, typeof sortedWords>);
+const groupedWords = sortedWords.reduce(
+  (acc, word) => {
+    const firstLetter = word.pinyin.charAt(0).toUpperCase();
+    if (!acc[firstLetter]) {
+      acc[firstLetter] = [];
+    }
+    acc[firstLetter].push(word);
+    return acc;
+  },
+  {} as Record<string, typeof sortedWords>
+);
 
 const alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
 
 const labels: Record<string, Record<string, string>> = {
   title: { en: 'Browse All Words', ko: '모든 단어 보기', ja: '全単語一覧', th: 'ดูทุกคำ' },
-  subtitle: { 
-    en: 'Browse words alphabetically by pinyin', 
-    ko: '병음 알파벳순으로 단어 찾아보기', 
-    ja: 'ピンイン順で単語を探す', 
-    th: 'เรียงตามพินอิน' 
+  subtitle: {
+    en: 'Browse words alphabetically by pinyin',
+    ko: '병음 알파벳순으로 단어 찾아보기',
+    ja: 'ピンイン順で単語を探す',
+    th: 'เรียงตามพินอิน',
   },
   totalWords: {
     en: 'words total',
     ko: '개 단어',
     ja: '件の単語',
-    th: 'คำทั้งหมด'
+    th: 'คำทั้งหมด',
   },
 };
 ---
 
-<Layout 
-  title={`${labels.title[lang] || labels.title.en} - ChineseDict`} 
+<Layout
+  title={`${labels.title[lang] || labels.title.en} - ChineseDict`}
   lang={lang}
   description={labels.subtitle[lang] || labels.subtitle.en}
 >
@@ -60,63 +63,69 @@ const labels: Record<string, Record<string, string>> = {
         {labels.subtitle[lang] || labels.subtitle.en}
       </p>
       <p class="text-sm text-gray-500 mt-2">
-        {allWords.length} {labels.totalWords[lang] || labels.totalWords.en}
+        {allWords.length}
+        {labels.totalWords[lang] || labels.totalWords.en}
       </p>
     </div>
 
     <!-- Alphabet Index -->
     <div class="sticky top-16 z-40 bg-white border-y border-gray-200 py-4 mb-8 shadow-sm">
       <div class="flex flex-wrap gap-2 justify-center">
-        {alphabet.map(letter => (
-          <a
-            href={`#${letter}`}
-            class={`w-10 h-10 flex items-center justify-center rounded font-medium transition-colors ${
-              groupedWords[letter] && groupedWords[letter].length > 0
-                ? 'bg-red-500 text-white hover:bg-red-600'
-                : 'bg-gray-100 text-gray-400 cursor-not-allowed'
-            }`}
-          >
-            {letter}
-          </a>
-        ))}
+        {
+          alphabet.map((letter) => (
+            <a
+              href={`#${letter}`}
+              class={`w-10 h-10 flex items-center justify-center rounded font-medium transition-colors ${
+                groupedWords[letter] && groupedWords[letter].length > 0
+                  ? 'bg-red-500 text-white hover:bg-red-600'
+                  : 'bg-gray-100 text-gray-400 cursor-not-allowed'
+              }`}
+            >
+              {letter}
+            </a>
+          ))
+        }
       </div>
     </div>
 
     <!-- Words List -->
     <div class="space-y-12">
-      {alphabet.map(letter => {
-        const words = groupedWords[letter];
-        if (!words || words.length === 0) return null;
+      {
+        alphabet.map((letter) => {
+          const words = groupedWords[letter];
+          if (!words || words.length === 0) return null;
 
-        return (
-          <section id={letter} class="scroll-mt-32">
-            <div class="flex items-center gap-4 mb-6">
-              <div class="w-16 h-16 bg-red-500 rounded-lg flex items-center justify-center">
-                <span class="text-3xl font-bold text-white">{letter}</span>
+          return (
+            <section id={letter} class="scroll-mt-32">
+              <div class="flex items-center gap-4 mb-6">
+                <div class="w-16 h-16 bg-red-500 rounded-lg flex items-center justify-center">
+                  <span class="text-3xl font-bold text-white">{letter}</span>
+                </div>
+                <div>
+                  <h2 class="text-2xl font-bold text-gray-900">{letter}</h2>
+                  <p class="text-sm text-gray-500">
+                    {words.length}{' '}
+                    {lang === 'ja' ? '件' : lang === 'ko' ? '개' : lang === 'th' ? 'คำ' : 'words'}
+                  </p>
+                </div>
               </div>
-              <div>
-                <h2 class="text-2xl font-bold text-gray-900">{letter}</h2>
-                <p class="text-sm text-gray-500">
-                  {words.length} {lang === 'ja' ? '件' : lang === 'ko' ? '개' : lang === 'th' ? 'คำ' : 'words'}
-                </p>
-              </div>
-            </div>
 
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-              {words.map(word => (
-                <a
-                  href={`/${lang}/word/${word.slug}`}
-                  class="block p-4 bg-white border border-gray-200 rounded-lg hover:shadow-md hover:border-red-300 transition-all"
-                >
-                  <h3 class="text-xl font-bold text-gray-900 mb-1">{word.chinese}</h3>
-                  <p class="text-red-500 text-sm mb-2">{word.pinyin}</p>
-                  <p class="text-gray-600 text-sm line-clamp-2">{word.meaning}</p>
-                </a>
-              ))}
-            </div>
-          </section>
-        );
-      })}
+              <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+                {words.map((word) => (
+                  <a
+                    href={`/${lang}/word/${word.slug}`}
+                    class="block p-4 bg-white border border-gray-200 rounded-lg hover:shadow-md hover:border-red-300 transition-all"
+                  >
+                    <h3 class="text-xl font-bold text-gray-900 mb-1">{word.chinese}</h3>
+                    <p class="text-red-500 text-sm mb-2">{word.pinyin}</p>
+                    <p class="text-gray-600 text-sm line-clamp-2">{word.meaning}</p>
+                  </a>
+                ))}
+              </div>
+            </section>
+          );
+        })
+      }
     </div>
 
     <!-- Back to top button -->
@@ -126,20 +135,22 @@ const labels: Record<string, Record<string, string>> = {
       aria-label="Back to top"
     >
       <svg class="w-6 h-6 mx-auto" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 10l7-7m0 0l7 7m-7-7v18"></path>
+        <path
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+          d="M5 10l7-7m0 0l7 7m-7-7v18"></path>
       </svg>
     </button>
 
     <!-- Ad Space -->
-    <div class="my-8 p-8 bg-gray-100 rounded-lg text-center text-gray-400">
-      Ad Space
-    </div>
+    <div class="my-8 p-8 bg-gray-100 rounded-lg text-center text-gray-400">Ad Space</div>
   </div>
 
   <script>
     // Back to top button
     const backToTopButton = document.getElementById('backToTop');
-    
+
     window.addEventListener('scroll', () => {
       if (window.scrollY > 300) {
         backToTopButton?.classList.remove('opacity-0', 'pointer-events-none');

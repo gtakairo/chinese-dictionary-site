@@ -9,6 +9,6 @@ export default defineConfig({
   site: 'https://chinesedict.com',
   integrations: [sitemap()],
   vite: {
-    plugins: [tailwindcss()]
-  }
+    plugins: [tailwindcss()],
+  },
 });

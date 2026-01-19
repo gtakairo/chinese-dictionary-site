@@ -7,7 +7,7 @@ import { getAllWords, getCategoryIcon } from '../../lib/data';
 import { getAvailableLanguages } from '../../lib/data';
 
 export function getStaticPaths() {
-  return getAvailableLanguages().map(lang => ({
+  return getAvailableLanguages().map((lang) => ({
     params: { lang },
   }));
 }
@@ -16,13 +16,16 @@ const { lang } = Astro.params;
 const words = getAllWords(lang);
 
 // Group words by category
-const wordsByCategory = words.reduce((acc, word) => {
-  if (!acc[word.category]) {
-    acc[word.category] = [];
-  }
-  acc[word.category].push(word);
-  return acc;
-}, {} as Record<string, typeof words>);
+const wordsByCategory = words.reduce(
+  (acc, word) => {
+    if (!acc[word.category]) {
+      acc[word.category] = [];
+    }
+    acc[word.category].push(word);
+    return acc;
+  },
+  {} as Record<string, typeof words>
+);
 
 const titles: Record<string, string> = {
   en: 'Chinese Dictionary - Learn Modern Chinese',
@@ -54,37 +57,35 @@ const subtitles: Record<string, string> = {
       {lang === 'ja' ? '最新の単語' : lang === 'ko' ? '최신 단어' : 'Latest Words'}
     </h2>
     <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-      {words.slice(0, 6).map(word => (
-        <WordCard word={word} lang={lang} />
-      ))}
+      {words.slice(0, 6).map((word) => <WordCard word={word} lang={lang} />)}
     </div>
   </section>
 
   <!-- Words by Category -->
-  {Object.entries(wordsByCategory).map(([category, categoryWords]) => (
-    <section class="mb-12">
-      <div class="flex items-center justify-between mb-6">
-        <h2 class="text-xl font-bold text-gray-900 flex items-center gap-2">
-          <span>{getCategoryIcon(category)}</span>
-          {category}
-        </h2>
-        <a 
-          href={`/${lang}/category/${category}`}
-          class="text-red-600 hover:text-red-700 text-sm font-medium"
-        >
-          {lang === 'ja' ? 'すべて見る →' : lang === 'ko' ? '모두 보기 →' : 'View all →'}
-        </a>
-      </div>
-      <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-        {categoryWords.slice(0, 4).map(word => (
-          <WordCard word={word} lang={lang} />
-        ))}
-      </div>
-    </section>
-  ))}
+  {
+    Object.entries(wordsByCategory).map(([category, categoryWords]) => (
+      <section class="mb-12">
+        <div class="flex items-center justify-between mb-6">
+          <h2 class="text-xl font-bold text-gray-900 flex items-center gap-2">
+            <span>{getCategoryIcon(category)}</span>
+            {category}
+          </h2>
+          <a
+            href={`/${lang}/category/${category}`}
+            class="text-red-600 hover:text-red-700 text-sm font-medium"
+          >
+            {lang === 'ja' ? 'すべて見る →' : lang === 'ko' ? '모두 보기 →' : 'View all →'}
+          </a>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+          {categoryWords.slice(0, 4).map((word) => (
+            <WordCard word={word} lang={lang} />
+          ))}
+        </div>
+      </section>
+    ))
+  }
 
   <!-- Ad Space (In-content) -->
-  <div class="my-8 p-8 bg-gray-100 rounded-lg text-center text-gray-400">
-    Ad Space
-  </div>
+  <div class="my-8 p-8 bg-gray-100 rounded-lg text-center text-gray-400">Ad Space</div>
 </Layout>

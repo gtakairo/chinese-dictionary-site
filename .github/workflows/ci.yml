@@ -30,13 +30,11 @@ jobs:
         run: |
           cd site
           npm run lint
-        continue-on-error: true
-      
+
       - name: Check formatting
         run: |
           cd site
           npm run format:check
-        continue-on-error: true
       
       - name: Build site
         run: |

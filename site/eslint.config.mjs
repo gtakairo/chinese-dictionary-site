@@ -1,7 +1,7 @@
-import eslint from "@eslint/js";
-import tseslint from "typescript-eslint";
-import eslintPluginAstro from "eslint-plugin-astro";
-import eslintConfigPrettier from "eslint-config-prettier";
+import eslint from '@eslint/js';
+import tseslint from 'typescript-eslint';
+import eslintPluginAstro from 'eslint-plugin-astro';
+import eslintConfigPrettier from 'eslint-config-prettier';
 
 export default tseslint.config(
   eslint.configs.recommended,
@@ -9,15 +9,12 @@ export default tseslint.config(
   ...eslintPluginAstro.configs.recommended,
   eslintConfigPrettier,
   {
-    ignores: ["dist/", "node_modules/", ".astro/"],
+    ignores: ['dist/', 'node_modules/', '.astro/'],
   },
   {
-    files: ["**/*.ts", "**/*.tsx"],
+    files: ['**/*.ts', '**/*.tsx'],
     rules: {
-      "@typescript-eslint/no-unused-vars": [
-        "error",
-        { argsIgnorePattern: "^_" },
-      ],
+      '@typescript-eslint/no-unused-vars': ['error', { argsIgnorePattern: '^_' }],
     },
   }
 );

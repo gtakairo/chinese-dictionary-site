@@ -17,45 +17,30 @@
 | Sitemap | `astro.config.mjs` | @astrojs/sitemap |
 | robots.txt | `site/public/robots.txt` | 設定済み |
 | GitHub Actions CI | `.github/workflows/ci.yml` | lint, build |
-| GitHub Actions Deploy | `.github/workflows/deploy.yml` | S3 + CloudFront |
+| Cloudflare Pages | Cloudflareダッシュボード | 自動デプロイ設定済み |
+
+**デプロイ済みURL:** https://chinese-dictionary-site.pages.dev/
 
 ---
 
-## 🔴 未完了：インフラ設定
+## 🟠 オプション：カスタムドメイン設定
 
-### 1. AWSリソース作成
+現在は `*.pages.dev` ドメインで公開中。カスタムドメインが必要な場合：
 
-**必要なリソース:**
-- S3バケット: `chinese-dictionary-site`
-- CloudFront Distribution
-- ACM証明書（カスタムドメイン使用時）
+### 手順
 
-**手順:**
-```bash
-# 1. S3バケット作成
-aws s3 mb s3://chinese-dictionary-site --region ap-northeast-1
+1. **ドメイン取得**
+   - Cloudflare Registrar（推奨）
+   - 他のレジストラ（Namecheap, Google Domains等）
 
-# 2. 静的ウェブホスティング有効化
-aws s3 website s3://chinese-dictionary-site \
-  --index-document index.html \
-  --error-document 404.html
-```
+2. **Cloudflare Pagesでドメイン追加**
+   - Cloudflareダッシュボード → Workers & Pages → chinese-dictionary-site
+   - Custom domains → Add custom domain
+   - ドメイン入力 → DNS設定が自動追加される
 
-### 2. GitHub Secrets設定
-
-リポジトリの Settings > Secrets and variables > Actions で設定：
-
-| Secret名 | 内容 |
-|----------|------|
-| `AWS_ACCESS_KEY_ID` | IAMユーザーのアクセスキー |
-| `AWS_SECRET_ACCESS_KEY` | IAMユーザーのシークレットキー |
-| `CLOUDFRONT_DISTRIBUTION_ID` | CloudFrontのディストリビューションID |
-
-### 3. ドメイン設定
-
-**選択肢:**
-1. 新規ドメイン取得 → Route 53 or Cloudflare
-2. 既存ドメインのサブドメイン使用
+3. **robots.txt / sitemap更新**
+   - `site/public/robots.txt` のSitemap URLを更新
+   - `site/astro.config.mjs` の `site` 設定を更新
 
 ---
 
