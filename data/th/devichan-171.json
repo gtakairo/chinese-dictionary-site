@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-171",
+  "chinese": "語調",
+  "pinyin": "yǔdiào",
+  "meaning": "น้ำเสียง, ทำนองเสียง, สำเนียง",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "他說話的語調很奇怪。",
+      "translation": "น้ำเสียงพูดของเขาแปลกมาก"
+    },
+    {
+      "chinese": "學中文要注意語調。",
+      "translation": "เรียนภาษาจีนต้องใส่ใจเรื่องน้ำเสียง"
+    },
+    {
+      "chinese": "她的語調聽起來很生氣。",
+      "translation": "น้ำเสียงของเธอฟังดูโกรธมาก"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์อินเทอร์เน็ต",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%a7%e3%80%8c%e3%82%a4%e3%83%b3%e3%83%88%e3%83%8d%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%80%8d%e3%80%81%e3%80%8c%e5%a4%a7%e9%98%aa%e5%bc%81%e3%80%8d%e3%81%af%e4%bd%95",
+  "sourceEnglish": "intonation"
+}

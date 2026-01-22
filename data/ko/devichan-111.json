@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-111",
+  "chinese": "交代",
+  "pinyin": "jiāodài",
+  "meaning": "지시하다, 당부하다, 설명하다",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "他交代了你什麼？",
+      "translation": "그가 너한테 뭐라고 당부했어?"
+    },
+    {
+      "chinese": "你，不打算給我一個交代 嗎？",
+      "translation": "나한테 해명 하나 안 할 거야?"
+    },
+    {
+      "chinese": "我有事要交代你。",
+      "translation": "너한테 당부할 게 있어."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%a7%e3%80%8c%e8%a8%80%e4%bb%98%e3%81%91%e3%82%8b%e3%80%8d%e3%80%81%e3%80%8c%e5%91%8a%e3%81%92%e5%8f%a3%e3%81%99%e3%82%8b%e3%80%8d%e3%81%af%e4%bd%95%e3%81%a8%e8%a8%80",
+  "sourceEnglish": "to tell, to leave word, to order"
+}

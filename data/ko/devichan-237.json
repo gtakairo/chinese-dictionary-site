@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-237",
+  "chinese": "已讀不回",
+  "pinyin": "yǐdú bùhuí",
+  "meaning": "읽씹하다, 읽고 답 안 하다",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "對方已讀不回時，你通常會有什麼反應？",
+      "translation": "상대가 읽씹할 때 보통 어떤 반응을 해?"
+    },
+    {
+      "chinese": "你經常被已讀不回嗎？",
+      "translation": "자주 읽씹당해?"
+    },
+    {
+      "chinese": "下班後長官傳來的LINE可以已讀不回嗎？",
+      "translation": "퇴근 후 상사한테 온 메시지 읽씹해도 돼?"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "사자성어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%ae%e3%83%8d%e3%83%83%e3%83%88%e7%94%a8%e8%aa%9e-%e3%80%8c%e3%81%84%e3%81%84%e3%81%ad%e3%81%99%e3%82%8b%e3%80%8d%e3%80%81%e3%80%8c%e6%97%a2%e8%aa%ad%e3%82%b9%e3%83%ab",
+  "sourceEnglish": "leave on read, text ignored"
+}

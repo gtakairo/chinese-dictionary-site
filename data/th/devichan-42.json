@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-42",
+  "chinese": "原來如此",
+  "pinyin": "yuánlái rúcǐ",
+  "meaning": "เข้าใจแล้ว, อ๋อเป็นอย่างนี้นี่เอง, เออเหรอ",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "原來如此！今天才知道壓歲錢的真正來歷！",
+      "translation": "เข้าใจแล้ว! วันนี้ถึงรู้ที่มาของอั่งเปาจริงๆ!"
+    },
+    {
+      "chinese": "原來如此，難怪他今天心情不好。",
+      "translation": "อ๋อเป็นอย่างนี้นี่เอง ยังไงวันนี้เขาถึงอารมณ์ไม่ดี"
+    },
+    {
+      "chinese": "聽你這麼解釋，原來如此啊！",
+      "translation": "ฟังคำอธิบายแล้ว เข้าใจแล้ว!"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "สำนวนจีน",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%a7%e3%80%8c%e6%90%9e%e5%ae%9a%e3%80%8d%e3%80%81%e3%80%8c%e5%8e%9f%e4%be%86%e5%a6%82%e6%ad%a4%e3%80%8d%e3%81%a8%e3%81%af%ef%bc%9f",
+  "sourceEnglish": "I see, That makes sense"
+}

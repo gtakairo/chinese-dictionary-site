@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-302",
+  "chinese": "犯迷糊",
+  "pinyin": "fàn míhu",
+  "meaning": "to have a brain freeze, to be scatterbrained, to be forgetful",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "如何对付容易犯迷糊的同事？",
+      "translation": "How do you deal with scatterbrained colleagues?"
+    },
+    {
+      "chinese": "我又犯迷糊了，忘記帶鑰匙。",
+      "translation": "I had another brain freeze and forgot my keys."
+    },
+    {
+      "chinese": "她最近常常犯迷糊，是不是太累了？",
+      "translation": "She's been so forgetful lately - is she too tired?"
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%a7%e3%80%8c%e3%82%88%e3%81%9d%e3%82%88%e3%81%9d%e3%81%97%e3%81%84%e3%80%8d%e3%80%81%e3%80%8c%e3%81%a9%e5%bf%98%e3%82%8c%e3%81%99%e3%82%8b%e3%80%8d%e3%81%af%e4%bd%95",
+  "sourceEnglish": "senior moment"
+}

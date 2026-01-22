@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-149",
+  "chinese": "請假",
+  "pinyin": "qǐng jià",
+  "meaning": "ลาหยุด, ขอลา",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "頻繁請假是不是會影響我的實習評分?",
+      "translation": "ลาบ่อยๆ จะกระทบคะแนนฝึกงานของฉันไหม?"
+    },
+    {
+      "chinese": "我明天想請假去看醫生。",
+      "translation": "พรุ่งนี้อยากลาไปหาหมอ"
+    },
+    {
+      "chinese": "請假要提前通知老闆。",
+      "translation": "ลาหยุดต้องแจ้งหัวหน้าล่วงหน้า"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์อินเทอร์เน็ต",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%ae%e3%80%8c%e8%ab%8b%e5%81%87%e3%80%8d%e3%81%a8%e3%80%8c%e6%94%be%e5%81%87%e3%80%8d%e3%81%ae%e9%81%95%e3%81%84%e3%81%af%ef%bc%9f",
+  "sourceEnglish": "ask for leave, take a day off"
+}

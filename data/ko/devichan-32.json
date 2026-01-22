@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-32",
+  "chinese": "扣帽子",
+  "pinyin": "kòu mào zi",
+  "meaning": "딱지를 붙이다, 낙인을 찍다, 레테르를 붙이다",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "不要隨便給人扣帽子。",
+      "translation": "함부로 사람에게 딱지 붙이지 마."
+    },
+    {
+      "chinese": "他被扣上了「不愛國」的帽子。",
+      "translation": "그는 '비애국적'이라는 낙인이 찍혔어."
+    },
+    {
+      "chinese": "這種扣帽子的做法很不公平。",
+      "translation": "이런 식으로 낙인 찍는 건 정말 불공평해."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 신조어·속어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%a7%e3%80%8c%e7%b5%a6%e4%ba%ba%e7%a9%bf%e5%b0%8f%e9%9e%8b%e3%80%8d%e3%80%81%e3%80%8c%e6%89%a3%e5%b8%bd%e5%ad%90%e3%80%8d%e3%81%a8%e3%81%af%ef%bc%9f",
+  "sourceEnglish": "to label (someone as)"
+}

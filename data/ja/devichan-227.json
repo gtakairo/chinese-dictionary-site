@@ -1,0 +1,18 @@
+{
+  "slug": "devichan-227",
+  "chinese": "漏洞",
+  "pinyin": "lòudòng",
+  "meaning": "落ち度、手落ち、過失、手違い、不手際",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "為什麼其他人沒有發現這個漏洞？",
+      "translation": "どうして他の人はこの過失に気づかなかったんでしょうか？"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ネット用語・スラング",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%a7%e3%80%8c%e3%83%93%e3%83%b3%e3%82%bf%e3%81%99%e3%82%8b%e3%80%8d%e3%80%81%e3%80%8c%e8%90%bd%e3%81%a1%e5%ba%a6%e3%81%8c%e3%81%82%e3%82%8b%e3%80%8d%e3%81%af%e4%bd%95",
+  "sourceEnglish": "fault, bungle error"
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-26",
+  "chinese": "再怎麼說",
+  "pinyin": "zài zěnme shuō",
+  "meaning": "ยังไงก็ตาม, ไม่ว่าจะพูดยังไง, อย่างไรก็ตาม",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "再怎麼說，他也是你父親。",
+      "translation": "ยังไงก็ตาม เขาก็เป็นพ่อของเธอ"
+    },
+    {
+      "chinese": "再怎麼說，健康最重要。",
+      "translation": "ไม่ว่าจะพูดยังไง สุขภาพสำคัญที่สุด"
+    },
+    {
+      "chinese": "再怎麼說，你也不應該對她那樣說話。",
+      "translation": "อย่างไรก็ตาม เธอไม่ควรพูดกับเธออย่างนั้น"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "สำนวนจีน",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e5%8f%88%e4%be%86%e4%ba%86%e3%80%81%e3%80%80%e5%86%8d%e6%80%8e%e9%ba%bc%e8%aa%aa%e3%81%a8%e3%81%af%ef%bc%9f",
+  "sourceEnglish": "after all,"
+}

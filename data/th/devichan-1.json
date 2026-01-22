@@ -1,0 +1,25 @@
+{
+  "slug": "devichan-1",
+  "chinese": "自我感覺良好",
+  "pinyin": "zì wǒ gǎnjué liánghǎo",
+  "meaning": "พึงพอใจในตัวเอง, หลงตัวเอง, ทะนงตัว, ยโสโอหัง",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "這個人自我感覺良好也太好了吧！",
+      "translation": "คนนี้หลงตัวเองมากเกินไปแล้วนะ!"
+    },
+    {
+      "chinese": "他總是自我感覺良好，不聽別人的意見。",
+      "translation": "เขาพึงพอใจในตัวเองตลอดเวลา ไม่เคยฟังความคิดเห็นของคนอื่น"
+    },
+    {
+      "chinese": "別太自我感覺良好了，還有很多需要改進的地方。",
+      "translation": "อย่าทะนงตัวมากนัก ยังมีอีกหลายอย่างที่ต้องปรับปรุง"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์อินเทอร์เน็ต",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e2%91%a0%e8%87%aa%e6%88%91%e6%84%9f%e8%a6%ba%e8%89%af%e5%a5%bd%e3%80%81%e2%91%a1%e5%bf%83%e4%b8%8d%e5%9c%a8%e7%84%89%ef%bc%8c%e8%a6%96%e8%80%8c%e4%b8%8d%e8%a6%8b%ef%bc%8c%e8%81%bd%e8%80%8c%e4%b8%8d"
+}

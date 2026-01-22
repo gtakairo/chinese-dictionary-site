@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-223",
+  "chinese": "瓜葛",
+  "pinyin": "guāgé",
+  "meaning": "ความสัมพันธ์, ความเกี่ยวข้อง",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "我跟他沒有任何瓜葛。",
+      "translation": "ฉันไม่มีความเกี่ยวข้องอะไรกับเขา"
+    },
+    {
+      "chinese": "這件事跟我沒有瓜葛。",
+      "translation": "เรื่องนี้ไม่เกี่ยวกับฉัน"
+    },
+    {
+      "chinese": "他們之間有什麼瓜葛？",
+      "translation": "ระหว่างพวกเขามีความสัมพันธ์อะไรกัน?"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์อินเทอร์เน็ต",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%ae%e3%80%8c%e5%85%a9%e9%a0%ad%e7%87%92%e3%80%8d%e3%80%81%e3%80%8c%e7%93%9c%e8%91%9b%e3%80%8d%e3%81%af%e3%81%a9%e3%82%93%e3%81%aa%e6%84%8f%e5%91%b3%ef%bc%9f",
+  "sourceEnglish": "association, connection"
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-276",
+  "chinese": "中暑",
+  "pinyin": "zhòngshǔ",
+  "meaning": "heatstroke, summer heat fatigue",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "你是不是中暑了？",
+      "translation": "Did you get heatstroke?"
+    },
+    {
+      "chinese": "孩子發燒了，是中暑嗎？",
+      "translation": "The child has a fever. Is it heatstroke?"
+    },
+    {
+      "chinese": "夏天要多喝水，避免中暑。",
+      "translation": "Drink more water in summer to avoid heatstroke."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%a7%e3%80%8c%e5%a4%8f%e3%83%90%e3%83%86%e3%80%8d%e3%80%81%e3%80%8c%e7%86%b1%e4%b8%ad%e7%97%87%e3%80%8d%e3%81%af%e4%bd%95%e3%81%a8%e8%a8%80%e3%81%86%ef%bc%9f",
+  "sourceEnglish": "summer heat fatigue, suffer from summer heat,"
+}

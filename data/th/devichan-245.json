@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-245",
+  "chinese": "遠端工作",
+  "pinyin": "yuǎnduān gōngzuò",
+  "meaning": "ทำงานทางไกล, รีโมทเวิร์ค",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "遠端工作會是未來趨勢嗎？",
+      "translation": "การทำงานทางไกลจะเป็นเทรนด์ในอนาคตไหม?"
+    },
+    {
+      "chinese": "遠端工作需要良好的網路。",
+      "translation": "การทำงานทางไกลต้องมีอินเทอร์เน็ตที่ดี"
+    },
+    {
+      "chinese": "越來越多人選擇遠端工作。",
+      "translation": "มีคนเลือกทำงานทางไกลมากขึ้นเรื่อยๆ"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "สำนวนจีน",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e3%80%8c%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%83%af%e3%83%bc%e3%82%af%e3%80%8d%e3%80%81%e3%80%8c%e5%9c%a8%e5%ae%85%e5%8b%a4%e5%8b%99%e3%80%8d%e3%81%af%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%a7%e4%bd%95",
+  "sourceEnglish": "remote working"
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-125",
+  "chinese": "御宅族",
+  "pinyin": "yùzhái zú",
+  "meaning": "오타쿠",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "御宅族如何影響日本社會？",
+      "translation": "오타쿠는 일본 사회에 어떤 영향을 미칠까?"
+    },
+    {
+      "chinese": "他是個御宅族，整天待在家裡。",
+      "translation": "그는 오타쿠야, 하루 종일 집에만 있어."
+    },
+    {
+      "chinese": "御宅族文化越來越流行。",
+      "translation": "오타쿠 문화가 점점 유행하고 있어."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%ae%e3%80%8c%e5%aa%bd%e5%af%b6%e6%97%8f%e3%80%8d%e3%80%81%e3%80%8c%e5%be%a1%e5%ae%85%e6%97%8f%e3%80%8d%e3%81%a8%e3%81%af%ef%bc%9f",
+  "sourceEnglish": "geek, nerd, otaku"
+}

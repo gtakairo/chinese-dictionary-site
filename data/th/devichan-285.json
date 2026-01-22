@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-285",
+  "chinese": "食物中毒",
+  "pinyin": "shíwù zhòngdú",
+  "meaning": "อาหารเป็นพิษ",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "什麼原因導致食物中毒呢？",
+      "translation": "สาเหตุอะไรทำให้อาหารเป็นพิษ?"
+    },
+    {
+      "chinese": "夏天要注意食物中毒！",
+      "translation": "หน้าร้อนต้องระวังอาหารเป็นพิษ!"
+    },
+    {
+      "chinese": "若食品未正確保存，小心嚴重恐造成食物中毒！",
+      "translation": "ถ้าเก็บอาหารไม่ถูกวิธี ระวังอาจทำให้อาหารเป็นพิษอย่างรุนแรง!"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "สำนวนจีน",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%a7%e3%80%8c%e6%9a%91%e3%81%8f%e3%81%a6%e6%ad%bb%e3%81%ac%e3%80%8d%e3%80%81%e3%80%8c%e9%a3%9f%e4%b8%ad%e6%af%92%e3%80%8d%e3%81%af%e4%bd%95%e3%81%a8%e8%a8%80%e3%81%86",
+  "sourceEnglish": "food poisoning"
+}

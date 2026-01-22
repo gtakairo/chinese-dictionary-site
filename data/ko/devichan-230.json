@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-230",
+  "chinese": "回馬槍",
+  "pinyin": "huímǎqiāng",
+  "meaning": "뒤돌아서 찌르다, 배신하고 공격하다",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "哪有這種回馬槍？",
+      "translation": "이런 식으로 뒤통수를 치다니?"
+    },
+    {
+      "chinese": "他給了我一記回馬槍。",
+      "translation": "그가 나를 뒤통수 쳤어."
+    },
+    {
+      "chinese": "小心他的回馬槍。",
+      "translation": "그의 배신에 조심해."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%ae%e3%80%8c%e5%9b%9e%e9%a6%ac%e6%a7%8d%e3%80%8d%e3%80%81%e3%80%8c%e4%b8%9f%e4%ba%ba%e7%8f%be%e7%9c%bc%e3%80%8d%e3%81%af%e3%81%a9%e3%82%93%e3%81%aa%e6%84%8f%e5%91%b3",
+  "sourceEnglish": "give　sb. a back thrust"
+}

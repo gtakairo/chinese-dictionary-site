@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-255",
+  "chinese": "龜速",
+  "pinyin": "guī sù",
+  "meaning": "ช้าเป็นเต่า, ช้ามาก",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "上傳速度龜速, 該如何改善呢?",
+      "translation": "ความเร็วอัพโหลดช้าเป็นเต่า จะปรับปรุงยังไงดี?"
+    },
+    {
+      "chinese": "網路龜速，什麼都載不下來。",
+      "translation": "เน็ตช้าเป็นเต่า โหลดอะไรไม่ได้เลย"
+    },
+    {
+      "chinese": "他做事龜速，總是最後一個完成。",
+      "translation": "เขาทำงานช้าเป็นเต่า ทำเสร็จทีหลังทุกที"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์อินเทอร์เน็ต",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/1157",
+  "sourceEnglish": "slow, slowly"
+}

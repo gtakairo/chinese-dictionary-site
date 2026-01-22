@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-210",
+  "chinese": "忽略",
+  "pinyin": "hūlüè",
+  "meaning": "무시하다, 소홀히 하다",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "他有自己的事情要忙，所以會忽略他人！",
+      "translation": "그는 자기 일로 바빠서 다른 사람을 소홀히 할 수도 있어!"
+    },
+    {
+      "chinese": "不要忽略細節。",
+      "translation": "세부 사항을 무시하지 마."
+    },
+    {
+      "chinese": "這個問題被忽略了。",
+      "translation": "이 문제는 무시됐어."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%ae%e3%80%8c%e5%bf%bd%e7%95%a5%e3%80%8d%e3%80%81%e3%80%8c%e8%bc%95%e5%bf%bd%e3%80%8d%e3%81%af%e6%84%8f%e5%91%b3%ef%bc%9f",
+  "sourceEnglish": "ignore, overlook, leave behind"
+}

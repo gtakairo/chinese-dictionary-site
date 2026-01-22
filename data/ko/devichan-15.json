@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-15",
+  "chinese": "亂七八糟",
+  "pinyin": "luàn qī bā zāo",
+  "meaning": "엉망진창, 뒤죽박죽, 난장판",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "你的房間亂七八糟的，快整理一下！",
+      "translation": "네 방 엉망진창이야, 빨리 정리해!"
+    },
+    {
+      "chinese": "這個計畫被搞得亂七八糟。",
+      "translation": "이 계획은 완전히 뒤죽박죽이 됐어."
+    },
+    {
+      "chinese": "他喝醉後說話亂七八糟，聽不懂他在說什麼。",
+      "translation": "술에 취해서 말이 엉망진창이라 무슨 말인지 모르겠어."
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "성어·사자성어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e2%91%ae%e4%ba%82%e4%b8%83%e5%85%ab%e7%b3%9f%e3%80%81%e2%91%af%e6%89%8b%e5%bf%99%e8%85%b3%e4%ba%82%e3%81%a8%e3%81%af%ef%bc%9f",
+  "sourceEnglish": "messy, make a mess of something"
+}

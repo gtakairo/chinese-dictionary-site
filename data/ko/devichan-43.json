@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-43",
+  "chinese": "那個",
+  "pinyin": "nèige",
+  "meaning": "저기, 그게, 음 (말 시작할 때 쓰는 표현)",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "那個，我可以問你一件事嗎？",
+      "translation": "저기, 하나 물어봐도 될까?"
+    },
+    {
+      "chinese": "那個...我不知道該怎麼說。",
+      "translation": "그게... 뭐라고 말해야 할지 모르겠어."
+    },
+    {
+      "chinese": "那個，你能幫我一個忙嗎？",
+      "translation": "저기, 부탁 하나만 들어줄 수 있어?"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 신조어·속어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%ae%e7%9b%b8%e3%81%a5%e3%81%a1%e3%82%84%e7%ad%94%e3%81%88%e6%96%b9",
+  "sourceEnglish": "well,"
+}

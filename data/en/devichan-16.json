@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-16",
+  "chinese": "擦屁股",
+  "pinyin": "cā pìgu",
+  "meaning": "to clean up someone's mess, to fix someone else's mistakes",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "他每次闖禍都是我幫他擦屁股。",
+      "translation": "Every time he gets into trouble, I'm the one cleaning up his mess."
+    },
+    {
+      "chinese": "這不是我的錯，為什麼要我來擦屁股？",
+      "translation": "This isn't my fault, why do I have to clean up the mess?"
+    },
+    {
+      "chinese": "老闆叫我幫同事擦屁股，把他搞砸的案子處理好。",
+      "translation": "The boss asked me to fix my colleague's mess and handle the project he screwed up."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e2%91%b0%e5%a5%bd%e4%b8%8d%e5%ae%b9%e6%98%93%e3%80%81%e2%91%b1%e6%93%a6%e5%b1%81%e8%82%a1%e3%81%a8%e3%81%af%ef%bc%9f",
+  "sourceEnglish": "clear up a messy situation, clear up somebody's mess"
+}

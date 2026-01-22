@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-311",
+  "chinese": "事在人為",
+  "pinyin": "shì zài rén wéi",
+  "meaning": "ทุกอย่างขึ้นอยู่กับความพยายาม",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "你不剛剛也說事在人為嗎?",
+      "translation": "เมื่อกี้คุณก็พูดว่าทุกอย่างขึ้นอยู่กับความพยายามไม่ใช่หรอ?"
+    },
+    {
+      "chinese": "事在人為，不試怎麼知道結果？",
+      "translation": "ทุกอย่างขึ้นอยู่กับความพยายาม ไม่ลองจะรู้ผลได้ยังไง?"
+    },
+    {
+      "chinese": "相信事在人為，繼續努力吧！",
+      "translation": "เชื่อว่าทุกอย่างขึ้นอยู่กับความพยายาม พยายามต่อไปเถอะ!"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "สำนวนจีน",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%ae%e3%80%8c%e4%ba%8b%e5%9c%a8%e4%ba%ba%e7%82%ba%e3%80%8d%e3%80%81%e3%80%8c%e5%9b%a0%e5%b0%91%e5%a4%b1%e5%a4%a7%e3%80%8d%e3%81%af%e3%81%a9%e3%82%93%e3%81%aa%e6%84%8f",
+  "sourceEnglish": "It all depends on one's effort"
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-237",
+  "chinese": "已讀不回",
+  "pinyin": "yǐdú bùhuí",
+  "meaning": "อ่านแล้วไม่ตอบ",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "對方已讀不回時，你通常會有什麼反應？",
+      "translation": "เวลาอีกฝ่ายอ่านแล้วไม่ตอบ ปกติคุณมีปฏิกิริยาอย่างไร?"
+    },
+    {
+      "chinese": "你經常被已讀不回嗎？",
+      "translation": "คุณถูกอ่านแล้วไม่ตอบบ่อยไหม?"
+    },
+    {
+      "chinese": "下班後長官傳來的LINE可以已讀不回嗎？",
+      "translation": "หลังเลิกงานไลน์จากหัวหน้า อ่านแล้วไม่ตอบได้ไหม?"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "สำนวนจีน",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%ae%e3%83%8d%e3%83%83%e3%83%88%e7%94%a8%e8%aa%9e-%e3%80%8c%e3%81%84%e3%81%84%e3%81%ad%e3%81%99%e3%82%8b%e3%80%8d%e3%80%81%e3%80%8c%e6%97%a2%e8%aa%ad%e3%82%b9%e3%83%ab",
+  "sourceEnglish": "leave on read, text ignored"
+}

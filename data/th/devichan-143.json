@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-143",
+  "chinese": "捷運",
+  "pinyin": "jié yùn",
+  "meaning": "รถไฟฟ้า MRT, รถไฟใต้ดิน",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "你怎麼來？坐捷運嗎？",
+      "translation": "มายังไง นั่ง MRT ไหม?"
+    },
+    {
+      "chinese": "捷運站在哪裡？",
+      "translation": "สถานี MRT อยู่ไหน?"
+    },
+    {
+      "chinese": "台北的捷運很方便。",
+      "translation": "MRT ไทเปสะดวกมาก"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์อินเทอร์เน็ต",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e5%8f%b0%e6%b9%be%e6%97%85%e8%a1%8c-mrt%e3%81%ab%e4%b9%97%e3%82%8b%ef%bc%81",
+  "sourceEnglish": "Taiwan metro"
+}

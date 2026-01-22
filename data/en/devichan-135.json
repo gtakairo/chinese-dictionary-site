@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-135",
+  "chinese": "外包",
+  "pinyin": "wàibāo",
+  "meaning": "outsourcing",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "在成本考量下，如果外包比較划算當然要外包啦！",
+      "translation": "Considering costs, if outsourcing is more economical, then of course we should outsource!"
+    },
+    {
+      "chinese": "我們公司決定把IT部門外包出去。",
+      "translation": "Our company decided to outsource the IT department."
+    },
+    {
+      "chinese": "外包可以節省成本，但也有風險。",
+      "translation": "Outsourcing can save costs, but it also has risks."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%a7%e3%80%8c%e3%83%af%e3%83%bc%e3%82%ab%e3%83%9b%e3%83%aa%e3%83%83%e3%82%af%e3%80%8d%e3%80%81%e3%80%8c%e3%82%a2%e3%82%a6%e3%83%88%e3%82%bd%e3%83%bc%e3%82%b7%e3%83%b3",
+  "sourceEnglish": "Out-Sourcing"
+}

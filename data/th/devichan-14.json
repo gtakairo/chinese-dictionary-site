@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-14",
+  "chinese": "生不如死",
+  "pinyin": "shēng bù rú sǐ",
+  "meaning": "อยู่ก็เหมือนตาย, ชีวิตนรก, ตายดีกว่า",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "這種病讓他生不如死。",
+      "translation": "โรคนี้ทำให้ชีวิตเขาเหมือนนรก"
+    },
+    {
+      "chinese": "被困在那種工作環境裡，簡直生不如死。",
+      "translation": "ติดอยู่ในสภาพแวดล้อมการทำงานแบบนั้น อยู่ก็เหมือนตาย"
+    },
+    {
+      "chinese": "失去了所有的親人，他覺得生不如死。",
+      "translation": "สูญเสียครอบครัวทั้งหมด เขารู้สึกว่าตายดีกว่ามีชีวิตอยู่"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "สำนวนจีน",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e2%91%ac%e5%b9%ab%e5%80%92%e5%bf%99%e3%80%81%e2%91%ad%e7%94%9f%e4%b8%8d%e5%a6%82%e6%ad%bb%e3%81%a8%e3%81%af%ef%bc%9f",
+  "sourceEnglish": "living death"
+}

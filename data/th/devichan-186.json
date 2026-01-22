@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-186",
+  "chinese": "刻板印象",
+  "pinyin": "kèbǎn yìnxiàng",
+  "meaning": "อคติ, ภาพจำ, ความคิดตายตัว",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "不要有刻板印象。",
+      "translation": "อย่ามีอคติ"
+    },
+    {
+      "chinese": "這是對女性的刻板印象。",
+      "translation": "นี่คือภาพจำที่มีต่อผู้หญิง"
+    },
+    {
+      "chinese": "我們要打破刻板印象。",
+      "translation": "เราต้องทำลายความคิดตายตัว"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "สำนวนจีน",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%ae%e3%80%8c%e6%ad%bb%e6%9d%bf%e3%80%8d%e3%80%81%e3%80%8c%e5%88%bb%e6%9d%bf%e5%8d%b0%e8%b1%a1%e3%80%8d%e3%81%af%e3%81%a9%e3%82%93%e3%81%aa%e6%84%8f%e5%91%b3%ef%bc%9f",
+  "sourceEnglish": "stereotype"
+}

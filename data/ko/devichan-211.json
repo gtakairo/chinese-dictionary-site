@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-211",
+  "chinese": "輕忽",
+  "pinyin": "qīnghū",
+  "meaning": "가볍게 여기다, 소홀히 하다",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "千萬不可輕忽啊！",
+      "translation": "절대로 가볍게 여기면 안 돼!"
+    },
+    {
+      "chinese": "不要輕忽這個問題。",
+      "translation": "이 문제를 소홀히 여기지 마."
+    },
+    {
+      "chinese": "輕忽可能會造成嚴重後果。",
+      "translation": "소홀히 하면 심각한 결과를 초래할 수 있어."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%ae%e3%80%8c%e5%bf%bd%e7%95%a5%e3%80%8d%e3%80%81%e3%80%8c%e8%bc%95%e5%bf%bd%e3%80%8d%e3%81%af%e6%84%8f%e5%91%b3%ef%bc%9f",
+  "sourceEnglish": "neglect, be thoughtless"
+}

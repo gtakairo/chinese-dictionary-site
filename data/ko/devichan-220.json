@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-220",
+  "chinese": "踩地雷",
+  "pinyin": "cǎi dìléi",
+  "meaning": "지뢰를 밟다, 역린을 건드리다",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "你踩到他的地雷了！",
+      "translation": "네가 그의 역린을 건드렸어!"
+    },
+    {
+      "chinese": "小心不要踩地雷。",
+      "translation": "지뢰 밟지 않게 조심해."
+    },
+    {
+      "chinese": "我不小心踩到她的地雷了。",
+      "translation": "실수로 그녀의 역린을 건드렸어."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%a7%e3%80%8c%e5%9c%b0%e9%9b%b7%e3%82%92%e8%b8%8f%e3%82%80%e3%80%8d%e3%80%81%e3%80%8c%e3%83%ac%e3%83%99%e3%83%ab%e3%81%8c%e4%bd%8e%e3%81%84%e3%80%8d%e3%81%af%e4%bd%95",
+  "sourceEnglish": "push someone's buttons,"
+}

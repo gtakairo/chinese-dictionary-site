@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-93",
+  "chinese": "創業",
+  "pinyin": "chuàngyè",
+  "meaning": "창업하다, 사업을 시작하다",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "沒錢怎麼創業呢？",
+      "translation": "돈이 없는데 어떻게 창업해요?"
+    },
+    {
+      "chinese": "他年輕時就開始創業了。",
+      "translation": "그는 젊을 때부터 창업했다."
+    },
+    {
+      "chinese": "創業需要勇氣和毅力。",
+      "translation": "창업에는 용기와 인내가 필요하다."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%a7%e3%80%8c%e3%83%93%e3%82%b8%e3%83%8d%e3%82%b9%e3%81%99%e3%82%8b%e3%80%8d%e3%80%81%e3%80%8c%e8%b5%b7%e6%a5%ad%e3%81%99%e3%82%8b%e3%80%8d%e3%81%af%e4%bd%95%e3%81%a8",
+  "sourceEnglish": "start a business"
+}

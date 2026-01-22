@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-279",
+  "chinese": "曬傷",
+  "pinyin": "shàishāng",
+  "meaning": "햇볕에 타다, 일광화상",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "曬傷後千萬別放著不管！",
+      "translation": "햇볕에 탄 후에 절대 방치하면 안 돼!"
+    },
+    {
+      "chinese": "曬傷要擦什麼?",
+      "translation": "햇볕에 타면 뭘 발라야 해?"
+    },
+    {
+      "chinese": "如果是嚴重曬傷起水泡，最好是找醫生治理",
+      "translation": "심하게 햇볕에 타서 물집이 생기면, 의사한테 치료받는 게 좋아."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%a7%e3%80%8c%e6%97%a5%e7%84%bc%e3%81%91%e6%ad%a2%e3%82%81%e3%80%8d%e3%80%81%e3%80%8c%e6%97%a5%e7%84%bc%e3%81%91%e3%80%8d%e3%81%af%e4%bd%95%e3%81%a8%e8%a8%80%e3%81%86",
+  "sourceEnglish": "sun burn"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "devichan-2",
+  "chinese": "心不在焉，視而不見，聽而不聞，食而不知其味",
+  "pinyin": "xīn bù zài yān、shì ér bù jiàn、tīng ér bú wén、shí ér bù zhī qí wèi",
+  "meaning": "เมื่อใจลอย มองก็ไม่เห็น ฟังก็ไม่ได้ยิน กินก็ไม่รู้รส",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "她對先生的外遇，視而不見嗎？",
+      "translation": "เธอทำเป็นไม่เห็นเรื่องสามีนอกใจเหรอ?"
+    },
+    {
+      "chinese": "他上課總是心不在焉，什麼都聽不進去。",
+      "translation": "เขาใจลอยในห้องเรียนตลอด ฟังอะไรไม่เข้าหูเลย"
+    },
+    {
+      "chinese": "心不在焉地吃飯，根本不知道自己吃了什麼。",
+      "translation": "กินข้าวแบบใจลอย ไม่รู้เลยว่ากินอะไรไป"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์อินเทอร์เน็ต",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e2%91%a0%e8%87%aa%e6%88%91%e6%84%9f%e8%a6%ba%e8%89%af%e5%a5%bd%e3%80%81%e2%91%a1%e5%bf%83%e4%b8%8d%e5%9c%a8%e7%84%89%ef%bc%8c%e8%a6%96%e8%80%8c%e4%b8%8d%e8%a6%8b%ef%bc%8c%e8%81%bd%e8%80%8c%e4%b8%8d"
+}

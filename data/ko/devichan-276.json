@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-276",
+  "chinese": "中暑",
+  "pinyin": "zhòngshǔ",
+  "meaning": "더위 먹다, 일사병에 걸리다",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "你是不是中暑了？",
+      "translation": "너 더위 먹은 거 아니야?"
+    },
+    {
+      "chinese": "孩子發燒了，是中暑嗎？",
+      "translation": "아이가 열이 나는데, 더위 먹은 거야?"
+    },
+    {
+      "chinese": "夏天容易中暑。",
+      "translation": "여름에는 더위 먹기 쉬워."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%a7%e3%80%8c%e5%a4%8f%e3%83%90%e3%83%86%e3%80%8d%e3%80%81%e3%80%8c%e7%86%b1%e4%b8%ad%e7%97%87%e3%80%8d%e3%81%af%e4%bd%95%e3%81%a8%e8%a8%80%e3%81%86%ef%bc%9f",
+  "sourceEnglish": "summer heat fatigue, suffer from summer heat,"
+}

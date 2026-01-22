@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-143",
+  "chinese": "捷運",
+  "pinyin": "jié yùn",
+  "meaning": "MRT, metro, subway (Taiwan)",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "坐捷運比較快。",
+      "translation": "Taking the MRT is faster."
+    },
+    {
+      "chinese": "你知道怎麼搭捷運去台北101嗎？",
+      "translation": "Do you know how to take the metro to Taipei 101?"
+    },
+    {
+      "chinese": "捷運站在哪裡？",
+      "translation": "Where is the MRT station?"
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e5%8f%b0%e6%b9%be%e6%97%85%e8%a1%8c-mrt%e3%81%ab%e4%b9%97%e3%82%8b%ef%bc%81",
+  "sourceEnglish": "Taiwan metro"
+}

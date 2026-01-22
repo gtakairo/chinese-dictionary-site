@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-316",
+  "chinese": "交接",
+  "pinyin": "jiāojiē",
+  "meaning": "ส่งมอบงาน, รับช่วงต่อ",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "他正在跟新同事交接工作。",
+      "translation": "เขากำลังส่งมอบงานให้เพื่อนร่วมงานใหม่"
+    },
+    {
+      "chinese": "交接手續很複雜。",
+      "translation": "ขั้นตอนการส่งมอบงานซับซ้อนมาก"
+    },
+    {
+      "chinese": "請在離職前完成交接。",
+      "translation": "กรุณาทำการส่งมอบงานให้เสร็จก่อนลาออก"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์อินเทอร์เน็ต",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab%e3%81%ae%e5%a4%a7%e7%b5%b1%e9%a0%98%e9%81%b8%e6%8c%99%e9%96%a2%e9%80%a3%e3%81%ae%e4%b8%ad%e5%9b%bd%e8%aa%9e",
+  "sourceEnglish": "take over"
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-21",
+  "chinese": "心裡有數",
+  "pinyin": "xīn lǐ yǒu shù",
+  "meaning": "마음속으로 알고 있다, 확신이 있다, 잘 알고 있다",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "你自己心裡有數，不用我多說。",
+      "translation": "네 스스로 잘 알잖아, 내가 더 말할 필요 없어."
+    },
+    {
+      "chinese": "這件事怎麼處理，我心裡有數。",
+      "translation": "이 일을 어떻게 처리할지 나는 확신이 있어."
+    },
+    {
+      "chinese": "他表面不說，但心裡有數。",
+      "translation": "그는 겉으로 말은 안 하지만 마음속으로 다 알고 있어."
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "성어·사자성어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/170",
+  "sourceEnglish": "know very well in one's mind"
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-278",
+  "chinese": "防曬",
+  "pinyin": "fángshài",
+  "meaning": "sunscreen, sun protection",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "戴口罩就不用擦防曬？",
+      "translation": "If I wear a mask, do I still need to apply sunscreen?"
+    },
+    {
+      "chinese": "防曬四季都不能偷懶，特別是夏天紫外線強，更要做好萬全準備！",
+      "translation": "You can't slack off on sun protection all year round, especially in summer when UV rays are strong - you need to be fully prepared!"
+    },
+    {
+      "chinese": "出門前記得擦防曬。",
+      "translation": "Remember to apply sunscreen before going out."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%a7%e3%80%8c%e6%97%a5%e7%84%bc%e3%81%91%e6%ad%a2%e3%82%81%e3%80%8d%e3%80%81%e3%80%8c%e6%97%a5%e7%84%bc%e3%81%91%e3%80%8d%e3%81%af%e4%bd%95%e3%81%a8%e8%a8%80%e3%81%86",
+  "sourceEnglish": "sunscreen, sunblock"
+}

@@ -248,6 +248,275 @@ npx playwright install chromium
 agent-browser wait --load networkidle
 ```
 
+---
+
+# データソース2: devichan-chigoworld.com
+
+## 概要
+
+| 項目 | 内容 |
+|------|------|
+| URL | https://www.devichan-chigoworld.com/category/use-china |
+| コンテンツ | 中国語フレーズ・表現（番号付き） |
+| ページ数 | 15ページ（ページネーションあり） |
+| 推定件数 | 約300〜400件 |
+| 特徴 | 英語訳が含まれる |
+
+## ページ構造
+
+### 一覧ページ
+```
+URL: /category/use-china
+     /category/use-china/page/2
+     ...
+     /category/use-china/page/15
+
+各記事リンク: /use-china/{記事タイトル（URLエンコード）}
+```
+
+### 記事ページ構造
+```
+記事タイトル: ３１３．搖錢樹（yáo qián shù）
+
+本文:
+【意味】金のなる木
+【英語】money tree
+【使い方】
+①例文1（日本語訳）
+②例文2（日本語訳）
+③例文3（日本語訳）
+```
+
+## データマッピング
+
+| devichan-chigoworld | 既存スキーマ | 備考 |
+|---------------------|-------------|------|
+| 番号（313） | slug | `devichan-313` の形式 |
+| 漢字（搖錢樹） | chinese | - |
+| ピンイン（yáo qián shù） | pinyin | - |
+| 【意味】 | meaning | 日本語 |
+| 【英語】 | - | 英語翻訳時に利用可能 |
+| 【使い方】①②③ | examples | chinese + japanese |
+
+## 出力スキーマ
+
+```json
+{
+  "slug": "devichan-313",
+  "chinese": "搖錢樹",
+  "pinyin": "yáo qián shù",
+  "meaning": "金のなる木",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "他是公司的搖錢樹",
+      "japanese": "彼は会社の金のなる木だ"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "成語・四字熟語",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/...",
+  "sourceEnglish": "money tree"
+}
+```
+
+**注意**: `sourceEnglish` フィールドを追加。英語翻訳時にそのまま利用可能。
+
+## スクレイピングフロー
+
+```
+[ページ1〜15を順番に取得]
+       ↓
+[各ページから記事URLを抽出]
+       ↓
+[各記事ページにアクセス]
+       ↓
+[正規表現でデータ抽出]
+  - 番号: /(\d+)．/
+  - 中国語: /(\d+)．([^（]+)（/
+  - ピンイン: /（([^）]+)）/
+  - 意味: /【意味】([^【]+)/
+  - 英語: /【英語】([^【]+)/
+  - 例文: /【使い方】([\s\S]+)/
+       ↓
+[JSONファイルとして保存]
+  data/ja/devichan-{番号}.json
+       ↓
+[カテゴリー推定（オプション）]
+  - 成語/四字熟語 → chengyu
+  - その他 → net
+```
+
+## スクリプト: scripts/scrape-devichan.mjs
+
+```javascript
+/**
+ * Scraping Script for devichan-chigoworld.com
+ *
+ * Usage: node scripts/scrape-devichan.mjs [--page N] [--all]
+ */
+
+import { chromium } from 'playwright';
+import fs from 'node:fs';
+import path from 'node:path';
+
+const BASE_URL = 'https://www.devichan-chigoworld.com';
+const CATEGORY_URL = `${BASE_URL}/category/use-china`;
+const DATA_DIR = path.join(process.cwd(), 'data', 'ja');
+const TOTAL_PAGES = 15;
+
+// 記事URLを抽出
+async function getArticleUrls(page, pageNum) {
+  const url = pageNum === 1
+    ? CATEGORY_URL
+    : `${CATEGORY_URL}/page/${pageNum}`;
+
+  await page.goto(url, { waitUntil: 'domcontentloaded' });
+
+  return await page.evaluate(() => {
+    const links = document.querySelectorAll('a[href*="/use-china/"]');
+    const urls = new Set();
+    links.forEach(link => {
+      const href = link.getAttribute('href');
+      if (href && !href.includes('/category/') && !href.includes('/page/')) {
+        urls.add(href);
+      }
+    });
+    return [...urls];
+  });
+}
+
+// 記事データを抽出
+async function scrapeArticle(page, url) {
+  await page.goto(url, { waitUntil: 'domcontentloaded' });
+
+  return await page.evaluate(() => {
+    const content = document.querySelector('.entry-content, article')?.textContent || '';
+    const title = document.querySelector('h1')?.textContent || '';
+
+    // タイトルから番号と中国語を抽出
+    const titleMatch = title.match(/(\d+)．([^（]+)（([^）]+)）/);
+    if (!titleMatch) return null;
+
+    const number = titleMatch[1];
+    const chinese = titleMatch[2].trim();
+    const pinyin = titleMatch[3].trim();
+
+    // 本文から各項目を抽出
+    const meaningMatch = content.match(/【意味】([^【\n]+)/);
+    const englishMatch = content.match(/【英語】([^【\n]+)/);
+    const usageMatch = content.match(/【使い方】([\s\S]+?)(?=【|$)/);
+
+    const meaning = meaningMatch ? meaningMatch[1].trim() : '';
+    const english = englishMatch ? englishMatch[1].trim() : '';
+
+    // 例文を抽出
+    const examples = [];
+    if (usageMatch) {
+      const usageText = usageMatch[1];
+      const exampleMatches = usageText.matchAll(/[①②③④⑤⑥⑦⑧⑨⑩]([^①②③④⑤⑥⑦⑧⑨⑩（]+)(?:（([^）]+)）)?/g);
+      for (const m of exampleMatches) {
+        if (m[1] && m[2]) {
+          examples.push({
+            chinese: m[1].trim(),
+            japanese: m[2].trim()
+          });
+        }
+      }
+    }
+
+    return {
+      slug: `devichan-${number}`,
+      chinese,
+      pinyin,
+      meaning,
+      description: '',
+      examples: examples.slice(0, 5),
+      category: chinese.length === 4 ? 'chengyu' : 'net',
+      categoryName: chinese.length === 4 ? '成語・四字熟語' : 'ネット用語・スラング',
+      relatedWords: [],
+      sourceUrl: location.href,
+      sourceEnglish: english
+    };
+  });
+}
+
+async function main() {
+  const browser = await chromium.launch({ headless: true });
+  const page = await browser.newPage();
+
+  // 全ページから記事URLを収集
+  const allUrls = [];
+  for (let i = 1; i <= TOTAL_PAGES; i++) {
+    console.log(`Collecting URLs from page ${i}/${TOTAL_PAGES}...`);
+    const urls = await getArticleUrls(page, i);
+    allUrls.push(...urls);
+    await new Promise(r => setTimeout(r, 1000));
+  }
+
+  console.log(`Found ${allUrls.length} articles`);
+
+  // 各記事をスクレイプ
+  let success = 0, skip = 0, error = 0;
+
+  for (const url of allUrls) {
+    try {
+      const data = await scrapeArticle(page, url);
+      if (!data) {
+        console.log(`Skip (no data): ${url}`);
+        skip++;
+        continue;
+      }
+
+      const filePath = path.join(DATA_DIR, `${data.slug}.json`);
+      if (fs.existsSync(filePath)) {
+        console.log(`Skip (exists): ${data.slug}`);
+        skip++;
+        continue;
+      }
+
+      fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
+      console.log(`Saved: ${data.slug} (${data.chinese})`);
+      success++;
+
+      await new Promise(r => setTimeout(r, 500));
+    } catch (e) {
+      console.log(`Error: ${url} - ${e.message}`);
+      error++;
+    }
+  }
+
+  await browser.close();
+  console.log(`\nDone: ${success} saved, ${skip} skipped, ${error} errors`);
+}
+
+main().catch(console.error);
+```
+
+## 実行方法
+
+```bash
+# 依存関係インストール（初回のみ）
+npm install playwright
+npx playwright install chromium
+
+# スクレイピング実行
+node scripts/scrape-devichan.mjs
+
+# 特定ページのみ
+node scripts/scrape-devichan.mjs --page 1
+```
+
+## 注意事項
+
+- レート制限: 500ms〜1s間隔
+- 既存ファイルはスキップ（増分更新対応）
+- カテゴリーは4文字なら成語、それ以外はnetを仮設定
+- 英語訳は `sourceEnglish` に保存（翻訳時に活用）
+
+---
+
 ## 9. VS Code Copilot Agent での推奨方法
 
 VS Codeのエージェントセキュリティ機能により、ターミナル経由でのファイル書き込みは毎回許可が必要になります。

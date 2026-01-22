@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-165",
+  "chinese": "落後",
+  "pinyin": "luòhòu",
+  "meaning": "ตามไม่ทัน, ล้าหลัง",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "他的成績落後其他同學很多。",
+      "translation": "เกรดของเขาตามไม่ทันเพื่อนร่วมชั้นมาก"
+    },
+    {
+      "chinese": "不要讓自己落後太多。",
+      "translation": "อย่าให้ตัวเองตามไม่ทันมากเกินไป"
+    },
+    {
+      "chinese": "經濟落後的國家。",
+      "translation": "ประเทศที่เศรษฐกิจล้าหลัง"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์อินเทอร์เน็ต",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%a7%e3%80%8c%e8%90%bd%e3%81%a1%e3%81%93%e3%81%bc%e3%82%8c%e3%82%8b%e3%80%8d%e3%80%81%e3%80%8c%e9%a3%9b%e3%81%b3%e7%b4%9a%e3%80%8d%e3%81%af%e4%bd%95%e3%81%a8%e8%a8%80",
+  "sourceEnglish": "bottom of his/her class, falling behind everyone else"
+}

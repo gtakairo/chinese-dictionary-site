@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-236",
+  "chinese": "按讚",
+  "pinyin": "àn zàn",
+  "meaning": "กดไลค์",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "請幫我按讚，感激不盡！",
+      "translation": "ช่วยกดไลค์ให้หน่อย ขอบคุณมาก!"
+    },
+    {
+      "chinese": "短短一天不到就有近8萬人按讚！",
+      "translation": "ไม่ถึงวันก็มีคนกดไลค์เกือบ 8 หมื่นคน!"
+    },
+    {
+      "chinese": "這篇文章很多人按讚。",
+      "translation": "บทความนี้คนไลค์เยอะมาก"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์อินเทอร์เน็ต",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%ae%e3%83%8d%e3%83%83%e3%83%88%e7%94%a8%e8%aa%9e-%e3%80%8c%e3%81%84%e3%81%84%e3%81%ad%e3%81%99%e3%82%8b%e3%80%8d%e3%80%81%e3%80%8c%e6%97%a2%e8%aa%ad%e3%82%b9%e3%83%ab",
+  "sourceEnglish": "click the Like button"
+}

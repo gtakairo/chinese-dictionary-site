@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-45",
+  "chinese": "不會吧",
+  "pinyin": "bú huì ba",
+  "meaning": "ไม่จริงหรอก, โอ้โห, จริงเหรอ",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "不會吧，我過獎了！",
+      "translation": "ไม่จริงหรอก ฉันได้รางวัล!"
+    },
+    {
+      "chinese": "不會吧？你真的要辭職？",
+      "translation": "จริงเหรอ? เธอจะลาออกจริงๆ?"
+    },
+    {
+      "chinese": "不會吧，這麼巧！",
+      "translation": "โอ้โห บังเอิญขนาดนี้!"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์อินเทอร์เน็ต",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%ae%e7%9b%b8%e3%81%a5%e3%81%a1%e3%82%84%e7%ad%94%e3%81%88%e6%96%b9",
+  "sourceEnglish": "no way, are you kidding?"
+}

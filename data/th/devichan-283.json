@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-283",
+  "chinese": "炎熱",
+  "pinyin": "yánrè",
+  "meaning": "ร้อนจัด, ร้อนมาก",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "夏天炎熱難耐。",
+      "translation": "หน้าร้อนร้อนจนทนไม่ไหว"
+    },
+    {
+      "chinese": "炎熱的天氣讓人不想出門。",
+      "translation": "อากาศร้อนจัดทำให้ไม่อยากออกไปข้างนอก"
+    },
+    {
+      "chinese": "今年的夏天特別炎熱。",
+      "translation": "หน้าร้อนปีนี้ร้อนมากเป็นพิเศษ"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์อินเทอร์เน็ต",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%a7%e3%80%8c%e8%92%b8%e3%81%97%e6%9a%91%e3%81%84%e3%80%8d%e3%80%81%e3%80%8c%e7%8c%9b%e6%9a%91%e3%80%8d%e3%81%af%e4%bd%95%e3%81%a8%e8%a8%80%e3%81%86%ef%bc%9f",
+  "sourceEnglish": "baking hot, boiling hot"
+}

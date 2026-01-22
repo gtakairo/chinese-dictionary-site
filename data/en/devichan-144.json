@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-144",
+  "chinese": "悠遊卡",
+  "pinyin": "yōu yóu kǎ",
+  "meaning": "EasyCard (Taiwan's IC transit card)",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "你有悠遊卡嗎？",
+      "translation": "Do you have an EasyCard?"
+    },
+    {
+      "chinese": "我的悠遊卡餘額不夠了。",
+      "translation": "My EasyCard doesn't have enough balance."
+    },
+    {
+      "chinese": "悠遊卡可以在便利商店加值。",
+      "translation": "You can top up your EasyCard at convenience stores."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e5%8f%b0%e6%b9%be%e6%97%85%e8%a1%8c-mrt%e3%81%ab%e4%b9%97%e3%82%8b%ef%bc%81",
+  "sourceEnglish": "easy card"
+}

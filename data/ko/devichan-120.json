@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-120",
+  "chinese": "月光族",
+  "pinyin": "yuèguāngzú",
+  "meaning": "월급쟁이 빈털터리 (매달 월급 다 쓰는 사람)",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "你是月光族嗎？",
+      "translation": "너 월급 다 쓰는 타입이야?"
+    },
+    {
+      "chinese": "我是標準的月光族。",
+      "translation": "나는 전형적인 월급 쪽박 타입이야."
+    },
+    {
+      "chinese": "月光族存不到錢。",
+      "translation": "월급 다 쓰는 사람은 돈을 못 모아."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%a7%e3%80%8c%e6%9c%88%e5%85%89%e6%97%8f%e3%80%8d%e3%80%81%e3%80%8c%e5%95%83%e8%80%81%e6%97%8f%e3%80%8d%e3%81%a8%e3%81%af%ef%bc%9f",
+  "sourceEnglish": "live paycheck to paycheck"
+}

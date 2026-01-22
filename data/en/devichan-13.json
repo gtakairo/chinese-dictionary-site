@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-13",
+  "chinese": "幫倒忙",
+  "pinyin": "bāng dào máng",
+  "meaning": "to be more of a hindrance than help, to make things worse while trying to help",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "你這樣做是幫倒忙，讓事情變得更糟了。",
+      "translation": "What you did was more of a hindrance than help, it made things worse."
+    },
+    {
+      "chinese": "謝謝你的好意，但請不要幫倒忙。",
+      "translation": "Thanks for your good intentions, but please don't make things worse."
+    },
+    {
+      "chinese": "他想幫我搬家，結果幫倒忙，打破了好幾個碗。",
+      "translation": "He tried to help me move, but ended up making things worse by breaking several bowls."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e2%91%ac%e5%b9%ab%e5%80%92%e5%bf%99%e3%80%81%e2%91%ad%e7%94%9f%e4%b8%8d%e5%a6%82%e6%ad%bb%e3%81%a8%e3%81%af%ef%bc%9f",
+  "sourceEnglish": "to be more of a hindrance than a help"
+}

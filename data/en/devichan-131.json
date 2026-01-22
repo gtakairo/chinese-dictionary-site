@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-131",
+  "chinese": "跳票",
+  "pinyin": "tiào piào",
+  "meaning": "bounced check, to default on a promise",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "跳票金額實在不大，請律師實在不符經濟效益",
+      "translation": "The bounced check amount isn't that big, so hiring a lawyer isn't cost-effective."
+    },
+    {
+      "chinese": "支票被跳票了，該如何處理?",
+      "translation": "The check bounced, how should I handle it?"
+    },
+    {
+      "chinese": "政客又跳票了，選民很失望。",
+      "translation": "The politician broke his promise again, the voters are disappointed."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%a7%e3%80%8c%e6%89%8b%e6%8a%9c%e3%81%8d%e5%b7%a5%e4%ba%8b%e3%80%8d%e3%80%81%e3%80%8c%e4%b8%8d%e6%b8%a1%e3%82%8a%e3%80%8d%e3%81%af%e4%bd%95%e3%81%a8%e8%a8%80%e3%81%86",
+  "sourceEnglish": "a bad check, be dishonored, bounce"
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-144",
+  "chinese": "悠遊卡",
+  "pinyin": "yōu yóu kǎ",
+  "meaning": "บัตรโดยสารไร้สัมผัสไต้หวัน, บัตร Easy Card",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "你有悠遊卡嗎？",
+      "translation": "คุณมีบัตร Easy Card ไหม?"
+    },
+    {
+      "chinese": "悠遊卡可以在便利商店加值。",
+      "translation": "บัตร Easy Card เติมเงินได้ที่ร้านสะดวกซื้อ"
+    },
+    {
+      "chinese": "用悠遊卡坐捷運比較便宜。",
+      "translation": "ใช้บัตร Easy Card นั่ง MRT ถูกกว่า"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์อินเทอร์เน็ต",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e5%8f%b0%e6%b9%be%e6%97%85%e8%a1%8c-mrt%e3%81%ab%e4%b9%97%e3%82%8b%ef%bc%81",
+  "sourceEnglish": "easy card"
+}

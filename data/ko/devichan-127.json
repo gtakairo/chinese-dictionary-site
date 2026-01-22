@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-127",
+  "chinese": "低頭族",
+  "pinyin": "dītóu zú",
+  "meaning": "스마트폰에 빠져 주변을 무시하는 사람들, 스마트폰 중독자",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "低頭族會容易出現哪些健康隱患？",
+      "translation": "스마트폰만 보는 사람들은 어떤 건강 문제가 생기기 쉬워?"
+    },
+    {
+      "chinese": "他是個低頭族，走路也在看手機。",
+      "translation": "그는 스마트폰 중독자야, 걸으면서도 폰을 봐."
+    },
+    {
+      "chinese": "低頭族要注意頸椎健康。",
+      "translation": "스마트폰 중독자들은 목 건강에 주의해야 해."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%ae%e3%80%8c%e6%81%90%e5%a9%9a%e6%97%8f%e3%80%8d%e3%80%81%e3%80%8c%e4%bd%8e%e9%a0%ad%e6%97%8f%e3%80%8d%e3%81%a8%e3%81%af%ef%bc%9f",
+  "sourceEnglish": "phubber, phubbing"
+}

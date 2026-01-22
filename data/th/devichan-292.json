@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-292",
+  "chinese": "歪樓",
+  "pinyin": "wāilóu",
+  "meaning": "ออกนอกเรื่อง, พูดนอกประเด็น (ศัพท์อินเทอร์เน็ต)",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "怎麼就歪樓了？",
+      "translation": "ทำไมถึงออกนอกเรื่องไปได้?"
+    },
+    {
+      "chinese": "不要歪樓，回到正題吧！",
+      "translation": "อย่าออกนอกเรื่อง กลับมาที่ประเด็นหลักเถอะ!"
+    },
+    {
+      "chinese": "討論區又歪樓了。",
+      "translation": "ในกระทู้ออกนอกเรื่องอีกแล้ว"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์อินเทอร์เน็ต",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%a7%e3%80%8c%e8%a9%b1%e3%81%8c%e3%81%9d%e3%82%8c%e3%82%8b%e3%80%8d%e3%81%af%e4%bd%95%e3%81%a8%e3%81%84%e3%81%86%ef%bc%9f",
+  "sourceEnglish": "get off topic, digress"
+}

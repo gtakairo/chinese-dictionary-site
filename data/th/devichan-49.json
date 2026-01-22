@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-49",
+  "chinese": "七折八扣",
+  "pinyin": "qī zhé bā kòu",
+  "meaning": "ถูกหักโน่นหักนี่, หักลดหลายอย่าง",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "原本這個月應領4萬元，但在所得稅、伙食費等項目七折八扣之後，實領2萬元！",
+      "translation": "เดิมเดือนนี้ควรได้ 40,000 แต่หลังหักภาษี ค่าอาหาร โน่นนี่นั่น เหลือแค่ 20,000!"
+    },
+    {
+      "chinese": "獎金經過七折八扣，剩下的所剩無幾。",
+      "translation": "โบนัสถูกหักโน่นหักนี่ เหลือไม่เท่าไหร่แล้ว"
+    },
+    {
+      "chinese": "這筆款項七折八扣之後，還能剩多少？",
+      "translation": "เงินจำนวนนี้หลังหักโน่นหักนี่ จะเหลือเท่าไหร่?"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "สำนวนจีน",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%a7%e3%80%8c%e8%a8%8e%e5%83%b9%e9%82%84%e5%83%b9%e3%80%8d%e3%80%81%e3%80%8c%e4%b8%83%e6%8a%98%e5%85%ab%e6%89%a3%e3%80%8d%e3%81%a8%e3%81%af%ef%bc%9f",
+  "sourceEnglish": "be discounted many things"
+}

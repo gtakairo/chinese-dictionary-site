@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-47",
+  "chinese": "不會",
+  "pinyin": "bù huì",
+  "meaning": "not at all, that's not true (modest response)",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "你中文說得很好！– 不會，還差得遠呢。",
+      "translation": "Your Chinese is very good! – Not at all, I still have a long way to go."
+    },
+    {
+      "chinese": "謝謝你的幫忙！– 不會，應該的。",
+      "translation": "Thanks for your help! – Not at all, it's what I should do."
+    },
+    {
+      "chinese": "麻煩你了！– 不會不會。",
+      "translation": "Sorry to trouble you! – Not at all."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%ae%e7%9b%b8%e3%81%a5%e3%81%a1%e3%82%84%e7%ad%94%e3%81%88%e6%96%b9",
+  "sourceEnglish": "not at all"
+}

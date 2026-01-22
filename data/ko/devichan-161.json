@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-161",
+  "chinese": "學長，學姐",
+  "pinyin": "xuézhǎng, xuéjiě",
+  "meaning": "선배 (남자/여자)",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "學長，可以教我這個嗎？",
+      "translation": "선배, 이거 가르쳐 줄 수 있어요?"
+    },
+    {
+      "chinese": "學姐很照顧我。",
+      "translation": "선배가 나를 많이 챙겨줘."
+    },
+    {
+      "chinese": "我們要尊重學長學姐。",
+      "translation": "우리는 선배를 존중해야 해."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%a7%e3%80%8c%e5%85%88%e8%bc%a9%e3%80%8d%e3%80%81%e3%80%8c%e5%be%8c%e8%bc%a9%e3%80%8d%e3%81%af%e4%bd%95%e3%81%a8%e8%a8%80%e3%81%86%ef%bc%9f",
+  "sourceEnglish": "senior"
+}

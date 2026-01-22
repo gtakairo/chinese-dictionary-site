@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-47",
+  "chinese": "不會",
+  "pinyin": "bù huì",
+  "meaning": "아니에요, 천만에요, 별말씀을 (겸손한 대답)",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "你中文說得很好！– 不會，還差得遠呢。",
+      "translation": "중국어 정말 잘하시네요! – 아니에요, 아직 멀었어요."
+    },
+    {
+      "chinese": "謝謝你的幫忙！– 不會，應該的。",
+      "translation": "도와줘서 고마워! – 천만에요, 당연한 거예요."
+    },
+    {
+      "chinese": "麻煩你了！– 不會不會。",
+      "translation": "번거롭게 해드려서요! – 아니에요 아니에요."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 신조어·속어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%ae%e7%9b%b8%e3%81%a5%e3%81%a1%e3%82%84%e7%ad%94%e3%81%88%e6%96%b9",
+  "sourceEnglish": "not at all"
+}

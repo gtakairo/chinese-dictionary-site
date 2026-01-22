@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-135",
+  "chinese": "外包",
+  "pinyin": "wàibāo",
+  "meaning": "เอาท์ซอร์ส, จ้างภายนอก",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "在成本考量下，如果外包比較划算當然要外包啦！",
+      "translation": "ถ้าคำนึงถึงต้นทุน ถ้าเอาท์ซอร์สคุ้มกว่าก็ต้องเอาท์ซอร์สสิ!"
+    },
+    {
+      "chinese": "這個項目我們決定外包。",
+      "translation": "โปรเจกต์นี้เราตัดสินใจจ้างภายนอก"
+    },
+    {
+      "chinese": "外包可以降低成本。",
+      "translation": "เอาท์ซอร์สช่วยลดต้นทุนได้"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์อินเทอร์เน็ต",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%a7%e3%80%8c%e3%83%af%e3%83%bc%e3%82%ab%e3%83%9b%e3%83%aa%e3%83%83%e3%82%af%e3%80%8d%e3%80%81%e3%80%8c%e3%82%a2%e3%82%a6%e3%83%88%e3%82%bd%e3%83%bc%e3%82%b7%e3%83%b3",
+  "sourceEnglish": "Out-Sourcing"
+}

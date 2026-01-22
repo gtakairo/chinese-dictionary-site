@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-187",
+  "chinese": "敷衍",
+  "pinyin": "fūyǎn",
+  "meaning": "대충 하다, 얼버무리다, 건성으로 대하다",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "不要敷衍我。",
+      "translation": "나한테 건성으로 대하지 마."
+    },
+    {
+      "chinese": "他總是敷衍了事。",
+      "translation": "그는 항상 일을 대충 해."
+    },
+    {
+      "chinese": "敷衍的態度很不好。",
+      "translation": "건성으로 대하는 태도는 안 좋아."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%ae%e3%80%8c%e6%95%b7%e8%a1%8d%e3%80%8d%e3%80%81%e3%80%8c%e8%aa%aa%e5%a4%a2%e8%a9%b1%e3%80%8d%e3%81%af%e3%81%a9%e3%82%93%e3%81%aa%e6%84%8f%e5%91%b3%ef%bc%9f",
+  "sourceEnglish": "to be perfunctory, to temporize"
+}

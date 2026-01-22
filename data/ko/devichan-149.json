@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-149",
+  "chinese": "請假",
+  "pinyin": "qǐng jià",
+  "meaning": "휴가를 내다, 결석하다",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "頻繁請假是不是會影響我的實習評分？",
+      "translation": "자주 휴가를 내면 인턴 평가에 영향이 있을까?"
+    },
+    {
+      "chinese": "我明天要請假。",
+      "translation": "나 내일 휴가 낼 거야."
+    },
+    {
+      "chinese": "請假要提前申請。",
+      "translation": "휴가는 미리 신청해야 해."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%ae%e3%80%8c%e8%ab%8b%e5%81%87%e3%80%8d%e3%81%a8%e3%80%8c%e6%94%be%e5%81%87%e3%80%8d%e3%81%ae%e9%81%95%e3%81%84%e3%81%af%ef%bc%9f",
+  "sourceEnglish": "ask for leave, take a day off"
+}

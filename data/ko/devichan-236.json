@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-236",
+  "chinese": "按讚",
+  "pinyin": "ànzàn",
+  "meaning": "좋아요 누르다",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "請幫我按讚，感激不盡！",
+      "translation": "좋아요 눌러주시면 정말 감사하겠습니다!"
+    },
+    {
+      "chinese": "短短一天不到就有近8萬人按讚！",
+      "translation": "하루도 안 돼서 8만 명 가까이 좋아요를 눌렀어!"
+    },
+    {
+      "chinese": "這篇文章按讚數很高。",
+      "translation": "이 글은 좋아요 수가 높아."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%ae%e3%83%8d%e3%83%83%e3%83%88%e7%94%a8%e8%aa%9e-%e3%80%8c%e3%81%84%e3%81%84%e3%81%ad%e3%81%99%e3%82%8b%e3%80%8d%e3%80%81%e3%80%8c%e6%97%a2%e8%aa%ad%e3%82%b9%e3%83%ab",
+  "sourceEnglish": "click the Like button"
+}

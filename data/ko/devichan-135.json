@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-135",
+  "chinese": "外包",
+  "pinyin": "wàibāo",
+  "meaning": "아웃소싱, 외주",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "在成本考量下，如果外包比較划算當然要外包啦！",
+      "translation": "비용을 고려하면 아웃소싱이 더 이득이면 당연히 외주 줘야지!"
+    },
+    {
+      "chinese": "這個項目外包出去了。",
+      "translation": "이 프로젝트는 외주로 맡겼어."
+    },
+    {
+      "chinese": "很多公司選擇外包來降低成本。",
+      "translation": "많은 회사들이 비용 절감을 위해 아웃소싱을 선택해."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%a7%e3%80%8c%e3%83%af%e3%83%bc%e3%82%ab%e3%83%9b%e3%83%aa%e3%83%83%e3%82%af%e3%80%8d%e3%80%81%e3%80%8c%e3%82%a2%e3%82%a6%e3%83%88%e3%82%bd%e3%83%bc%e3%82%b7%e3%83%b3",
+  "sourceEnglish": "Out-Sourcing"
+}

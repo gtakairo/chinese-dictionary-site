@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-163",
+  "chinese": "宿舍",
+  "pinyin": "sùshè",
+  "meaning": "หอพัก, หอพักนักศึกษา",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "你住在學校宿舍嗎？",
+      "translation": "คุณอยู่หอพักมหาวิทยาลัยไหม?"
+    },
+    {
+      "chinese": "宿舍離教室很近。",
+      "translation": "หอพักอยู่ใกล้ห้องเรียนมาก"
+    },
+    {
+      "chinese": "宿舍晚上十一點關門。",
+      "translation": "หอพักปิดประตูสี่ทุ่ม"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์อินเทอร์เน็ต",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%a7%e3%80%8c%e5%af%ae%e3%80%8d%e3%80%81%e3%80%8c%e7%95%99%e5%b9%b4%e3%81%99%e3%82%8b%e3%80%8d%e3%81%af%e4%bd%95%e3%81%a8%e8%a8%80%e3%81%86%ef%bc%9f",
+  "sourceEnglish": "dormitory"
+}

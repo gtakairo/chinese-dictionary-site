@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-144",
+  "chinese": "悠遊卡",
+  "pinyin": "yōu yóu kǎ",
+  "meaning": "(대만의) 비접촉식 IC 카드, 이지카드",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "你有悠遊卡嗎？",
+      "translation": "너 이지카드 있어?"
+    },
+    {
+      "chinese": "悠遊卡可以搭捷運、公車，還可以買東西。",
+      "translation": "이지카드로 지하철, 버스를 타고, 물건도 살 수 있어."
+    },
+    {
+      "chinese": "我的悠遊卡餘額不足。",
+      "translation": "내 이지카드 잔액이 부족해."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e5%8f%b0%e6%b9%be%e6%97%85%e8%a1%8c-mrt%e3%81%ab%e4%b9%97%e3%82%8b%ef%bc%81",
+  "sourceEnglish": "easy card"
+}

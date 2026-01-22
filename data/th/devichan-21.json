@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-21",
+  "chinese": "心裡有數",
+  "pinyin": "xīn lǐ yǒu shù",
+  "meaning": "รู้อยู่แก่ใจ, มั่นใจในตัวเอง, เข้าใจดี",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "你自己心裡有數，不用我多說。",
+      "translation": "เธอรู้อยู่แก่ใจ ฉันไม่ต้องพูดมาก"
+    },
+    {
+      "chinese": "這件事怎麼處理，我心裡有數。",
+      "translation": "เรื่องนี้จะจัดการยังไง ฉันมั่นใจอยู่แล้ว"
+    },
+    {
+      "chinese": "他表面不說，但心裡有數。",
+      "translation": "เขาไม่พูดออกมา แต่รู้อยู่แก่ใจ"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "สำนวนจีน",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/170",
+  "sourceEnglish": "know very well in one's mind"
+}

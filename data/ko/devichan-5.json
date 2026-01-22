@@ -1,0 +1,25 @@
+{
+  "slug": "devichan-5",
+  "chinese": "説來話長",
+  "pinyin": "shuō lái huà chánɡ",
+  "meaning": "말하자면 긴 이야기인데, 얘기가 길어지는데",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "你們是怎麼認識的？說來話長。",
+      "translation": "어떻게 알게 됐어요? 얘기하자면 길어요."
+    },
+    {
+      "chinese": "這件事說來話長，改天再跟你說。",
+      "translation": "이 일은 말하자면 길어서, 다음에 얘기할게요."
+    },
+    {
+      "chinese": "說來話長，簡單來說就是我們吵架了。",
+      "translation": "얘기가 길지만, 간단히 말하면 우리가 싸웠어요."
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "성어·사자성어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e2%91%a0%e8%aa%ac%e4%be%86%e8%a9%b1%e9%95%b7%e3%80%81%e2%91%a1%e5%bf%83%e6%a9%9f%e5%be%88%e9%87%8d%e3%81%a8%e3%81%af%ef%bc%9f"
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-24",
+  "chinese": "說不出口",
+  "pinyin": "shuō bu chūkǒu",
+  "meaning": "말하기 어렵다, 입에서 안 나오다, 차마 말할 수 없다",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "我有喜歡的女生卻說不出口，我該怎麼辦？",
+      "translation": "좋아하는 여자가 있는데 말을 못 하겠어. 어떻게 해야 해?"
+    },
+    {
+      "chinese": "若說不出口，那就用行動來表示吧！",
+      "translation": "말로 못 하겠으면 행동으로 보여줘!"
+    },
+    {
+      "chinese": "這種話太尷尬了，我實在說不出口。",
+      "translation": "이런 말은 너무 쑥스러워서 도저히 입에서 안 나와."
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "성어·사자성어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e5%a4%aa%e9%82%a3%e5%80%8b%e3%80%81-%e8%aa%aa%e4%b8%8d%e5%87%ba%e5%8f%a3%e3%81%a8%e3%81%af%ef%bc%9f",
+  "sourceEnglish": "hard to say, hesitant to say"
+}

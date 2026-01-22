@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-242",
+  "chinese": "疫情",
+  "pinyin": "yì qíng",
+  "meaning": "전염병 상황, 감염 확산",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "疫情很嚴重。",
+      "translation": "코로나 상황이 심각해."
+    },
+    {
+      "chinese": "疫情期間要小心。",
+      "translation": "전염병 유행 기간에는 조심해야 해."
+    },
+    {
+      "chinese": "疫情什麼時候會結束？",
+      "translation": "전염병이 언제 끝날까?"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e6%96%b0%e5%9e%8b%e3%82%b3%e3%83%ad%e3%83%8a%e3%81%a8%e5%8f%b0%e6%b9%be%e3%80%80-%e3%80%80%e9%96%a2%e9%80%a3%e7%94%a8%e8%aa%9e%ef%bc%91",
+  "sourceEnglish": "epidemic situation"
+}

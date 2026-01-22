@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-256",
+  "chinese": "當真",
+  "pinyin": "dàngzhēn",
+  "meaning": "진지하게 받아들이다, 진담으로 받아들이다",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "萬一哪一天我把你這些話當真怎麼辦？",
+      "translation": "혹시 어느 날 네가 한 말을 내가 진담으로 받아들이면 어떡해?"
+    },
+    {
+      "chinese": "我是開玩笑的，別當真。",
+      "translation": "농담인데, 진지하게 받아들이지 마."
+    },
+    {
+      "chinese": "他說的話不要當真。",
+      "translation": "그가 한 말 진담으로 받아들이지 마."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%a7%e3%80%8c%e7%9c%9f%e3%81%ab%e5%8f%97%e3%81%91%e3%82%8b%e3%80%81%e6%9c%ac%e6%b0%97%e3%81%ab%e3%81%99%e3%82%8b%e3%80%8d%e3%80%81%e3%80%8c%e8%88%88%e3%81%96%e3%82%81",
+  "sourceEnglish": "take〜seriously"
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-136",
+  "chinese": "玩股票",
+  "pinyin": "wán gǔpiào",
+  "meaning": "주식하다, 주식 투자하다",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "你有玩股票嗎？",
+      "translation": "너 주식해?"
+    },
+    {
+      "chinese": "玩股票有風險。",
+      "translation": "주식은 위험해."
+    },
+    {
+      "chinese": "他靠玩股票賺了很多錢。",
+      "translation": "그는 주식으로 많이 벌었어."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e5%8f%b0%e6%b9%be%e4%ba%ba%e3%81%ae%e6%8a%95%e8%b3%87%e7%86%b1",
+  "sourceEnglish": "play the stock marcket"
+}

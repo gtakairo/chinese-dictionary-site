@@ -1,0 +1,25 @@
+{
+  "slug": "devichan-238",
+  "chinese": "群組",
+  "pinyin": "qún zǔ",
+  "meaning": "그룹, 단체 채팅방",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "我被加入一個新的群組。",
+      "translation": "나 새 그룹에 초대됐어."
+    },
+    {
+      "chinese": "群組裡有一百多人。",
+      "translation": "그룹에 100명 넘게 있어."
+    },
+    {
+      "chinese": "他被群組踢出去了。",
+      "translation": "그는 그룹에서 강퇴당했어."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%ae%e3%83%a9%e3%82%a4%e3%83%b3%e7%94%a8%e8%aa%9e-%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%81%99%e3%82%8b%e3%80%81%e5%8f%8b%e9%81%94%e3%81%ab%e5%8a%a0%e3%81%88%e3%82%8b"
+}

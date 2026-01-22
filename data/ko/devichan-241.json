@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-241",
+  "chinese": "封鎖",
+  "pinyin": "fēngsuǒ",
+  "meaning": "차단하다, 블록하다",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "你是不是被男朋友封鎖了？",
+      "translation": "너 남친한테 차단당한 거 아니야?"
+    },
+    {
+      "chinese": "如何知道有沒有被別人封鎖？",
+      "translation": "다른 사람한테 차단당했는지 어떻게 알 수 있어?"
+    },
+    {
+      "chinese": "我把他封鎖了。",
+      "translation": "나 그 사람 차단했어."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%ae%e3%83%a9%e3%82%a4%e3%83%b3%e7%94%a8%e8%aa%9e-%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e3%81%99%e3%82%8b%e3%80%81%e5%8f%8b%e9%81%94%e3%81%ab%e5%8a%a0%e3%81%88%e3%82%8b",
+  "sourceEnglish": "block"
+}

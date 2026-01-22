@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-195",
+  "chinese": "吐槽",
+  "pinyin": "tǔcáo",
+  "meaning": "태클 걸다, 딴지 걸다, 불평하다",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "為什麼有人會喜歡被吐槽？",
+      "translation": "왜 어떤 사람들은 태클 걸리는 걸 좋아할까?"
+    },
+    {
+      "chinese": "他總是吐槽別人。",
+      "translation": "그는 항상 남한테 딴지를 걸어."
+    },
+    {
+      "chinese": "不要吐槽我。",
+      "translation": "나한테 태클 걸지 마."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%a7%e3%80%8c%e3%83%84%e3%83%83%e3%82%b3%e3%82%80%e3%80%8d%e3%80%81%e3%80%8c%e6%84%9a%e7%97%b4%e3%81%ae%e3%81%af%e3%81%91%e5%8f%a3%e3%80%8d%e3%81%af%e4%bd%95%e3%81%a8",
+  "sourceEnglish": "bust on, vent"
+}

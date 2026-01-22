@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-158",
+  "chinese": "小抄",
+  "pinyin": "xiǎochāo",
+  "meaning": "컨닝페이퍼, 쪽지",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "考試時帶小抄會被抓。",
+      "translation": "시험 때 컨닝페이퍼 들고 가면 걸려."
+    },
+    {
+      "chinese": "他被發現帶小抄進考場。",
+      "translation": "그는 컨닝페이퍼 들고 시험장에 들어간 게 들켰어."
+    },
+    {
+      "chinese": "老師沒收了他的小抄。",
+      "translation": "선생님이 그의 컨닝페이퍼를 압수했다."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%a7%e3%80%8c%e3%82%ab%e3%83%b3%e3%83%8b%e3%83%b3%e3%82%b0%e3%81%99%e3%82%8b%e3%80%8d%e3%80%81%e3%80%8c%e3%82%ab%e3%83%b3%e3%83%8b%e3%83%b3%e3%82%b0%e3%83%9a%e3%83%bc",
+  "sourceEnglish": "a cheat seat"
+}

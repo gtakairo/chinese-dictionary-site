@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-302",
+  "chinese": "犯迷糊",
+  "pinyin": "fàn míhu",
+  "meaning": "깜빡하다, 멍하다",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "如何对付容易犯迷糊的同事？",
+      "translation": "깜빡깜빡하는 동료 어떻게 대처해야 해?"
+    },
+    {
+      "chinese": "我又犯迷糊了。",
+      "translation": "또 깜빡했네."
+    },
+    {
+      "chinese": "你怎麼總是犯迷糊？",
+      "translation": "왜 맨날 멍때려?"
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%a7%e3%80%8c%e3%82%88%e3%81%9d%e3%82%88%e3%81%9d%e3%81%97%e3%81%84%e3%80%8d%e3%80%81%e3%80%8c%e3%81%a9%e5%bf%98%e3%82%8c%e3%81%99%e3%82%8b%e3%80%8d%e3%81%af%e4%bd%95",
+  "sourceEnglish": "senior moment"
+}

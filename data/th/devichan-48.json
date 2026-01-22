@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-48",
+  "chinese": "討價還價",
+  "pinyin": "tǎojià huánjià",
+  "meaning": "ต่อราคา, ต่อรอง, ขอส่วนลด",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "遇到愛討價還價的客戶該如何應對呢？",
+      "translation": "เจอลูกค้าชอบต่อราคาจะรับมือยังไงดี?"
+    },
+    {
+      "chinese": "在夜市買東西可以討價還價。",
+      "translation": "ซื้อของที่ตลาดกลางคืนต่อราคาได้"
+    },
+    {
+      "chinese": "這家店的價格是固定的，不能討價還價。",
+      "translation": "ร้านนี้ราคาตายตัว ต่อราคาไม่ได้"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "สำนวนจีน",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%a7%e3%80%8c%e8%a8%8e%e5%83%b9%e9%82%84%e5%83%b9%e3%80%8d%e3%80%81%e3%80%8c%e4%b8%83%e6%8a%98%e5%85%ab%e6%89%a3%e3%80%8d%e3%81%a8%e3%81%af%ef%bc%9f",
+  "sourceEnglish": "bargain with sb, do discount negotiation"
+}

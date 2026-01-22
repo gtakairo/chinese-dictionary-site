@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-32",
+  "chinese": "扣帽子",
+  "pinyin": "kòu mào zi",
+  "meaning": "ติดป้าย, ตีตรา, ให้ฉายา",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "不要隨便給人扣帽子。",
+      "translation": "อย่าติดป้ายคนอื่นมัวซัว"
+    },
+    {
+      "chinese": "他被扣上了「不愛國」的帽子。",
+      "translation": "เขาถูกตีตราว่า 'ไม่รักชาติ'"
+    },
+    {
+      "chinese": "這種扣帽子的做法很不公平。",
+      "translation": "การตีตราแบบนี้ไม่ยุติธรรมเลย"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์อินเทอร์เน็ต",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%a7%e3%80%8c%e7%b5%a6%e4%ba%ba%e7%a9%bf%e5%b0%8f%e9%9e%8b%e3%80%8d%e3%80%81%e3%80%8c%e6%89%a3%e5%b8%bd%e5%ad%90%e3%80%8d%e3%81%a8%e3%81%af%ef%bc%9f",
+  "sourceEnglish": "to label (someone as)"
+}

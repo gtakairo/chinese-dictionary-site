@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-20",
+  "chinese": "拖泥帶水",
+  "pinyin": "tuō ní dài shuǐ",
+  "meaning": "ยืดเยื้อ, ไม่เด็ดขาด, อืดอาด",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "他做事拖泥帶水，一點都不乾脆。",
+      "translation": "เขาทำงานอืดอาด ไม่เด็ดขาดเลย"
+    },
+    {
+      "chinese": "說話不要拖泥帶水，直接說重點。",
+      "translation": "พูดอย่ายืดเยื้อ พูดตรงประเด็นเลย"
+    },
+    {
+      "chinese": "分手就分手，不要拖泥帶水的。",
+      "translation": "จะเลิกก็เลิก อย่ายืดเยื้อ"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "สำนวนจีน",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e7%95%99%e5%b0%be%e5%b7%b4%e3%80%81%e3%80%80%e6%8b%96%e6%b3%a5%e5%b8%b6%e6%b0%b4%e3%81%a8%e3%81%af%ef%bc%9f",
+  "sourceEnglish": "to do things sloppy"
+}

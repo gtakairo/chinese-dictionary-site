@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-154",
+  "chinese": "罰站",
+  "pinyin": "fá zhàn",
+  "meaning": "벌로 서 있게 하다",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "老師罰站那個學生。",
+      "translation": "선생님이 그 학생을 벌로 세웠다."
+    },
+    {
+      "chinese": "他因為遲到被罰站了十分鐘。",
+      "translation": "그는 지각해서 10분간 벌로 서 있어야 했다."
+    },
+    {
+      "chinese": "現在學校不太用罰站了。",
+      "translation": "요즘 학교에서는 벌로 세우는 것을 잘 안 해."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%ae%e3%80%8c%e6%80%aa%e7%8d%b8%e5%ae%b6%e9%95%b7%e3%80%8d%e3%80%81%e3%80%8c%e7%bd%b0%e7%ab%99%e3%80%8d%e3%81%a8%e3%81%af%ef%bc%9f",
+  "sourceEnglish": "to be made to stand as a punishment"
+}

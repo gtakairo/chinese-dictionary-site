@@ -1,0 +1,22 @@
+{
+  "slug": "devichan-5",
+  "chinese": "説來話長",
+  "pinyin": "shuō lái huà chánɡ",
+  "meaning": "話せば長い話ですが、長くなる話なんだけど",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "你發生什麼事了？",
+      "translation": "何かあったの？"
+    },
+    {
+      "chinese": "一切是如何開始的？",
+      "translation": "そもそもどのように始まったの？"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "成語・四字熟語",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e2%91%a0%e8%aa%ac%e4%be%86%e8%a9%b1%e9%95%b7%e3%80%81%e2%91%a1%e5%bf%83%e6%a9%9f%e5%be%88%e9%87%8d%e3%81%a8%e3%81%af%ef%bc%9f",
+  "sourceEnglish": "It’s a long story"
+}

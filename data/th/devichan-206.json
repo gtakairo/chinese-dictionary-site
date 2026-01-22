@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-206",
+  "chinese": "嘴巴說說",
+  "pinyin": "zuǐba shuōshuō",
+  "meaning": "พูดเฉยๆ, พูดไม่ทำ, คำพูดลอยๆ",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "他只是嘴巴說說而已嗎？",
+      "translation": "เขาแค่พูดเฉยๆ ใช่ไหม?"
+    },
+    {
+      "chinese": "別只是嘴巴說說！",
+      "translation": "อย่าแค่พูดไม่ทำ!"
+    },
+    {
+      "chinese": "我不是嘴巴說說，我會做到的。",
+      "translation": "ฉันไม่ได้พูดลอยๆ ฉันจะทำได้"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "สำนวนจีน",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/728",
+  "sourceEnglish": "all talk, all mouth"
+}

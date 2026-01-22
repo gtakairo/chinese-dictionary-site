@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-179",
+  "chinese": "隱情",
+  "pinyin": "yǐnqíng",
+  "meaning": "เรื่องที่ซ่อนเร้น, ความลับ",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "這件事背後有隱情。",
+      "translation": "เรื่องนี้มีเบื้องหลังที่ซ่อนเร้น"
+    },
+    {
+      "chinese": "他不說出隱情。",
+      "translation": "เขาไม่ยอมบอกความลับ"
+    },
+    {
+      "chinese": "我覺得他們之間有隱情。",
+      "translation": "ฉันรู้สึกว่าระหว่างพวกเขามีเรื่องที่ซ่อนอยู่"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์อินเทอร์เน็ต",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%ae%e3%80%8c%e9%9a%b1%e6%83%85%e3%80%8d%e3%80%81%e3%80%8c%e5%b0%b7%e5%b0%ac%e3%80%8d%e3%81%af%e3%81%a9%e3%82%93%e3%81%aa%e6%84%8f%e5%91%b3%ef%bc%9f",
+  "sourceEnglish": "hidden secret"
+}

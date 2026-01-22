@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-251",
+  "chinese": "搶購潮",
+  "pinyin": "qiǎnggòu cháo",
+  "meaning": "사재기 열풍",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "超市出現了搶購潮。",
+      "translation": "슈퍼마켓에 사재기 열풍이 일었어."
+    },
+    {
+      "chinese": "搶購潮導致物價上漲。",
+      "translation": "사재기 열풍으로 물가가 올랐어."
+    },
+    {
+      "chinese": "不要加入搶購潮。",
+      "translation": "사재기 열풍에 동참하지 마."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%a7%e3%80%8c%e5%a4%96%e5%87%ba%e7%a6%81%e6%ad%a2%e4%bb%a4%e3%80%8d%e3%80%81%e3%80%8c%e8%b2%b7%e3%81%84%e5%8d%a0%e3%82%81%e3%80%8d%e3%81%af%e4%bd%95%e3%81%a8%e8%a8%80",
+  "sourceEnglish": "buy up"
+}

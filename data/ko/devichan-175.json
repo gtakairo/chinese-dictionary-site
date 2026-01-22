@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-175",
+  "chinese": "產業合作",
+  "pinyin": "chǎnyè hézuò",
+  "meaning": "산학 협력",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "學校和企業進行產業合作。",
+      "translation": "학교와 기업이 산학 협력을 진행한다."
+    },
+    {
+      "chinese": "產業合作對學生很有幫助。",
+      "translation": "산학 협력은 학생들에게 도움이 된다."
+    },
+    {
+      "chinese": "這個計畫是產業合作的成果。",
+      "translation": "이 프로젝트는 산학 협력의 성과다."
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "사자성어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%a7%e3%80%8c%e7%94%a3%e6%a5%ad%e9%80%a3%e6%90%ba%e3%80%8d%e3%80%81%e3%80%8c%e5%ad%a6%e9%9a%9b%e7%9a%84%e3%80%8d%e3%81%af%e4%bd%95%e3%81%a8%e3%81%84%e3%81%86%ef%bc%9f",
+  "sourceEnglish": "industry-academia collaboration"
+}

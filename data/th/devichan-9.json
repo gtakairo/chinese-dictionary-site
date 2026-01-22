@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-9",
+  "chinese": "我跟你說",
+  "pinyin": "wŏ gēn nǐ shuō",
+  "meaning": "เอาเป็นว่านะ, บอกให้นะ, ฟังนะ",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "我跟你說，他是考你的了",
+      "translation": "บอกให้นะ เขาแค่ทดสอบเธอเอง"
+    },
+    {
+      "chinese": "我跟你說，這家餐廳超好吃的！",
+      "translation": "เอาเป็นว่านะ ร้านนี้อร่อยมาก!"
+    },
+    {
+      "chinese": "我跟你說，你不要再相信他了。",
+      "translation": "ฟังนะ อย่าไปเชื่อเขาอีกเลย"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "สำนวนจีน",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e2%91%a8%e6%88%91%e8%b7%9f%e4%bd%a0%e8%aa%aa%e3%80%81%e2%91%a9%e4%b8%8d%e4%bb%a5%e7%82%ba%e7%84%b6%e3%81%a8%e3%81%af%ef%bc%9f",
+  "sourceEnglish": "Guess what, Let me tell you something"
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-9",
+  "chinese": "我跟你說",
+  "pinyin": "wŏ gēn nǐ shuō",
+  "meaning": "있잖아, 내 말 좀 들어봐, 저기",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "我跟你說，他是考你的了",
+      "translation": "있잖아, 그 사람 너 시험하는 거야."
+    },
+    {
+      "chinese": "我跟你說，這家餐廳超好吃的！",
+      "translation": "내 말 좀 들어봐, 이 식당 진짜 맛있어!"
+    },
+    {
+      "chinese": "我跟你說，你不要再相信他了。",
+      "translation": "저기, 그 사람 더 이상 믿지 마."
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "성어·사자성어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e2%91%a8%e6%88%91%e8%b7%9f%e4%bd%a0%e8%aa%aa%e3%80%81%e2%91%a9%e4%b8%8d%e4%bb%a5%e7%82%ba%e7%84%b6%e3%81%a8%e3%81%af%ef%bc%9f",
+  "sourceEnglish": "Guess what, Let me tell you something"
+}

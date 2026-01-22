@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-143",
+  "chinese": "捷運",
+  "pinyin": "jié yùn",
+  "meaning": "대만 지하철, MRT",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "我每天坐捷運上班。",
+      "translation": "나는 매일 지하철 타고 출근해."
+    },
+    {
+      "chinese": "捷運站在哪裡？",
+      "translation": "지하철역이 어디에 있어요?"
+    },
+    {
+      "chinese": "台北捷運很方便。",
+      "translation": "타이베이 지하철은 정말 편리해."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e5%8f%b0%e6%b9%be%e6%97%85%e8%a1%8c-mrt%e3%81%ab%e4%b9%97%e3%82%8b%ef%bc%81",
+  "sourceEnglish": "Taiwan metro"
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-150",
+  "chinese": "放假",
+  "pinyin": "fàng jià",
+  "meaning": "방학이 되다, 휴일이 되다",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "兒童節，公務員有放假嗎？",
+      "translation": "어린이날에 공무원도 쉬나요?"
+    },
+    {
+      "chinese": "假期馬上就要來了，大家準備好去哪玩了嗎？",
+      "translation": "휴가가 곧 시작되는데, 다들 어디 놀러 갈지 준비됐어요?"
+    },
+    {
+      "chinese": "學校下週放假。",
+      "translation": "학교가 다음 주에 방학해."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%ae%e3%80%8c%e8%ab%8b%e5%81%87%e3%80%8d%e3%81%a8%e3%80%8c%e6%94%be%e5%81%87%e3%80%8d%e3%81%ae%e9%81%95%e3%81%84%e3%81%af%ef%bc%9f",
+  "sourceEnglish": "to be on holiday, to declare a holiday"
+}

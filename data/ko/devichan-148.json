@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-148",
+  "chinese": "翹課",
+  "pinyin": "qiáo kè",
+  "meaning": "수업을 빼먹다, 땡땡이치다",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "什麼事會讓你們想翹課？",
+      "translation": "어떤 일이 있으면 수업 땡땡이치고 싶어져?"
+    },
+    {
+      "chinese": "他今天又翹課了。",
+      "translation": "그는 오늘 또 수업을 빼먹었어."
+    },
+    {
+      "chinese": "翹課被發現的話會被處罰。",
+      "translation": "수업 빼먹다 걸리면 벌 받아."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%ae%e3%80%8c%e6%9b%b8%e5%91%86%e5%ad%90%e3%80%8d%e3%80%81%e3%80%8c%e7%bf%b9%e8%aa%b2%e3%80%8d%e3%81%a8%e3%81%af%ef%bc%9f",
+  "sourceEnglish": "cut a class, skip a clss"
+}

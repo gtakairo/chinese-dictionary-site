@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-315",
+  "chinese": "白宮",
+  "pinyin": "Bái Gōng",
+  "meaning": "ทำเนียบขาว",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "他有一天想進白宮。",
+      "translation": "วันหนึ่งเขาอยากเข้าทำเนียบขาว"
+    },
+    {
+      "chinese": "白宮發布了新政策。",
+      "translation": "ทำเนียบขาวประกาศนโยบายใหม่"
+    },
+    {
+      "chinese": "白宮是美國總統的官邸。",
+      "translation": "ทำเนียบขาวคือที่พำนักของประธานาธิบดีอเมริกา"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์อินเทอร์เน็ต",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab%e3%81%ae%e5%a4%a7%e7%b5%b1%e9%a0%98%e9%81%b8%e6%8c%99%e9%96%a2%e9%80%a3%e3%81%ae%e4%b8%ad%e5%9b%bd%e8%aa%9e",
+  "sourceEnglish": "White House"
+}

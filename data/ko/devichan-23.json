@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-23",
+  "chinese": "太那個",
+  "pinyin": "tài nàge",
+  "meaning": "좀 그렇다, 좀 뭐하다, 적절하지 않다",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "他這樣說太那個了，讓人很尷尬。",
+      "translation": "그가 그렇게 말하니까 좀 그렇더라, 다들 어색해했어."
+    },
+    {
+      "chinese": "你這樣穿會不會太那個？",
+      "translation": "그렇게 입으면 좀 그렇지 않아?"
+    },
+    {
+      "chinese": "這個笑話太那個了，不太適合在這裡講。",
+      "translation": "이 농담은 좀 뭐해서 여기서 하긴 적절하지 않아."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 신조어·속어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e5%a4%aa%e9%82%a3%e5%80%8b%e3%80%81-%e8%aa%aa%e4%b8%8d%e5%87%ba%e5%8f%a3%e3%81%a8%e3%81%af%ef%bc%9f",
+  "sourceEnglish": "it's a bit of a ~, it's sort of ~, it's kind of ~"
+}

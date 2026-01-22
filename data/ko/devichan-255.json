@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-255",
+  "chinese": "龜速",
+  "pinyin": "guī sù",
+  "meaning": "느릿느릿, 거북이 속도",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "上傳速度龜速, 該如何改善呢?",
+      "translation": "업로드 속도가 거북이인데, 어떻게 개선해야 할까?"
+    },
+    {
+      "chinese": "網速太龜速了。",
+      "translation": "인터넷 속도가 너무 느려."
+    },
+    {
+      "chinese": "他做事總是龜速。",
+      "translation": "그는 일할 때 항상 느릿느릿해."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/1157",
+  "sourceEnglish": "slow, slowly"
+}

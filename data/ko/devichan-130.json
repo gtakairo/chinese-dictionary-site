@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-130",
+  "chinese": "偷工減料",
+  "pinyin": "tōu gōng jiǎn liao",
+  "meaning": "부실 공사하다, 대충하다",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "這樣崩塌的情形真的是因為偷工減料嗎?",
+      "translation": "이렇게 무너진 건 정말 부실 공사 때문이야?"
+    },
+    {
+      "chinese": "這個建築偷工減料了。",
+      "translation": "이 건물은 부실 공사됐어."
+    },
+    {
+      "chinese": "偷工減料很危險。",
+      "translation": "대충 하면 위험해."
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "사자성어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%a7%e3%80%8c%e6%89%8b%e6%8a%9c%e3%81%8d%e5%b7%a5%e4%ba%8b%e3%80%8d%e3%80%81%e3%80%8c%e4%b8%8d%e6%b8%a1%e3%82%8a%e3%80%8d%e3%81%af%e4%bd%95%e3%81%a8%e8%a8%80%e3%81%86",
+  "sourceEnglish": "corner-cutting, Jerry-build"
+}

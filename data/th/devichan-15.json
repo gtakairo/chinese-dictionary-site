@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-15",
+  "chinese": "亂七八糟",
+  "pinyin": "luàn qī bā zāo",
+  "meaning": "ยุ่งเหยิง, วุ่นวาย, รกรุงรัง",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "你的房間亂七八糟的，快整理一下！",
+      "translation": "ห้องเธอรกรุงรังมาก เก็บเสียที!"
+    },
+    {
+      "chinese": "這個計畫被搞得亂七八糟。",
+      "translation": "แผนนี้ถูกทำให้ยุ่งเหยิงไปหมด"
+    },
+    {
+      "chinese": "他喝醉後說話亂七八糟，聽不懂他在說什麼。",
+      "translation": "หลังเมา เขาพูดวุ่นวายจนไม่รู้เรื่องว่าพูดอะไร"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "สำนวนจีน",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e2%91%ae%e4%ba%82%e4%b8%83%e5%85%ab%e7%b3%9f%e3%80%81%e2%91%af%e6%89%8b%e5%bf%99%e8%85%b3%e4%ba%82%e3%81%a8%e3%81%af%ef%bc%9f",
+  "sourceEnglish": "messy, make a mess of something"
+}

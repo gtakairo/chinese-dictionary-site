@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-159",
+  "chinese": "點名",
+  "pinyin": "diǎn míng",
+  "meaning": "출석을 부르다, 점호하다",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "老師開始點名了。",
+      "translation": "선생님이 출석을 부르기 시작했다."
+    },
+    {
+      "chinese": "點名的時候要回答「到」。",
+      "translation": "출석 부를 때 '네'라고 대답해야 해."
+    },
+    {
+      "chinese": "他點名的時候不在教室。",
+      "translation": "그는 출석 부를 때 교실에 없었어."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%a7%e3%80%8c%e5%87%ba%e6%ac%a0%e3%82%92%e5%8f%96%e3%82%8b%e3%80%8d%e3%80%81%e3%80%8c%e5%be%b9%e5%a4%9c%e3%81%a7%e5%8b%89%e5%bc%b7%e3%81%99%e3%82%8b%e3%80%8d%e3%81%af",
+  "sourceEnglish": "call the roll; to take attendance"
+}

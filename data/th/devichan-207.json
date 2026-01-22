@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-207",
+  "chinese": "口碑",
+  "pinyin": "kǒubēi",
+  "meaning": "ปากต่อปาก, รีวิว, ชื่อเสียง",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "口碑行銷",
+      "translation": "การตลาดแบบปากต่อปาก"
+    },
+    {
+      "chinese": "這家餐廳口碑很好。",
+      "translation": "ร้านอาหารนี้รีวิวดีมาก"
+    },
+    {
+      "chinese": "口碑是最好的廣告。",
+      "translation": "ปากต่อปากคือโฆษณาที่ดีที่สุด"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์อินเทอร์เน็ต",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/733",
+  "sourceEnglish": "word of mouth"
+}

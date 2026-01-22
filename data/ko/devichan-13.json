@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-13",
+  "chinese": "幫倒忙",
+  "pinyin": "bāng dào máng",
+  "meaning": "도움이 안 되고 오히려 방해가 되다, 도우려다 일을 망치다",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "你這樣做是幫倒忙，讓事情變得更糟了。",
+      "translation": "네가 그렇게 한 건 도움이 아니라 오히려 방해야, 상황이 더 나빠졌어."
+    },
+    {
+      "chinese": "謝謝你的好意，但請不要幫倒忙。",
+      "translation": "고마운 마음은 알겠는데, 제발 일을 망치지 마."
+    },
+    {
+      "chinese": "他想幫我搬家，結果幫倒忙，打破了好幾個碗。",
+      "translation": "그가 이사를 도와주려다가 오히려 그릇을 여러 개 깨뜨렸어."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 신조어·속어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e2%91%ac%e5%b9%ab%e5%80%92%e5%bf%99%e3%80%81%e2%91%ad%e7%94%9f%e4%b8%8d%e5%a6%82%e6%ad%bb%e3%81%a8%e3%81%af%ef%bc%9f",
+  "sourceEnglish": "to be more of a hindrance than a help"
+}

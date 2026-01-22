@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-227",
+  "chinese": "漏洞",
+  "pinyin": "lòudòng",
+  "meaning": "loophole, flaw, vulnerability",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "為什麼其他人沒有發現這個漏洞？",
+      "translation": "Why didn't anyone else notice this flaw?"
+    },
+    {
+      "chinese": "系統有安全漏洞。",
+      "translation": "The system has a security vulnerability."
+    },
+    {
+      "chinese": "法律上有很多漏洞。",
+      "translation": "There are many loopholes in the law."
+    }
+  ],
+  "category": "net",
+  "categoryName": "Internet Slang",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%a7%e3%80%8c%e3%83%93%e3%83%b3%e3%82%bf%e3%81%99%e3%82%8b%e3%80%8d%e3%80%81%e3%80%8c%e8%90%bd%e3%81%a1%e5%ba%a6%e3%81%8c%e3%81%82%e3%82%8b%e3%80%8d%e3%81%af%e4%bd%95",
+  "sourceEnglish": "fault, bungle error"
+}

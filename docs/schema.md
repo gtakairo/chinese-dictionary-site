@@ -18,21 +18,22 @@
 ```typescript
 interface WordEntry {
   // 識別子
-  slug: string;           // URL用スラッグ（例: "tangping"）
-  
+  slug: string;           // URL用スラッグ（例: "tangping", "devichan-313"）
+
   // 中国語情報（言語共通）
   chinese: string;        // 中国語表記（例: "躺平"）
   pinyin: string;         // ピンイン（例: "tǎng píng"）
-  
+
   // 日本語コンテンツ（元サイトから取得）
   meaning: string;        // 意味
   description: string;    // 説明文
   examples: Example[];    // 例文
-  
+
   // メタデータ
   category: string;       // カテゴリースラッグ
   relatedWords: string[]; // 関連単語のスラッグ
   sourceUrl: string;      // 元サイトURL
+  sourceEnglish?: string; // 英語訳（devichan-chigoworld.comから取得時のみ）
 }
 
 interface Example {

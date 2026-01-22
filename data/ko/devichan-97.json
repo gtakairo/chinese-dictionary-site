@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-97",
+  "chinese": "菜鳥",
+  "pinyin": "cài niǎo",
+  "meaning": "신입, 초보자, 풋내기",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "菜鳥員工",
+      "translation": "신입 직원"
+    },
+    {
+      "chinese": "當時全班同學，包括他，都是菜鳥 ！",
+      "translation": "당시 그를 포함한 반 전체가 초보자였어!"
+    },
+    {
+      "chinese": "我是菜鳥，請多指教。",
+      "translation": "저는 초보자입니다. 잘 부탁드립니다."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%a7%e3%80%81%e3%80%8c%e6%96%b0%e4%ba%ba%e3%80%8d%e3%80%81%e3%80%8c%e5%8f%a4%e6%a0%aa%e3%80%8d%e3%80%81%e3%80%8c%e3%82%b5%e3%83%9c%e3%82%8b%e3%80%8d%e3%81%af%e4%bd%95",
+  "sourceEnglish": "beginner, rookie"
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-282",
+  "chinese": "悶熱",
+  "pinyin": "mēnrè",
+  "meaning": "อบอ้าว, ร้อนอบอ้าว",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "今天好悶熱。",
+      "translation": "วันนี้อบอ้าวมาก"
+    },
+    {
+      "chinese": "台北的夏天很悶熱。",
+      "translation": "หน้าร้อนที่ไทเปอบอ้าวมาก"
+    },
+    {
+      "chinese": "這房間沒冷氣，太悶熱了。",
+      "translation": "ห้องนี้ไม่มีแอร์ ร้อนอบอ้าวมาก"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์อินเทอร์เน็ต",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%a7%e3%80%8c%e8%92%b8%e3%81%97%e6%9a%91%e3%81%84%e3%80%8d%e3%80%81%e3%80%8c%e7%8c%9b%e6%9a%91%e3%80%8d%e3%81%af%e4%bd%95%e3%81%a8%e8%a8%80%e3%81%86%ef%bc%9f",
+  "sourceEnglish": "hot and stuffy, humid"
+}

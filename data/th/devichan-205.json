@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-205",
+  "chinese": "掛在心裡",
+  "pinyin": "guà zài xīnlǐ",
+  "meaning": "คาใจ, ห่วงใย, ติดอยู่ในใจ",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "這件事我一直掛在心裡。",
+      "translation": "เรื่องนี้ติดอยู่ในใจฉันตลอด"
+    },
+    {
+      "chinese": "不要把煩惱掛在心裡。",
+      "translation": "อย่าเอาความกังวลมาคาใจ"
+    },
+    {
+      "chinese": "她的話讓我掛在心裡很久。",
+      "translation": "คำพูดของเธอทำให้ฉันติดใจนานมาก"
+    }
+  ],
+  "category": "chengyu",
+  "categoryName": "สำนวนจีน",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/728",
+  "sourceEnglish": "weigh on one's mind"
+}

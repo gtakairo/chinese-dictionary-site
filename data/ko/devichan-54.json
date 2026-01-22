@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-54",
+  "chinese": "說不準",
+  "pinyin": "shuōbuzhǔn",
+  "meaning": "확실히 말 못해, 말하기 어려워, 알 수 없어",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "說不準他會不會來。",
+      "translation": "그가 올지 안 올지 확실히 말 못해."
+    },
+    {
+      "chinese": "天氣說不準，還是帶把傘吧。",
+      "translation": "날씨가 알 수 없으니까 우산 챙기자."
+    },
+    {
+      "chinese": "這件事說不準，要看情況。",
+      "translation": "이 일은 확실히 말 못해, 상황에 따라 달라."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 신조어·속어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%a7%e3%80%8c%e4%b8%8d%e6%95%a2%e7%95%b6%e3%80%8d%e3%80%81%e3%80%8c%e8%aa%aa%e4%b8%8d%e6%ba%96%e3%80%8d%e3%81%a8%e3%81%af%ef%bc%9f",
+  "sourceEnglish": "can't say for certain, but"
+}

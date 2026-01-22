@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-47",
+  "chinese": "不會",
+  "pinyin": "bù huì",
+  "meaning": "ไม่เลย, ไม่หรอก, ไม่เป็นไร (คำตอบถ่อมตัว)",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "你中文說得很好！– 不會，還差得遠呢。",
+      "translation": "พูดจีนเก่งมาก! – ไม่เลย ยังห่างไกลอยู่"
+    },
+    {
+      "chinese": "謝謝你的幫忙！– 不會，應該的。",
+      "translation": "ขอบคุณที่ช่วยเหลือ! – ไม่เป็นไร ควรจะทำอยู่แล้ว"
+    },
+    {
+      "chinese": "麻煩你了！– 不會不會。",
+      "translation": "รบกวนนะ! – ไม่หรอกๆ"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์อินเทอร์เน็ต",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%ae%e7%9b%b8%e3%81%a5%e3%81%a1%e3%82%84%e7%ad%94%e3%81%88%e6%96%b9",
+  "sourceEnglish": "not at all"
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-85",
+  "chinese": "狗仔",
+  "pinyin": "gǒuzǎi",
+  "meaning": "파파라치",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "狗仔跟拍明星。",
+      "translation": "파파라치가 스타를 미행 촬영한다."
+    },
+    {
+      "chinese": "她被狗仔拍到了。",
+      "translation": "그녀가 파파라치에게 찍혔다."
+    },
+    {
+      "chinese": "狗仔無處不在，明星出門很小心。",
+      "translation": "파파라치가 어디든 있어서 스타들이 외출할 때 조심한다."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%a7%e3%80%8c%e5%aa%9a%e3%81%b3%e3%82%8b%e3%80%8d%e3%80%81%e3%80%8c%e3%83%91%e3%83%91%e3%83%a9%e3%83%83%e3%83%81%e3%80%8d%e3%81%af%e4%bd%95%e3%81%a8%e8%a8%80%e3%81%86",
+  "sourceEnglish": "paparazzi"
+}

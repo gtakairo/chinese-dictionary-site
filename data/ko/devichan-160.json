@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-160",
+  "chinese": "熬夜讀書／看書",
+  "pinyin": "áoyè dúshū／kànshū",
+  "meaning": "밤새 공부하다",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "考試前我熬夜讀書。",
+      "translation": "시험 전에 밤새 공부했어."
+    },
+    {
+      "chinese": "熬夜讀書對身體不好。",
+      "translation": "밤새 공부하면 몸에 안 좋아."
+    },
+    {
+      "chinese": "他常常熬夜看書。",
+      "translation": "그는 자주 밤새 책을 읽어."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%a7%e3%80%8c%e5%87%ba%e6%ac%a0%e3%82%92%e5%8f%96%e3%82%8b%e3%80%8d%e3%80%81%e3%80%8c%e5%be%b9%e5%a4%9c%e3%81%a7%e5%8b%89%e5%bc%b7%e3%81%99%e3%82%8b%e3%80%8d%e3%81%af",
+  "sourceEnglish": "all-nighter, sit up all night"
+}

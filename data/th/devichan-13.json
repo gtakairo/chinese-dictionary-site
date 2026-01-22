@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-13",
+  "chinese": "幫倒忙",
+  "pinyin": "bāng dào máng",
+  "meaning": "ช่วยแล้วทำให้แย่ลง, ยิ่งช่วยยิ่งพัง",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "你這樣做是幫倒忙，讓事情變得更糟了。",
+      "translation": "ที่คุณทำแบบนี้ยิ่งช่วยยิ่งพัง ทำให้เรื่องแย่ลงไปอีก"
+    },
+    {
+      "chinese": "謝謝你的好意，但請不要幫倒忙。",
+      "translation": "ขอบคุณที่หวังดี แต่อย่าช่วยให้แย่ลงเลยนะ"
+    },
+    {
+      "chinese": "他想幫我搬家，結果幫倒忙，打破了好幾個碗。",
+      "translation": "เขาอยากช่วยฉันย้ายบ้าน แต่กลับทำชามแตกไปหลายใบ"
+    }
+  ],
+  "category": "net",
+  "categoryName": "ศัพท์อินเทอร์เน็ต",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e2%91%ac%e5%b9%ab%e5%80%92%e5%bf%99%e3%80%81%e2%91%ad%e7%94%9f%e4%b8%8d%e5%a6%82%e6%ad%bb%e3%81%a8%e3%81%af%ef%bc%9f",
+  "sourceEnglish": "to be more of a hindrance than a help"
+}

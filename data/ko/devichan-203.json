@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-203",
+  "chinese": "挑剔",
+  "pinyin": "tiāotì",
+  "meaning": "까다롭다, 트집 잡다, 흠잡다",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "他對食物很挑剔。",
+      "translation": "그는 음식에 까다로워."
+    },
+    {
+      "chinese": "客人太挑剔了，很難服務。",
+      "translation": "손님이 너무 까다로워서 서비스하기 힘들어."
+    },
+    {
+      "chinese": "別太挑剔，差不多就好。",
+      "translation": "너무 트집 잡지 말고 대충 해."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%ae%e3%80%8c%e6%8c%91%e5%89%94%e3%80%8d%e3%80%81%e3%80%8c%e5%90%83%e5%8a%9b%e3%80%8d%e3%81%af%e3%81%a9%e3%82%93%e3%81%aa%e6%84%8f%e5%91%b3%ef%bc%9f",
+  "sourceEnglish": "nitpick"
+}

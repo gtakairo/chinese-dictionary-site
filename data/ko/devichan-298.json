@@ -1,0 +1,26 @@
+{
+  "slug": "devichan-298",
+  "chinese": "猜中",
+  "pinyin": "cāizhòng",
+  "meaning": "맞히다, 예상이 맞다",
+  "description": "",
+  "examples": [
+    {
+      "chinese": "這些客家謎語，你能猜中幾個？",
+      "translation": "이 객가 수수께끼 몇 개나 맞힐 수 있어?"
+    },
+    {
+      "chinese": "你猜中了！",
+      "translation": "네가 맞혔어!"
+    },
+    {
+      "chinese": "我猜中結局了。",
+      "translation": "나 결말 맞혔다."
+    }
+  ],
+  "category": "net",
+  "categoryName": "인터넷 용어",
+  "relatedWords": [],
+  "sourceUrl": "https://www.devichan-chigoworld.com/use-china/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%a7%e3%80%8c%e8%a8%80%e3%81%84%e5%bd%93%e3%81%a6%e3%82%8b%e3%80%8d%e3%80%81%e3%80%8c%e4%ba%88%e6%83%b3%e3%81%8c%e5%bd%93%e3%81%9f%e3%82%8b%e3%80%8d%e3%81%af%e4%bd%95",
+  "sourceEnglish": "guess right, that's what I thought, just as I expected,"
+}
