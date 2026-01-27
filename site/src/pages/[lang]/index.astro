@@ -40,7 +40,7 @@ const subtitles: Record<string, string> = {
 };
 ---
 
-<Layout title={titles[lang] || titles.en} lang={lang}>
+<Layout title={titles[lang] || titles.en} lang={lang} canonical={`/${lang}/`}>
   <!-- Hero Section -->
   <div class="text-center mb-12">
     <h1 class="text-4xl font-bold text-gray-900 mb-4">

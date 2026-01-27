@@ -18,14 +18,15 @@ const {
   description = 'Modern Chinese Dictionary - Learn Chinese slang and internet terms',
   lang = 'en',
   canonical,
-  ogImage = '/og-default.svg',
+  ogImage = '/og-default.png',
   ogType = 'website',
   keywords,
   structuredData,
 } = Astro.props;
 
-const currentUrl = canonical ? `https://chinesedict.com${canonical}` : Astro.url.href;
-const ogImageUrl = ogImage.startsWith('http') ? ogImage : `https://chinesedict.com${ogImage}`;
+const siteUrl = 'https://chinese-dic.org';
+const currentUrl = canonical ? `${siteUrl}${canonical}` : Astro.url.href;
+const ogImageUrl = ogImage.startsWith('http') ? ogImage : `${siteUrl}${ogImage}`;
 const languages = [
   { code: 'en', name: 'English', flag: '🇺🇸' },
   { code: 'ko', name: '한국어', flag: '🇰🇷' },
@@ -77,27 +78,27 @@ const languages = [
           <link
             rel="alternate"
             hreflang="en"
-            href={`https://chinesedict.com${canonical.replace(/\/(ja|ko|th)\//, '/en/')}`}
+            href={`${siteUrl}${canonical.replace(/\/(ja|ko|th)\//, '/en/')}`}
           />
           <link
             rel="alternate"
             hreflang="ja"
-            href={`https://chinesedict.com${canonical.replace(/\/(en|ko|th)\//, '/ja/')}`}
+            href={`${siteUrl}${canonical.replace(/\/(en|ko|th)\//, '/ja/')}`}
           />
           <link
             rel="alternate"
             hreflang="ko"
-            href={`https://chinesedict.com${canonical.replace(/\/(en|ja|th)\//, '/ko/')}`}
+            href={`${siteUrl}${canonical.replace(/\/(en|ja|th)\//, '/ko/')}`}
           />
           <link
             rel="alternate"
             hreflang="th"
-            href={`https://chinesedict.com${canonical.replace(/\/(en|ja|ko)\//, '/th/')}`}
+            href={`${siteUrl}${canonical.replace(/\/(en|ja|ko)\//, '/th/')}`}
           />
           <link
             rel="alternate"
             hreflang="x-default"
-            href={`https://chinesedict.com${canonical.replace(/\/(ja|ko|th)\//, '/en/')}`}
+            href={`${siteUrl}${canonical.replace(/\/(ja|ko|th)\//, '/en/')}`}
           />
         </>
       )
@@ -169,7 +170,11 @@ const languages = [
             aria-expanded="false"
           >
             <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M4 6h16M4 12h16M4 18h16"></path>
             </svg>
           </button>
         </div>
@@ -177,7 +182,12 @@ const languages = [
     </header>
 
     <!-- Mobile Menu Overlay -->
-    <div id="mobile-menu-overlay" class="fixed inset-0 bg-black/50 z-40 hidden md:hidden" aria-hidden="true"></div>
+    <div
+      id="mobile-menu-overlay"
+      class="fixed inset-0 bg-black/50 z-40 hidden md:hidden"
+      aria-hidden="true"
+    >
+    </div>
 
     <!-- Mobile Menu Drawer -->
     <div
@@ -195,7 +205,11 @@ const languages = [
             aria-label="Close menu"
           >
             <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M6 18L18 6M6 6l12 12"></path>
             </svg>
           </button>
         </div>

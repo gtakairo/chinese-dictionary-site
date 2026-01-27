@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://chinesedict.com/sitemap.xml
+Sitemap: https://chinese-dic.org/sitemap.xml
 
 # Crawl delay (optional)
 # Crawl-delay: 1

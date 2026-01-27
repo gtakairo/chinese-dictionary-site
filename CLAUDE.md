@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Multilingual Chinese dictionary site that scrapes word data from chineself.com (Japanese) and translates it to English, Korean, and Thai. Built with Astro SSG and hosted on S3 + CloudFront.
+Multilingual Chinese dictionary site that scrapes word data from chineself.com (Japanese) and translates it to English, Korean, and Thai. Built with Astro SSG and hosted on Cloudflare Pages.
 
 ## Development Commands
 
@@ -92,4 +92,4 @@ interface WordEntry {
 ## CI/CD
 
 - `ci.yml`: Runs lint, format check, and build on PRs and main pushes
-- `deploy.yml`: Builds and deploys to S3 + CloudFront on main push
+- Deploy is handled automatically by Cloudflare Pages on push to main
